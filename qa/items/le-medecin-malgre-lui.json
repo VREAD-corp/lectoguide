@@ -1,0 +1,79 @@
+{
+  "set": "lectoguide/le-medecin-malgre-lui",
+  "coldGate": "summary",
+  "title": "Le Médecin malgré lui",
+  "author": "Molière",
+  "language": "fr",
+  "units": [
+    {
+      "id": "acte1",
+      "label": "Acte I",
+      "file": "../../sources/le-medecin-malgre-lui/01.txt",
+      "summary": "Dans une forêt, Sganarelle, faiseur de fagots, qui boit et vend les meubles du ménage, se dispute avec sa femme Martine et la bat à coups de bâton. Leur voisin M. Robert tente de s’interposer et se fait rabrouer par les deux époux. Restée seule, Martine cherche à se venger. Elle rencontre Valère et Lucas, envoyés par leur maître Géronte chercher un médecin pour sa fille, devenue muette, et leur présente Sganarelle comme un médecin génial qui n’avoue son talent que sous les coups. Les deux hommes trouvent Sganarelle en train de boire et de chanter, le battent jusqu’à ce qu’il se dise médecin, et l’emmènent en lui promettant d’être bien payé."
+    },
+    {
+      "id": "acte2",
+      "label": "Acte II",
+      "file": "../../sources/le-medecin-malgre-lui/02.txt",
+      "summary": "Chez Géronte, la nourrice Jacqueline, femme de Lucas, affirme qu’un mari aimé guérirait mieux Lucinde que les médecins : la jeune fille aime Léandre, que son père refuse parce qu’il n’a pas encore de fortune. Sganarelle arrive en robe de médecin, bat Géronte à son tour, puis tente d’embrasser Jacqueline sous les yeux de Lucas. Il examine Lucinde, qui ne répond que par des sons, et explique sa maladie par un discours plein de faux latin, avant de prescrire un remède absurde. Il accepte l’argent de Géronte en faisant mine de le refuser. Léandre lui révèle enfin que la maladie de Lucinde est une feinte pour échapper à un mariage, et obtient son aide en lui donnant une bourse."
+    },
+    {
+      "id": "acte3",
+      "label": "Acte III",
+      "file": "../../sources/le-medecin-malgre-lui/03.txt",
+      "summary": "Léandre se déguise en apothicaire, et Sganarelle lui avoue qu’il ne connaît rien à la médecine mais trouve ce métier excellent. Il reçoit des paysans, Thibaut et son fils Perrin, venus le consulter pour la mère de Perrin, malade, et leur donne un remède contre deux écus. Pendant qu’il occupe Géronte par un discours savant, Lucinde parle avec Léandre et retrouve la parole : elle refuse avec force d’épouser Horace, le prétendant choisi par son père. Sganarelle envoie les jeunes gens au jardin, et Lucas annonce qu’ils se sont enfuis ensemble ; Géronte fait appeler un commissaire, Lucas promet la potence au faux médecin, et Martine arrive. Léandre revient avec Lucinde, annonce qu’il hérite de son oncle et obtient la main de la jeune fille ; Sganarelle pardonne à Martine les coups de bâton qui l’ont fait médecin."
+    }
+  ],
+  "items": [
+    {
+      "id": "q1",
+      "unit": "acte1",
+      "type": "word",
+      "question": "Selon Martine, quelle pièce de vêtement portée au cou permet de reconnaître Sganarelle ?",
+      "answer": "fraise",
+      "evidence": [
+        "c’est un homme qui a une large barbe noire, et qui porte une fraise, avec un habit jaune et vert."
+      ]
+    },
+    {
+      "id": "q2",
+      "unit": "acte1",
+      "type": "word",
+      "question": "D’où était tombé l’enfant de douze ans que Sganarelle aurait guéri, d’après Martine ?",
+      "answer": "clocher",
+      "evidence": [
+        "un jeune enfant de douze ans tomba du haut du clocher en bas, et se brisa sur le pavé la tête"
+      ]
+    },
+    {
+      "id": "q3",
+      "unit": "acte2",
+      "type": "word",
+      "question": "Quels oiseaux, selon Sganarelle, apprennent à parler grâce à la nourriture qu’il prescrit ?",
+      "answer": "perroquets",
+      "evidence": [
+        "Ne voyez-vous pas bien qu’on ne donne autre chose aux perroquets, et qu’ils apprennent à parler en mangeant de cela ?"
+      ]
+    },
+    {
+      "id": "q4",
+      "unit": "acte3",
+      "type": "word",
+      "question": "Quel aliment Sganarelle remet-il à Perrin comme remède pour sa mère malade ?",
+      "answer": "fromage",
+      "evidence": [
+        "Tenez, voilà un morceau de fromage qu’il faut que vous lui fassiez prendre."
+      ]
+    },
+    {
+      "id": "q5",
+      "unit": "acte3",
+      "type": "word",
+      "question": "Où Lucinde dit-elle qu’elle ira plutôt que d’épouser un homme qu’elle n’aime pas ?",
+      "answer": "couvent",
+      "evidence": [
+        "Et je me jetterai plutôt dans un couvent que d’épouser un homme que je n’aime point."
+      ]
+    }
+  ]
+}

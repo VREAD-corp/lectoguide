@@ -1,0 +1,19 @@
+{
+  "name": "lectoguide",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Lectoguide par READ FRANCE : fiches de lecture gratuites des œuvres du domaine public au programme (bac de français, collège), prérendues avec le moteur SEO extrait de chapter-coffee-club.",
+  "type": "module",
+  "license": "SEE LICENSE IN LICENSE",
+  "author": "READ FRANCE SAS",
+  "scripts": {
+    "build": "tsx build.ts",
+    "test": "tsx build.ts && node --import tsx --test tests/*.test.ts",
+    "qa": "node scripts/qa-all.mjs",
+    "e2e": "tsx build.ts && node tests/e2e.mjs"
+  },
+  "devDependencies": {
+    "playwright": "1.64.0",
+    "tsx": "4.23.15"
+  }
+}

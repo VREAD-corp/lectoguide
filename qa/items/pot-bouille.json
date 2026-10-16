@@ -1,0 +1,169 @@
+{
+  "set": "lectoguide/pot-bouille",
+  "coldGate": "summary",
+  "title": "Pot-Bouille",
+  "author": "Émile Zola",
+  "language": "fr",
+  "units": [
+    {
+      "id": "ch01",
+      "label": "Chapitre I",
+      "file": "../../sources/pot-bouille/01.txt",
+      "summary": "Un après-midi de novembre, Octave Mouret, vingt-deux ans, arrive de Plassans rue de Choiseul, où l’architecte Campardon lui a loué une chambre au quatrième étage d’une maison neuve et cossue. En montant l’escalier, Campardon lui présente les locataires : le propriétaire M. Vabre, ancien notaire de Versailles, ses fils, son gendre Duveyrier, Mme Juzeur, les Josserand, les Pichon. Octave retrouve Mme Campardon, souffrante depuis ses couches, et fait la connaissance de leur fille Angèle. Campardon lui obtient une place de commis au Bonheur des Dames, chez Mme Hédouin, où Octave surprend l’architecte en train d’embrasser Gasparine, la cousine de sa femme. Le soir, dans l’escalier, il croise Mme Josserand et ses deux filles."
+    },
+    {
+      "id": "ch02",
+      "label": "Chapitre II",
+      "file": "../../sources/pot-bouille/02.txt",
+      "summary": "Le même soir, Mme Josserand rentre furieuse d’une soirée chez Mme Dambreville avec ses filles Hortense et Berthe : Berthe vient de manquer un quatrième mariage. M. Josserand, caissier dans une cristallerie, passe ses nuits à remplir des bandes pour un éditeur afin de soutenir le train de la maison. Les époux se querellent sur l’argent, sur leurs familles et sur l’oncle Bachelard, frère de Mme Josserand, qui a promis une dot à Berthe. Hortense déclare qu’elle épousera l’avocat Verdier, qui vit pourtant depuis quinze ans avec une autre femme. La mère apprend à Berthe comment attirer un homme, puis la gifle ; Saturnin, le fils resté enfant après une fièvre cérébrale, console sa sœur."
+    },
+    {
+      "id": "ch03",
+      "label": "Chapitre III",
+      "file": "../../sources/pot-bouille/03.txt",
+      "summary": "Le lendemain, au dîner donné pour la fête de l’oncle Bachelard, Hortense et Berthe le font boire et finissent par fouiller ses poches pour lui prendre une pièce de vingt francs. Saturnin, furieux à l’idée qu’on marie sa sœur, menace les invités avec un couteau et doit être enfermé. Pendant la soirée, Berthe joue du piano et montre une coupe peinte de sa main pour séduire Octave ; celui-ci se lie avec Trublot et remarque Valérie, la femme de Théophile Vabre. Quand elle entend Octave déclarer qu’il ne se mariera pas, Mme Josserand pousse sa fille vers Auguste Vabre, le fils aîné du propriétaire."
+    },
+    {
+      "id": "ch04",
+      "label": "Chapitre IV",
+      "file": "../../sources/pot-bouille/04.txt",
+      "summary": "Octave entreprend de séduire Valérie, que les Campardon lui décrivent comme une femme malade des nerfs, de conduite légère. Pour s’assurer le silence de ses voisins, il rend service à Marie Pichon, jeune femme effacée, élevée dans l’ignorance par ses parents, les Vuillaume, et lui prête un roman de George Sand. Un soir, appelé par la bonne de Valérie pendant une crise de nerfs, il veut prendre la jeune femme dans ses bras et se heurte à sa froideur. En remontant, il trouve Marie bouleversée par sa lecture : elle lui donne un baiser maladroit, et il la possède au bord de la table, sans qu’elle y prenne de plaisir."
+    },
+    {
+      "id": "ch05",
+      "label": "Chapitre V",
+      "file": "../../sources/pot-bouille/05.txt",
+      "summary": "Les Duveyrier donnent une soirée avec concert au premier étage. Mme Josserand n’a obtenu de l’oncle Bachelard qu’une lettre sans engagement, mais elle lance quand même Berthe sur Auguste Vabre. Pendant le grand chœur dirigé au piano par Clotilde Duveyrier, Hortense laisse retomber un rideau qui cache Berthe et Auguste dans l’embrasure d’une fenêtre ; un cri de Berthe attire tous les regards et le mariage passe pour décidé. Mme Josserand annonce une dot de cinquante mille francs qu’elle n’a pas. Octave, attiré par Mme Hédouin, ramasse une rose tombée de son corsage ; en rentrant, Marie croit que la fleur est pour elle."
+    },
+    {
+      "id": "ch06",
+      "label": "Chapitre VI",
+      "file": "../../sources/pot-bouille/06.txt",
+      "summary": "Un dimanche de pluie, Octave monte au grenier chercher des livres pour Marie et découvre l’étage des domestiques, où Trublot sort de la chambre de Julie, la cuisinière des Duveyrier. Par la fenêtre ouverte sur la petite cour intérieure, il entend les bonnes commenter crûment la vie de leurs maîtres. Il aperçoit ensuite une dame voilée qui quitte la chambre louée par un monsieur venant une nuit par semaine, puis échoue auprès de Mme Juzeur, qui ne lui abandonne que sa main. Le soir, après un dîner chez les Pichon, une dispute éclate dans la cour : M. Vabre et le concierge refusent que le menuisier logé sous les toits fasse entrer sa femme, et le propriétaire lui donne congé."
+    },
+    {
+      "id": "ch07",
+      "label": "Chapitre VII",
+      "file": "../../sources/pot-bouille/07.txt",
+      "summary": "Pour obtenir la dot, les Josserand relancent l’oncle Bachelard, qui se dérobe et leur conseille de faire état d’une ancienne assurance dotale dont ils ne toucheront rien. Avant une soirée, Bachelard emmène Octave chez Fifi, une jeune brodeuse qu’il entretient rue Saint-Marc, sous la garde de sa tante, Mlle Menu. La soirée se termine chez Clarisse, la maîtresse de Duveyrier, où l’oncle obtient du conseiller que la dot soit versée par tranches de dix mille francs tous les six mois. Le contrat est signé chez le notaire Renaudin, et le soir même Saturnin est emmené de force dans un asile."
+    },
+    {
+      "id": "ch08",
+      "label": "Chapitre VIII",
+      "file": "../../sources/pot-bouille/08.txt",
+      "summary": "Le mariage religieux de Berthe et d’Auguste a lieu un samedi de mai à Saint-Roch. Le matin même, Théophile trouve une lettre d’amant destinée à Valérie et accuse Octave ; dans l’église, pendant la cérémonie, Octave lui démontre que l’écriture n’est pas la sienne, et toute l’assistance suit l’incident. Le soir, au bal, Théophile tord le bras de sa femme, qui fait une longue crise de nerfs. Les dames lui font croire que la lettre appartenait à une bonne renvoyée, et le couple se réconcilie. En fin de soirée, l’oncle Bachelard, ivre, fait scandale par une danse indécente."
+    },
+    {
+      "id": "ch09",
+      "label": "Chapitre IX",
+      "file": "../../sources/pot-bouille/09.txt",
+      "summary": "Rose Campardon se réconcilie avec sa cousine Gasparine, qui s’installe bientôt chez eux, à la grande satisfaction de l’architecte. Marie apprend à Octave qu’elle est enceinte de cinq mois, ce qui fâche ses parents ; Octave, qui compte les mois et se croit peut-être le père, emmène le ménage dîner au restaurant. Octave tente de séduire Mme Hédouin, dont le mari est malade, est repoussé et quitte le Bonheur des Dames. L’abbé Mauduit lui fait visiter les travaux du Calvaire de Saint-Roch. Le soir, Auguste Vabre lui propose une place dans son magasin de soieries."
+    },
+    {
+      "id": "ch10",
+      "label": "Chapitre X",
+      "file": "../../sources/pot-bouille/10.txt",
+      "summary": "Clotilde Duveyrier fait essayer sa voix à Octave quand on vient lui annoncer que son père, M. Vabre, s’est effondré sur ses fiches. Elle envoie Octave chercher son mari chez sa maîtresse. Pendant ce temps, Duveyrier a dîné dans un grand restaurant avec Bachelard, Trublot et Gueulin ; arrivé rue de la Cerisaie, il découvre que Clarisse est partie en vidant l’appartement de tous ses meubles. Octave le ramène chez lui, où il se dit prêt à se réconcilier avec sa femme, au chevet du vieillard mourant."
+    },
+    {
+      "id": "ch11",
+      "label": "Chapitre XI",
+      "file": "../../sources/pot-bouille/11.txt",
+      "summary": "Toute la maison spécule sur l’héritage de M. Vabre, qui meurt le lendemain sans avoir pu parler ni écrire. Le jour de l’enterrement, Mme Juzeur refuse encore à Octave tout sauf des caresses, et une jeune piqueuse de bottines emménage sous les toits. La famille découvre ensuite qu’il n’y a ni testament ni fortune : le vieillard avait tout perdu en spéculations à la Bourse et hypothéqué la maison. Celle-ci est mise en vente, et Duveyrier se la fait adjuger à bas prix grâce à son notaire, ce qui provoque une brouille violente entre les héritiers."
+    },
+    {
+      "id": "ch12",
+      "label": "Chapitre XII",
+      "file": "../../sources/pot-bouille/12.txt",
+      "summary": "Saturnin, renvoyé de l’asile, vient vivre chez Berthe et travaille au magasin. Le ménage se défait vite : Berthe, dépensière, fait des dettes et se querelle sans cesse avec Auguste, méticuleux et migraineux. Octave, amoureux d’elle, gagne la confiance du mari, offre à Berthe une parure et paie certaines de ses factures. Un samedi, après une dispute où Berthe réclame cinq cents francs par mois pour sa toilette, Auguste envoie Octave la calmer : enfermés dans la chambre, ils deviennent amants, tandis que Saturnin garde la porte."
+    },
+    {
+      "id": "ch13",
+      "label": "Chapitre XIII",
+      "file": "../../sources/pot-bouille/13.txt",
+      "summary": "Le concierge, M. Gourd, surveille la maison, obsédé par la grossesse de la piqueuse de bottines. Une nuit où Auguste est à Lyon, Berthe monte chez Octave et y reste jusqu’au jour ; en rentrant, elle trouve sa bonne, Rachel, debout devant le lit resté intact, et achète son silence avec vingt francs et une robe. Plus tard, Octave attend Berthe toute une nuit dans la chambre de Rachel ; il y apprend de Trublot que Duveyrier couche avec Adèle. Au matin, quand Berthe le rejoint, tous deux entendent les bonnes étaler leur liaison dans la cour intérieure ; Octave apprend aussi par elles la mort de M. Hédouin. Le 8 octobre, la piqueuse de bottines quitte la maison."
+    },
+    {
+      "id": "ch14",
+      "label": "Chapitre XIV",
+      "file": "../../sources/pot-bouille/14.txt",
+      "summary": "Après s’être confessée à l’abbé Mauduit, Berthe accepte un nouveau rendez-vous, un mardi où Auguste doit partir pour Lyon. Ce soir-là, Octave reprend d’abord Marie, qui a accouché en septembre d’une deuxième fille. Quand Berthe arrive, les amants se disputent à propos d’un châle et d’argent ; Auguste force la porte et les deux hommes échangent des gifles. Berthe s’enfuit en chemise dans l’escalier ; les Campardon refusent de la garder, et c’est Marie qui la recueille."
+    },
+    {
+      "id": "ch15",
+      "label": "Chapitre XV",
+      "file": "../../sources/pot-bouille/15.txt",
+      "summary": "Le lendemain, Auguste annonce qu’il veut se battre et part en fiacre chercher Duveyrier pour en faire son témoin. Sa course le conduit chez Fifi, où Bachelard vient de surprendre la jeune fille avec Gueulin, puis chez Clarisse, installée rue d’Assas avec toute sa famille. Au fil d’un long déjeuner, le duel est abandonné, et Octave accepte simplement de quitter la maison. Mme Hédouin, devenue veuve, le reprend au Bonheur des Dames, et il croise Valérie à Saint-Roch. Le soir, Saturnin se jette sur Auguste avec un couteau et retourne à l’asile."
+    },
+    {
+      "id": "ch16",
+      "label": "Chapitre XVI",
+      "file": "../../sources/pot-bouille/16.txt",
+      "summary": "Berthe se réfugie chez ses parents, où sa mère la cache dans la chambre d’Hortense. Mme Dambreville vient supplier Mme Josserand de lui rendre Léon, qui veut épouser sa nièce. Auguste monte accuser les Josserand de l’avoir trompé sur la dot et refuse de reprendre sa femme. Restée seule avec ses parents, Berthe reproche à sa mère l’éducation qu’elle lui a donnée et reçoit une gifle. M. Josserand, à bout de forces, s’effondre dans sa chambre."
+    },
+    {
+      "id": "ch17",
+      "label": "Chapitre XVII",
+      "file": "../../sources/pot-bouille/17.txt",
+      "summary": "Au printemps, Octave, de nouveau au Bonheur des Dames, devient l’homme de confiance de Mme Hédouin, qui lui parle de remariage. Duveyrier propose que Berthe soit reprise contre le paiement de la dot, mais l’abbé Mauduit échoue à négocier, et l’oncle Bachelard, qui a marié Fifi à Gueulin, ne paie toujours rien. M. Josserand meurt ; au retour du cimetière, Auguste reprend Berthe. Le même jour, Duveyrier, chassé par Clarisse, se tire une balle et se rate, Marie accouche d’une troisième fille et Rachel, renvoyée, insulte ses maîtres dans l’escalier. Octave et Mme Hédouin décident de se marier, tandis que l’abbé Mauduit, seul devant le Calvaire achevé, doute de lui-même."
+    },
+    {
+      "id": "ch18",
+      "label": "Chapitre XVIII",
+      "file": "../../sources/pot-bouille/18.txt",
+      "summary": "En décembre, Adèle, enceinte sans que personne s’en soit aperçu, accouche seule dans sa chambre de bonne et abandonne l’enfant dans un passage voisin. Le soir, chez les Duveyrier, la famille réunie fait comme si rien ne s’était passé : Octave, marié en novembre à Mme Hédouin, vient avec sa femme malgré la colère d’Auguste. Duveyrier, la mâchoire déviée par sa blessure, raconte qu’il a fait condamner pour infanticide l’ancienne piqueuse de bottines. On chante de nouveau la Bénédiction des Poignards, avec Octave parmi les ténors. Le lendemain, les bonnes commentent la soirée dans la cour intérieure."
+    }
+  ],
+  "items": [
+    {
+      "id": "q1",
+      "unit": "ch01",
+      "type": "word",
+      "question": "Chez quel duc le concierge de l’immeuble a-t-il servi autrefois comme valet de chambre ?",
+      "answer": "Vaugelade",
+      "evidence": [
+        "— Vous savez, c’est l’ancien valet de chambre du duc de Vaugelade."
+      ]
+    },
+    {
+      "id": "q2",
+      "unit": "ch06",
+      "type": "word",
+      "question": "Quel parfum la dame voilée qui sort de la chambre du monsieur du troisième laisse-t-elle dans l’escalier ?",
+      "answer": "verveine",
+      "evidence": [
+        "Mais elle filait avec une légèreté inquiète, effleurant à peine la moquette de ses petites bottines, ne laissant d’autre trace, dans la maison, qu’un parfum évaporé de verveine."
+      ]
+    },
+    {
+      "id": "q3",
+      "unit": "ch10",
+      "type": "word",
+      "question": "De quel compositeur est l’air que Clotilde Duveyrier fait déchiffrer à Octave pour essayer sa voix ?",
+      "answer": "Grétry",
+      "evidence": [
+        "Elle avait choisi un morceau de Zémire et Azor, de Grétry."
+      ]
+    },
+    {
+      "id": "q4",
+      "unit": "ch14",
+      "type": "word",
+      "question": "De quelle dentelle bon marché est fait le châle qu’Octave a acheté pour Berthe ?",
+      "answer": "lama",
+      "evidence": [
+        "— Comment ! ce n’est pas du chantilly, c’est du lama !"
+      ]
+    },
+    {
+      "id": "q5",
+      "unit": "ch18",
+      "type": "word",
+      "question": "Dans quoi Adèle plie-t-elle son nouveau-né, après l’avoir enveloppé de vieux linge ?",
+      "answer": "journaux",
+      "evidence": [
+        "Après s’être habillée, elle enveloppa l’enfant de vieux linge, puis le plia dans deux journaux."
+      ]
+    }
+  ]
+}

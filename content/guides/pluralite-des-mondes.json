@@ -1,0 +1,195 @@
+{
+  "slug": "pluralite-des-mondes",
+  "title": "Entretiens sur la pluralité des mondes",
+  "author": "Bernard Le Bouyer de Fontenelle",
+  "authorDates": "1657-1757",
+  "published": "1686",
+  "genre": "dialogue (littérature d’idées)",
+  "programme": "bac",
+  "level": "Première, voies générale et technologique",
+  "programmeNote": "Œuvre inscrite au programme du baccalauréat de français pour l’épreuve anticipée de juin 2027 (session 2028) par la note de service MENE2518792N du 4 juillet 2025 (BO n° 30 du 24 juillet 2025), objet d’étude « littérature d’idées », voies générale et technologique. Pour la voie technologique, le programme se limite aux Premier, Second et Troisième soirs.",
+  "source": {
+    "label": "Wikisource, d’après l’édition Leroy, Lyon, 1800",
+    "url": "https://fr.wikisource.org/wiki/Entretiens_sur_la_pluralit%C3%A9_des_mondes",
+    "licence": "Transcription Wikisource, CC BY-SA 4.0"
+  },
+  "words": 37148,
+  "units": [
+    {
+      "id": "preface",
+      "label": "Préface et épître à Monsieur L…",
+      "file": "sources/pluralite-des-mondes/01.txt",
+      "words": 1998,
+      "summary": "Fontenelle se compare à Cicéron, qui fit passer la philosophie du grec au latin, et explique qu’il a voulu traiter la philosophie d’une manière qui ne soit pas philosophique, pour plaire aux gens du monde sans ennuyer les savants. Il a mis en scène une femme qu’on instruit et ne demande à ses lectrices que l’attention qu’exige La Princesse de Clèves. Il répond d’avance à l’objection religieuse : les habitants qu’il imagine dans la Lune ne sont pas des hommes. Dans l’épître qui suit, le narrateur annonce à un ami le récit de son séjour d’automne chez la Marquise de G***, divisé par soirs, car leurs entretiens n’avaient lieu que le soir."
+    },
+    {
+      "id": "soir1",
+      "label": "Premier soir",
+      "file": "sources/pluralite-des-mondes/02.txt",
+      "words": 6495,
+      "summary": "Après souper, dans le parc, sous la lune, le narrateur avoue à la Marquise sa folie : chaque étoile pourrait être un monde. Elle exige qu’il s’explique. Il présente la philosophie comme l’art de deviner ce qu’on ne voit pas, puis expose le système de Ptolémée, avec ses cercles et ses cieux de cristal, et celui de Copernic, qui place le Soleil au centre et fait tourner la Terre sur elle-même et autour de lui. La Marquise objecte qu’on ne sent pas ce mouvement et qu’on devrait changer d’air ; il répond par des comparaisons. En rentrant, ils écartent le système de Tycho Brahé et s’en tiennent à Copernic."
+    },
+    {
+      "id": "soir2",
+      "label": "Second soir",
+      "file": "sources/pluralite-des-mondes/03.txt",
+      "words": 6239,
+      "summary": "Le lendemain soir, le narrateur soutient que la Lune est une terre, sans doute habitée : comme la Terre, c’est un corps solide qui renvoie la lumière du Soleil. Il explique pourquoi elle nous montre toujours la même face, comment ses habitants voient les phases de la Terre, et ce que sont les éclipses, dont il raille les peurs chez divers peuples. Il raconte le voyage d’Astolfe dans la Lune chez l’Arioste. Il précise qu’il ne croit pas qu’il y ait des hommes dans la Lune, mais des habitants très différents, imagine qu’on volera peut-être un jour jusque-là, comme les Européens ont fini par atteindre l’Amérique, puis avoue qu’il voulait surtout montrer qu’on peut défendre habilement une idée chimérique."
+    },
+    {
+      "id": "soir3",
+      "label": "Troisième soir",
+      "file": "sources/pluralite-des-mondes/04.txt",
+      "words": 5917,
+      "summary": "Le narrateur inquiète la Marquise : les taches de la Lune ne changent jamais, elle n’a donc peut-être ni nuages ni eaux. Il la repeuple en lui supposant un air différent du nôtre, et imagine ce qui y manque (aurore, crépuscule, arc-en-ciel) ainsi que des habitants réfugiés dans de grands creux. Passant à Vénus, il pose un principe simple : rien n’autorise à croire que les autres planètes, semblables à la Terre, soient désertes. Il invoque les animaux invisibles révélés par les lunettes, montre que la nature varie tout à l’infini, et termine par la description d’un peuple étrange dont il révèle à la fin qu’il vit sur notre Terre."
+    },
+    {
+      "id": "soir4",
+      "label": "Quatrième soir",
+      "file": "sources/pluralite-des-mondes/05.txt",
+      "words": 6213,
+      "summary": "Les rêves de la Marquise n’ont rien donné, et le voyage reprend de planète en planète. Vénus, plus proche du Soleil, aurait des habitants très portés à l’amour, Mercure des habitants fous de vivacité ; le Soleil, couvert de taches, ne peut être habité. Mars n’a rien de curieux, mais Jupiter et ses quatre lunes amènent l’explication des tourbillons de Descartes. Saturne, avec ses cinq lunes et son anneau, est glacé et ses habitants flegmatiques. La Marquise se félicite d’habiter la planète la plus tempérée, et le narrateur promet pour le lendemain les étoiles fixes."
+    },
+    {
+      "id": "soir5",
+      "label": "Cinquième soir",
+      "file": "sources/pluralite-des-mondes/06.txt",
+      "words": 5433,
+      "summary": "Les étoiles fixes, trop lointaines pour briller de la lumière du Soleil, sont elles-mêmes des soleils, et chacune pourrait éclairer un monde au centre de son tourbillon. La Marquise se sent perdue dans cet univers immense, le narrateur s’y sent plus libre. Il décrit la Voie de lait comme une foule de petits mondes très serrés, explique que les comètes sont des planètes venues d’un tourbillon voisin, puis que des soleils peuvent s’éteindre et d’autres naître. La Marquise se déclare savante. Une courte note de l’auteur annonce un dernier entretien, venu longtemps après."
+    },
+    {
+      "id": "soir6",
+      "label": "Sixième soir",
+      "file": "sources/pluralite-des-mondes/07.txt",
+      "words": 4853,
+      "summary": "Longtemps après, le narrateur retrouve la Marquise, qui vient de défendre les habitants des planètes devant deux visiteurs. Il lui conseille de ne pas exposer ces idées à des gens qui ne raisonnent pas, et situe leur degré de certitude : un peu au-dessous de l’existence d’Alexandre, au-dessus de bien des faits historiques mal prouvés. Il donne une nouvelle preuve du mouvement de la Terre, évoque les changements observés sur la Lune, la Terre, Jupiter et Mars, et une lumière blanchâtre qui entourerait le Soleil. Il finit sur des observations lointaines d’étoiles tombées du ciel, qu’il accueille avec ironie, et sur l’éloge de l’esprit européen."
+    }
+  ],
+  "intro": [
+    "Bernard Le Bouyer de Fontenelle (1657-1757) publie en 1686 les Entretiens sur la pluralité des mondes. Dans une épître à un ami, le narrateur raconte les conversations qu’il a eues le soir, dans le parc d’un château, avec une marquise qui ne connaît rien aux sciences. Il lui expose le système de Copernic, puis l’hypothèse que la Lune, les planètes et les mondes des autres étoiles pourraient être habités. La physique est celle de Descartes et de ses tourbillons de matière céleste. Le Sixième soir a été ajouté après coup, comme l’annonce la note qui clôt le Cinquième.",
+    "Pour l’objet d’étude « littérature d’idées », le livre est un modèle de vulgarisation : Fontenelle veut, dit-il dans la préface, traiter la philosophie d’une manière qui ne soit pas philosophique. Observez comment le dialogue fait avancer le savoir : les objections de la Marquise, les comparaisons tirées de la vie courante (une montre, un bateau, Paris et Saint-Denis), le ton galant, l’humour. Distinguez ce que le narrateur présente comme établi de ce qu’il donne comme conjecture ou comme jeu. Certaines connaissances sont datées (les tourbillons, le compte des planètes, les habitants des astres) : lisez-les comme l’état des savoirs et des débats à la fin du XVIIe siècle."
+  ],
+  "characters": [
+    {
+      "name": "Le narrateur",
+      "role": "philosophe galant qui raconte les entretiens ; il explique, plaisante et reconnaît volontiers la part de conjecture."
+    },
+    {
+      "name": "La Marquise de G***",
+      "role": "jeune femme d’esprit sans culture scientifique, qui comprend vite, objecte et tire elle-même des conclusions."
+    },
+    {
+      "name": "Monsieur L…",
+      "role": "ami à qui le narrateur adresse le récit dans l’épître liminaire."
+    },
+    {
+      "name": "Copernic",
+      "role": "astronome dont le système place le Soleil au centre (Premier soir)."
+    },
+    {
+      "name": "Descartes",
+      "role": "philosophe des tourbillons, sur lesquels repose toute la physique du livre."
+    },
+    {
+      "name": "Tycho Brahé",
+      "role": "auteur d’un troisième système, où la Terre reste immobile (Premier et Quatrième soirs)."
+    },
+    {
+      "name": "Astolfe",
+      "role": "paladin de l’Arioste qui va chercher dans la Lune l’esprit perdu de Roland (Second soir)."
+    }
+  ],
+  "passages": [
+    {
+      "unit": "soir1",
+      "ref": "Premier soir",
+      "title": "Deux fondements de la philosophie",
+      "quote": "Toute la philosophie, lui dis-je, n’est fondée que sur deux choses, sur ce qu’on a l’esprit curieux et les yeux mauvais",
+      "note": "Une définition plaisante qui résume la méthode du livre : la curiosité pousse à chercher, la faiblesse des sens oblige à raisonner au-delà de ce qu’on voit. Le ton familier et la formule frappante sont typiques de la vulgarisation mondaine."
+    },
+    {
+      "unit": "soir1",
+      "ref": "Premier soir",
+      "title": "Copernic en héros",
+      "quote": "Figurez-vous un Allemand nommé Copernic, qui fait main basse sur tous ces cercles différens, et sur tous ces cieux solides qui avoient été imaginés par l’Antiquité.",
+      "note": "Le narrateur raconte la révolution copernicienne comme un exploit : Copernic fait main basse sur les cercles, détruit, met en pièces, saisi d’une noble fureur. Ce vocabulaire guerrier, à demi plaisant, dramatise un changement d’idées et le rend mémorable pour la Marquise."
+    },
+    {
+      "unit": "soir2",
+      "ref": "Second soir",
+      "title": "Le bourgeois de Paris",
+      "quote": "Notre Saint-Denis c’est la lune, et chacun de nous est ce bourgeois de Paris, qui n’est jamais sorti de sa ville.",
+      "note": "Chute d’un raisonnement par analogie : depuis les tours de Notre-Dame on ne voit pas les habitants de Saint-Denis, et pourtant ils existent. L’analogie, outil central du livre, rend l’hypothèse plausible sans la prouver."
+    },
+    {
+      "unit": "soir3",
+      "ref": "Troisième soir",
+      "title": "Du ciron à l’infini",
+      "quote": "Nous voyons depuis l’éléphant jusqu’au ciron, là finit notre vue ; mais au ciron commence une multitude infinie d’animaux, dont il est l’éléphant",
+      "note": "Les découvertes faites aux lunettes servent ici d’argument : si la Terre est peuplée bien au-delà de ce que voient nos yeux, pourquoi les planètes seraient-elles vides ? Le chiasme éléphant, ciron, ciron, éléphant rend sensible le changement d’échelle."
+    },
+    {
+      "unit": "soir5",
+      "ref": "Cinquième soir",
+      "title": "Le jardinier des roses",
+      "quote": "Nous avons toujours vu le même jardinier, de mémoire de rose on n’a vu que lui, il a toujours été fait comme il est, assurément il ne meurt point comme nous, il ne change seulement pas.",
+      "note": "Apologue qui critique les Anciens, persuadés que le ciel ne change jamais : des roses qui ne vivent qu’un jour croiraient le jardinier immortel. La fable met en cause notre échelle de temps et invite à la prudence dans les jugements."
+    },
+    {
+      "unit": "soir6",
+      "ref": "Sixième soir",
+      "title": "Philosophes et éléphants",
+      "quote": "les vrais philosophes sont comme les éléphants, qui en marchant ne posent jamais le second pied à terre, que le premier n’y soit bien affermi.",
+      "note": "Leçon de méthode à la fin du livre : ne pas raisonner trop vite sur une découverte nouvelle. La comparaison inattendue garde le ton plaisant, et la Marquise la prolonge aussitôt avec esprit."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "unit": "soir1",
+      "ref": "Premier soir",
+      "question": "À quel spectacle le narrateur compare-t-il la nature, dont les philosophes cherchent à deviner les machines cachées ?",
+      "answer": "opéra",
+      "evidence": "Sur cela je me figure toujours que la nature est un grand spectacle qui ressemble à celui de l’opéra."
+    },
+    {
+      "id": "q2",
+      "unit": "soir2",
+      "ref": "Second soir",
+      "question": "Quel astronome a découvert sur la Lune quelque chose qui ressemble à une rivière ?",
+      "answer": "Cassini",
+      "evidence": "L’illustre M. Cassini, l’homme du monde à qui le ciel est le mieux connu, a découvert sur la lune quelque chose qui se sépare en deux, se réunit ensuite, et se va perdre dans une espèce de puits."
+    },
+    {
+      "id": "q3",
+      "unit": "soir3",
+      "ref": "Troisième soir",
+      "question": "Quels insectes se cachent derrière le peuple actif et sans sexe que le narrateur décrit à la Marquise ?",
+      "answer": "abeilles",
+      "evidence": "Oui, sous nos yeux, mes Arabes ne sont que des abeilles, puisqu’il faut vous le dire."
+    },
+    {
+      "id": "q4",
+      "unit": "soir5",
+      "ref": "Cinquième soir",
+      "question": "À quelles îles le narrateur compare-t-il les petits mondes serrés de la Voie de lait ?",
+      "answer": "Maldives",
+      "evidence": "Ils ressemblent en quelque sorte aux îles Maldives, à ces douze mille petites îles ou bancs de sable, séparés seulement par des canaux de mer, que l’on sauteroit presque comme des fossés."
+    },
+    {
+      "id": "q5",
+      "unit": "soir6",
+      "ref": "Sixième soir",
+      "question": "Dans quel pays lointain aurait-on vu des milliers d’étoiles tomber du ciel dans la mer ?",
+      "answer": "Chine",
+      "evidence": "Il est fâcheux que ces spectacles-là soient réservés pour la Chine, et que ces pays-ci n’en aient jamais eu leur part."
+    }
+  ],
+  "readingTips": [
+    "Chaque soir se lit en quarante minutes environ ; la préface et l’épître, en un quart d’heure.",
+    "L’orthographe est celle de l’édition de 1800 : lisez « avoit » comme avait, « connoître » comme connaître, « foux » comme fous.",
+    "Les paragraphes sont longs et les répliques ne sont pas signalées par des tirets : suivez les incises (dit la Marquise, répondis-je) pour savoir qui parle.",
+    "Dessinez dès le Premier soir le système de Copernic (le Soleil, puis Mercure, Vénus, la Terre et la Lune, Mars, Jupiter, Saturne) : ce schéma sert pour tous les soirs suivants."
+  ],
+  "updated": "2026-10-16"
+}

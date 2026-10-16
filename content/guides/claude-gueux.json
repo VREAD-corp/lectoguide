@@ -1,0 +1,173 @@
+{
+  "slug": "claude-gueux",
+  "title": "Claude Gueux",
+  "author": "Victor Hugo",
+  "authorDates": "1802-1885",
+  "published": "1834",
+  "genre": "récit",
+  "programme": "college",
+  "level": "3e",
+  "programmeNote": "Récit souvent étudié en 3e (cycle 4). Les programmes du collège ne fixent pas de liste d’œuvres obligatoires : le choix du texte et son rattachement à une entrée du programme reviennent au professeur.",
+  "source": {
+    "label": "Wikisource, d’après les Œuvres complètes de Victor Hugo, Roman, tome I, Imprimerie nationale et Ollendorff, Paris, 1910",
+    "url": "https://fr.wikisource.org/wiki/Claude_Gueux",
+    "licence": "Transcription Wikisource, CC BY-SA 4.0"
+  },
+  "words": 8503,
+  "units": [
+    {
+      "id": "p1",
+      "label": "Partie 1 (§ 1 à 32)",
+      "file": "sources/claude-gueux/01.txt",
+      "words": 1581,
+      "summary": "Un hiver où l’ouvrage manque, Claude Gueux, ouvrier parisien qui ne sait pas lire, vole pour nourrir sa compagne et leur enfant ; il est condamné à cinq ans de prison et envoyé à la maison centrale de Clairvaux. Le narrateur décrit sa dignité, puis le directeur des ateliers, homme borné et obstiné. En quelques mois, Claude prend un grand ascendant sur les autres détenus. Grand mangeur, il a toujours faim, jusqu’au jour où un jeune détenu, Albin, lui propose de partager sa ration ; une amitié étroite naît entre eux."
+    },
+    {
+      "id": "p2",
+      "label": "Partie 2 (§ 33 à 93)",
+      "file": "sources/claude-gueux/02.txt",
+      "words": 1254,
+      "summary": "Jaloux de l’autorité de Claude sur les détenus, le directeur, M. D., fait changer Albin de quartier sans donner de raison. Claude le prie de lui rendre son ami et n’obtient que des refus. Chaque soir, il lui redemande Albin pendant la ronde ; le 25 octobre 1831, il lui fixe un délai jusqu’au 4 novembre. Pendant ces neuf jours, il continue de l’avertir et passe vingt-quatre heures au cachot."
+    },
+    {
+      "id": "p3",
+      "label": "Partie 3 (§ 94 à 172)",
+      "file": "sources/claude-gueux/03.txt",
+      "words": 2162,
+      "summary": "Le 4 novembre, Claude prend les ciseaux de couturière qui lui restent de sa compagne et se fait prêter une petite hache à l’atelier des menuisiers. Le soir, enfermé avec quatre-vingt-un détenus, il leur explique sa décision et leur demande leur avis ; une seule voix lui conseille de parler une dernière fois au directeur. Il distribue ses affaires et attend la ronde de neuf heures. Le directeur refuse encore, et Claude le tue à coups de hache, puis se frappe avec les ciseaux."
+    },
+    {
+      "id": "p4",
+      "label": "Partie 4 (§ 173 à 217)",
+      "file": "sources/claude-gueux/04.txt",
+      "words": 1874,
+      "summary": "Claude survit à ses blessures et, après des mois de soins, il comparaît le 16 mars 1832 devant la cour d’assises de Troyes. Les détenus témoins ne parlent que lorsqu’il le leur ordonne, et Albin vient déposer. Claude se défend lui-même : il soutient qu’on l’a provoqué chaque jour pendant quatre ans, mais il est condamné à mort. Il refuse de s’évader, se pourvoit en cassation pour faire plaisir à une religieuse et, son pourvoi rejeté, il est exécuté le 8 juin 1832, un jour de marché."
+    },
+    {
+      "id": "p5",
+      "label": "Partie 5 (§ 218 à 244)",
+      "file": "sources/claude-gueux/05.txt",
+      "words": 1632,
+      "summary": "Le narrateur tire la leçon de cette histoire : la vie de Claude pose la question de l’éducation et celle de la peine. Il s’adresse aux députés et leur reproche de perdre leur temps en débats futiles pendant que le peuple souffre. Il leur demande de refaire le code pénal, de supprimer le bourreau et d’ouvrir des écoles. Il recommande enfin de répandre l’Évangile dans les villages pour donner au peuple de l’espérance."
+    }
+  ],
+  "intro": [
+    "Claude Gueux est un court récit de Victor Hugo, paru en 1834 dans la Revue de Paris. Hugo s’inspire d’une affaire réelle, jugée à Troyes en 1832, dont l’accusé, un détenu de Clairvaux, s’appelait Claude Gueux. Le texte raconte cette histoire avec des dates précises et en s’appuyant sur les témoins, puis se termine par un plaidoyer adressé aux députés. Il prolonge le combat contre la peine de mort qu’Hugo avait engagé en 1829 avec Le Dernier Jour d’un condamné.",
+    "En lisant, distinguez les deux voix du texte : le récit des faits, souvent rapporté d’après les témoins et l’instruction judiciaire, et les commentaires du narrateur, qui interrompent l’histoire pour juger la prison, la justice et la société. Observez comment Claude, présenté comme un homme intelligent qui ne sait pas lire, devient au procès un orateur, et comment la dernière partie fait de son histoire un argument contre la peine de mort et pour l’instruction du peuple."
+  ],
+  "characters": [
+    {
+      "name": "Claude Gueux",
+      "role": "Ouvrier parisien illettré, condamné pour un vol, qui prend un grand ascendant sur les détenus de Clairvaux."
+    },
+    {
+      "name": "Albin",
+      "role": "Jeune détenu de vingt ans qui partage sa ration avec Claude et devient son ami."
+    },
+    {
+      "name": "M. D.",
+      "role": "Le directeur des ateliers de la prison, tenace jusqu’à l’absurde, jaloux de l’autorité de Claude."
+    },
+    {
+      "name": "La compagne de Claude",
+      "role": "Mère de son enfant ; il ne lui reste d’elle qu’une paire de ciseaux et un livre."
+    },
+    {
+      "name": "Le narrateur",
+      "role": "Il raconte l’histoire et la commente, puis s’adresse directement aux députés dans la dernière partie."
+    }
+  ],
+  "passages": [
+    {
+      "unit": "p1",
+      "ref": "Partie 1 (§ 1 à 32)",
+      "title": "Le vol et la peine",
+      "quote": "L’homme vola. Je ne sais ce qu’il vola, je ne sais où il vola. Ce que je sais, c’est que de ce vol il résulta trois jours de pain et de feu pour la femme et pour l’enfant, et cinq ans de prison pour l’homme.",
+      "note": "Dès le premier paragraphe, le narrateur refuse de détailler le vol pour mettre face à face la faute et la peine. Les phrases courtes et les répétitions préparent la question que pose tout le récit : la sanction est-elle juste ?"
+    },
+    {
+      "unit": "p2",
+      "ref": "Partie 2 (§ 33 à 93)",
+      "title": "Le refus du directeur",
+      "quote": "Claude baissa la tête et ne répliqua pas. Pauvre lion en cage à qui l’on ôtait son chien !",
+      "note": "Le directeur vient de refuser de rendre Albin, sans autre raison qu’un « parce que ». Le narrateur commente par une image animale : Claude est un être puissant privé de liberté, et Albin le seul attachement qui lui restait."
+    },
+    {
+      "unit": "p3",
+      "ref": "Partie 3 (§ 94 à 172)",
+      "title": "Le tribunal des détenus",
+      "quote": "Alors il se passa dans cet atelier une scène extraordinaire, une scène qui n’est ni sans majesté ni sans terreur, la seule de ce genre qu’aucune histoire puisse raconter.",
+      "note": "Le narrateur annonce la scène où Claude expose aux détenus sa décision et leur demande de juger. Il la présente comme une sorte de tribunal, ce qui prépare le parallèle avec le vrai procès de la partie 4."
+    },
+    {
+      "unit": "p4",
+      "ref": "Partie 4 (§ 173 à 217)",
+      "title": "Les deux questions de Claude",
+      "quote": "Je suis un voleur et un assassin. J’ai volé et tué. Mais pourquoi ai-je volé ? pourquoi ai-je tué ? Posez ces deux questions à côté des autres, messieurs les jurés.",
+      "note": "Au moment où les jurés vont délibérer, Claude ne nie rien et déplace le débat vers les causes de ses actes. Le narrateur reprend cette idée de deux questions dans la dernière partie : le personnage annonce ce que l’auteur va développer."
+    },
+    {
+      "unit": "p5",
+      "ref": "Partie 5 (§ 218 à 244)",
+      "title": "Une société si mal faite",
+      "quote": "Voyez Claude Gueux. Cerveau bien fait, cœur bien fait, sans nul doute. Mais le sort le met dans une société si mal faite, qu’il finit par voler ; la société le met dans une prison si mal faite, qu’il finit par tuer.",
+      "note": "Le narrateur résume toute l’histoire en une phrase construite sur un parallélisme. La responsabilité passe de l’individu à la société, idée centrale du plaidoyer."
+    },
+    {
+      "unit": "p5",
+      "ref": "Partie 5 (§ 218 à 244)",
+      "title": "La dernière phrase",
+      "quote": "Cette tête de l’homme du peuple, cultivez-la, défrichez-la, arrosez-la, fécondez-la, éclairez-la, moralisez-la, utilisez-la ; vous n’aurez pas besoin de la couper.",
+      "note": "Le texte se termine sur une accumulation de verbes à l’impératif, empruntés au travail de la terre, puis sur une chute qui évoque la guillotine. L’argument est clair : l’éducation rendrait la peine de mort inutile."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "unit": "p1",
+      "ref": "Partie 1 (§ 1 à 32)",
+      "question": "Quel grand d’Espagne, riche de cinq cent mille moutons, le narrateur compare-t-il à Claude pour son appétit ?",
+      "answer": "Cotadilla",
+      "evidence": "M. de Cotadilla avait un de ces appétits-là, et en riait ; mais ce qui est une occasion de gaieté pour un duc grand d’Espagne qui a cinq cent mille moutons est une charge pour un ouvrier, et un malheur pour un prisonnier."
+    },
+    {
+      "id": "q2",
+      "unit": "p2",
+      "ref": "Partie 2 (§ 33 à 93)",
+      "question": "Quel condamné, au lendemain de l’ultimatum, entend Claude dire qu’il craint un malheur pour M. D. ?",
+      "answer": "Pernot",
+      "evidence": "Le lendemain, le condamné Pernot aborda Claude, qui se promenait seul et pensif, laissant les autres prisonniers s’ébattre dans un petit carré de soleil à l’autre bout de la cour."
+    },
+    {
+      "id": "q3",
+      "unit": "p3",
+      "ref": "Partie 3 (§ 94 à 172)",
+      "question": "À quel condamné Claude montre-t-il ses ciseaux, le matin du 4 novembre, en parlant de couper les barreaux ?",
+      "answer": "Ferrari",
+      "evidence": "Au moment où il traversait le vieux cloître déshonoré et blanchi à la chaux qui sert de promenoir l’hiver, il s’approcha du condamné Ferrari, qui regardait avec attention les énormes barreaux d’une croisée."
+    },
+    {
+      "id": "q4",
+      "unit": "p4",
+      "ref": "Partie 4 (§ 173 à 217)",
+      "question": "De quelle maladie qui menace la ville parle-t-on pendant qu’on coupe les cheveux de Claude ?",
+      "answer": "choléra",
+      "evidence": "Pendant qu’on lui coupait les cheveux, quelqu’un parla, dans un coin du cachot, du choléra qui menaçait Troyes en ce moment."
+    },
+    {
+      "id": "q5",
+      "unit": "p5",
+      "ref": "Partie 5 (§ 218 à 244)",
+      "question": "Quel journal le narrateur nomme-t-il en disant que l’Écriture sainte est plus populaire que lui ?",
+      "answer": "Constitutionnel",
+      "evidence": "Souvenez-vous qu’il y a un livre plus philosophique que le Compère Mathieu, plus populaire que le Constitutionnel, plus éternel que la charte de 1830 ; c’est l’écriture sainte."
+    }
+  ],
+  "readingTips": [
+    "Le texte compte environ 8 500 mots et se lit en une ou deux séances. Les parties 1 à 4 racontent, la partie 5 argumente : lisez cette dernière plus lentement, un paragraphe à la fois.",
+    "Repérez les phrases où le narrateur dit « je » ou « nous » : elles signalent un commentaire qui interrompt le récit et donne son jugement.",
+    "Relevez les dates (25 octobre, 4 novembre, 16 mars, 8 juin) et les mentions des témoins : elles donnent au récit l’allure d’un dossier judiciaire.",
+    "La partie 5 contient des allusions à la vie politique de 1834 (la garde nationale, le comte de Lobau, les débats de la Chambre) : il suffit de comprendre qu’elles visent les préoccupations des députés de l’époque."
+  ],
+  "updated": "2026-10-16"
+}

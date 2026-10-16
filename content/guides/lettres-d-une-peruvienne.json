@@ -1,0 +1,195 @@
+{
+  "slug": "lettres-d-une-peruvienne",
+  "title": "Lettres d’une Péruvienne",
+  "author": "Françoise de Graffigny",
+  "authorDates": "1695-1758",
+  "published": "1747",
+  "genre": "roman épistolaire (littérature d’idées)",
+  "programme": "bac",
+  "level": "Première, voies générale et technologique",
+  "programmeNote": "Œuvre inscrite au programme du baccalauréat de français pour l’épreuve anticipée de juin 2027 (session 2028) par la note de service MENE2518792N du 4 juillet 2025 (BO n° 30 du 24 juillet 2025), objet d’étude « littérature d’idées », voies générale et technologique. Le BO y associe des éléments de l’édition de 1752 : l’Introduction historique et les lettres XXVIII, XXIX, XXX et XXXIV de cette édition. Le texte suivi ici est celui de 1747, le seul disponible sur Wikisource : il ne contient pas l’Introduction historique, et ses lettres XXVIII, XXIX, XXX et XXXIV ne doivent pas être confondues avec celles de 1752. Pour ces éléments, reportez-vous à une édition qui reproduit le texte de 1752.",
+  "source": {
+    "label": "Wikisource, d’après l’édition originale de 1747 (« A Peine »), sans les ajouts de l’édition de 1752",
+    "url": "https://fr.wikisource.org/wiki/Lettres_d%E2%80%99une_P%C3%A9ruvienne",
+    "licence": "Transcription Wikisource, CC BY-SA 4.0"
+  },
+  "words": 32778,
+  "units": [
+    {
+      "id": "l01-05",
+      "label": "Avertissement et lettres I à V",
+      "file": "sources/lettres-d-une-peruvienne/01.txt",
+      "words": 5777,
+      "summary": "Dans l’Avertissement, un éditeur présente les lettres comme traduites en français par Zilia elle-même. Zilia, Vierge du Soleil promise au prince inca Aza, lui écrit au moyen de cordons noués : le jour prévu pour leur union, des Espagnols ont envahi le Temple et l’ont enlevée. Une première lettre parvient à Aza, qui lui répond. Elle est ensuite emmenée de nuit dans une maison qui se balance sans cesse, puis, après un fracas terrible et l’irruption d’hommes ensanglantés, se réveille parmi d’autres étrangers. Malade, elle ne comprend pas leur langue ; leur chef, qu’elle appelle le Cacique, s’agenouille près de son lit et lui baise la main, ce qu’elle prend pour un culte."
+    },
+    {
+      "id": "l06-11",
+      "label": "Lettres VI à XI",
+      "file": "sources/lettres-d-une-peruvienne/02.txt",
+      "words": 3525,
+      "summary": "En ouvrant une fenêtre, Zilia découvre qu’elle est sur un vaisseau qui l’éloigne de son pays ; désespérée, elle veut mourir dans la mer, mais ses gardiens l’en empêchent. Le Cacique lui montre une terre au loin, et elle croit qu’on la ramène dans l’empire d’Aza. Elle apprend quelques mots : le Cacique s’appelle Déterville, la maison flottante est un vaisseau, et la terre où ils vont, la France. À l’arrivée, elle prend son reflet dans un miroir pour une autre Vierge, reçoit une jeune servante, puis découvre lors d’une visite les manières vives et familières des Français."
+    },
+    {
+      "id": "l12-17",
+      "label": "Lettres XII à XVII",
+      "file": "sources/lettres-d-une-peruvienne/03.txt",
+      "words": 5275,
+      "summary": "Déterville fait habiller Zilia à la mode du pays et se montre troublé devant elle. Ils voyagent plusieurs jours en voiture jusqu’à Paris, et Zilia s’émerveille des campagnes et des bois. À Paris, la mère de Déterville la reçoit avec froideur, mais Céline, la sœur du Cacique, devient son amie. Zilia subit la curiosité insolente du monde, reçoit des présents, commence à apprendre l’écriture française tandis que ses cordons s’épuisent, et assiste à deux spectacles, l’un tragique, l’autre chanté et dansé. À la sortie du second, un jeune homme glisse un billet à Céline."
+    },
+    {
+      "id": "l18-23",
+      "label": "Lettres XVIII à XXIII",
+      "file": "sources/lettres-d-une-peruvienne/04.txt",
+      "words": 5529,
+      "summary": "Après des mois de silence, Zilia écrit désormais en français et comprend la vérité : elle vit sous une domination étrangère, à une distance immense de l’empire d’Aza. Déterville est parti à la guerre, et sa mère a enfermé Zilia et Céline dans un couvent, pour obliger Céline, amoureuse d’un jeune homme, à prendre le voile au profit du fils aîné. Zilia y juge sévèrement les lois et les mœurs françaises, découvre les livres et reçoit deux fois un religieux, qui lui explique comment elle a été capturée mais condamne son amour pour Aza. Revenu de la guerre, Déterville déclare son amour à Zilia, qui ne peut lui offrir que de l’amitié."
+    },
+    {
+      "id": "l24-29",
+      "label": "Lettres XXIV à XXIX",
+      "file": "sources/lettres-d-une-peruvienne/05.txt",
+      "words": 5621,
+      "summary": "Zilia tombe malade et perd l’amitié de Céline, qui lui reproche le malheur de son frère. Madame Déterville meurt en laissant tout son bien à son fils aîné. Déterville apporte une lettre d’Espagne : Aza est vivant et libre à la cour d’Espagne, mais il a changé de religion. Zilia choisit de l’attendre en France, et Déterville organise la venue d’Aza. Céline, rétablie dans ses biens, prépare son mariage ; Déterville rend à Zilia les ornements du Temple du Soleil trouvés sur le vaisseau, et elle en offre une partie au frère et à la sœur. Pendant le séjour à la campagne où l’on célèbre les noces, les paroles de Déterville font craindre à Zilia qu’Aza ne lui soit infidèle."
+    },
+    {
+      "id": "l30-33",
+      "label": "Lettres XXX à XXXIII",
+      "file": "sources/lettres-d-une-peruvienne/06.txt",
+      "words": 4221,
+      "summary": "Revenue à Paris, Zilia vit chez Céline et son mari et découvre le grand monde : visites, compliments, goût de la médisance. Elle dénonce la façon dont les Français traitent les femmes, à la fois respectées et méprisées, et s’indigne qu’on approuve un jeune homme tué par son ami pour quelques paroles. Céline et Déterville l’emmènent dans une maison de campagne et lui révèlent qu’elle en est la propriétaire : elle a signé l’acte le matin même, comme par jeu, et la maison a été acquise avec une partie de ses trésors. Un cabinet y reproduit le Temple du Soleil. Déterville lui annonce enfin qu’Aza peut arriver d’un moment à l’autre."
+    },
+    {
+      "id": "l34-38",
+      "label": "Lettres XXXIV à XXXVIII",
+      "file": "sources/lettres-d-une-peruvienne/07.txt",
+      "words": 2830,
+      "summary": "Les dernières lettres sont adressées à Déterville, parti loin de Paris le jour même où Aza est arrivé. Aza se montre froid, vante les Espagnols, puis avoue qu’il va épouser une jeune Espagnole, et repart. Zilia tombe dans un long abattement, soignée par Céline, puis se retire dans sa maison de campagne, où la solitude et la lecture l’apaisent. Quand Déterville revient et lui parle encore d’amour, elle refuse : elle ne trahira pas ses serments envers Aza, mais lui offre une amitié sans réserve et l’invite à goûter avec elle le simple bonheur d’exister."
+    }
+  ],
+  "intro": [
+    "Françoise de Graffigny (1695-1758) publie en 1747 les Lettres d’une Péruvienne, puis en 1752 une édition revue et augmentée. Zilia, jeune Vierge du Soleil enlevée par les Espagnols au moment de la conquête du Pérou, tombe aux mains d’un Français, le Chevalier Déterville, et arrive en France. Elle écrit à son fiancé Aza, d’abord au moyen de cordons noués à la manière inca, puis en français, quand elle a appris la langue. Le roman, fait presque uniquement de ses lettres, suit son histoire d’amour et son regard d’étrangère sur la société française ; l’Avertissement fait d’ailleurs allusion aux Lettres persanes de Montesquieu avec la formule Comment peut-on être Persan.",
+    "Pour l’objet d’étude « littérature d’idées », observez comment la critique passe par un regard naïf : Zilia décrit sans comprendre, puis juge à mesure qu’elle apprend (l’argent, la politesse, l’éducation et la condition des femmes, la religion). Suivez aussi son chemin vers l’autonomie : elle apprend à lire et à écrire, possède une maison, et choisit à la fin la liberté et l’amitié plutôt que le mariage. Le dénouement, qui refuse la fin attendue d’un roman d’amour, est un bon sujet de réflexion."
+  ],
+  "characters": [
+    {
+      "name": "Zilia",
+      "role": "Vierge du Soleil, jeune Péruvienne de sang royal, autrice de toutes les lettres."
+    },
+    {
+      "name": "Aza",
+      "role": "prince héritier inca, fiancé et parent de Zilia, destinataire des trente-trois premières lettres."
+    },
+    {
+      "name": "Déterville",
+      "role": "le Chevalier Déterville, d’abord appelé le Cacique par Zilia : Français généreux qui l’a recueillie et l’aime sans retour."
+    },
+    {
+      "name": "Céline",
+      "role": "sœur de Déterville, amie de Zilia, qui lutte contre sa mère pour épouser celui qu’elle aime."
+    },
+    {
+      "name": "Madame Déterville",
+      "role": "mère froide et vaniteuse, qui sacrifie ses cadets à son fils aîné."
+    },
+    {
+      "name": "La China",
+      "role": "jeune servante de Zilia, appelée par le nom péruvien que Zilia lui donne."
+    },
+    {
+      "name": "Le Cusipata",
+      "role": "religieux chargé d’instruire Zilia dans la religion de France."
+    }
+  ],
+  "passages": [
+    {
+      "unit": "l01-05",
+      "ref": "Avertissement et lettres I à V",
+      "title": "Le sac du Temple",
+      "quote": "Les pavés du Temple ensanglantés ; l’image du Soleil foulée aux pieds ; nos Vierges éperduës, fuyant devant une troupe de soldats furieux qui massacroient tout ce qui s’opposoit à leur passage",
+      "note": "Zilia raconte l’irruption des Espagnols par une suite de groupes nominaux, comme des images qui défilent, le verbe n’arrivant qu’à la fin de la phrase. Le point de vue de la victime retourne le récit de la conquête : les barbares, ce sont les Européens."
+    },
+    {
+      "unit": "l06-11",
+      "ref": "Lettres VI à XI",
+      "title": "Le miroir",
+      "quote": "j’ai vû dans l’enfoncement une jeune personne habillée comme une Vierge du Soleil ; j’ai couru à elle les bras ouverts.",
+      "note": "Zilia ne sait pas ce qu’est un miroir et croit voir une compagne. La scène illustre le procédé du roman : un objet banal pour le lecteur français devient un prodige, et c’est la façon de voir qui est mise en question."
+    },
+    {
+      "unit": "l18-23",
+      "ref": "Lettres XVIII à XXIII",
+      "title": "Le bois sous la dorure",
+      "quote": "leurs vertus, mon cher Aza, n’ont pas plus de réalité que leurs richesses. Les meubles que je croiois d’or, n’en ont que la superficie, leur véritable substance est de bois",
+      "note": "Une comparaison concrète porte la critique morale : la politesse française ressemble à des meubles dorés en surface. Zilia passe de l’observation (les meubles) au jugement (les vertus), ce qui en fait un bon exemple d’argumentation par l’image."
+    },
+    {
+      "unit": "l30-33",
+      "ref": "Lettres XXX à XXXIII",
+      "title": "Respectées et méprisées",
+      "quote": "Ils les respectent, mon cher Aza, & en même-temps ils les méprisent avec un égal excès.",
+      "note": "Ouverture de la lettre sur la condition des femmes. L’antithèse résume la contradiction que la suite développe : des égards de façade, et aucune protection réelle contre la calomnie ou la trahison."
+    },
+    {
+      "unit": "l34-38",
+      "ref": "Lettres XXXIV à XXXVIII",
+      "title": "Aza infidèle",
+      "quote": "c’est la bonne foi violée, c’est l’amour méprisé qui déchire mon ame. Aza est infidéle.",
+      "note": "Le renversement du roman, annoncé à Déterville. Le rythme se brise (phrase très courte, puis points de suspension dans la suite) et Zilia accuse la religion des Espagnols, qui interdit d’épouser une parente."
+    },
+    {
+      "unit": "l34-38",
+      "ref": "Lettres XXXIV à XXXVIII",
+      "title": "Le plaisir d’être",
+      "quote": "Le plaisir d’être ; ce plaisir oublié, ignoré même de tant d’aveugles humains ; cette pensée si douce, ce bonheur si pur, je suis, je vis, j’existe, pourroit seul rendre heureux, si l’on s’en souvenoit, si l’on en jouissoit, si l’on en connoissoit le prix.",
+      "note": "Dans la dernière lettre, Zilia oppose aux passions un bonheur simple et sûr : exister. La gradation je suis, je vis, j’existe et le rythme ternaire donnent à ce dénouement la force d’une profession de foi."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "unit": "l01-05",
+      "ref": "Avertissement et lettres I à V",
+      "question": "Quel Inca, selon Zilia, a prédit la destruction de l’empire d’Aza ?",
+      "answer": "Viracocha",
+      "evidence": "Abandonne ton Empire, puisque l’Inca Viracocha en a prédit la destruction."
+    },
+    {
+      "id": "q2",
+      "unit": "l06-11",
+      "ref": "Lettres VI à XI",
+      "question": "À quoi Zilia compare-t-elle la liqueur rouge que les gens du vaisseau boivent pendant leur fête ?",
+      "answer": "Mays",
+      "evidence": "Leurs danses, leurs cris de joie, une liqueur rouge semblable au Mays, dont ils boivent abondamment"
+    },
+    {
+      "id": "q3",
+      "unit": "l18-23",
+      "ref": "Lettres XVIII à XXIII",
+      "question": "Quel marais de la légende de Mancocapa Zilia cite-t-elle en discutant avec le Religieux ?",
+      "answer": "Tisicaca",
+      "evidence": "À l’égard de l’origine & des principes de cette Religion, ils ne m’ont paru ni plus incroyables, ni plus incompatibles avec le bon sens, que l’histoire de Mancocapa & du marais Tisicaca"
+    },
+    {
+      "id": "q4",
+      "unit": "l30-33",
+      "ref": "Lettres XXX à XXXIII",
+      "question": "Que présente le chef des villageois à Zilia, un genou à terre, dans un grand bassin ?",
+      "answer": "clefs",
+      "evidence": "je vis l’homme le plus apparent, quitter la sienne, mettre un genouil en terre, & me présenter dans un grand bassin plusieurs clefs avec un compliment"
+    },
+    {
+      "id": "q5",
+      "unit": "l34-38",
+      "ref": "Lettres XXXIV à XXXVIII",
+      "question": "Où se trouve Déterville quand Zilia lui écrit après l’arrivée d’Aza ?",
+      "answer": "Malthe",
+      "evidence": "Ne cherchez point, Monsieur, à surmonter les obstacles qui vous retiennent à Malthe, pour revenir ici."
+    }
+  ],
+  "readingTips": [
+    "Les lettres sont courtes : comptez dix à quinze minutes par lettre, environ quatre heures pour l’ensemble.",
+    "L’orthographe est celle de 1747 : & pour et, « sçavoir », « étoit », « ame » sans accent circonflexe. On s’y habitue en quelques pages.",
+    "Zilia désigne d’abord les choses françaises avec des mots de son pays (Cacique, Pallas, China, Quipos) : notez au fur et à mesure ce que chaque mot désigne.",
+    "Suivez deux fils en parallèle : l’histoire d’amour (Aza, Déterville) et le regard critique sur la France, qui s’affine à mesure que Zilia comprend la langue."
+  ],
+  "updated": "2026-10-16"
+}

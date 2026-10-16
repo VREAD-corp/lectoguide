@@ -1,0 +1,300 @@
+{
+  "slug": "cahier-de-douai",
+  "title": "Cahier de Douai",
+  "author": "Arthur Rimbaud",
+  "authorDates": "1854-1891",
+  "published": "1870",
+  "genre": "poésie",
+  "programme": "bac",
+  "level": "Première, voies générale et technologique",
+  "programmeNote": "Œuvre inscrite au programme du baccalauréat de français pour l’épreuve anticipée de juin 2027 (session 2028) par la note de service MENE2518792N du 4 juillet 2025 (BO n° 30 du 24 juillet 2025), objet d’étude « poésie », voies générale et technologique. Le programme retient les vingt-deux poèmes du Cahier de Douai, de « Première soirée » à « Ma Bohème (Fantaisie) ».",
+  "source": {
+    "label": "Wikisource, d’après Arthur Rimbaud, Œuvres, Mercure de France, 1958 (éd. Paul Hartmann)",
+    "url": "https://fr.wikisource.org/wiki/%C5%92uvres_(Rimbaud)/Po%C3%A9sies",
+    "licence": "Transcription Wikisource, CC BY-SA 4.0"
+  },
+  "words": 6905,
+  "units": [
+    {
+      "id": "p01",
+      "label": "Première soirée",
+      "file": "sources/cahier-de-douai/01.txt",
+      "words": 189,
+      "summary": "Le poète raconte une soirée avec une jeune femme à demi déshabillée, assise sur sa grande chaise, tandis que les arbres frôlent les vitres. Il lui baise les chevilles, puis les yeux, et elle rit en faisant semblant de le repousser. La première strophe revient à la fin."
+    },
+    {
+      "id": "p02",
+      "label": "Sensation",
+      "file": "sources/cahier-de-douai/02.txt",
+      "words": 70,
+      "summary": "Le poète imagine une promenade d’été, seul dans les sentiers et les blés, sans parler ni penser. Il se laisse envahir par un amour infini pour la Nature, avec le bonheur d’un amoureux. Le poème est daté du 20 avril 1870."
+    },
+    {
+      "id": "p03",
+      "label": "Le Forgeron",
+      "file": "sources/cahier-de-douai/03.txt",
+      "words": 1658,
+      "summary": "Aux Tuileries, vers le 10 août 1792, un forgeron, son marteau à la main, parle à Louis XVI devant le peuple. Il raconte la misère des paysans sous les seigneurs, la prise de la Bastille et les espoirs du peuple, montre au roi la foule qui gronde dans les cours et se proclame ouvrier des temps nouveaux. Le poème se termine par un geste de défi du forgeron envers le roi."
+    },
+    {
+      "id": "p04",
+      "label": "Soleil et Chair",
+      "file": "sources/cahier-de-douai/04.txt",
+      "words": 1426,
+      "summary": "Long poème en quatre parties : le poète regrette l’Antiquité, quand l’homme vivait heureux dans une nature divine et adorait des déesses de chair comme Vénus et Cybèle. Il reproche à l’autre Dieu, celui de la croix, d’avoir rendu l’homme triste et honteux de son corps, et annonce le retour d’un homme libre qui voudra tout savoir. La dernière partie fait défiler des figures mythologiques (Ariane, Europe, Léda, Héraclès, Séléné)."
+    },
+    {
+      "id": "p05",
+      "label": "Ophélie",
+      "file": "sources/cahier-de-douai/05.txt",
+      "words": 325,
+      "summary": "En trois parties, le poème montre l’Ophélie de Hamlet flottant sur un fleuve depuis plus de mille ans, puis explique sa mort : son esprit d’enfant a été brisé par la voix de la nature, par la liberté et par l’amour d’un pauvre fou. À la fin, le Poète dit l’avoir vue flotter, la nuit, comme au premier vers."
+    },
+    {
+      "id": "p06",
+      "label": "Bal des pendus",
+      "file": "sources/cahier-de-douai/06.txt",
+      "words": 345,
+      "summary": "Au gibet, les squelettes des pendus dansent une danse macabre, tirés par la cravate comme des pantins par un diable qui joue du violon. Le poète décrit leurs gestes grotesques sous la neige et les corbeaux, jusqu’au bond d’un grand squelette fou. La strophe d’ouverture revient à la fin."
+    },
+    {
+      "id": "p07",
+      "label": "Le Châtiment de Tartufe",
+      "file": "sources/cahier-de-douai/07.txt",
+      "words": 118,
+      "summary": "Sonnet satirique : Tartufe, le faux dévot, s’en va en priant quand un passant le saisit par l’oreille et lui arrache sa robe noire. L’homme n’emporte que ses rabats, et Tartufe se retrouve nu."
+    },
+    {
+      "id": "p08",
+      "label": "Vénus Anadyomène",
+      "file": "sources/cahier-de-douai/08.txt",
+      "words": 127,
+      "summary": "Sonnet qui détourne le mythe de la naissance de Vénus : une femme grasse et laide sort lentement d’une vieille baignoire, décrite de la tête aux reins avec une précision crue. Le dernier vers associe brutalement la beauté et la laideur."
+    },
+    {
+      "id": "p09",
+      "label": "Les Reparties de Nina",
+      "file": "sources/cahier-de-douai/09.txt",
+      "words": 556,
+      "summary": "Un jeune homme invite Nina, dix-sept ans, à partir avec lui au matin dans la campagne, puis décrit la promenade dans les bois et le retour du soir au village, dans des intérieurs paysans. À la fin, Nina lui répond d’un seul vers qui ruine ce long rêve."
+    },
+    {
+      "id": "p10",
+      "label": "À la musique",
+      "file": "sources/cahier-de-douai/10.txt",
+      "words": 313,
+      "summary": "Sur la place de la gare, à Charleville, les bourgeois écoutent le jeudi soir un orchestre militaire ; le poète les décrit avec ironie. À l’écart, débraillé, il suit les jeunes filles des yeux et sent naître le désir."
+    },
+    {
+      "id": "p11",
+      "label": "Les Effarés",
+      "file": "sources/cahier-de-douai/11.txt",
+      "words": 189,
+      "summary": "Cinq petits enfants pauvres, à genoux dans la neige, regardent par un soupirail un boulanger cuire le pain, vers minuit. Ils collent leur museau à la grille, ravis par la chaleur et le chant du pain qui cuit, tandis que le vent d’hiver fait trembler leur linge."
+    },
+    {
+      "id": "p12",
+      "label": "Roman",
+      "file": "sources/cahier-de-douai/12.txt",
+      "words": 289,
+      "summary": "En quatre parties, un garçon de dix-sept ans quitte un soir les cafés pour la promenade, se laisse griser par une nuit de juin, croise une demoiselle et tombe amoureux. Elle finit par lui écrire, et il retourne aux cafés ; le premier vers revient à la fin."
+    },
+    {
+      "id": "p13",
+      "label": "Morts de Quatre-vingt-douze…",
+      "file": "sources/cahier-de-douai/13.txt",
+      "words": 143,
+      "summary": "Sonnet adressé aux soldats morts pour la République pendant la Révolution (Valmy, Fleurus, l’Italie), qui brisèrent le joug des rois. Le poète répond à Paul de Cassagnac, journaliste cité en épigraphe, qui invoquait leur souvenir en 1870, et lui reproche de se servir de ces morts."
+    },
+    {
+      "id": "p14",
+      "label": "Le Mal",
+      "file": "sources/cahier-de-douai/14.txt",
+      "words": 127,
+      "summary": "Sonnet sur la guerre : pendant que la mitraille broie des milliers de soldats sous les yeux d’un roi moqueur, un Dieu s’endort dans le luxe des autels et ne se réveille que pour le gros sou des mères en larmes."
+    },
+    {
+      "id": "p15",
+      "label": "Rages de Césars",
+      "file": "sources/cahier-de-douai/15.txt",
+      "words": 127,
+      "summary": "Sonnet sur l’Empereur vaincu et prisonnier (Napoléon III, que le poème ne nomme pas) : l’homme pâle, en habit noir, fume en se promenant et repense à ses vingt ans de pouvoir et à la liberté qu’il croyait avoir éteinte."
+    },
+    {
+      "id": "p16",
+      "label": "Rêvé pour l’hiver",
+      "file": "sources/cahier-de-douai/16.txt",
+      "words": 108,
+      "summary": "Le poète imagine pour l’hiver un voyage amoureux dans un petit wagon rose, à l’abri des ombres du soir, avec un baiser qui court sur le cou de sa compagne comme une araignée. Le poème est dédié à une femme et daté du 7 octobre 1870, en wagon."
+    },
+    {
+      "id": "p17",
+      "label": "Le Dormeur du val",
+      "file": "sources/cahier-de-douai/17.txt",
+      "words": 128,
+      "summary": "Sonnet : dans un petit val ensoleillé traversé par une rivière, un jeune soldat semble dormir dans l’herbe, pâle, la bouche ouverte. Le dernier vers révèle qu’il est mort."
+    },
+    {
+      "id": "p18",
+      "label": "Au Cabaret-Vert, cinq heures du soir",
+      "file": "sources/cahier-de-douai/18.txt",
+      "words": 121,
+      "summary": "Après huit jours de marche, le poète entre dans une auberge de Charleroi et demande des tartines et du jambon. Il savoure ce moment, servi par une fille rieuse, devant une grande chope mousseuse dorée par le soleil."
+    },
+    {
+      "id": "p19",
+      "label": "La Maline",
+      "file": "sources/cahier-de-douai/19.txt",
+      "words": 132,
+      "summary": "Dans une salle à manger où il mange un plat belge, le poète voit arriver une jeune servante qui arrange les plats près de lui. Elle cherche malicieusement un baiser en se plaignant d’avoir pris froid à la joue."
+    },
+    {
+      "id": "p20",
+      "label": "L’Éclatante Victoire de Sarrebrück",
+      "file": "sources/cahier-de-douai/20.txt",
+      "words": 155,
+      "summary": "Sonnet qui décrit une gravure belge coloriée, vendue à Charleroi : l’Empereur triomphe au centre, entouré de soldats naïfs, enthousiastes ou grotesques. Le poète ridiculise cette image d’une victoire de 1870."
+    },
+    {
+      "id": "p21",
+      "label": "Le Buffet",
+      "file": "sources/cahier-de-douai/21.txt",
+      "words": 132,
+      "summary": "Sonnet adressé à un vieux buffet de chêne ouvert : le poète énumère les objets anciens qu’il renferme, linges, dentelles, médaillons, mèches de cheveux, portraits, fleurs sèches. Il prête au meuble des histoires qu’il voudrait raconter."
+    },
+    {
+      "id": "p22",
+      "label": "Ma Bohème (Fantaisie)",
+      "file": "sources/cahier-de-douai/22.txt",
+      "words": 127,
+      "summary": "Le poète se peint marchant sur les routes, les poches crevées et la culotte trouée, en compagnie de sa Muse. Il compose des rimes en chemin, assis au bord des routes les soirs de septembre, et tire les élastiques de ses souliers comme les cordes d’une lyre."
+    }
+  ],
+  "intro": [
+    "Arthur Rimbaud (1854-1891) écrit la plupart de ces poèmes en 1870, à quinze et seize ans. En septembre et en octobre 1870, lors de deux séjours à Douai, il en recopie vingt-deux pour le poète Paul Demeny, en deux liasses de quinze puis de sept poèmes. Il lui demandera plus tard de les brûler ; Demeny n’en fait rien, et les poèmes paraissent en 1891 dans un volume intitulé Reliquaire. Rimbaud n’a laissé ni titre ni table : on parle de Cahier de Douai ou de Recueil Demeny, et l’ordre suivi ici est celui des éditions courantes, de « Première soirée » à « Ma Bohème (Fantaisie) ».",
+    "Pour l’objet d’étude « poésie », observez comment un très jeune poète s’empare des formes reçues : beaucoup de sonnets, souvent détournés (« Vénus Anadyomène », « Le Châtiment de Tartufe »), des alexandrins oratoires (« Le Forgeron ») et des strophes de chanson (« Les Effarés », « Les Reparties de Nina »). Le recueil mêle poèmes d’amour et de fugue, satires de la bourgeoisie et poèmes politiques sur la Révolution et sur la guerre de 1870 contre la Prusse. Repérez les dates au bas des poèmes, la place de la marche et de la liberté, et la chute de chaque sonnet."
+  ],
+  "characters": [
+    {
+      "name": "Le poète",
+      "role": "le je de la plupart des poèmes : adolescent, marcheur, amoureux et moqueur."
+    },
+    {
+      "name": "Nina",
+      "role": "jeune fille à qui s’adresse le long discours des « Reparties de Nina »."
+    },
+    {
+      "name": "Ophélie",
+      "role": "héroïne de Hamlet, noyée, dont le poème fait une figure du rêve et de la liberté."
+    },
+    {
+      "name": "Le Forgeron",
+      "role": "homme du peuple qui parle au roi aux Tuileries en 1792."
+    },
+    {
+      "name": "Louis XVI",
+      "role": "le roi « Louis Seize », pâle et muet devant le Forgeron."
+    },
+    {
+      "name": "L’Empereur",
+      "role": "Napoléon III, jamais nommé : prisonnier dans « Rages de Césars », triomphant sur une gravure dans « L’Éclatante Victoire de Sarrebrück »."
+    },
+    {
+      "name": "Tartufe",
+      "role": "le faux dévot de Molière, puni dans un sonnet satirique."
+    }
+  ],
+  "passages": [
+    {
+      "unit": "p03",
+      "ref": "Le Forgeron",
+      "title": "Nous sommes Ouvriers",
+      "quote": "Nous sommes Ouvriers, Sire ! Ouvriers ! Nous sommes\nPour les grands temps nouveaux où l’on voudra savoir,",
+      "note": "Le Forgeron donne au peuple un nom nouveau et un avenir fondé sur le savoir. La répétition, les exclamations et l’enjambement (Nous sommes / Pour les grands temps nouveaux) donnent à la tirade le ton d’un orateur de club en 1792."
+    },
+    {
+      "unit": "p05",
+      "ref": "Ophélie",
+      "title": "Ouverture d’Ophélie",
+      "quote": "Sur l’onde calme et noire où dorment les étoiles\nLa blanche Ophélia flotte comme un grand lys,",
+      "note": "Le poème s’ouvre sur un tableau : blancheur sur fond noir, eau immobile, comparaison florale. La dernière strophe reprendra ces vers presque mot pour mot, ce qui enferme Ophélie dans une image éternelle."
+    },
+    {
+      "unit": "p12",
+      "ref": "Roman",
+      "title": "Dix-sept ans",
+      "quote": "On n’est pas sérieux, quand on a dix-sept ans.\n— Un beau soir, foin des bocks et de la limonade,",
+      "note": "Le vers d’ouverture, devenu proverbial, donne le ton : léger, ironique et tendre. Le pronom on, puis le vous des dernières parties, mettent à distance l’expérience amoureuse que le poème raconte."
+    },
+    {
+      "unit": "p14",
+      "ref": "Le Mal",
+      "title": "Un Dieu qui rit",
+      "quote": "— Il est un Dieu, qui rit aux nappes damassées\nDes autels, à l’encens, aux grands calices d’or ;",
+      "note": "Après deux quatrains ouverts par Tandis que, la phrase trouve enfin sa principale : un Dieu indifférent au massacre. Le contraste entre la guerre et le luxe des autels porte la satire anticléricale du sonnet."
+    },
+    {
+      "unit": "p17",
+      "ref": "Le Dormeur du val",
+      "title": "La chute du Dormeur",
+      "quote": "Il dort dans le soleil, la main sur sa poitrine\nTranquille. Il a deux trous rouges au côté droit.",
+      "note": "Le mot Tranquille, rejeté en tête du dernier vers, prolonge l’illusion du sommeil avant que la phrase la plus simple du poème révèle la mort. Tout le sonnet prépare ce renversement par des indices (pâle, il a froid)."
+    },
+    {
+      "unit": "p22",
+      "ref": "Ma Bohème (Fantaisie)",
+      "title": "Les poings dans les poches",
+      "quote": "Je m’en allais, les poings dans mes poches crevées ;\nMon paletot aussi devenait idéal ;",
+      "note": "Le poème s’ouvre sur la marche et sur une pauvreté joyeuse. L’adjectif idéal joue sur deux sens : le manteau usé jusqu’à n’être plus qu’une idée, et l’idéal du poète en route avec sa Muse."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "unit": "p05",
+      "ref": "Ophélie",
+      "question": "De quel pays viennent les vents qui ont parlé tout bas à Ophélie de l’âpre liberté ?",
+      "answer": "Norwège",
+      "evidence": "— C’est que les vents tombant des grands monts de Norwège\nT’avaient parlé tout bas de l’âpre liberté ;"
+    },
+    {
+      "id": "q2",
+      "unit": "p12",
+      "ref": "Roman",
+      "question": "Sous quels arbres de la promenade va le garçon de dix-sept ans, un beau soir ?",
+      "answer": "tilleuls",
+      "evidence": "— On va sous les tilleuls verts de la promenade."
+    },
+    {
+      "id": "q3",
+      "unit": "p17",
+      "ref": "Le Dormeur du val",
+      "question": "Dans quelles fleurs le jeune soldat du val a-t-il les pieds ?",
+      "answer": "glaïeuls",
+      "evidence": "Les pieds dans les glaïeuls, il dort."
+    },
+    {
+      "id": "q4",
+      "unit": "p19",
+      "ref": "La Maline",
+      "question": "À quel fruit le poète compare-t-il le velours de la joue de la servante ?",
+      "answer": "pêche",
+      "evidence": "Et, tout en promenant son petit doigt tremblant\nSur sa joue, un velours de pêche rose et blanc,"
+    },
+    {
+      "id": "q5",
+      "unit": "p22",
+      "ref": "Ma Bohème (Fantaisie)",
+      "question": "Dans quelle constellation le poète vagabond situe-t-il son auberge ?",
+      "answer": "Grande-Ourse",
+      "evidence": "— Petit-Poucet rêveur, j’égrenais dans ma course\nDes rimes. Mon auberge était à la Grande-Ourse."
+    }
+  ],
+  "readingTips": [
+    "Lisez chaque poème à voix haute, puis une seconde fois : l’ensemble se lit en une heure environ, mais « Le Forgeron » et « Soleil et Chair », bien plus longs, demandent chacun un bon quart d’heure.",
+    "Notez la date qui figure au bas de nombreux poèmes : elle situe le texte avant ou pendant la guerre de 1870.",
+    "Pour chaque sonnet, cherchez la chute du dernier tercet : c’est souvent là que le poème bascule (« Le Dormeur du val », « Vénus Anadyomène »).",
+    "Le texte suivi est celui d’une édition de 1958 : la ponctuation et certains titres peuvent différer légèrement de votre édition de classe."
+  ],
+  "updated": "2026-10-16"
+}

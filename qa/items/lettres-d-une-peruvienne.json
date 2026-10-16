@@ -1,0 +1,103 @@
+{
+  "set": "lectoguide/lettres-d-une-peruvienne",
+  "coldGate": "summary",
+  "title": "Lettres d’une Péruvienne",
+  "author": "Françoise de Graffigny",
+  "language": "fr",
+  "units": [
+    {
+      "id": "l01-05",
+      "label": "Avertissement et lettres I à V",
+      "file": "../../sources/lettres-d-une-peruvienne/01.txt",
+      "summary": "Dans l’Avertissement, un éditeur présente les lettres comme traduites en français par Zilia elle-même. Zilia, Vierge du Soleil promise au prince inca Aza, lui écrit au moyen de cordons noués : le jour prévu pour leur union, des Espagnols ont envahi le Temple et l’ont enlevée. Une première lettre parvient à Aza, qui lui répond. Elle est ensuite emmenée de nuit dans une maison qui se balance sans cesse, puis, après un fracas terrible et l’irruption d’hommes ensanglantés, se réveille parmi d’autres étrangers. Malade, elle ne comprend pas leur langue ; leur chef, qu’elle appelle le Cacique, s’agenouille près de son lit et lui baise la main, ce qu’elle prend pour un culte."
+    },
+    {
+      "id": "l06-11",
+      "label": "Lettres VI à XI",
+      "file": "../../sources/lettres-d-une-peruvienne/02.txt",
+      "summary": "En ouvrant une fenêtre, Zilia découvre qu’elle est sur un vaisseau qui l’éloigne de son pays ; désespérée, elle veut mourir dans la mer, mais ses gardiens l’en empêchent. Le Cacique lui montre une terre au loin, et elle croit qu’on la ramène dans l’empire d’Aza. Elle apprend quelques mots : le Cacique s’appelle Déterville, la maison flottante est un vaisseau, et la terre où ils vont, la France. À l’arrivée, elle prend son reflet dans un miroir pour une autre Vierge, reçoit une jeune servante, puis découvre lors d’une visite les manières vives et familières des Français."
+    },
+    {
+      "id": "l12-17",
+      "label": "Lettres XII à XVII",
+      "file": "../../sources/lettres-d-une-peruvienne/03.txt",
+      "summary": "Déterville fait habiller Zilia à la mode du pays et se montre troublé devant elle. Ils voyagent plusieurs jours en voiture jusqu’à Paris, et Zilia s’émerveille des campagnes et des bois. À Paris, la mère de Déterville la reçoit avec froideur, mais Céline, la sœur du Cacique, devient son amie. Zilia subit la curiosité insolente du monde, reçoit des présents, commence à apprendre l’écriture française tandis que ses cordons s’épuisent, et assiste à deux spectacles, l’un tragique, l’autre chanté et dansé. À la sortie du second, un jeune homme glisse un billet à Céline."
+    },
+    {
+      "id": "l18-23",
+      "label": "Lettres XVIII à XXIII",
+      "file": "../../sources/lettres-d-une-peruvienne/04.txt",
+      "summary": "Après des mois de silence, Zilia écrit désormais en français et comprend la vérité : elle vit sous une domination étrangère, à une distance immense de l’empire d’Aza. Déterville est parti à la guerre, et sa mère a enfermé Zilia et Céline dans un couvent, pour obliger Céline, amoureuse d’un jeune homme, à prendre le voile au profit du fils aîné. Zilia y juge sévèrement les lois et les mœurs françaises, découvre les livres et reçoit deux fois un religieux, qui lui explique comment elle a été capturée mais condamne son amour pour Aza. Revenu de la guerre, Déterville déclare son amour à Zilia, qui ne peut lui offrir que de l’amitié."
+    },
+    {
+      "id": "l24-29",
+      "label": "Lettres XXIV à XXIX",
+      "file": "../../sources/lettres-d-une-peruvienne/05.txt",
+      "summary": "Zilia tombe malade et perd l’amitié de Céline, qui lui reproche le malheur de son frère. Madame Déterville meurt en laissant tout son bien à son fils aîné. Déterville apporte une lettre d’Espagne : Aza est vivant et libre à la cour d’Espagne, mais il a changé de religion. Zilia choisit de l’attendre en France, et Déterville organise la venue d’Aza. Céline, rétablie dans ses biens, prépare son mariage ; Déterville rend à Zilia les ornements du Temple du Soleil trouvés sur le vaisseau, et elle en offre une partie au frère et à la sœur. Pendant le séjour à la campagne où l’on célèbre les noces, les paroles de Déterville font craindre à Zilia qu’Aza ne lui soit infidèle."
+    },
+    {
+      "id": "l30-33",
+      "label": "Lettres XXX à XXXIII",
+      "file": "../../sources/lettres-d-une-peruvienne/06.txt",
+      "summary": "Revenue à Paris, Zilia vit chez Céline et son mari et découvre le grand monde : visites, compliments, goût de la médisance. Elle dénonce la façon dont les Français traitent les femmes, à la fois respectées et méprisées, et s’indigne qu’on approuve un jeune homme tué par son ami pour quelques paroles. Céline et Déterville l’emmènent dans une maison de campagne et lui révèlent qu’elle en est la propriétaire : elle a signé l’acte le matin même, comme par jeu, et la maison a été acquise avec une partie de ses trésors. Un cabinet y reproduit le Temple du Soleil. Déterville lui annonce enfin qu’Aza peut arriver d’un moment à l’autre."
+    },
+    {
+      "id": "l34-38",
+      "label": "Lettres XXXIV à XXXVIII",
+      "file": "../../sources/lettres-d-une-peruvienne/07.txt",
+      "summary": "Les dernières lettres sont adressées à Déterville, parti loin de Paris le jour même où Aza est arrivé. Aza se montre froid, vante les Espagnols, puis avoue qu’il va épouser une jeune Espagnole, et repart. Zilia tombe dans un long abattement, soignée par Céline, puis se retire dans sa maison de campagne, où la solitude et la lecture l’apaisent. Quand Déterville revient et lui parle encore d’amour, elle refuse : elle ne trahira pas ses serments envers Aza, mais lui offre une amitié sans réserve et l’invite à goûter avec elle le simple bonheur d’exister."
+    }
+  ],
+  "items": [
+    {
+      "id": "q1",
+      "unit": "l01-05",
+      "type": "word",
+      "question": "Quel Inca, selon Zilia, a prédit la destruction de l’empire d’Aza ?",
+      "answer": "Viracocha",
+      "evidence": [
+        "Abandonne ton Empire, puisque l’Inca Viracocha en a prédit la destruction."
+      ]
+    },
+    {
+      "id": "q2",
+      "unit": "l06-11",
+      "type": "word",
+      "question": "À quoi Zilia compare-t-elle la liqueur rouge que les gens du vaisseau boivent pendant leur fête ?",
+      "answer": "Mays",
+      "evidence": [
+        "Leurs danses, leurs cris de joie, une liqueur rouge semblable au Mays, dont ils boivent abondamment"
+      ]
+    },
+    {
+      "id": "q3",
+      "unit": "l18-23",
+      "type": "word",
+      "question": "Quel marais de la légende de Mancocapa Zilia cite-t-elle en discutant avec le Religieux ?",
+      "answer": "Tisicaca",
+      "evidence": [
+        "À l’égard de l’origine & des principes de cette Religion, ils ne m’ont paru ni plus incroyables, ni plus incompatibles avec le bon sens, que l’histoire de Mancocapa & du marais Tisicaca"
+      ]
+    },
+    {
+      "id": "q4",
+      "unit": "l30-33",
+      "type": "word",
+      "question": "Que présente le chef des villageois à Zilia, un genou à terre, dans un grand bassin ?",
+      "answer": "clefs",
+      "evidence": [
+        "je vis l’homme le plus apparent, quitter la sienne, mettre un genouil en terre, & me présenter dans un grand bassin plusieurs clefs avec un compliment"
+      ]
+    },
+    {
+      "id": "q5",
+      "unit": "l34-38",
+      "type": "word",
+      "question": "Où se trouve Déterville quand Zilia lui écrit après l’arrivée d’Aza ?",
+      "answer": "Malthe",
+      "evidence": [
+        "Ne cherchez point, Monsieur, à surmonter les obstacles qui vous retiennent à Malthe, pour revenir ici."
+      ]
+    }
+  ]
+}

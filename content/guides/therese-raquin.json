@@ -1,0 +1,378 @@
+{
+  "slug": "therese-raquin",
+  "title": "Thérèse Raquin",
+  "author": "Émile Zola",
+  "authorDates": "1840-1902",
+  "published": "1867",
+  "genre": "roman",
+  "programme": "bac",
+  "level": "Première, voie technologique",
+  "programmeNote": "Œuvre au programme de l’objet d’étude « Le roman et le récit du Moyen Âge au XXIe siècle », en voie technologique, pour les épreuves anticipées de français de juin 2027 (note de service MENE2518792N du 4 juillet 2025, BO n° 30 du 24 juillet 2025).",
+  "source": {
+    "label": "Wikisource, d’après la deuxième édition, Librairie internationale (A. Lacroix), Paris, 1868",
+    "url": "https://fr.wikisource.org/wiki/Thérèse_Raquin",
+    "licence": "Transcription Wikisource, CC BY-SA 4.0"
+  },
+  "words": 67805,
+  "units": [
+    {
+      "id": "ch01",
+      "label": "Chapitre I",
+      "file": "sources/therese-raquin/01.txt",
+      "words": 1551,
+      "summary": "Le roman s’ouvre sur le passage du Pont-Neuf, une galerie étroite, sombre et humide qui relie la rue Mazarine à la rue de Seine. On y trouve une mercerie au nom de Thérèse Raquin, où se tiennent une jeune femme pâle et silencieuse et une vieille dame, avec un gros chat tigré sur le comptoir. Le soir, un homme chétif d’une trentaine d’années les rejoint, puis la famille monte se coucher dans le logement de l’étage."
+    },
+    {
+      "id": "ch02",
+      "label": "Chapitre II",
+      "file": "sources/therese-raquin/02.txt",
+      "words": 1971,
+      "summary": "Retour en arrière : Madame Raquin, ancienne mercière de Vernon, s’est retirée dans une maison au bord de la Seine avec son fils Camille, enfant maladif qu’elle a sauvé à force de soins, et sa nièce Thérèse. Thérèse est la fille de son frère, le capitaine Degans, qui l’a rapportée d’Algérie toute petite avant de repartir et de mourir en Afrique. Élevée dans la chambre du malade, elle cache sous un calme apparent une nature violente. Madame Raquin marie les deux cousins comme elle l’avait toujours prévu."
+    },
+    {
+      "id": "ch03",
+      "label": "Chapitre III",
+      "file": "sources/therese-raquin/03.txt",
+      "words": 1665,
+      "summary": "Huit jours après le mariage, Camille exige d’aller vivre à Paris. Madame Raquin achète la mercerie du passage du Pont-Neuf, où Thérèse, dès son arrivée, se sent comme descendue dans une fosse. Camille entre à l’administration du chemin de fer d’Orléans, et pendant trois ans les journées se ressemblent."
+    },
+    {
+      "id": "ch04",
+      "label": "Chapitre IV",
+      "file": "sources/therese-raquin/04.txt",
+      "words": 1073,
+      "summary": "Chaque jeudi soir, les Raquin reçoivent le vieux Michaud, ancien commissaire de police de Vernon, son fils Olivier, employé à la préfecture, la femme de celui-ci, Suzanne, et Grivet, collègue de Camille. On boit du thé et l’on joue aux dominos jusqu’à onze heures. Thérèse, qui caresse le chat François, s’ennuie parmi ces visages qu’elle trouve sinistres et descend à la boutique dès que sonne la sonnette."
+    },
+    {
+      "id": "ch05",
+      "label": "Chapitre V",
+      "file": "sources/therese-raquin/05.txt",
+      "words": 1844,
+      "summary": "Un jeudi, Camille ramène Laurent, camarade d’école retrouvé à la gare d’Orléans, où il est employé lui aussi. Fils de paysan, grand et sanguin, Laurent raconte qu’il a délaissé le droit pour la peinture, puis la peinture pour un emploi, faute d’argent. Thérèse, troublée, le regarde fixement, et Laurent propose de faire le portrait de Camille."
+    },
+    {
+      "id": "ch06",
+      "label": "Chapitre VI",
+      "file": "sources/therese-raquin/06.txt",
+      "words": 1266,
+      "summary": "Laurent, qui loge dans une mansarde de la rue Saint-Victor, vient désormais presque chaque soir chez les Raquin. Pendant qu’il peint le portrait de Camille dans la chambre des époux, il pèse froidement l’intérêt qu’il aurait à prendre Thérèse pour maîtresse. Le dernier jour, Camille sort chercher du vin pour fêter le tableau, et Laurent saisit Thérèse, qui se donne à lui."
+    },
+    {
+      "id": "ch07",
+      "label": "Chapitre VII",
+      "file": "sources/therese-raquin/07.txt",
+      "words": 2635,
+      "summary": "Les amants se retrouvent l’après-midi dans la chambre conjugale : Laurent monte par l’escalier qui donne sur le passage pendant que Madame Raquin tient la boutique. Thérèse lui raconte son enfance étouffée et sa révolte. Un jour, Madame Raquin monte voir sa nièce et Laurent doit se cacher sous un tas de vêtements au pied du lit. Thérèse s’amuse ensuite à imaginer que le chat François va tout raconter, ce qui effraie Laurent."
+    },
+    {
+      "id": "ch08",
+      "label": "Chapitre VIII",
+      "file": "sources/therese-raquin/08.txt",
+      "words": 1397,
+      "summary": "Laurent devient l’amant de la femme, l’ami du mari et l’enfant gâté de la mère, qui lui offre son couvert chaque soir. Devant Camille et sa tante, Thérèse joue à la perfection la femme froide qui supporte mal Laurent. Cette double vie dure huit mois."
+    },
+    {
+      "id": "ch09",
+      "label": "Chapitre IX",
+      "file": "sources/therese-raquin/09.txt",
+      "words": 2380,
+      "summary": "Le chef de Laurent lui interdit désormais de s’absenter, et les rendez-vous cessent. Thérèse invente une course chez une cliente pour rejoindre son amant dans sa mansarde. Ils y parlent pour la première fois de la mort de Camille, et Laurent, resté seul, décide qu’il le tuera."
+    },
+    {
+      "id": "ch10",
+      "label": "Chapitre X",
+      "file": "sources/therese-raquin/10.txt",
+      "words": 967,
+      "summary": "Trois semaines passent sans rendez-vous ; les amants ne se serrent plus que la main, en cachette. Un jeudi, Michaud parle des crimes restés impunis, dont un assassinat jamais élucidé du temps où il était à Vernon, et Grivet répond par une anecdote où une servante accusée de vol finit par être relâchée. Thérèse et Laurent écoutent en silence."
+    },
+    {
+      "id": "ch11",
+      "label": "Chapitre XI",
+      "file": "sources/therese-raquin/11.txt",
+      "words": 3563,
+      "summary": "Un dimanche d’automne, Camille, Thérèse et Laurent vont à Saint-Ouen. Dans un taillis, Laurent manque d’écraser la tête de Camille endormi, puis y renonce et arrête un autre plan. Avant le dîner, il propose une promenade en canot, prévient Thérèse à voix basse et, au milieu de la Seine, jette Camille à l’eau ; en se débattant, celui-ci lui mord le cou. Laurent fait chavirer la barque, et des canotiers qui accourent prennent le meurtre pour un accident."
+    },
+    {
+      "id": "ch12",
+      "label": "Chapitre XII",
+      "file": "sources/therese-raquin/12.txt",
+      "words": 2103,
+      "summary": "Laurent va chercher le vieux Michaud, qui annonce la nouvelle à Madame Raquin, effondrée. À Saint-Ouen, Thérèse fait la malade pour ne pas se trahir, et le procès-verbal, appuyé par Olivier, présente Laurent comme l’ami qui s’est jeté à l’eau pour sauver Camille. Dans le fiacre du retour, les amants se serrent la main dans l’ombre."
+    },
+    {
+      "id": "ch13",
+      "label": "Chapitre XIII",
+      "file": "sources/therese-raquin/13.txt",
+      "words": 2152,
+      "summary": "Le lendemain, Laurent examine la plaie de son cou. Comme le corps n’a pas été retrouvé, il passe chaque matin à la Morgue, dont le chapitre décrit longuement les cadavres et les visiteurs. Après plus d’une semaine, il y reconnaît Camille, resté quinze jours dans l’eau ; on l’enterre et l’acte de décès est dressé."
+    },
+    {
+      "id": "ch14",
+      "label": "Chapitre XIV",
+      "file": "sources/therese-raquin/14.txt",
+      "words": 829,
+      "summary": "La boutique reste fermée trois jours, pendant lesquels Madame Raquin et Thérèse restent couchées, chacune dans sa chambre, veillées par Suzanne. Le troisième jour, Thérèse se lève et va trouver sa tante, qui l’embrasse en pleurant son fils. La vieille mercière, aux jambes désormais alourdies, se réinstalle derrière le comptoir."
+    },
+    {
+      "id": "ch15",
+      "label": "Chapitre XV",
+      "file": "sources/therese-raquin/15.txt",
+      "words": 488,
+      "summary": "Laurent revient tous les deux ou trois jours, et Madame Raquin voit en lui l’homme qui a voulu sauver son fils. Un jeudi, Michaud, Grivet, Olivier et Suzanne reprennent leurs habitudes ; Madame Raquin pleure devant la place vide de Camille, puis l’on joue. Laurent lit dans le regard de Thérèse, vêtue de noir, qu’elle lui appartient toujours."
+    },
+    {
+      "id": "ch16",
+      "label": "Chapitre XVI",
+      "file": "sources/therese-raquin/16.txt",
+      "words": 2460,
+      "summary": "Quinze mois passent sans que les amants cherchent à se voir seuls. Thérèse se met à lire des romans et s’éprend une semaine d’un étudiant du voisinage, tandis que Laurent engraisse et garde près d’un an pour maîtresse un modèle rencontré chez un ami peintre. Quand le modèle le quitte, son désir de Thérèse revient ; elle refuse de le recevoir dans sa chambre et lui répond qu’ils doivent d’abord se marier."
+    },
+    {
+      "id": "ch17",
+      "label": "Chapitre XVII",
+      "file": "sources/therese-raquin/17.txt",
+      "words": 2690,
+      "summary": "Rentré chez lui, Laurent a peur pour la première fois : il n’ose traverser l’allée noire de son hôtel et fouille sa chambre. Dès qu’il s’assoupit, il rêve qu’il va chez Thérèse et que c’est Camille, tel qu’il l’a vu à la Morgue, qui lui ouvre la porte. Le soir, il apprend que Thérèse aussi a passé une nuit de cauchemars."
+    },
+    {
+      "id": "ch18",
+      "label": "Chapitre XVIII",
+      "file": "sources/therese-raquin/18.txt",
+      "words": 1802,
+      "summary": "Thérèse a vu elle aussi le noyé, et les deux complices se sentent liés l’un à l’autre. Pour ne pas éveiller de soupçons, ils décident de faire proposer leur mariage par Madame Raquin et les invités du jeudi. Les nuits de terreur se multiplient, et Laurent refait ses calculs : l’héritage de son père tarde, alors que l’argent de Madame Raquin lui permettrait de ne plus travailler."
+    },
+    {
+      "id": "ch19",
+      "label": "Chapitre XIX",
+      "file": "sources/therese-raquin/19.txt",
+      "words": 3221,
+      "summary": "Thérèse joue la veuve qui dépérit ; Michaud conseille de la remarier, puis désigne Laurent. Madame Raquin y voit le moyen de garder près d’elle l’ami de son fils, et chacun des complices fait mine de céder par dévouement. Laurent prétend que Camille, en tombant à l’eau, lui a confié sa femme, et Madame Raquin met toute sa fortune au nom de Thérèse."
+    },
+    {
+      "id": "ch20",
+      "label": "Chapitre XX",
+      "file": "sources/therese-raquin/20.txt",
+      "words": 1498,
+      "summary": "Le mariage a lieu en décembre, à la mairie puis à l’église. Toute la journée, le faux-col de Laurent frotte la cicatrice de la morsure. Après un repas de noces sans gaieté, où Grivet boit aux enfants à venir, les invités raccompagnent les époux jusqu’à la chambre."
+    },
+    {
+      "id": "ch21",
+      "label": "Chapitre XXI",
+      "file": "sources/therese-raquin/21.txt",
+      "words": 3821,
+      "summary": "Seuls dans la chambre, les époux n’éprouvent aucun désir et revivent en silence le meurtre. Thérèse refuse d’embrasser la cicatrice, que Laurent lui fait baiser de force ; il croit ensuite voir Camille dans un coin, mais ce n’est que son portrait resté au mur. Un grattement à la petite porte les terrifie : c’est le chat François. Ils attendent le jour sans se coucher."
+    },
+    {
+      "id": "ch22",
+      "label": "Chapitre XXII",
+      "file": "sources/therese-raquin/22.txt",
+      "words": 2363,
+      "summary": "Les nuits suivantes sont pires : les époux veillent devant le feu, puis s’étendent aux deux bords du lit, persuadés que le cadavre de Camille est couché entre eux. Le narrateur explique comment le tempérament sanguin de Laurent est devenu nerveux et précise que ses remords sont seulement physiques. Laurent se demande comment tuer Camille une seconde fois."
+    },
+    {
+      "id": "ch23",
+      "label": "Chapitre XXIII",
+      "file": "sources/therese-raquin/23.txt",
+      "words": 955,
+      "summary": "Une nuit, Laurent prend Thérèse de force dans ses bras pour chasser le spectre. Leurs étreintes tournent à la lutte douloureuse autour de la cicatrice, que Thérèse est tentée de mordre. Vaincus, ils comprennent qu’ils n’oseront plus s’embrasser."
+    },
+    {
+      "id": "ch24",
+      "label": "Chapitre XXIV",
+      "file": "sources/therese-raquin/24.txt",
+      "words": 2755,
+      "summary": "Les jeudis reprennent avec gaieté, et Laurent convainc Thérèse de garder ces invités, qui les protègent de tout soupçon. Le jour, chacun respire, Thérèse en faisant le ménage, Laurent à son bureau ; le soir, la peur revient, et seule la présence de Madame Raquin les apaise. Celle-ci commence à être paralysée, tandis que tout le passage les cite comme un ménage modèle."
+    },
+    {
+      "id": "ch25",
+      "label": "Chapitre XXV",
+      "file": "sources/therese-raquin/25.txt",
+      "words": 2785,
+      "summary": "Quatre mois après le mariage, Laurent quitte son emploi et loue un petit atelier rue Mazarine, payé sur les rentes de Thérèse. Un ancien camarade peintre découvre qu’il a désormais du talent, mais remarque que toutes ses têtes d’étude se ressemblent. Laurent comprend qu’elles ressemblent toutes à Camille et qu’il ne peut plus dessiner d’autre visage."
+    },
+    {
+      "id": "ch26",
+      "label": "Chapitre XXVI",
+      "file": "sources/therese-raquin/26.txt",
+      "words": 3066,
+      "summary": "Madame Raquin est frappée d’une paralysie complète : elle ne peut plus parler ni bouger, seuls ses yeux restent vivants. Les époux la gardent près d’eux pour ne pas être seuls, et Grivet prétend lire ses désirs dans son regard. Un soir, au cours d’une crise, Laurent et Thérèse laissent échapper des aveux, et Madame Raquin comprend qu’ils ont tué son fils."
+    },
+    {
+      "id": "ch27",
+      "label": "Chapitre XXVII",
+      "file": "sources/therese-raquin/27.txt",
+      "words": 1517,
+      "summary": "Le jeudi suivant, Madame Raquin parvient à lever la main jusqu’à la toile cirée et à y tracer des lettres du bout du doigt. Les invités déchiffrent le début d’une phrase qui nomme les deux époux, mais la paralysie revient avant la fin. Grivet complète la phrase à sa façon, et tous louent les soins que le couple donne à la vieille dame."
+    },
+    {
+      "id": "ch28",
+      "label": "Chapitre XXVIII",
+      "file": "sources/therese-raquin/28.txt",
+      "words": 2494,
+      "summary": "La haine s’installe entre les époux, et chaque soir une querelle éclate où chacun accuse l’autre du meurtre. Madame Raquin, immobile, apprend ainsi tous les détails du crime. Au cours d’une dispute, Laurent menace d’aller tout dire au procureur impérial et lève la main sur Thérèse."
+    },
+    {
+      "id": "ch29",
+      "label": "Chapitre XXIX",
+      "file": "sources/therese-raquin/29.txt",
+      "words": 2890,
+      "summary": "Thérèse joue désormais la comédie du remords : elle s’agenouille devant sa tante, l’embrasse et prétend avoir obtenu son pardon. Devant Laurent, elle fait l’éloge de Camille et le traite d’assassin. Les querelles se terminent par des coups."
+    },
+    {
+      "id": "ch30",
+      "label": "Chapitre XXX",
+      "file": "sources/therese-raquin/30.txt",
+      "words": 3151,
+      "summary": "Madame Raquin tente de se laisser mourir de faim, puis y renonce pour assister au châtiment des coupables. Thérèse laisse la boutique perdre ses clientes, fait une fausse couche après s’être fait frapper exprès par Laurent et sort souvent sans dire où elle va. Laurent, désœuvré, tue le chat François en le jetant contre la muraille d’en face, puis se met à craindre que Thérèse ne le dénonce."
+    },
+    {
+      "id": "ch31",
+      "label": "Chapitre XXXI",
+      "file": "sources/therese-raquin/31.txt",
+      "words": 3229,
+      "summary": "Laurent suit Thérèse et découvre qu’elle a un amant au quartier Latin, ce qui le rassure. Il obtient d’elle cinq mille francs après une scène où chacun menace d’aller chez le commissaire, et tous deux essaient en vain la débauche. Ils finissent par s’épier sans cesse, et chacun prépare en secret la mort de l’autre : Laurent vole un poison, Thérèse fait aiguiser un couteau de cuisine."
+    },
+    {
+      "id": "ch32",
+      "label": "Chapitre XXXII",
+      "file": "sources/therese-raquin/32.txt",
+      "words": 1224,
+      "summary": "Le jeudi suivant, la soirée est particulièrement gaie, et les invités repartent convaincus de quitter un ménage heureux. Restés seuls, Laurent verse le poison dans le verre d’eau sucrée pendant que Thérèse glisse le couteau dans sa poche, et chacun surprend le geste de l’autre. Ils éclatent en sanglots, boivent chacun la moitié du verre et meurent sous les yeux de Madame Raquin."
+    }
+  ],
+  "intro": [
+    "Thérèse Raquin est un roman d’Émile Zola. Il développe une nouvelle parue dans Le Figaro en décembre 1866 ; le texte paraît d’abord dans la revue L’Artiste, d’août à octobre 1867, sous le titre Un mariage d’amour, puis en volume chez Albert Lacroix à la fin de 1867, sous son titre définitif. Le roman raconte un adultère, un meurtre maquillé en accident, puis la lente destruction des deux coupables. La critique ayant crié à l’immoralité, Zola ajoute à la deuxième édition, en 1868, une préface où il écrit avoir voulu « étudier des tempéraments et non des caractères ». Le texte suivi ici est celui de cette deuxième édition ; la préface n’est pas découpée en unité, mais elle se lit utilement après le roman.",
+    "Pour l’objet d’étude consacré au roman et au récit, observez comment Zola explique les actes de ses personnages par le corps : le sang de Laurent, les nerfs de Thérèse, la maladie de Camille puis la paralysie de Madame Raquin. Suivez aussi les motifs qui reviennent d’un chapitre à l’autre (la morsure, le portrait, le chat François, la Seine) et le rôle des invités du jeudi, qui ne voient jamais ce qui se passe sous leurs yeux."
+  ],
+  "characters": [
+    {
+      "name": "Thérèse Raquin",
+      "role": "nièce de Madame Raquin et fille du capitaine Degans ; épouse de Camille, puis de Laurent."
+    },
+    {
+      "name": "Camille Raquin",
+      "role": "fils maladif de Madame Raquin, cousin et premier mari de Thérèse, employé au chemin de fer d’Orléans."
+    },
+    {
+      "name": "Madame Raquin",
+      "role": "ancienne mercière de Vernon, mère de Camille et tante de Thérèse ; elle tient la boutique du passage."
+    },
+    {
+      "name": "Laurent",
+      "role": "camarade d’enfance de Camille, fils d’un paysan, peintre manqué devenu employé ; amant de Thérèse."
+    },
+    {
+      "name": "Michaud",
+      "role": "ancien commissaire de police de Vernon, fidèle des soirées du jeudi."
+    },
+    {
+      "name": "Olivier Michaud",
+      "role": "fils de Michaud, employé à la préfecture de police."
+    },
+    {
+      "name": "Suzanne",
+      "role": "femme d’Olivier, pâle et effacée, qui se lie avec Thérèse."
+    },
+    {
+      "name": "Grivet",
+      "role": "vieil employé du chemin de fer d’Orléans, collègue de Camille, joueur de dominos."
+    },
+    {
+      "name": "François",
+      "role": "le gros chat tigré que Madame Raquin a amené de Vernon."
+    }
+  ],
+  "passages": [
+    {
+      "unit": "ch01",
+      "ref": "Chapitre I",
+      "title": "Le passage du Pont-Neuf",
+      "quote": "Au bout de la rue Guénégaud, lorsqu’on vient des quais, on trouve le passage du Pont-Neuf, une sorte de corridor étroit et sombre qui va de la rue Mazarine à la rue de Seine.",
+      "note": "Le roman commence par un lieu, avant les personnages. La description, précise comme un plan (rues réelles, dimensions, lumière), installe le décor humide et sombre que Thérèse comparera bientôt à une fosse : un bon point de départ pour étudier la fonction de la description dans le roman réaliste."
+    },
+    {
+      "unit": "ch11",
+      "ref": "Chapitre XI",
+      "title": "La morsure",
+      "quote": "Comme il penchait la tête, découvrant le cou, sa victime, folle de rage et d’épouvante, se tordit, avança les dents et les enfonça dans ce cou.",
+      "note": "Le meurtre tient en quelques lignes, racontées par les gestes. La morsure laisse une cicatrice qui revient tout au long du roman, jusqu’à la dernière page : ce motif inscrit le crime sur le corps même du meurtrier."
+    },
+    {
+      "unit": "ch13",
+      "ref": "Chapitre XIII",
+      "title": "La Morgue",
+      "quote": "La morgue est un spectacle à la portée de toutes les bourses, que se payent gratuitement les passants pauvres ou riches. La porte est ouverte, entre qui veut.",
+      "note": "Pendant que Laurent cherche le corps de Camille, le narrateur décrit la foule qui vient regarder les noyés comme au théâtre : ouvriers, dames, gamins. Le drame d’un homme s’élargit ici en tableau de la société parisienne."
+    },
+    {
+      "unit": "ch22",
+      "ref": "Chapitre XXII",
+      "title": "Des remords physiques",
+      "quote": "Ses remords étaient purement physiques. Son corps, ses nerfs irrités et sa chair tremblante avaient seuls peur du noyé. Sa conscience n’entrait pour rien dans ses terreurs",
+      "note": "Ces phrases éclairent le projet annoncé dans la préface de 1868 : étudier des tempéraments. Laurent n’éprouve aucun regret moral, sa peur vient du corps et des nerfs. Utile pour discuter, à l’oral, la différence entre remords et châtiment dans le roman."
+    },
+    {
+      "unit": "ch27",
+      "ref": "Chapitre XXVII",
+      "title": "La main de Madame Raquin",
+      "quote": "C’est parfait, je lis très-bien, reprit Olivier au bout d’un instant, en regardant les époux. Votre tante écrit vos deux noms : « Thérèse et Laurent… »",
+      "note": "Scène de suspense construite sur l’ironie : un policier et un ancien commissaire ont la vérité sous les yeux et ne la lisent pas jusqu’au bout. Le lecteur, qui sait tout, suit chaque lettre avec les meurtriers."
+    },
+    {
+      "unit": "ch32",
+      "ref": "Chapitre XXXII",
+      "title": "Le dernier regard",
+      "quote": "Et, pendant près de douze heures, jusqu’au lendemain vers midi, madame Raquin, roide et muette, les contempla à ses pieds, ne pouvant se rassasier les yeux, les écrasant de regards lourds.",
+      "note": "Dernière phrase du roman. Le châtiment ne vient ni de la police ni de la justice : les deux meurtriers se tuent eux-mêmes, sous les yeux de la seule personne qui sait. Immobile et muette, Madame Raquin devient un témoin et un juge."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "unit": "ch02",
+      "ref": "Chapitre II",
+      "question": "Dans quelle ville d’Algérie Thérèse est-elle née, d’après ce que Madame Raquin apprend de son frère ?",
+      "answer": "Oran",
+      "evidence": "Elle sut vaguement que la chère petite était née à Oran et qu’elle avait pour mère une femme indigène d’une grande beauté."
+    },
+    {
+      "id": "q2",
+      "unit": "ch10",
+      "ref": "Chapitre X",
+      "question": "Dans l’histoire racontée par Grivet, quel oiseau avait volé le couvert d’argent ?",
+      "answer": "pie",
+      "evidence": "C’était une pie qui était la voleuse."
+    },
+    {
+      "id": "q3",
+      "unit": "ch20",
+      "ref": "Chapitre XX",
+      "question": "Sur les hauteurs de quel quartier de Paris a lieu le repas de noces de Thérèse et de Laurent ?",
+      "answer": "Belleville",
+      "evidence": "Il avait été décidé que le repas se ferait en famille, dans un petit restaurant, sur les hauteurs de Belleville."
+    },
+    {
+      "id": "q4",
+      "unit": "ch25",
+      "ref": "Chapitre XXV",
+      "question": "Dans quel musée Laurent prétend-il avoir passé la journée, le soir où il n’a pas ouvert la porte de son atelier à Thérèse ?",
+      "answer": "Louvre",
+      "evidence": "il lui dit le soir qu’il avait passé la journée au musée du Louvre."
+    },
+    {
+      "id": "q5",
+      "unit": "ch31",
+      "ref": "Chapitre XXXI",
+      "question": "Quelle boisson Thérèse se fait-elle servir à la terrasse du café, près de la place Saint-Michel ?",
+      "answer": "absinthe",
+      "evidence": "Puis elle se fit servir une absinthe."
+    }
+  ],
+  "readingTips": [
+    "Le roman compte près de 68 000 mots répartis en 32 chapitres courts : comptez cinq à six heures de lecture. Les onze premiers chapitres mènent au meurtre, les suivants en racontent les conséquences.",
+    "Certains chapitres sont durs à lire : la Morgue (XIII), la nuit de noces (XXI), les nuits suivantes (XXII et XXIII). Ne les sautez pas : c’est là que le roman montre ce que le crime fait aux corps.",
+    "Notez les indications de durée (huit mois, quinze mois, quatre mois après le mariage) : le récit avance par bonds, et il est facile de perdre le fil du temps.",
+    "Repérez chaque mention de la cicatrice au cou de Laurent : de la barque à la dernière page, elle relie tout le roman."
+  ],
+  "updated": "2026-10-16"
+}

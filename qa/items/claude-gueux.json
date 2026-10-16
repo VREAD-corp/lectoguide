@@ -1,0 +1,91 @@
+{
+  "set": "lectoguide/claude-gueux",
+  "coldGate": "summary",
+  "title": "Claude Gueux",
+  "author": "Victor Hugo",
+  "language": "fr",
+  "units": [
+    {
+      "id": "p1",
+      "label": "Partie 1 (§ 1 à 32)",
+      "file": "../../sources/claude-gueux/01.txt",
+      "summary": "Un hiver où l’ouvrage manque, Claude Gueux, ouvrier parisien qui ne sait pas lire, vole pour nourrir sa compagne et leur enfant ; il est condamné à cinq ans de prison et envoyé à la maison centrale de Clairvaux. Le narrateur décrit sa dignité, puis le directeur des ateliers, homme borné et obstiné. En quelques mois, Claude prend un grand ascendant sur les autres détenus. Grand mangeur, il a toujours faim, jusqu’au jour où un jeune détenu, Albin, lui propose de partager sa ration ; une amitié étroite naît entre eux."
+    },
+    {
+      "id": "p2",
+      "label": "Partie 2 (§ 33 à 93)",
+      "file": "../../sources/claude-gueux/02.txt",
+      "summary": "Jaloux de l’autorité de Claude sur les détenus, le directeur, M. D., fait changer Albin de quartier sans donner de raison. Claude le prie de lui rendre son ami et n’obtient que des refus. Chaque soir, il lui redemande Albin pendant la ronde ; le 25 octobre 1831, il lui fixe un délai jusqu’au 4 novembre. Pendant ces neuf jours, il continue de l’avertir et passe vingt-quatre heures au cachot."
+    },
+    {
+      "id": "p3",
+      "label": "Partie 3 (§ 94 à 172)",
+      "file": "../../sources/claude-gueux/03.txt",
+      "summary": "Le 4 novembre, Claude prend les ciseaux de couturière qui lui restent de sa compagne et se fait prêter une petite hache à l’atelier des menuisiers. Le soir, enfermé avec quatre-vingt-un détenus, il leur explique sa décision et leur demande leur avis ; une seule voix lui conseille de parler une dernière fois au directeur. Il distribue ses affaires et attend la ronde de neuf heures. Le directeur refuse encore, et Claude le tue à coups de hache, puis se frappe avec les ciseaux."
+    },
+    {
+      "id": "p4",
+      "label": "Partie 4 (§ 173 à 217)",
+      "file": "../../sources/claude-gueux/04.txt",
+      "summary": "Claude survit à ses blessures et, après des mois de soins, il comparaît le 16 mars 1832 devant la cour d’assises de Troyes. Les détenus témoins ne parlent que lorsqu’il le leur ordonne, et Albin vient déposer. Claude se défend lui-même : il soutient qu’on l’a provoqué chaque jour pendant quatre ans, mais il est condamné à mort. Il refuse de s’évader, se pourvoit en cassation pour faire plaisir à une religieuse et, son pourvoi rejeté, il est exécuté le 8 juin 1832, un jour de marché."
+    },
+    {
+      "id": "p5",
+      "label": "Partie 5 (§ 218 à 244)",
+      "file": "../../sources/claude-gueux/05.txt",
+      "summary": "Le narrateur tire la leçon de cette histoire : la vie de Claude pose la question de l’éducation et celle de la peine. Il s’adresse aux députés et leur reproche de perdre leur temps en débats futiles pendant que le peuple souffre. Il leur demande de refaire le code pénal, de supprimer le bourreau et d’ouvrir des écoles. Il recommande enfin de répandre l’Évangile dans les villages pour donner au peuple de l’espérance."
+    }
+  ],
+  "items": [
+    {
+      "id": "q1",
+      "unit": "p1",
+      "type": "word",
+      "question": "Quel grand d’Espagne, riche de cinq cent mille moutons, le narrateur compare-t-il à Claude pour son appétit ?",
+      "answer": "Cotadilla",
+      "evidence": [
+        "M. de Cotadilla avait un de ces appétits-là, et en riait ; mais ce qui est une occasion de gaieté pour un duc grand d’Espagne qui a cinq cent mille moutons est une charge pour un ouvrier, et un malheur pour un prisonnier."
+      ]
+    },
+    {
+      "id": "q2",
+      "unit": "p2",
+      "type": "word",
+      "question": "Quel condamné, au lendemain de l’ultimatum, entend Claude dire qu’il craint un malheur pour M. D. ?",
+      "answer": "Pernot",
+      "evidence": [
+        "Le lendemain, le condamné Pernot aborda Claude, qui se promenait seul et pensif, laissant les autres prisonniers s’ébattre dans un petit carré de soleil à l’autre bout de la cour."
+      ]
+    },
+    {
+      "id": "q3",
+      "unit": "p3",
+      "type": "word",
+      "question": "À quel condamné Claude montre-t-il ses ciseaux, le matin du 4 novembre, en parlant de couper les barreaux ?",
+      "answer": "Ferrari",
+      "evidence": [
+        "Au moment où il traversait le vieux cloître déshonoré et blanchi à la chaux qui sert de promenoir l’hiver, il s’approcha du condamné Ferrari, qui regardait avec attention les énormes barreaux d’une croisée."
+      ]
+    },
+    {
+      "id": "q4",
+      "unit": "p4",
+      "type": "word",
+      "question": "De quelle maladie qui menace la ville parle-t-on pendant qu’on coupe les cheveux de Claude ?",
+      "answer": "choléra",
+      "evidence": [
+        "Pendant qu’on lui coupait les cheveux, quelqu’un parla, dans un coin du cachot, du choléra qui menaçait Troyes en ce moment."
+      ]
+    },
+    {
+      "id": "q5",
+      "unit": "p5",
+      "type": "word",
+      "question": "Quel journal le narrateur nomme-t-il en disant que l’Écriture sainte est plus populaire que lui ?",
+      "answer": "Constitutionnel",
+      "evidence": [
+        "Souvenez-vous qu’il y a un livre plus philosophique que le Compère Mathieu, plus populaire que le Constitutionnel, plus éternel que la charte de 1830 ; c’est l’écriture sainte."
+      ]
+    }
+  ]
+}

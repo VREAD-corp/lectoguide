@@ -1,0 +1,181 @@
+{
+  "slug": "la-venus-d-ille",
+  "title": "La Vénus d’Ille",
+  "author": "Prosper Mérimée",
+  "authorDates": "1803-1870",
+  "published": "1837",
+  "genre": "nouvelle fantastique",
+  "programme": "college",
+  "level": "Collège, souvent étudié en 4e",
+  "programmeNote": "Nouvelle fantastique souvent étudiée en 4e, en lecture intégrale.",
+  "source": {
+    "label": "Wikisource, d’après Colomba et autres contes et nouvelles, Charpentier, 1845",
+    "url": "https://fr.wikisource.org/wiki/Colomba_et_autres_contes_et_nouvelles/La_V%C3%A9nus_d%E2%80%99Ille",
+    "licence": "Transcription Wikisource, CC BY-SA 4.0"
+  },
+  "words": 10336,
+  "units": [
+    {
+      "id": "p1",
+      "label": "Partie 1 (§ 1 à 28)",
+      "file": "sources/la-venus-d-ille/01.txt",
+      "summary": "Le narrateur, un savant parisien qui visite le Roussillon, descend du Canigou vers la petite ville d’Ille avec un guide catalan. Il est recommandé par un ami à M. de Peyrehorade, antiquaire de la ville, dont le fils va bientôt épouser une jeune fille riche, mademoiselle de Puygarrig. Le guide raconte qu’il a déterré quinze jours plus tôt, avec un autre ouvrier, une grande statue de femme en métal sombre que les gens du pays appellent l’idole. Selon lui, elle a un air méchant : en la redressant, ils l’ont laissée retomber et elle a cassé la jambe de son camarade Jean Coll.",
+      "words": 1015
+    },
+    {
+      "id": "p2",
+      "label": "Partie 2 (§ 29 à 62)",
+      "file": "sources/la-venus-d-ille/02.txt",
+      "summary": "À Ille, le narrateur est reçu à souper par M. de Peyrehorade, vieillard vif et bavard, par sa femme, qui le gave de plats, et par leur fils Alphonse, vingt-six ans, grand joueur de paume, élégant mais raide et peu loquace. L’antiquaire promet de lui montrer sa statue, une Vénus selon lui, et parle d’inscriptions qu’il a étudiées ; sa femme, qui voulait la faire fondre pour l’église, la juge malfaisante. Le mariage doit avoir lieu le surlendemain. De la fenêtre de sa chambre, la nuit, le narrateur voit la statue au bord du jeu de paume : deux apprentis l’insultent, l’un lui lance une pierre et la reçoit en retour sur la tête.",
+      "words": 1936
+    },
+    {
+      "id": "p3",
+      "label": "Partie 3 (§ 63 à 128)",
+      "file": "sources/la-venus-d-ille/03.txt",
+      "summary": "Le lendemain matin, le narrateur découvre la statue : une Vénus de bronze d’une grande beauté, aux yeux incrustés d’argent, dont le visage exprime la méchanceté et l’ironie. M. de Peyrehorade lui fait lire une inscription latine sur le socle et une autre sur le bras, qu’il interprète à sa façon par une étymologie fantaisiste ; le narrateur, lui, imagine une offrande d’amant malheureux. Alphonse montre la bague de diamants, ancien bijou de famille, qu’il donnera à sa fiancée. Ce jour-là, au dîner chez les Puygarrig, le narrateur trouve la future mariée charmante et regrette qu’elle épouse un homme surtout intéressé par sa dot. Il apprend que le mariage aura lieu un vendredi, jour choisi par M. de Peyrehorade en l’honneur de Vénus.",
+      "words": 2982
+    },
+    {
+      "id": "p4",
+      "label": "Partie 4 (§ 129 à 193)",
+      "file": "sources/la-venus-d-ille/04.txt",
+      "summary": "Le matin des noces, Alphonse se joint à une partie de paume contre des muletiers espagnols. Gêné par sa bague, il la passe au doigt de la Vénus, gagne la partie et humilie le meilleur joueur adverse, un Aragonais, qui murmure une menace. Arrivé à Puygarrig, Alphonse s’aperçoit qu’il a oublié la bague et marie sa fiancée avec un autre anneau. Au souper de noces à Ille, M. de Peyrehorade chante des vers sur les deux Vénus de la maison, et Alphonse, pâle, boit beaucoup. Il confie au narrateur qu’il n’a pas pu reprendre sa bague, car la statue aurait replié le doigt. Le narrateur le croit ivre, mais accepte d’aller voir.",
+      "words": 2167
+    },
+    {
+      "id": "p5",
+      "label": "Partie 5 (§ 194 à 223)",
+      "file": "sources/la-venus-d-ille/05.txt",
+      "summary": "Sous la pluie, le narrateur renonce à aller voir la statue et monte se coucher ; la nuit, puis à l’aube, il entend des pas lourds dans l’escalier. Au matin, Alphonse est retrouvé mort dans la chambre nuptiale, la poitrine marquée comme par une étreinte de fer, la bague tombée sur le tapis ; la mariée est en proie à des convulsions. Le narrateur soupçonne l’Aragonais, mais celui-ci est relâché. La jeune veuve raconte au procureur du roi qu’une statue verdâtre s’est couchée près d’elle puis a serré son mari dans ses bras, et on la croit folle. Le narrateur quitte Ille ; M. de Peyrehorade meurt quelques mois plus tard, et un post-scriptum apprend que sa veuve a fait fondre la statue en cloche.",
+      "words": 2236
+    }
+  ],
+  "intro": [
+    "La Vénus d’Ille est une nouvelle de Prosper Mérimée publiée en 1837 dans la Revue des Deux Mondes, puis reprise en volume. Mérimée est alors inspecteur général des Monuments historiques : comme son narrateur, il parcourt la France pour décrire ses vestiges antiques et médiévaux, et il connaît le Roussillon où se passe l’histoire. La nouvelle est racontée à la première personne par un savant parisien, invité chez un antiquaire de province qui vient de déterrer une statue de Vénus en bronze. Le texte s’ouvre sur une épigraphe grecque tirée du Philopseudès de Lucien, un dialogue sur les histoires de prodiges. Il se lit en deux heures environ.",
+    "Le découpage proposé ici en cinq parties suit le calendrier du récit : l’arrivée, la première soirée, la découverte de la statue, le jour des noces, la nuit et l’enquête. En lisant, relevez les deux séries d’indices que Mérimée place côte à côte : ceux qui accusent la statue (les accidents, le doigt replié, les pas lourds) et ceux qui permettent une explication rationnelle (l’ivresse d’Alphonse, la menace de l’Aragonais). Le récit ne tranche jamais, et cette hésitation est au centre de l’étude du fantastique."
+  ],
+  "characters": [
+    {
+      "name": "Le narrateur",
+      "role": "savant parisien, amateur de monuments, témoin sceptique des événements"
+    },
+    {
+      "name": "M. de Peyrehorade",
+      "role": "antiquaire d’Ille, propriétaire de la statue, passionné par ses inscriptions"
+    },
+    {
+      "name": "Madame de Peyrehorade",
+      "role": "sa femme, maîtresse de maison pieuse qui se méfie de l’idole"
+    },
+    {
+      "name": "Alphonse de Peyrehorade",
+      "role": "leur fils, champion de paume, qui épouse mademoiselle de Puygarrig"
+    },
+    {
+      "name": "Mademoiselle de Puygarrig",
+      "role": "jeune fiancée riche, puis veuve d’Alphonse"
+    },
+    {
+      "name": "L'Aragonais",
+      "role": "muletier espagnol battu à la paume par Alphonse"
+    },
+    {
+      "name": "La Vénus",
+      "role": "statue de bronze déterrée dans la propriété, au visage méchant"
+    }
+  ],
+  "passages": [
+    {
+      "unit": "p1",
+      "ref": "Partie 1 (§ 1 à 28)",
+      "title": "Le regard de l’idole",
+      "quote": "Elle vous fixe avec ses grands yeux blancs… On dirait qu’elle vous dévisage. On baisse les yeux, oui, en la regardant.",
+      "note": "Le guide décrit la statue avant que le narrateur ne la voie. Le lecteur découvre la Vénus par la parole d’un homme du peuple, superstitieux, ce qui installe le doute dès les premières pages."
+    },
+    {
+      "unit": "p2",
+      "ref": "Partie 2 (§ 29 à 62)",
+      "title": "La pierre renvoyée",
+      "quote": "Et mes deux polissons prirent la fuite à toutes jambes. Il était évident que la pierre avait rebondi sur le métal, et avait puni ce drôle de l’outrage qu’il faisait à la déesse.",
+      "note": "L’apprenti croit que la statue lui a rejeté la pierre ; le narrateur donne aussitôt une explication physique. Ce double regard, surnaturel et rationnel, revient à chaque étape de la nouvelle."
+    },
+    {
+      "unit": "p3",
+      "ref": "Partie 3 (§ 63 à 128)",
+      "title": "Un visage cruel",
+      "quote": "Dédain, ironie, cruauté, se lisaient sur ce visage d’une incroyable beauté cependant.",
+      "note": "Le portrait de la Vénus associe beauté et méchanceté. L’énumération de trois noms abstraits et le mot « cependant » placé en fin de phrase soulignent ce contraste, qui fait de la statue une sorte de personnage."
+    },
+    {
+      "unit": "p4",
+      "ref": "Partie 4 (§ 129 à 193)",
+      "title": "La bague au doigt de la statue",
+      "quote": "Il ôta, non sans peine, sa bague de diamants : je m’approchais pour la recevoir ; mais il me prévint, courut à la Vénus, lui passa la bague au doigt annulaire, et reprit son poste à la tête des Illois.",
+      "note": "Geste rapide et sans réflexion, que le narrateur rapporte sans commentaire. Il prend tout son sens plus tard : Alphonse a passé à la statue l’anneau destiné à sa femme."
+    },
+    {
+      "unit": "p4",
+      "ref": "Partie 4 (§ 129 à 193)",
+      "title": "Le doigt replié",
+      "quote": "Le doigt de la Vénus est retiré, reployé ; elle serre la main, m’entendez-vous ?… C’est ma femme, apparemment, puisque je lui ai donné mon anneau… Elle ne veut plus le rendre.",
+      "note": "Le récit d’Alphonse, haché par les points de suspension, mêle peur et ivresse. Le lecteur ne sait pas s’il faut le croire, et le narrateur lui-même hésite avant de conclure à l’ivresse."
+    },
+    {
+      "unit": "p5",
+      "ref": "Partie 5 (§ 194 à 223)",
+      "title": "Le témoignage de la mariée",
+      "quote": "et vit, dit-elle, son mari à genoux auprès du lit, la tête à la hauteur de l’oreiller, entre les bras d’une espèce de géant verdâtre qui l’étreignait avec force.",
+      "note": "La scène du meurtre n’est connue que par un témoignage rapporté, celui d’une femme que le procureur juge folle. Ce récit enchâssé, à deux degrés de distance, garde l’explication surnaturelle possible sans jamais la confirmer."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "unit": "p1",
+      "ref": "Partie 1 (§ 1 à 28)",
+      "question": "Au pied de quel arbre les ouvriers ont-ils découvert la statue en creusant ?",
+      "answer": "olivier",
+      "evidence": "C’est bien avant dans la terre, au pied d’un olivier, que nous l’avons eue."
+    },
+    {
+      "id": "q2",
+      "unit": "p2",
+      "ref": "Partie 2 (§ 29 à 62)",
+      "question": "Quel outil un certain Étienne a-t-il cassé en essayant d’entamer la statue ?",
+      "answer": "lime",
+      "evidence": "Elle est de cuivre, et si dure qu’Étienne a cassé sa lime dessus, essayant de l’entamer."
+    },
+    {
+      "id": "q3",
+      "unit": "p3",
+      "ref": "Partie 3 (§ 63 à 128)",
+      "question": "Quel village voisin l’antiquaire croit-il reconnaître dans l’inscription gravée sur le bras de la statue ?",
+      "answer": "Boulternère",
+      "evidence": "il y a un village qui s’appelle Boulternère. C’est une corruption du mot latin TVRBVLNERA."
+    },
+    {
+      "id": "q4",
+      "unit": "p4",
+      "ref": "Partie 4 (§ 129 à 193)",
+      "question": "De quel vin, presque aussi fort que l’eau-de-vie, Alphonse boit-il sans arrêt au souper ?",
+      "answer": "Collioure",
+      "evidence": "Il buvait à chaque instant du vieux vin de Collioure presque aussi fort que de l’eau-de-vie."
+    },
+    {
+      "id": "q5",
+      "unit": "p5",
+      "ref": "Partie 5 (§ 194 à 223)",
+      "question": "Dans quelle ville, d’après le narrateur, des braves assommaient leurs victimes avec des sacs de cuir pleins de sable ?",
+      "answer": "Valence",
+      "evidence": "qu’à Valence des braves se servaient de longs sacs de cuir remplis de sable fin pour assommer les gens dont on leur avait payé la mort."
+    }
+  ],
+  "readingTips": [
+    "La nouvelle n’a pas de chapitres : le découpage en cinq parties est celui de ce guide, avec les numéros de paragraphes pour se repérer dans le texte.",
+    "Les discussions savantes de la troisième partie (latin, étymologies) peuvent ralentir la lecture. Il n’est pas nécessaire de tout comprendre, mais retenez que les inscriptions parlent d’amour et de danger.",
+    "Notez les heures et les bruits dans la cinquième partie : le récit de la nuit repose sur ce que le narrateur entend, pas sur ce qu’il voit.",
+    "Relisez le post-scriptum à la fin : il ajoute un dernier fait étrange, sans l’expliquer."
+  ],
+  "updated": "2026-10-16"
+}

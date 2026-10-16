@@ -1,0 +1,193 @@
+{
+  "slug": "le-cid",
+  "title": "Le Cid",
+  "author": "Pierre Corneille",
+  "authorDates": "1606-1684",
+  "published": "1637",
+  "genre": "théâtre (tragi-comédie, puis tragédie, en cinq actes et en vers)",
+  "programme": "college",
+  "level": "4e",
+  "programmeNote": "Au collège, Le Cid correspond à l’entrée de 4e « Individu et société : confrontations de valeurs ? » du programme de cycle 4 de 2015, qui prévoit l’étude d’une tragédie ou d’une tragi-comédie du XVIIe siècle en lecture intégrale ; ce programme s’applique encore en 4e en 2026-2027. Le nouveau programme de cycle 4 (arrêté du 18 février 2026, BO n° 10 du 5 mars 2026) entre en vigueur en 4e à la rentrée 2027, avec l’entrée « Obéir, désobéir, trahir ? Conflits de valeurs sur scène (théâtre) ». Aucun de ces textes n’impose une œuvre précise.",
+  "source": {
+    "label": "Wikisource, d'après Œuvres de P. Corneille, édition Ch. Marty-Laveaux, Hachette, 1862, tome III (texte de 1682, qui intègre les remaniements de 1660)",
+    "url": "https://fr.wikisource.org/wiki/Le_Cid/%C3%89dition_Marty-Laveaux",
+    "licence": "Transcription Wikisource, CC BY-SA 4.0"
+  },
+  "words": 15979,
+  "units": [
+    {
+      "id": "acte1",
+      "label": "Acte I",
+      "file": "sources/le-cid/01.txt",
+      "words": 2994,
+      "summary": "À Séville, Elvire rapporte à Chimène que son père, le comte de Gormas, estime Rodrigue et devrait approuver leur amour. L’Infante avoue à sa gouvernante Léonor qu’elle aime elle aussi Rodrigue, mais qu’elle s’interdit cet amour pour un simple cavalier et souhaite le mariage de Chimène pour en guérir. Le roi choisit don Diègue, père de Rodrigue, comme gouverneur de son fils ; le Comte, qui espérait cette charge, se querelle avec lui et lui donne un soufflet. Trop vieux pour se défendre, don Diègue demande à Rodrigue de le venger et lui révèle le nom de l’offenseur : le père de Chimène. Seul, Rodrigue hésite entre son amour et son honneur, puis décide de venger son père."
+    },
+    {
+      "id": "acte2",
+      "label": "Acte II",
+      "file": "sources/le-cid/02.txt",
+      "words": 3475,
+      "summary": "Le Comte refuse de faire au roi les excuses que don Arias vient lui demander. Rodrigue le provoque en duel ; le Comte, qui l’estimait et le destinait à sa fille, tente de l’en détourner, puis accepte. Chimène confie ses craintes à l’Infante et apprend par un page que les deux hommes sont sortis ensemble ; restée seule avec Léonor, l’Infante se prend à rêver d’un Rodrigue vainqueur et conquérant. Le roi, irrité contre le Comte, ordonne son arrestation et évoque la menace d’une flotte maure ; on lui annonce alors la mort du Comte. Chimène vient demander justice contre Rodrigue, don Diègue défend son fils, et le roi remet sa décision à son conseil."
+    },
+    {
+      "id": "acte3",
+      "label": "Acte III",
+      "file": "sources/le-cid/03.txt",
+      "words": 3173,
+      "summary": "Rodrigue se rend chez Chimène pour s’offrir à sa vengeance, et Elvire le fait cacher. Don Sanche, qui aime Chimène, lui propose de la venger par les armes ; elle garde son offre en réserve. Seule avec Elvire, Chimène avoue qu’elle aime toujours Rodrigue mais qu’elle le poursuivra, quitte à mourir après lui. Rodrigue paraît et lui demande la mort ; elle refuse de le tuer elle-même et lui avoue qu’elle ne le hait pas. Dans la nuit, don Diègue retrouve son fils, le félicite et l’envoie, à la tête de cinq cents amis, repousser les Mores qui remontent le fleuve."
+    },
+    {
+      "id": "acte4",
+      "label": "Acte IV",
+      "file": "sources/le-cid/04.txt",
+      "words": 3144,
+      "summary": "Elvire apprend à Chimène que Rodrigue a vaincu les Mores et fait deux rois prisonniers. Chimène, en habits de deuil, maintient sa poursuite malgré l’Infante, qui lui demande d’épargner le défenseur du royaume. Le roi accueille Rodrigue, que les rois captifs ont nommé leur Cid, et l’écoute raconter le combat de la nuit. Pour éprouver Chimène, il lui annonce que Rodrigue est mort : elle s’évanouit, puis se reprend et réclame un combat singulier, en promettant d’épouser le vainqueur. Don Sanche se propose comme champion, et le roi décide que Chimène épousera le vainqueur, quel qu’il soit."
+    },
+    {
+      "id": "acte5",
+      "label": "Acte V",
+      "file": "sources/le-cid/05.txt",
+      "words": 3193,
+      "summary": "Rodrigue vient dire adieu à Chimène : il compte se laisser tuer par don Sanche. Chimène l’adjure de se défendre et finit par lui demander de vaincre pour la délivrer de ce mariage. L’Infante renonce pour de bon à Rodrigue. Quand don Sanche revient du combat, Chimène le croit vainqueur, l’accable de reproches et avoue devant le roi son amour pour Rodrigue. Le roi lui apprend que Rodrigue a désarmé et épargné don Sanche ; il lui ordonne d’épouser Rodrigue mais lui laisse un an, et envoie Rodrigue porter la guerre chez les Mores."
+    }
+  ],
+  "intro": [
+    "Le Cid est une pièce en cinq actes et en vers de Pierre Corneille, créée à Paris par la troupe de Mondory à la fin de 1636 ou au tout début de 1637 et publiée en 1637. Corneille part d’une pièce espagnole de Guillén de Castro, Las Mocedades del Cid, consacrée à la jeunesse de Rodrigue. Le succès est immense et déclenche une querelle : Scudéry attaque la pièce, et l’Académie française rend son jugement dans les Sentiments de l’Académie française sur la tragi-comédie du Cid. Appelée tragi-comédie dans les premières éditions, la pièce devient tragédie dans l’édition de 1648, et Corneille la remanie en 1660. Le texte donné ici est celui de 1682, dernière édition revue par l’auteur : la première scène, par exemple, n’est pas celle de 1637.",
+    "Pour l’entrée de 4e sur les confrontations de valeurs, suivez le conflit entre l’amour et l’honneur, que vivent tour à tour Rodrigue, Chimène et l’Infante, et le rôle du roi, qui doit concilier la justice, la raison d’État et le bonheur des deux amants. Notez comment chaque acte relance le dilemme : la vengeance du père, la poursuite de Chimène, la victoire sur les Mores, le duel judiciaire. Le dénouement ne tranche pas tout : à vous de dire s’il réconcilie vraiment l’amour et le devoir."
+  ],
+  "characters": [
+    {
+      "name": "Don Rodrigue",
+      "role": "Jeune noble castillan, fils de don Diègue, qui aime Chimène et doit venger l’honneur de son père."
+    },
+    {
+      "name": "Chimène",
+      "role": "Fille du comte de Gormas, qui aime Rodrigue et se croit obligée de demander sa mort."
+    },
+    {
+      "name": "Don Diègue",
+      "role": "Père de Rodrigue, vieux guerrier choisi par le roi comme gouverneur du prince."
+    },
+    {
+      "name": "Le Comte (don Gomès, comte de Gormas)",
+      "role": "Père de Chimène, guerrier orgueilleux qui offense don Diègue."
+    },
+    {
+      "name": "Don Fernand",
+      "role": "Roi de Castille, qui doit juger entre les deux familles."
+    },
+    {
+      "name": "L'Infante (doña Urraque)",
+      "role": "Fille du roi, qui aime Rodrigue en secret et s’interdit cet amour."
+    },
+    {
+      "name": "Don Sanche",
+      "role": "Gentilhomme amoureux de Chimène, qui s’offre à la venger."
+    },
+    {
+      "name": "Elvire",
+      "role": "Gouvernante de Chimène."
+    },
+    {
+      "name": "Léonor",
+      "role": "Gouvernante de l’Infante."
+    },
+    {
+      "name": "Don Arias et don Alonse",
+      "role": "Gentilshommes castillans au service du roi."
+    }
+  ],
+  "passages": [
+    {
+      "unit": "acte1",
+      "ref": "Acte I, scène 4",
+      "title": "La plainte de don Diègue",
+      "quote": "Ô rage ! ô désespoir ! ô vieillesse ennemie !\nN’ai-je donc tant vécu que pour cette infamie ?\nEt ne suis-je blanchi dans les travaux guerriers\nQue pour voir en un jour flétrir tant de lauriers ?",
+      "note": "Seul après le soufflet, don Diègue exprime sa honte dans un monologue. Les exclamations et les questions rhétoriques traduisent l’indignation ; l’opposition entre une vie de gloire et un seul jour d’humiliation montre ce que vaut l’honneur dans cette société. Le monologue prépare la scène suivante, où il confie sa vengeance à son fils."
+    },
+    {
+      "unit": "acte1",
+      "ref": "Acte I, scène 6",
+      "title": "Les stances de Rodrigue",
+      "quote": "Père, maîtresse, honneur, amour,\nNoble et dure contrainte, aimable tyrannie,\nTous mes plaisirs sont morts, ou ma gloire ternie.",
+      "note": "Rodrigue délibère dans des stances, strophes aux vers de longueurs variées, qui tranchent avec les alexandrins de la pièce. L’énumération du premier vers résume le dilemme ; les alliances de mots (aimable tyrannie) disent qu’aucun choix n’est sans perte. Chaque strophe se termine sur le nom de Chimène, ce qui rend sensible ce que Rodrigue va sacrifier."
+    },
+    {
+      "unit": "acte2",
+      "ref": "Acte II, scène 2",
+      "title": "Le défi au Comte",
+      "quote": "Je suis jeune, il est vrai ; mais aux âmes bien nées\nLa valeur n’attend point le nombre des années.",
+      "note": "Face au Comte, qui le méprise pour sa jeunesse, Rodrigue répond par une maxime. Le duel commence par un duel verbal, en répliques brèves et en tutoiement provocateur. La formule oppose l’âge et la naissance : pour Rodrigue, la valeur est héritée du sang."
+    },
+    {
+      "unit": "acte3",
+      "ref": "Acte III, scène 4",
+      "title": "Chimène face à Rodrigue",
+      "quote": "Ah ! Rodrigue, il est vrai, quoique ton ennemie,\nJe ne puis te blâmer d’avoir fui l’infamie ;\nEt de quelque façon qu’éclatent mes douleurs,\nJe ne t’accuse point, je pleure mes malheurs.",
+      "note": "Chimène reconnaît que Rodrigue a agi en homme d’honneur, et conclut qu’elle doit agir de même en le poursuivant. Les deux amants se répondent avec les mêmes mots et les mêmes raisonnements : leur amour vient de leur commune idée de l’honneur. Un peu plus loin dans la scène, la litote « Va, je ne te hais point » avoue ce qu’elle ne peut dire."
+    },
+    {
+      "unit": "acte4",
+      "ref": "Acte IV, scène 3",
+      "title": "Le récit du combat",
+      "quote": "Nous partîmes cinq cents ; mais par un prompt renfort\nNous nous vîmes trois mille en arrivant au port,\nTant, à nous voir marcher avec un tel visage,\nLes plus épouvantés reprenoient de courage !",
+      "note": "Rodrigue raconte au roi la bataille de la nuit. Le récit, long de plusieurs dizaines de vers, remplace sur scène une action impossible à montrer ; il passe du passé simple au présent pour faire revivre le combat. Il fait de Rodrigue un héros épique, et c’est ce statut qui change la position du roi et de Chimène."
+    },
+    {
+      "unit": "acte5",
+      "ref": "Acte V, scène 7",
+      "title": "Le dénouement différé",
+      "quote": "Le temps assez souvent a rendu légitime\nCe qui sembloit d’abord ne se pouvoir sans crime :\nRodrigue t’a gagnée, et tu dois être à lui.",
+      "note": "Le roi tranche, mais il accorde un délai à Chimène et envoie Rodrigue combattre. Le mariage est promis sans être célébré : le temps doit rendre acceptable ce que l’honneur interdit encore. Ce dénouement suspendu se discute bien à l’oral : est-ce une fin heureuse ?"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "unit": "acte1",
+      "ref": "Acte I, scène 3",
+      "question": "D’après le Comte, quel royaume tremble avec Grenade lorsqu’il tire son arme ?",
+      "answer": "Aragon",
+      "evidence": "Grenade et l’Aragon tremblent quand ce fer brille ;"
+    },
+    {
+      "id": "q2",
+      "unit": "acte2",
+      "ref": "Acte II, scène 1",
+      "question": "Malgré tous ses lauriers, que don Arias conseille-t-il au Comte de craindre encore ?",
+      "answer": "foudre",
+      "evidence": "Avec tous vos lauriers, craignez encor le foudre."
+    },
+    {
+      "id": "q3",
+      "unit": "acte3",
+      "ref": "Acte III, scène 4",
+      "question": "Avec quel objet Rodrigue demande-t-il à Chimène de lui répondre quand il se présente chez elle ?",
+      "answer": "épée",
+      "evidence": "Après ne me réponds qu’avecque cette épée."
+    },
+    {
+      "id": "q4",
+      "unit": "acte4",
+      "ref": "Acte IV, scène 3",
+      "question": "Dans le récit de Rodrigue, combien de voiles ennemies apparaissent avec le flux ?",
+      "answer": "trente",
+      "evidence": "Enfin avec le flux nous fait voir trente voiles ;"
+    },
+    {
+      "id": "q5",
+      "unit": "acte5",
+      "ref": "Acte V, scène 6",
+      "question": "Croyant Rodrigue mort, en quel lieu Chimène demande-t-elle au roi de pouvoir pleurer jusqu’à son dernier soupir ?",
+      "answer": "cloître",
+      "evidence": "Qu’en un cloître sacré je pleure incessamment,"
+    }
+  ],
+  "readingTips": [
+    "La pièce compte environ 1 840 alexandrins : comptez un peu moins de deux heures. Lisez à voix haute les stances de Rodrigue (acte I, scène 6) et celles de l’Infante (acte V, scène 2), écrites dans un autre rythme.",
+    "Plusieurs mots ont au XVIIe siècle un sens plus fort qu’aujourd’hui : gloire (réputation, honneur), généreux (de race noble, au grand cœur), amant (celui qui aime et est aimé), ennui (tourment, désespoir). Notez-les quand vous les rencontrez.",
+    "L’orthographe suit l’édition ancienne (connoître, étoit, je l’avois) : lisez « oi » comme « ai ».",
+    "Le Comte est appelé ainsi presque partout, mais il s’agit de don Gomès, comte de Gormas, père de Chimène. Les scènes de l’Infante forment une intrigue secondaire : suivez-la, elle éclaire le thème du sacrifice."
+  ],
+  "updated": "2026-10-16"
+}

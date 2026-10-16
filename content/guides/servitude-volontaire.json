@@ -1,0 +1,192 @@
+{
+  "slug": "servitude-volontaire",
+  "title": "Discours de la servitude volontaire",
+  "author": "Étienne de La Boétie",
+  "authorDates": "1530-1563",
+  "published": "1574",
+  "genre": "discours (littérature d’idées)",
+  "programme": "bac",
+  "level": "Première, voies générale et technologique",
+  "programmeNote": "Œuvre inscrite au programme du baccalauréat de français pour l’épreuve anticipée de juin 2027 (session 2028) par la note de service MENE2518792N du 4 juillet 2025 (BO n° 30 du 24 juillet 2025), objet d’étude « littérature d’idées », voies générale et technologique.",
+  "source": {
+    "label": "Wikisource, d’après l’édition de Paul Bonnefon, Bossard, 1922 (orthographe modernisée par l’éditeur)",
+    "url": "https://fr.wikisource.org/wiki/Discours_de_la_servitude_volontaire/%C3%89dition_1922/Discours",
+    "licence": "Transcription Wikisource, CC BY-SA 4.0"
+  },
+  "words": 12639,
+  "units": [
+    {
+      "id": "p1",
+      "label": "Partie 1 (§ 1 à 10)",
+      "file": "sources/servitude-volontaire/01.txt",
+      "words": 2666,
+      "summary": "La Boétie part d’un vers d’Homère où Ulysse réclame un seul maître, puis pose sa question : comment tant d’hommes, de villes et de nations peuvent-ils endurer un tyran seul, qui n’a de puissance que celle qu’on lui donne ? Il écarte la lâcheté comme explication, car mille hommes ou un million ne peuvent avoir peur d’un seul. Il oppose la vaillance des Grecs qui combattaient les Perses pour leur liberté à la soumission des peuples asservis. Il affirme qu’il suffirait de ne plus servir pour être libre et s’adresse directement aux peuples qui se laissent dépouiller. Il annonce enfin qu’il va chercher comment cette volonté de servir s’est enracinée."
+    },
+    {
+      "id": "p2",
+      "label": "Partie 2 (§ 11 à 13)",
+      "file": "sources/servitude-volontaire/02.txt",
+      "words": 1396,
+      "summary": "Première étape de l’enquête : la liberté est naturelle. La nature a fait tous les hommes sur le même modèle et leur a donné la parole pour qu’ils se reconnaissent comme compagnons, si bien qu’elle n’a mis personne en servitude. L’auteur prend les bêtes à témoin : beaucoup meurent dès qu’on les capture, d’autres résistent de toutes leurs forces. Il distingue ensuite trois sortes de tyrans (élus par le peuple, conquérants par les armes, héritiers par la naissance) et conclut que leur façon de régner est presque la même."
+    },
+    {
+      "id": "p3",
+      "label": "Partie 3 (§ 14 à 18)",
+      "file": "sources/servitude-volontaire/03.txt",
+      "words": 2748,
+      "summary": "Des hommes qui naîtraient sans connaître ni la sujétion ni la liberté choisiraient d’obéir à la raison plutôt qu’à un homme. On perd la liberté par la contrainte ou par la tromperie, comme Syracuse, qui confia son armée à Denis et en fit malgré elle un tyran. Ceux qui naissent ensuite servent sans regret : la première raison de la servitude volontaire est la coutume, que l’auteur illustre par les deux chiens de Lycurgue, par la réponse de deux Spartiates à un dignitaire perse et par le jeune Caton chez le dictateur Sylla. Il note pourtant que des esprits instruits par l’étude n’oublient jamais la liberté, ce que le Grand Turc a compris en ne voulant guère de savants sur ses terres."
+    },
+    {
+      "id": "p4",
+      "label": "Partie 4 (§ 19 à 24)",
+      "file": "sources/servitude-volontaire/04.txt",
+      "words": 2712,
+      "summary": "Deuxième raison : sous les tyrans, les hommes deviennent lâches et perdent leur vaillance, comme l’avait remarqué Hippocrate. Les tyrans entretiennent cet abaissement : Cyrus soumet les Lydiens révoltés de Sardes en ouvrant tavernes et jeux publics, les empereurs romains distribuent blé, vin et festins, et le peuple de Rome manque de prendre le deuil de Néron. D’autres rois se cachent ou se donnent un air sacré, et les peuples croient à des miracles inventés. L’auteur évoque enfin les emblèmes de la monarchie française, qu’il refuse de discuter, et salue au passage Ronsard, Baïf et du Bellay."
+    },
+    {
+      "id": "p5",
+      "label": "Partie 5 (§ 25 à 29)",
+      "file": "sources/servitude-volontaire/05.txt",
+      "words": 2105,
+      "summary": "Le ressort de la tyrannie n’est pas la garde armée mais une chaîne de complices : cinq ou six favoris, qui en tiennent six cents, qui en tiennent six mille, jusqu’à des millions de gens qui trouvent profit au régime. Le tyran asservit ainsi les sujets les uns par les autres. L’auteur montre que ces favoris sont plus misérables que les paysans, car ils doivent deviner jusqu’aux pensées du maître. Leurs richesses ne les protègent pas : Sénèque, Burrus et Thrasea ont fini par une mort cruelle, Néron a fait périr sa mère Agrippine et Poppée, et bien des tyrans ont été tués par leurs propres favoris."
+    },
+    {
+      "id": "p6",
+      "label": "Partie 6 (§ 30 à 34)",
+      "file": "sources/servitude-volontaire/06.txt",
+      "words": 1012,
+      "summary": "Le tyran n’est jamais aimé et n’aime pas : l’amitié suppose l’égalité et l’estime, alors qu’autour de lui il n’y a que des complices qui se craignent. L’auteur s’étonne que personne ne tire la leçon de tant d’exemples et montre les favoris attirés par l’éclat du maître comme par une flamme qui les brûle. Il décrit leur vie d’inquiétude, puis la haine que le peuple et la postérité leur réservent. Le Discours se termine par un appel à bien faire et par la conviction que Dieu réserve aux tyrans et à leurs complices une peine particulière."
+    }
+  ],
+  "intro": [
+    "Étienne de La Boétie (1530-1563), magistrat bordelais et ami de Montaigne, a écrit le Discours de la servitude volontaire dans sa jeunesse, selon Montaigne lui-même. Le texte n’est pas publié de son vivant : un extrait paraît en 1574 dans Le Reveille-matin des François, puis le texte complet dans les Mémoires de l’estat de France sous Charles neufiesme, recueil de Simon Goulart. On l’a aussi appelé le Contr’un. C’est un discours continu, sans chapitres, qui s’adresse par moments à un certain Longa et tourne autour d’une seule question : pourquoi des peuples entiers obéissent-ils à un tyran qu’ils pourraient défaire en cessant simplement de le servir ?",
+    "Pour l’objet d’étude « littérature d’idées », observez la marche de l’argumentation. La Boétie pose une question, écarte les mauvaises réponses (la peur, la lâcheté), établit que la liberté est naturelle, puis avance des causes : la coutume, l’abêtissement entretenu par les tyrans, enfin le réseau des complices, qu’il appelle le ressort et le secret de la domination. Notez le rôle des exemples antiques, qui valent preuves, et les passages où l’auteur cesse de démontrer pour interpeller. Le découpage en six parties proposé ici n’est pas de l’auteur : il suit ces étapes."
+  ],
+  "characters": [
+    {
+      "name": "Le tyran",
+      "role": "figure centrale : un seul homme, souvent le plus lâche de tous, qui ne tient sa force que de ceux qui le servent."
+    },
+    {
+      "name": "Les favoris",
+      "role": "les quelques proches du tyran qui tiennent le pays par une chaîne de complices, et finissent souvent victimes du maître."
+    },
+    {
+      "name": "Longa",
+      "role": "destinataire que l’auteur interpelle deux fois au fil du texte."
+    },
+    {
+      "name": "Ulysse",
+      "role": "héros d’Homère dont le vers sur le maître unique ouvre le Discours."
+    },
+    {
+      "name": "Denis de Syracuse",
+      "role": "chef de guerre devenu tyran de la ville qui l’avait choisi (partie 3)."
+    },
+    {
+      "name": "Lycurgue",
+      "role": "législateur de Sparte : ses deux chiens montrent que l’éducation l’emporte sur la nature (partie 3)."
+    },
+    {
+      "name": "Caton l’Uticain",
+      "role": "enfant, il demande un poignard pour délivrer Rome du dictateur Sylla (partie 3)."
+    },
+    {
+      "name": "Néron",
+      "role": "tyran cruel envers ses proches, et pourtant regretté par le peuple de Rome (parties 4 et 5)."
+    }
+  ],
+  "passages": [
+    {
+      "unit": "p1",
+      "ref": "Partie 1 (§ 1 à 10)",
+      "title": "Cesser de servir",
+      "quote": "Soyez résolus de ne servir plus, et vous voilà libres. Je ne veux pas que vous le poussiez ou l’ébranliez, mais seulement ne le soutenez plus",
+      "note": "Le cœur paradoxal du Discours : la liberté ne demande ni combat ni violence, seulement un refus. Remarquez l’impératif, le passage au « vous » et la brièveté de la première phrase, qui sonne comme une maxime après une longue accumulation de reproches."
+    },
+    {
+      "unit": "p2",
+      "ref": "Partie 2 (§ 11 à 13)",
+      "title": "Tous compagnons",
+      "quote": "nous a tous faits de même forme, et, comme il semble, à même moule, afin de nous entreconnaître tous pour compagnons ou plutôt pour frères",
+      "note": "La Boétie fonde la liberté sur la nature : des êtres faits sur le même moule ne sont pas destinés à se dominer. La correction finale (compagnons, puis frères) renforce l’idée d’égalité. Passage utile pour une question sur l’argument par la nature."
+    },
+    {
+      "unit": "p3",
+      "ref": "Partie 3 (§ 14 à 18)",
+      "title": "La coutume",
+      "quote": "mais cela seulement lui est naïf, à quoi la nature simple et non altérée l’appelle : ainsi la première raison de la servitude volontaire, c’est la coutume",
+      "note": "Première cause de la servitude volontaire, énoncée comme une conclusion après les exemples de Syracuse et de Lycurgue. On distingue ce qui est naturel de ce qui devient naturel par l’habitude : c’est une thèse sur l’éducation autant que sur la politique."
+    },
+    {
+      "unit": "p4",
+      "ref": "Partie 4 (§ 19 à 24)",
+      "title": "Les appâts de la servitude",
+      "quote": "Les théâtres, les jeux, les farces, les spectacles, les gladiateurs, les bêtes étranges, les médailles, les tableaux et autres telles drogueries, c’étaient aux peuples anciens les appâts de la servitude, le prix de leur liberté, les outils de la tyrannie",
+      "note": "Une énumération, puis une triple apposition qui donne le sens de la liste : les divertissements sont des appâts, un prix, des outils. L’image de l’appât prolonge celle de l’oiseau et du poisson pris au piège quelques lignes plus haut."
+    },
+    {
+      "unit": "p5",
+      "ref": "Partie 5 (§ 25 à 29)",
+      "title": "Quatre ou cinq",
+      "quote": "On ne le croira pas du premier coup, mais certes il est vrai : ce sont toujours quatre ou cinq qui maintiennent le tyran, quatre ou cinq qui tiennent tout le pays en servage",
+      "note": "L’auteur annonce lui-même une idée surprenante : ce ne sont pas les armes qui défendent le tyran, mais un petit cercle de complices. La répétition prépare la pyramide (six, six cents, six mille) qui suit et décrit un système plutôt qu’un homme."
+    },
+    {
+      "unit": "p6",
+      "ref": "Partie 6 (§ 30 à 34)",
+      "title": "Complices, non amis",
+      "quote": "et entre les méchants, quand ils s’assemblent, c’est un complot, non pas une compagnie ; ils ne s’entraiment pas, mais ils s’entrecraignent ; ils ne sont pas amis, mais ils sont complices",
+      "note": "Juste après avoir défini l’amitié par la vertu, l’auteur oppose par trois antithèses l’alliance des méchants à une vraie compagnie. Le parallélisme des dernières propositions (non pas… mais) donne au passage la netteté d’une définition."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "unit": "p1",
+      "ref": "Partie 1 (§ 1 à 10)",
+      "question": "À quoi La Boétie compare-t-il le tyran qui s’effondre dès qu’on cesse de le soutenir ?",
+      "answer": "colosse",
+      "evidence": "et vous le verrez, comme un grand colosse à qui on a dérobé sa base, de son poids même fondre en bas et se rompre."
+    },
+    {
+      "id": "q2",
+      "unit": "p2",
+      "ref": "Partie 2 (§ 11 à 13)",
+      "question": "Quel animal, sur le point d’être pris, casse ses dents contre les arbres pour payer sa liberté ?",
+      "answer": "éléphant",
+      "evidence": "Que veut dire autre chose l’éléphant qui, s’étant défendu jusqu’à n’en pouvoir plus, n’y voyant plus d’ordre, étant sur le point d’être pris, il enfonce ses mâchoires et casse ses dents contre les arbres"
+    },
+    {
+      "id": "q3",
+      "unit": "p3",
+      "ref": "Partie 3 (§ 14 à 18)",
+      "question": "Comment se nomme le lieutenant du roi perse qui reçoit les deux Spartiates envoyés vers Xerxès ?",
+      "answer": "Indarne",
+      "evidence": "en chemin ils arrivèrent au palais d’un Persan qu’on nommait Indarne, qui était lieutenant du roi en toutes les villes d’Asie qui sont sur les côtes de la mer."
+    },
+    {
+      "id": "q4",
+      "unit": "p4",
+      "ref": "Partie 4 (§ 19 à 24)",
+      "question": "De quel roi des Épirotes disait-on que le gros doigt guérissait les malades de la rate ?",
+      "answer": "Pyrrhe",
+      "evidence": "Ils crurent fermement que le gros doigt de Pyrrhe, roi des Épirotes, faisait miracles et guérissait les malades de la rate"
+    },
+    {
+      "id": "q5",
+      "unit": "p6",
+      "ref": "Partie 6 (§ 30 à 34)",
+      "question": "Quel animal de la fable refuse d’entrer dans la tanière du lion qui fait le malade ?",
+      "answer": "renard",
+      "evidence": "le renard au lion qui faisait le malade : « Je t’irais voir en ta tanière ; mais je vois bien assez de traces de bêtes qui vont en avant vers toi, mais qui reviennent en arrière je n’en vois pas une."
+    }
+  ],
+  "readingTips": [
+    "Le texte n’a pas de chapitres : lisez une partie à la fois (vingt à trente minutes chacune, une heure et demie à deux heures en tout) et résumez chaque paragraphe en une phrase dans la marge.",
+    "La langue du XVIe siècle a été modernisée, mais certains mots ont changé de sens : franchise veut dire liberté, naïf veut dire naturel, nourriture veut dire éducation, ains veut dire mais.",
+    "Les exemples tirés de l’Antiquité sont nombreux : inutile de tous les connaître, demandez-vous surtout ce que chacun prouve dans le raisonnement.",
+    "Relevez les questions et les apostrophes (aux peuples, à Longa) : elles marquent les moments où l’argumentation devient persuasion."
+  ],
+  "updated": "2026-10-16"
+}

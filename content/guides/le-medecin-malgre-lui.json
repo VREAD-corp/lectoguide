@@ -1,0 +1,179 @@
+{
+  "slug": "le-medecin-malgre-lui",
+  "title": "Le Médecin malgré lui",
+  "author": "Molière",
+  "authorDates": "1622-1673",
+  "published": "1666",
+  "genre": "comédie",
+  "programme": "college",
+  "level": "Collège, souvent étudié en 5e",
+  "programmeNote": "Comédie souvent étudiée en 5e, en lecture intégrale.",
+  "source": {
+    "label": "Wikisource, d’après les Œuvres complètes de Molière, édition Charles Louandre, Charpentier, 1910, tome II",
+    "url": "https://fr.wikisource.org/wiki/Le_M%C3%A9decin_malgr%C3%A9_lui",
+    "licence": "Transcription Wikisource, CC BY-SA 4.0"
+  },
+  "words": 10020,
+  "units": [
+    {
+      "id": "acte1",
+      "label": "Acte I",
+      "file": "sources/le-medecin-malgre-lui/01.txt",
+      "summary": "Dans une forêt, Sganarelle, faiseur de fagots, qui boit et vend les meubles du ménage, se dispute avec sa femme Martine et la bat à coups de bâton. Leur voisin M. Robert tente de s’interposer et se fait rabrouer par les deux époux. Restée seule, Martine cherche à se venger. Elle rencontre Valère et Lucas, envoyés par leur maître Géronte chercher un médecin pour sa fille, devenue muette, et leur présente Sganarelle comme un médecin génial qui n’avoue son talent que sous les coups. Les deux hommes trouvent Sganarelle en train de boire et de chanter, le battent jusqu’à ce qu’il se dise médecin, et l’emmènent en lui promettant d’être bien payé.",
+      "words": 3688
+    },
+    {
+      "id": "acte2",
+      "label": "Acte II",
+      "file": "sources/le-medecin-malgre-lui/02.txt",
+      "summary": "Chez Géronte, la nourrice Jacqueline, femme de Lucas, affirme qu’un mari aimé guérirait mieux Lucinde que les médecins : la jeune fille aime Léandre, que son père refuse parce qu’il n’a pas encore de fortune. Sganarelle arrive en robe de médecin, bat Géronte à son tour, puis tente d’embrasser Jacqueline sous les yeux de Lucas. Il examine Lucinde, qui ne répond que par des sons, et explique sa maladie par un discours plein de faux latin, avant de prescrire un remède absurde. Il accepte l’argent de Géronte en faisant mine de le refuser. Léandre lui révèle enfin que la maladie de Lucinde est une feinte pour échapper à un mariage, et obtient son aide en lui donnant une bourse.",
+      "words": 3376
+    },
+    {
+      "id": "acte3",
+      "label": "Acte III",
+      "file": "sources/le-medecin-malgre-lui/03.txt",
+      "summary": "Léandre se déguise en apothicaire, et Sganarelle lui avoue qu’il ne connaît rien à la médecine mais trouve ce métier excellent. Il reçoit des paysans, Thibaut et son fils Perrin, venus le consulter pour la mère de Perrin, malade, et leur donne un remède contre deux écus. Pendant qu’il occupe Géronte par un discours savant, Lucinde parle avec Léandre et retrouve la parole : elle refuse avec force d’épouser Horace, le prétendant choisi par son père. Sganarelle envoie les jeunes gens au jardin, et Lucas annonce qu’ils se sont enfuis ensemble ; Géronte fait appeler un commissaire, Lucas promet la potence au faux médecin, et Martine arrive. Léandre revient avec Lucinde, annonce qu’il hérite de son oncle et obtient la main de la jeune fille ; Sganarelle pardonne à Martine les coups de bâton qui l’ont fait médecin.",
+      "words": 2956
+    }
+  ],
+  "intro": [
+    "Le Médecin malgré lui est une comédie en trois actes et en prose, jouée pour la première fois en août 1666 au théâtre du Palais-Royal par la troupe de Molière, qui interprétait lui-même Sganarelle. La pièce reprend une situation déjà présente dans un fabliau du Moyen Âge, Le Vilain mire : un paysan battu par des inconnus devient médecin contre son gré. Molière y mêle la farce (coups de bâton, jargon, quiproquos) et la satire des médecins de son temps, qu’il attaque dans plusieurs de ses pièces. Plusieurs personnages, comme Lucas, Jacqueline ou Thibaut, parlent un patois paysan transcrit tel quel.",
+    "En lisant, observez comment le costume et le langage suffisent à fabriquer un médecin : Sganarelle n’a que la robe, quelques mots latins et l’assurance du métier, et tout le monde le croit. Suivez aussi le fil des coups de bâton, de la première scène à la dernière, et demandez-vous qui, à la fin, a vraiment été dupé et qui en profite."
+  ],
+  "characters": [
+    {
+      "name": "Sganarelle",
+      "role": "faiseur de fagots, ivrogne, transformé en médecin par la ruse de sa femme"
+    },
+    {
+      "name": "Martine",
+      "role": "femme de Sganarelle, qui se venge de lui"
+    },
+    {
+      "name": "M. Robert",
+      "role": "voisin qui veut défendre Martine et s’en repent"
+    },
+    {
+      "name": "Géronte",
+      "role": "père de Lucinde, qui préfère un gendre riche"
+    },
+    {
+      "name": "Lucinde",
+      "role": "fille de Géronte, muette en apparence"
+    },
+    {
+      "name": "Léandre",
+      "role": "amoureux de Lucinde, qui se déguise en apothicaire"
+    },
+    {
+      "name": "Valère",
+      "role": "domestique de Géronte, chargé de trouver un médecin"
+    },
+    {
+      "name": "Lucas",
+      "role": "mari de Jacqueline, serviteur de Géronte, jaloux"
+    },
+    {
+      "name": "Jacqueline",
+      "role": "nourrice chez Géronte, femme de Lucas"
+    },
+    {
+      "name": "Thibaut et Perrin",
+      "role": "paysans, père et fils, venus consulter le faux médecin"
+    }
+  ],
+  "passages": [
+    {
+      "unit": "acte1",
+      "ref": "Acte I, scène 1",
+      "title": "Un bûcheron qui se croit savant",
+      "quote": "Trouve-moi un faiseur de fagots qui sache comme moi raisonner des choses, qui ait servi six ans un fameux médecin, et qui ait su dans son jeune âge son rudiment par cœur.",
+      "note": "Dès la première scène, Sganarelle se vante d’avoir servi un médecin et appris le latin de base. Ce détail prépare toute la pièce : il connaît assez de mots pour jouer le savant."
+    },
+    {
+      "unit": "acte1",
+      "ref": "Acte I, scène 5",
+      "title": "La vengeance de Martine",
+      "quote": "La folie de celui-ci est plus grande qu’on ne peut croire, car elle va parfois jusqu’à vouloir être battu pour demeurer d’accord de sa capacité",
+      "note": "Martine invente la condition qui va retourner contre Sganarelle ses propres coups de bâton. La ruse repose sur la crédulité de Valère et de Lucas, prêts à croire qu’un grand savant cache son talent."
+    },
+    {
+      "unit": "acte2",
+      "ref": "Acte II, scène 6",
+      "title": "Le cœur et le foie",
+      "quote": "Oui ; cela étoit autrefois ainsi : mais nous avons changé tout cela, et nous faisons maintenant la médecine d’une méthode toute nouvelle.",
+      "note": "Pris en défaut, Sganarelle ne recule pas : il prétend que la médecine a changé l’anatomie. La réplique résume la satire de Molière, qui vise des médecins plus attachés à leur autorité qu’à la vérité."
+    },
+    {
+      "unit": "acte3",
+      "ref": "Acte III, scène 1",
+      "title": "L’éloge du métier de médecin",
+      "quote": "Je trouve que c’est le métier le meilleur de tous ; car, soit qu’on fasse bien, ou soit qu’on fasse mal, on est toujours payé de même sorte.",
+      "note": "Seul avec Léandre, Sganarelle parle franchement : le médecin est payé même quand il échoue. L’aveu est comique, mais la critique est sérieuse, et la suite de la tirade va jusqu’aux morts qui ne se plaignent jamais."
+    },
+    {
+      "unit": "acte3",
+      "ref": "Acte III, scène 6",
+      "title": "Lucinde retrouve la parole",
+      "quote": "Oui, mon père, j’ai recouvré la parole ; mais je l’ai recouvrée pour vous dire que je n’aurai jamais d’autre époux que Léandre",
+      "note": "La fausse muette parle enfin, et pour s’opposer à son père. Le comique naît du renversement : Géronte, qui voulait que sa fille parle, ne peut plus placer un mot dans la suite de la scène."
+    },
+    {
+      "unit": "acte3",
+      "ref": "Acte III, scène 11",
+      "title": "Le pardon de Sganarelle",
+      "quote": "Je te pardonne ces coups de bâton en faveur de la dignité où tu m’as élevé",
+      "note": "La pièce se referme sur le couple du début. Sganarelle pardonne à Martine en prenant les airs d’un homme important et lui réclame désormais du respect. Le titre de médecin lui reste, et la menace a changé de forme : après le bâton, il invoque « la colère d’un médecin »."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "unit": "acte1",
+      "ref": "Acte I, scène 5",
+      "question": "Selon Martine, quelle pièce de vêtement portée au cou permet de reconnaître Sganarelle ?",
+      "answer": "fraise",
+      "evidence": "c’est un homme qui a une large barbe noire, et qui porte une fraise, avec un habit jaune et vert."
+    },
+    {
+      "id": "q2",
+      "unit": "acte1",
+      "ref": "Acte I, scène 5",
+      "question": "D’où était tombé l’enfant de douze ans que Sganarelle aurait guéri, d’après Martine ?",
+      "answer": "clocher",
+      "evidence": "un jeune enfant de douze ans tomba du haut du clocher en bas, et se brisa sur le pavé la tête"
+    },
+    {
+      "id": "q3",
+      "unit": "acte2",
+      "ref": "Acte II, scène 6",
+      "question": "Quels oiseaux, selon Sganarelle, apprennent à parler grâce à la nourriture qu’il prescrit ?",
+      "answer": "perroquets",
+      "evidence": "Ne voyez-vous pas bien qu’on ne donne autre chose aux perroquets, et qu’ils apprennent à parler en mangeant de cela ?"
+    },
+    {
+      "id": "q4",
+      "unit": "acte3",
+      "ref": "Acte III, scène 2",
+      "question": "Quel aliment Sganarelle remet-il à Perrin comme remède pour sa mère malade ?",
+      "answer": "fromage",
+      "evidence": "Tenez, voilà un morceau de fromage qu’il faut que vous lui fassiez prendre."
+    },
+    {
+      "id": "q5",
+      "unit": "acte3",
+      "ref": "Acte III, scène 6",
+      "question": "Où Lucinde dit-elle qu’elle ira plutôt que d’épouser un homme qu’elle n’aime pas ?",
+      "answer": "couvent",
+      "evidence": "Et je me jetterai plutôt dans un couvent que d’épouser un homme que je n’aime point."
+    }
+  ],
+  "readingTips": [
+    "Le patois de Lucas, Jacqueline et Thibaut (« je savons », « morguenne », « bian ») se comprend mieux à voix haute : lisez ces répliques en les prononçant.",
+    "Le latin de Sganarelle à l’acte II n’a pas de sens, et c’est voulu : inutile de chercher à le traduire, regardez plutôt l’effet qu’il produit sur Géronte et ses domestiques.",
+    "La pièce est courte, environ dix mille mots : elle se lit en une heure et demie. Repérez les didascalies, nombreuses, qui décrivent les coups et les jeux de scène.",
+    "L’édition garde l’orthographe ancienne (« étoit », « savois ») et contient quelques coquilles dans les noms de personnages : fiez-vous au sens de la scène."
+  ],
+  "updated": "2026-10-16"
+}

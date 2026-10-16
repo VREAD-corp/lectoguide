@@ -1,0 +1,179 @@
+{
+  "slug": "les-fourberies-de-scapin",
+  "title": "Les Fourberies de Scapin",
+  "author": "Molière",
+  "authorDates": "1622-1673",
+  "published": "1671",
+  "genre": "comédie",
+  "programme": "college",
+  "level": "Collège, souvent étudié en 5e",
+  "programmeNote": "Comédie souvent étudiée en 5e, en lecture intégrale.",
+  "source": {
+    "label": "Wikisource, d’après les Œuvres complètes de Molière, édition Charles Louandre, Charpentier, 1910, tome III",
+    "url": "https://fr.wikisource.org/wiki/Les_Fourberies_de_Scapin/%C3%89dition_Louandre,_1910",
+    "licence": "Transcription Wikisource, CC BY-SA 4.0"
+  },
+  "words": 14437,
+  "units": [
+    {
+      "id": "acte1",
+      "label": "Acte I",
+      "file": "sources/les-fourberies-de-scapin/01.txt",
+      "summary": "Octave apprend par son valet Sylvestre que son père Argante rentre de voyage avec le projet de le marier à une fille du seigneur Géronte. Or Octave a épousé en secret, trois jours plus tôt, Hyacinte, une jeune fille pauvre qu’il a vue pleurer au chevet de sa mère mourante ; Léandre, fils de Géronte, aime de son côté une jeune Égyptienne. Scapin, valet de Léandre, accepte d’aider les deux jeunes époux. Octave, qui répétait avec lui la façon de tenir tête à son père, s’enfuit dès qu’Argante paraît. Scapin affronte seul le vieillard, prétend que le mariage a été forcé et soutient qu’Argante ne déshéritera pas son fils, puis prépare Sylvestre à jouer un rôle.",
+      "words": 3998
+    },
+    {
+      "id": "acte2",
+      "label": "Acte II",
+      "file": "sources/les-fourberies-de-scapin/02.txt",
+      "summary": "Géronte reproche à Argante d’avoir mal élevé son fils, mais Argante lui laisse entendre que Léandre a fait pis encore, d’après Scapin. Léandre, interrogé par son père, croit que Scapin l’a trahi et le menace de son épée : le valet avoue alors plusieurs anciens tours. Carle annonce que les Égyptiens vont emmener Zerbinette si Léandre ne paie pas dans deux heures ; il faut cinq cents écus à Léandre et deux cents pistoles à Octave. Scapin obtient les deux cents pistoles d’Argante en lui faisant peur avec un frère d’Hyacinte, joué par Sylvestre déguisé en spadassin, puis les cinq cents écus de Géronte en inventant que Léandre est retenu sur une galère turque. Il remet l’argent aux deux jeunes gens et se fait promettre par Léandre le droit de se venger de Géronte.",
+      "words": 5636
+    },
+    {
+      "id": "acte3",
+      "label": "Acte III",
+      "file": "sources/les-fourberies-de-scapin/03.txt",
+      "summary": "Zerbinette et Hyacinte se lient d’amitié. Pour se venger, Scapin fait croire à Géronte que des hommes armés le cherchent pour le tuer, le cache dans un sac et le roue de coups en imitant plusieurs voix, jusqu’à ce que Géronte découvre la ruse. Zerbinette, qui ne sait pas à qui elle parle, raconte en riant à Géronte l’histoire de la galère. Les deux pères découvrent qu’ils ont été dupés ; Géronte apprend qu’on croit sa fille perdue en mer, puis Nérine, la nourrice, lui révèle que cette fille est Hyacinte, déjà mariée à Octave. Un bracelet rapporté par Léandre montre que Zerbinette, enlevée à quatre ans, est la fille d’Argante. Scapin, qu’on dit blessé à la tête, se fait apporter comme un mourant, obtient le pardon des deux pères et demande qu’on le porte au bout de la table du souper.",
+      "words": 4803
+    }
+  ],
+  "intro": [
+    "Les Fourberies de Scapin est une comédie en trois actes et en prose que Molière fait jouer par sa troupe en 1671, au théâtre du Palais-Royal à Paris. Molière, qui a alors une longue carrière de farce et de comédie derrière lui, s’inspire du Phormion de l’auteur latin Térence, et reprend une scène du Pédant joué de Cyrano de Bergerac pour l’épisode de la galère. L’intrigue suit un schéma ancien : deux fils amoureux, deux pères avares ou autoritaires, et un valet rusé qui tire de l’argent des vieillards. La pièce se déroule en une journée, à Naples. Elle est courte : chaque acte se lit en une demi-heure environ.",
+    "En lisant, suivez Scapin comme un metteur en scène : il prépare ses tours, distribue les rôles (Sylvestre en spadassin, lui-même en plusieurs voix) et commente ses réussites. Notez aussi comment le rire naît de la répétition (une même réplique reprise par Géronte, les sommes qui montent devant Argante) et des renversements entre maîtres et valets, ainsi que la question qui reste ouverte à la fin : Scapin est-il puni ou triomphe-t-il ?"
+  ],
+  "characters": [
+    {
+      "name": "Scapin",
+      "role": "valet de Léandre, inventeur des fourberies de la pièce"
+    },
+    {
+      "name": "Sylvestre",
+      "role": "valet d’Octave, plus prudent que Scapin, qui joue le rôle du frère menaçant"
+    },
+    {
+      "name": "Octave",
+      "role": "fils d’Argante, marié en secret à Hyacinte"
+    },
+    {
+      "name": "Léandre",
+      "role": "fils de Géronte, amoureux de Zerbinette"
+    },
+    {
+      "name": "Argante",
+      "role": "père d’Octave, qui veut faire casser le mariage de son fils"
+    },
+    {
+      "name": "Géronte",
+      "role": "père de Léandre, avare, victime de la galère puis du sac"
+    },
+    {
+      "name": "Hyacinte",
+      "role": "jeune femme sans fortune épousée par Octave"
+    },
+    {
+      "name": "Zerbinette",
+      "role": "jeune fille élevée par des Égyptiens, aimée de Léandre"
+    },
+    {
+      "name": "Nérine",
+      "role": "nourrice d’Hyacinte"
+    },
+    {
+      "name": "Carle",
+      "role": "complice de Scapin, porteur de nouvelles"
+    }
+  ],
+  "passages": [
+    {
+      "unit": "acte1",
+      "ref": "Acte I, scène 2",
+      "title": "Scapin fait son propre portrait",
+      "quote": "J’ai sans doute reçu du ciel un génie assez beau pour toutes les fabriques de ces gentillesses d’esprit, de ces galanteries ingénieuses à qui le vulgaire ignorant donne le nom de fourberies",
+      "note": "Scapin se présente comme un artiste de la ruse et donne au mot « fourberies » le sens flatteur de « gentillesses d’esprit ». Ce vocabulaire valorisant, presque noble, annonce le titre et la façon dont le valet va dominer la pièce."
+    },
+    {
+      "unit": "acte1",
+      "ref": "Acte I, scène 4",
+      "title": "La répétition avant l’arrivée du père",
+      "quote": "Imaginez-vous que je suis votre père qui arrive, et répondez-moi fermement comme si c’étoit à lui-même.",
+      "note": "Scapin joue le rôle d’Argante pour entraîner Octave, qui reste muet. C’est du théâtre dans le théâtre : le valet prend la place du maître, et la scène prépare l’échec comique d’Octave, qui fuit dès que son vrai père arrive."
+    },
+    {
+      "unit": "acte2",
+      "ref": "Acte II, scène 8",
+      "title": "La tirade contre les procès",
+      "quote": "C’est être damné dès ce monde que d’avoir à plaider ; et la seule pensée d’un procès serait capable de me faire fuir jusqu’aux Indes.",
+      "note": "Pour qu’Argante préfère payer, Scapin peint la justice comme un enfer peuplé de sergents, procureurs et greffiers corrompus. L’accumulation et l’exagération font rire, mais la satire des gens de justice est bien réelle."
+    },
+    {
+      "unit": "acte2",
+      "ref": "Acte II, scène 11",
+      "title": "La galère turque",
+      "quote": "Hélas ! mon pauvre maître ! peut-être que je ne te verrai de ma vie, et qu’à l’heure que je parle, on t’emmène esclave en Alger.",
+      "note": "Scapin joue le désespoir pour presser Géronte, qui répète sans cesse la même question sur la galère. Le comique de répétition montre un avare partagé entre l’amour de son fils et celui de son argent."
+    },
+    {
+      "unit": "acte3",
+      "ref": "Acte III, scène 2",
+      "title": "La scène du sac",
+      "quote": "Il faut, dis-je, que vous vous mettiez là dedans, et que vous gardiez de remuer en aucune façon. Je vous chargerai sur mon dos, comme un paquet de quelque chose",
+      "note": "Scapin transforme sa vengeance en farce : Géronte, enfermé, devient un objet que le valet porte et bat. Pour l’oral, observez le jeu de scène et les voix imitées qui suivent cette réplique."
+    },
+    {
+      "unit": "acte3",
+      "ref": "Acte III, scène 14",
+      "title": "Le dernier mot de Scapin",
+      "quote": "Et moi, qu’on me porte au bout de la table, en attendant que je meure.",
+      "note": "Feignant toujours d’être mourant, Scapin s’invite au repas des maîtres. La dernière réplique de la pièce lui revient : sa ruse finale lui obtient le pardon et une place à la fête."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "unit": "acte1",
+      "ref": "Acte I, scène 2",
+      "question": "Quelle coiffure jaune portait la jeune fille en larmes quand Octave l’a vue pour la première fois ?",
+      "answer": "cornette",
+      "evidence": "et sa coiffure étoit une cornette jaune, retroussée au haut de sa tête"
+    },
+    {
+      "id": "q2",
+      "unit": "acte1",
+      "ref": "Acte I, scène 1",
+      "question": "De quelle ville la fille du seigneur Géronte doit-elle venir pour épouser Octave ?",
+      "answer": "Tarente",
+      "evidence": "Et que cette fille est mandée de Tarente ici pour cela ?"
+    },
+    {
+      "id": "q3",
+      "unit": "acte2",
+      "ref": "Acte II, scène 8",
+      "question": "Quel animal Scapin réclame-t-il en dernier pour le prétendu frère, ce qui fait éclater Argante ?",
+      "answer": "mulet",
+      "evidence": "Il me faut encore, a-t-il dit, un mulet pour porter…"
+    },
+    {
+      "id": "q4",
+      "unit": "acte3",
+      "ref": "Acte III, scène 13",
+      "question": "Selon Carle, quel outil tombé d’un bâtiment aurait blessé Scapin à la tête ?",
+      "answer": "marteau",
+      "evidence": "il lui est tombé sur la tête un marteau de tailleur de pierre, qui lui a brisé l’os, et découvert toute la cervelle."
+    },
+    {
+      "id": "q5",
+      "unit": "acte3",
+      "ref": "Acte III, scène 8",
+      "question": "Par quel autre nom Nérine appelle-t-elle Géronte en se jetant à ses genoux ?",
+      "answer": "Pandolphe",
+      "evidence": "Ah ! seigneur Pandolphe, que…"
+    }
+  ],
+  "readingTips": [
+    "Lisez la liste des personnages avant de commencer : les liens de parenté (deux pères, deux fils, deux jeunes filles) sont la clé du dénouement.",
+    "Les didascalies, comme « à part » ou « se croyant seul », disent qui entend quoi : c’est souvent là que se trouve le comique.",
+    "La scène 2 de l’acte III, celle du sac, se comprend mieux lue à voix haute : Scapin y parle avec plusieurs voix, signalées par les guillemets.",
+    "Comptez environ deux heures pour la pièce entière. L’orthographe de l’édition (« étoit », « connoître ») est celle du XVIIe siècle : lisez ces mots comme « était », « connaître »."
+  ],
+  "updated": "2026-10-16"
+}

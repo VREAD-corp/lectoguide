@@ -1,0 +1,189 @@
+{
+  "slug": "le-menteur",
+  "title": "Le Menteur",
+  "author": "Pierre Corneille",
+  "authorDates": "1606-1684",
+  "published": "1644",
+  "genre": "comédie",
+  "programme": "bac",
+  "level": "Première, voies générale et technologique",
+  "programmeNote": "Œuvre au programme de l’épreuve anticipée de français de juin 2027 (session 2028), en voie générale et en voie technologique, pour l’objet d’étude consacré au théâtre. Source : note de service MENE2518792N du 4 juillet 2025, BO n° 30 du 24 juillet 2025.",
+  "source": {
+    "label": "Wikisource, d'après Œuvres de P. Corneille, édition Ch. Marty-Laveaux, Hachette, 1862, tome IV",
+    "url": "https://fr.wikisource.org/wiki/Le_Menteur_(Corneille,_Marty-Laveaux,_1862)",
+    "licence": "Transcription Wikisource, CC BY-SA 4.0"
+  },
+  "words": 16276,
+  "units": [
+    {
+      "id": "acte1",
+      "label": "Acte I",
+      "file": "sources/le-menteur/01.txt",
+      "words": 3384,
+      "summary": "Aux Tuileries, Dorante, qui vient de quitter ses études de droit pour une vie de cavalier, demande à son valet Cliton comment on plaît aux dames de Paris. Clarice trébuche devant lui ; il lui donne la main et se fait passer pour un officier revenu des guerres d’Allemagne, malgré les protestations de Cliton. Le cocher de ces dames apprend à Cliton que la plus belle des deux s’appelle Lucrèce, et Dorante en conclut que c’est celle qui lui a parlé. Il retrouve ensuite ses amis Alcippe et Philiste, qui évoquent une fête donnée la veille au soir sur l’eau, et prétend l’avoir offerte lui-même à sa maîtresse ; Alcippe part malade de jalousie. Seul avec Cliton, Dorante explique le plaisir qu’il prend à inventer des histoires."
+    },
+    {
+      "id": "acte2",
+      "label": "Acte II",
+      "file": "sources/le-menteur/02.txt",
+      "words": 3141,
+      "summary": "Géronte, père de Dorante, propose à Clarice de lui montrer son fils sous ses fenêtres avant de le lui donner pour époux. Clarice, promise à Alcippe dont le père tarde depuis plus de deux ans à venir conclure, accepte l’idée de sa suivante Isabelle : faire écrire Lucrèce à Dorante pour lui parler la nuit à une fenêtre, sous le nom de son amie. Alcippe accuse Clarice d’avoir passé la nuit à la fête de Dorante et sort décidé à se venger. Quand Géronte annonce à son fils le mariage prévu avec Clarice, Dorante, qui croit aimer Lucrèce, invente un long récit : surpris la nuit chez une jeune fille de Poitiers, il aurait été forcé de l’épouser. Géronte pardonne et part se dégager auprès du père de Clarice ; Dorante reçoit ensuite un billet de Lucrèce, qui lui donne rendez-vous la nuit, puis un billet d’Alcippe, qui le provoque."
+    },
+    {
+      "id": "acte3",
+      "label": "Acte III",
+      "file": "sources/le-menteur/03.txt",
+      "words": 3190,
+      "summary": "Philiste vient de séparer Dorante et Alcippe, qui se battaient. Dorante assure à Alcippe que la dame de la fête est une femme mariée, et les deux amis se réconcilient. Philiste apprend ensuite à Alcippe que son page s’est trompé de dames et que Dorante, rentré la veille de Poitiers, a dormi chez lui : la fête n’a jamais eu lieu. La nuit venue, Clarice parle à Dorante depuis la fenêtre de Lucrèce en se faisant passer pour elle, et lui reproche ses mensonges. Dorante avoue avoir inventé son mariage pour rester libre d’aimer celle qu’il prend pour Lucrèce, et dit n’avoir que mépris pour Clarice, qui le renvoie."
+    },
+    {
+      "id": "acte4",
+      "label": "Acte IV",
+      "file": "sources/le-menteur/04.txt",
+      "words": 3190,
+      "summary": "Au matin, devant la maison de Lucrèce, Dorante raconte à Cliton qu’il a laissé Alcippe pour mort dans un duel. Alcippe arrive aussitôt, en pleine santé, pour annoncer que son père est arrivé et que son mariage avec Clarice va être signé ; Dorante explique cette guérison par un remède miraculeux. Géronte veut faire venir à Paris l’épouse de son fils ; Dorante la dit enceinte, puis, pressé de nommer son beau-père, donne un autre nom que la veille et se tire d’affaire par une nouvelle invention. Il paie Sabine, la femme de chambre de Lucrèce, pour qu’elle remette une lettre à sa maîtresse. Lucrèce, qui se méfie de Dorante mais s’intéresse à lui, lit la lettre et demande à Sabine de dire qu’elle l’a déchirée."
+    },
+    {
+      "id": "acte5",
+      "label": "Acte V",
+      "file": "sources/le-menteur/05.txt",
+      "words": 3371,
+      "summary": "Géronte interroge Philiste, qui a étudié à Poitiers, sur la famille de sa prétendue belle-fille : personne là-bas ne porte ces noms, et Philiste laisse entendre que Dorante a tout inventé. Géronte reproche durement à son fils un mensonge indigne d’un gentilhomme ; Dorante avoue alors qu’il aime Lucrèce, et son père accepte d’aller la demander pour lui, en jurant de le punir s’il ment encore. Pendant une scène avec les deux jeunes femmes, Dorante comprend enfin que la voix de la fenêtre était celle de Clarice : il se tourne aussitôt vers Lucrèce, lui jure qu’il n’aime qu’elle et prétend avoir tout deviné. Les familles s’accordent : Clarice épousera Alcippe et Lucrèce est promise à Dorante."
+    }
+  ],
+  "intro": [
+    "Le Menteur est une comédie en cinq actes et en vers de Pierre Corneille, jouée au théâtre du Marais et publiée à Paris en 1644. Dans l’épître qui ouvre la pièce, Corneille explique qu’il l’a écrite le même hiver que La Mort de Pompée, pour répondre au public qui lui demandait quelque chose de plus enjoué que ses tragédies. Il y reconnaît aussi sa source : une comédie espagnole, La Verdad sospechosa, qu’il attribuait alors à Lope de Vega ; vers 1660, dans l’Examen de la pièce, il signale qu’un volume de Juan Ruiz de Alarcón la revendique. Corneille transporte l’intrigue à Paris, aux Tuileries et autour de la place Royale, et remplace les récits du Pérou par des exploits dans les guerres d’Allemagne. L’action dure un peu plus d’une journée.",
+    "Pour l’objet d’étude sur le théâtre, suivez Dorante comme un auteur et un acteur à l’intérieur de la pièce : chacun de ses mensonges est un récit qui a son public (Alcippe, Géronte, Clarice) et un spectateur critique, Cliton, qui commente en aparté. Notez pour chaque invention ce qui la déclenche, qui la croit et qui la démasque. Observez aussi le quiproquo sur les noms de Clarice et de Lucrèce, qui court de la première scène au dénouement : il naît d’une simple erreur de Dorante sur un nom, et le menteur se trouve ainsi pris à son propre jeu."
+  ],
+  "characters": [
+    {
+      "name": "Dorante",
+      "role": "Fils de Géronte, jeune homme qui arrive à Paris et ment avec aplomb, par intérêt autant que par plaisir."
+    },
+    {
+      "name": "Cliton",
+      "role": "Valet de Dorante, témoin de ses inventions, qu’il commente en aparté."
+    },
+    {
+      "name": "Géronte",
+      "role": "Père de Dorante, qui veut marier son fils à Clarice et croit d’abord tout ce qu’il lui raconte."
+    },
+    {
+      "name": "Clarice",
+      "role": "Jeune femme promise à Alcippe, que Géronte destine à Dorante ; c’est elle que Dorante aborde aux Tuileries."
+    },
+    {
+      "name": "Lucrèce",
+      "role": "Amie de Clarice, qui prête son nom et sa fenêtre à la ruse de son amie."
+    },
+    {
+      "name": "Alcippe",
+      "role": "Ami de Dorante et amant jaloux de Clarice."
+    },
+    {
+      "name": "Philiste",
+      "role": "Ami de Dorante et d’Alcippe, qui démêle le vrai du faux."
+    },
+    {
+      "name": "Isabelle",
+      "role": "Suivante de Clarice, qui imagine la ruse de la fenêtre."
+    },
+    {
+      "name": "Sabine",
+      "role": "Femme de chambre de Lucrèce, qui accepte volontiers l’argent de Dorante."
+    }
+  ],
+  "passages": [
+    {
+      "unit": "acte1",
+      "ref": "Acte I, scène 6",
+      "title": "La méthode de Dorante",
+      "quote": "Tout le secret ne gît qu’en un peu de grimace,\nÀ mentir à propos, jurer de bonne grâce,\nÉtaler force mots qu’elles n’entendent pas,\n\nFaire sonner Lamboy, Jean de Vert, et Galas,",
+      "note": "Dorante explique à Cliton comment se faire valoir auprès des dames : il suffit de parler en soldat. L’énumération de noms de généraux de la guerre de Trente Ans et, dans les vers suivants, de termes de fortification montre un langage qui produit de l’effet sans rien prouver. Le mensonge est présenté ici comme une technique, presque un art de comédien."
+    },
+    {
+      "unit": "acte2",
+      "ref": "Acte II, scène 5",
+      "title": "Le faux mariage de Poitiers",
+      "quote": "Je la lui donne en main ; mais, voyez ma disgrâce,\nAvec mon pistolet le cordon s’embarrasse,\nFait marcher le déclin : le feu prend, le coup part ;\nJugez de notre trouble à ce triste hasard.",
+      "note": "Pour échapper au mariage avec Clarice, Dorante improvise devant son père un récit plein de détails concrets (une montre, un pistolet, une date précise), qui rendent l’histoire crédible. Le vers coupé en brèves propositions imite la rapidité de l’accident. Récit enchâssé, public conquis : Géronte pardonne tout."
+    },
+    {
+      "unit": "acte3",
+      "ref": "Acte III, scène 6",
+      "title": "La vérité suspecte",
+      "quote": "Quand un menteur la dit,\nEn passant par sa bouche, elle perd son crédit.",
+      "note": "Dorante vient d’être éconduit alors qu’il était sincère sur son amour. La maxime de Cliton résume la sanction du menteur : on ne le croit plus, même quand il dit vrai. C’est l’idée du titre espagnol que Corneille a suivi, La Verdad sospechosa."
+    },
+    {
+      "unit": "acte4",
+      "ref": "Acte IV, scène 4",
+      "title": "Deux noms pour un beau-père",
+      "quote": "Oui, c’est là son nom propre, et l’autre d’une terre ;\nIl portoit ce dernier quand il fut à la guerre,\nEt se sert si souvent de l’un et l’autre nom,\nQue tantôt c’est Pyrandre, et tantôt Armédon.",
+      "note": "Géronte remarque que son fils ne donne pas le même nom que la veille. Dorante se rattrape en invoquant l’usage des nobles de porter le nom d’une terre, et son père s’en contente. Cliton tire la leçon à la scène suivante : il faut bonne mémoire après qu’on a menti."
+    },
+    {
+      "unit": "acte5",
+      "ref": "Acte V, scène 3",
+      "title": "La colère du père",
+      "quote": "Qui se dit gentilhomme, et ment comme tu fais,\nIl ment quand il le dit, et ne le fut jamais.\nEst-il vice plus bas, est-il tache plus noire,\nPlus indigne d’un homme élevé pour la gloire ?",
+      "note": "Géronte, détrompé par Philiste, ouvre la scène par une question sèche à son fils sur sa noblesse. Sa tirade emprunte le vocabulaire de la tragédie (honneur, gloire, sang) : mentir revient à perdre sa noblesse. Le passage montre comment la comédie peut accueillir un registre grave, avant que Dorante ne retombe dans ses détours."
+    },
+    {
+      "unit": "acte5",
+      "ref": "Acte V, scène 7",
+      "title": "La dernière réplique de Cliton",
+      "quote": "Comme en sa propre fourbe un menteur s’embarrasse !\nPeu sauroient comme lui s’en tirer avec grâce.\nVous autres qui doutiez s’il en pourroit sortir,\nPar un si rare exemple apprenez à mentir.",
+      "note": "Resté seul, Cliton s’adresse au public. Le menteur n’est pas puni : il obtient un mariage et garde l’admiration de son valet. La dernière formule renverse ironiquement la morale attendue, ce qui en fait un bon sujet de discussion sur le dénouement."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "unit": "acte1",
+      "ref": "Acte I, scène 5",
+      "question": "Dans le récit de la fête sur l’eau, quels instruments jouaient sur le premier bateau ?",
+      "answer": "violons",
+      "evidence": "Au premier, violons ; en l’autre, luths et voix ;"
+    },
+    {
+      "id": "q2",
+      "unit": "acte2",
+      "ref": "Acte II, scène 5",
+      "question": "Quel prénom Dorante donne-t-il à la jeune femme qu’il prétend avoir épousée en secret ?",
+      "answer": "Orphise",
+      "evidence": "Orphise, et son père, Armédon."
+    },
+    {
+      "id": "q3",
+      "unit": "acte3",
+      "ref": "Acte III, scène 5",
+      "question": "Pour prouver qu’il connaît la famille de celle qu’il croit être Lucrèce, quel nom de père Dorante cite-t-il ?",
+      "answer": "Périandre",
+      "evidence": "Périandre est le nom de Monsieur votre père ;"
+    },
+    {
+      "id": "q4",
+      "unit": "acte4",
+      "ref": "Acte IV, scène 3",
+      "question": "En quelle langue seraient, selon Dorante, les mots secrets du remède qui a guéri Alcippe ?",
+      "answer": "hébreu",
+      "evidence": "L’hébreu ? parfaitement :"
+    },
+    {
+      "id": "q5",
+      "unit": "acte5",
+      "ref": "Acte V, scène 6",
+      "question": "Après la Turquie, quelle ville Dorante nomme-t-il comme lieu où il se marierait plutôt qu’avec une autre femme ?",
+      "answer": "Alger",
+      "evidence": "Je serai marié, si l’on veut, en Alger."
+    }
+  ],
+  "readingTips": [
+    "Le texte suit l’orthographe des éditions anciennes (connoître, étoit, j’avois) : lisez « oi » comme « ai », le reste ne pose pas de difficulté.",
+    "Dès l’acte I, Dorante prend Clarice pour Lucrèce. Notez en marge, à chaque scène, qui parle à qui et sous quel nom : c’est la clé des actes III et V.",
+    "Tenez une liste des mensonges de Dorante (la guerre, la fête, le mariage, le duel, le remède) avec, pour chacun, la personne trompée et le moment où il est démasqué.",
+    "Comptez un peu moins de deux heures pour lire la pièce en entier. Lisez à voix haute les échanges rapides des actes II et V, où les répliques se partagent un même vers."
+  ],
+  "updated": "2026-10-16"
+}

@@ -1,0 +1,26 @@
+<!doctype html>
+<!-- Adapted from chapter-coffee-club@70ca369 api/_template.html: the same shell (charset, viewport, theme colour, icons,
+     an SEO fallback that render.ts strips and replaces at the SEO_INJECT marker, then <div id="root">). Changed: no Google
+     Analytics, no SPA bundle, no external fonts; READ FRANCE's cookieless measurement instead. -->
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#5B3A29" />
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; connect-src 'self' https://script.google.com https://script.googleusercontent.com; img-src 'self' data:; style-src 'self' 'unsafe-inline'; font-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'" />
+    <link rel="icon" href="%BASE%assets/favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="%BASE%assets/style.css" />
+
+    <!-- SEO fallback (overridden by seo-engine/render.ts at build time) -->
+    <title data-rh="true">Lectoguide par READ FRANCE</title>
+    <meta name="description" content="Fiches de lecture des classiques du domaine public au programme." data-rh="true" />
+    <meta property="og:title" content="Lectoguide par READ FRANCE" data-rh="true" />
+    <!--SEO_INJECT-->
+    <script src="%BASE%assets/xp.js"></script>
+    <script src="%BASE%cro.js" data-site="lectoguide" data-api="%TRACK_API%" data-hosts="outils.vread.fr" data-cta="[data-mesure], .btn"></script>
+    <script src="%BASE%mesure.js" defer></script>
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>

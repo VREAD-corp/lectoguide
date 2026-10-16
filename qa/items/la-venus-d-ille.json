@@ -1,0 +1,91 @@
+{
+  "set": "lectoguide/la-venus-d-ille",
+  "coldGate": "summary",
+  "title": "La Vénus d’Ille",
+  "author": "Prosper Mérimée",
+  "language": "fr",
+  "units": [
+    {
+      "id": "p1",
+      "label": "Partie 1 (§ 1 à 28)",
+      "file": "../../sources/la-venus-d-ille/01.txt",
+      "summary": "Le narrateur, un savant parisien qui visite le Roussillon, descend du Canigou vers la petite ville d’Ille avec un guide catalan. Il est recommandé par un ami à M. de Peyrehorade, antiquaire de la ville, dont le fils va bientôt épouser une jeune fille riche, mademoiselle de Puygarrig. Le guide raconte qu’il a déterré quinze jours plus tôt, avec un autre ouvrier, une grande statue de femme en métal sombre que les gens du pays appellent l’idole. Selon lui, elle a un air méchant : en la redressant, ils l’ont laissée retomber et elle a cassé la jambe de son camarade Jean Coll."
+    },
+    {
+      "id": "p2",
+      "label": "Partie 2 (§ 29 à 62)",
+      "file": "../../sources/la-venus-d-ille/02.txt",
+      "summary": "À Ille, le narrateur est reçu à souper par M. de Peyrehorade, vieillard vif et bavard, par sa femme, qui le gave de plats, et par leur fils Alphonse, vingt-six ans, grand joueur de paume, élégant mais raide et peu loquace. L’antiquaire promet de lui montrer sa statue, une Vénus selon lui, et parle d’inscriptions qu’il a étudiées ; sa femme, qui voulait la faire fondre pour l’église, la juge malfaisante. Le mariage doit avoir lieu le surlendemain. De la fenêtre de sa chambre, la nuit, le narrateur voit la statue au bord du jeu de paume : deux apprentis l’insultent, l’un lui lance une pierre et la reçoit en retour sur la tête."
+    },
+    {
+      "id": "p3",
+      "label": "Partie 3 (§ 63 à 128)",
+      "file": "../../sources/la-venus-d-ille/03.txt",
+      "summary": "Le lendemain matin, le narrateur découvre la statue : une Vénus de bronze d’une grande beauté, aux yeux incrustés d’argent, dont le visage exprime la méchanceté et l’ironie. M. de Peyrehorade lui fait lire une inscription latine sur le socle et une autre sur le bras, qu’il interprète à sa façon par une étymologie fantaisiste ; le narrateur, lui, imagine une offrande d’amant malheureux. Alphonse montre la bague de diamants, ancien bijou de famille, qu’il donnera à sa fiancée. Ce jour-là, au dîner chez les Puygarrig, le narrateur trouve la future mariée charmante et regrette qu’elle épouse un homme surtout intéressé par sa dot. Il apprend que le mariage aura lieu un vendredi, jour choisi par M. de Peyrehorade en l’honneur de Vénus."
+    },
+    {
+      "id": "p4",
+      "label": "Partie 4 (§ 129 à 193)",
+      "file": "../../sources/la-venus-d-ille/04.txt",
+      "summary": "Le matin des noces, Alphonse se joint à une partie de paume contre des muletiers espagnols. Gêné par sa bague, il la passe au doigt de la Vénus, gagne la partie et humilie le meilleur joueur adverse, un Aragonais, qui murmure une menace. Arrivé à Puygarrig, Alphonse s’aperçoit qu’il a oublié la bague et marie sa fiancée avec un autre anneau. Au souper de noces à Ille, M. de Peyrehorade chante des vers sur les deux Vénus de la maison, et Alphonse, pâle, boit beaucoup. Il confie au narrateur qu’il n’a pas pu reprendre sa bague, car la statue aurait replié le doigt. Le narrateur le croit ivre, mais accepte d’aller voir."
+    },
+    {
+      "id": "p5",
+      "label": "Partie 5 (§ 194 à 223)",
+      "file": "../../sources/la-venus-d-ille/05.txt",
+      "summary": "Sous la pluie, le narrateur renonce à aller voir la statue et monte se coucher ; la nuit, puis à l’aube, il entend des pas lourds dans l’escalier. Au matin, Alphonse est retrouvé mort dans la chambre nuptiale, la poitrine marquée comme par une étreinte de fer, la bague tombée sur le tapis ; la mariée est en proie à des convulsions. Le narrateur soupçonne l’Aragonais, mais celui-ci est relâché. La jeune veuve raconte au procureur du roi qu’une statue verdâtre s’est couchée près d’elle puis a serré son mari dans ses bras, et on la croit folle. Le narrateur quitte Ille ; M. de Peyrehorade meurt quelques mois plus tard, et un post-scriptum apprend que sa veuve a fait fondre la statue en cloche."
+    }
+  ],
+  "items": [
+    {
+      "id": "q1",
+      "unit": "p1",
+      "type": "word",
+      "question": "Au pied de quel arbre les ouvriers ont-ils découvert la statue en creusant ?",
+      "answer": "olivier",
+      "evidence": [
+        "C’est bien avant dans la terre, au pied d’un olivier, que nous l’avons eue."
+      ]
+    },
+    {
+      "id": "q2",
+      "unit": "p2",
+      "type": "word",
+      "question": "Quel outil un certain Étienne a-t-il cassé en essayant d’entamer la statue ?",
+      "answer": "lime",
+      "evidence": [
+        "Elle est de cuivre, et si dure qu’Étienne a cassé sa lime dessus, essayant de l’entamer."
+      ]
+    },
+    {
+      "id": "q3",
+      "unit": "p3",
+      "type": "word",
+      "question": "Quel village voisin l’antiquaire croit-il reconnaître dans l’inscription gravée sur le bras de la statue ?",
+      "answer": "Boulternère",
+      "evidence": [
+        "il y a un village qui s’appelle Boulternère. C’est une corruption du mot latin TVRBVLNERA."
+      ]
+    },
+    {
+      "id": "q4",
+      "unit": "p4",
+      "type": "word",
+      "question": "De quel vin, presque aussi fort que l’eau-de-vie, Alphonse boit-il sans arrêt au souper ?",
+      "answer": "Collioure",
+      "evidence": [
+        "Il buvait à chaque instant du vieux vin de Collioure presque aussi fort que de l’eau-de-vie."
+      ]
+    },
+    {
+      "id": "q5",
+      "unit": "p5",
+      "type": "word",
+      "question": "Dans quelle ville, d’après le narrateur, des braves assommaient leurs victimes avec des sacs de cuir pleins de sable ?",
+      "answer": "Valence",
+      "evidence": [
+        "qu’à Valence des braves se servaient de longs sacs de cuir remplis de sable fin pour assommer les gens dont on leur avait payé la mort."
+      ]
+    }
+  ]
+}

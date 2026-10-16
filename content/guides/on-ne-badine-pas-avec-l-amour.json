@@ -1,0 +1,171 @@
+{
+  "slug": "on-ne-badine-pas-avec-l-amour",
+  "title": "On ne badine pas avec l'amour",
+  "author": "Alfred de Musset",
+  "authorDates": "1810-1857",
+  "published": "1834",
+  "genre": "théâtre (proverbe en trois actes, en prose)",
+  "programme": "bac",
+  "level": "Première, voies générale et technologique",
+  "programmeNote": "Œuvre au programme de l’épreuve anticipée de français de juin 2027 (session 2028), en voie générale et en voie technologique, pour l’objet d’étude consacré au théâtre. Source : note de service MENE2518792N du 4 juillet 2025, BO n° 30 du 24 juillet 2025.",
+  "source": {
+    "label": "Wikisource, d'après l'édition de la Clarendon Press, Oxford, 1884",
+    "url": "https://fr.wikisource.org/wiki/On_ne_badine_pas_avec_l%E2%80%99amour_(1884)",
+    "licence": "Transcription Wikisource, CC BY-SA 4.0"
+  },
+  "words": 14019,
+  "units": [
+    {
+      "id": "acte1",
+      "label": "Acte I",
+      "file": "sources/on-ne-badine-pas-avec-l-amour/01.txt",
+      "words": 4026,
+      "summary": "Devant le château du baron, le chœur des paysans accueille maître Blazius, gouverneur de Perdican, puis dame Pluche, gouvernante de Camille : les deux cousins, lui reçu docteur à Paris, elle sortie du couvent, arrivent le même jour. Le baron, qui a décidé de les marier, présente les nouveaux venus à maître Bridaine, le curé, et le curé et le gouverneur s’accusent bientôt l’un l’autre de trop boire. Les retrouvailles déçoivent le baron : Camille refuse d’embrasser son cousin, puis de se promener avec lui en souvenir de leur enfance. Perdican retrouve avec émotion les paysans et le village, où il revoit Rosette, la sœur de lait de Camille, qu’il invite à souper au château. Bridaine annonce au baron que son fils fait des ricochets au bord du lavoir, une jeune paysanne au bras."
+    },
+    {
+      "id": "acte2",
+      "label": "Acte II",
+      "file": "sources/on-ne-badine-pas-avec-l-amour/02.txt",
+      "words": 4724,
+      "summary": "Camille déclare à Perdican qu’elle refuse le mariage et repartira le lendemain pour son couvent ; elle charge ensuite dame Pluche de lui porter un billet. Bridaine, furieux de céder sa place d’honneur à table au gouverneur, décide de retourner à sa cure, tandis que Perdican, triste, se promène avec Rosette et l’embrasse. Blazius raconte au baron qu’il a vu Camille forcer sa gouvernante à porter une lettre, et il en conclut que la jeune fille a une correspondance secrète. À la fontaine du bois, Camille donne à Perdican le baiser refusé la veille, l’interroge sur ses amours passées et lui annonce qu’elle va prendre le voile, après avoir écouté au couvent les malheurs de femmes trompées. Perdican lui répond par une charge contre les religieuses et une défense de l’amour malgré ses souffrances, puis la quitte."
+    },
+    {
+      "id": "acte3",
+      "label": "Acte III",
+      "file": "sources/on-ne-badine-pas-avec-l-amour/03.txt",
+      "words": 5269,
+      "summary": "Le baron chasse Blazius, qu’il tient pour un ivrogne et un voleur de bouteilles, et Bridaine court aussitôt reprendre sa place à table. Pour se justifier, Blazius arrache à dame Pluche une lettre de Camille ; Perdican la prend, l’ouvre et lit que sa cousine se flatte de l’avoir désespéré par son refus. Piqué, il fixe à Camille un nouveau rendez-vous à la fontaine et y fait la cour à Rosette sous ses yeux, en jetant dans l’eau une bague reçue de Camille. Camille repêche la bague, cache Rosette derrière une tapisserie et pousse Perdican à lui dire qu’il l’aime : Rosette s’évanouit, et Perdican, mis au défi, maintient qu’il l’épousera. Dans l’oratoire où Camille est venue prier, les deux cousins s’avouent enfin leur amour ; un cri retentit derrière l’autel, et Camille revient annoncer que Rosette est morte."
+    }
+  ],
+  "intro": [
+    "On ne badine pas avec l’amour est une pièce en trois actes et en prose d’Alfred de Musset, publiée en 1834 dans la Revue des Deux Mondes. Musset écrit alors pour la lecture plutôt que pour la scène : la pièce n’est jouée qu’en 1861, à la Comédie-Française, quatre ans après sa mort. Le titre reprend la forme du proverbe, petite comédie de salon qui illustre une maxime, mais l’intrigue glisse de la comédie au drame et se termine par une mort. Les scènes comiques, autour du baron, de deux ecclésiastiques gourmands et d’une gouvernante dévote, alternent avec les longs dialogues de deux cousins qui s’aiment sans vouloir l’avouer. Un chœur de paysans, souvenir du théâtre antique, commente les arrivées et les événements.",
+    "Pour l’objet d’étude sur le théâtre, observez comment la pièce change de registre : la farce des fantoches et le lyrisme des deux cousins se côtoient jusqu’à ce que le jeu devienne cruel à l’acte III. Suivez les objets qui passent de main en main (billets, lettre, bague, chaîne) : chacun déclenche une scène. Repérez aussi les moments où Perdican et Camille se donnent la comédie devant un témoin caché, une forme de théâtre dans le théâtre dont Rosette est la victime."
+  ],
+  "characters": [
+    {
+      "name": "Perdican",
+      "role": "Fils du baron, vingt et un ans, qui revient au château reçu docteur à Paris."
+    },
+    {
+      "name": "Camille",
+      "role": "Nièce du baron, dix-huit ans, élevée au couvent, qui refuse d’épouser son cousin."
+    },
+    {
+      "name": "Rosette",
+      "role": "Sœur de lait de Camille, jeune paysanne du village, que Perdican courtise par dépit."
+    },
+    {
+      "name": "Le Baron",
+      "role": "Père de Perdican, qui a tout prévu pour marier son fils à sa nièce et ne comprend rien à ce qui arrive."
+    },
+    {
+      "name": "Maître Blazius",
+      "role": "Gouverneur de Perdican, gourmand et porté sur le vin."
+    },
+    {
+      "name": "Maître Bridaine",
+      "role": "Curé de la paroisse, rival de Blazius à la table du baron."
+    },
+    {
+      "name": "Dame Pluche",
+      "role": "Gouvernante de Camille, dévote et revêche."
+    },
+    {
+      "name": "Le Chœur",
+      "role": "Les paysans du village, qui commentent l’action avec ironie ou tendresse."
+    }
+  ],
+  "passages": [
+    {
+      "unit": "acte1",
+      "ref": "Acte I, scène 1",
+      "title": "L’entrée de Blazius",
+      "quote": "Doucement bercé sur sa mule fringante, messer Blazius s’avance dans les bleuets fleuris, vêtu de neuf, l’écritoire au côté. Comme un poupon sur l’oreiller, il se ballotte sur son ventre rebondi,",
+      "note": "La pièce s’ouvre sur le chœur, emprunté à la tragédie grecque mais confié à des paysans. Le portrait de Blazius repose sur des images comiques (le poupon, le ventre, plus loin le triple menton). Le contraste entre le cadre poétique et le personnage grotesque annonce le mélange des registres."
+    },
+    {
+      "unit": "acte1",
+      "ref": "Acte I, scène 4",
+      "title": "Le retour de Perdican",
+      "quote": "Comme ce lavoir est petit ! autrefois il me paraissait immense ; j’avais emporté dans ma tête un océan et des forêts ; et je retrouve une goutte d’eau et des brins d’herbe.",
+      "note": "Perdican retrouve les lieux de son enfance et mesure le temps passé. L’opposition entre l’océan et la goutte d’eau traduit la nostalgie et la désillusion. Ce lyrisme de la mémoire explique pourquoi le refus de Camille, qui dit ne pas aimer les souvenirs d’enfance, le blesse."
+    },
+    {
+      "unit": "acte2",
+      "ref": "Acte II, scène 5",
+      "title": "Le refus de souffrir",
+      "quote": "Je veux aimer, mais je ne veux pas souffrir ; je veux aimer d’un amour éternel, et faire des serments qui ne se violent pas.",
+      "note": "Camille résume sa position avant de montrer son crucifix. La phrase oppose aimer et souffrir, et réclame un amour sans fin que seul Dieu, selon elle, peut garantir. Toute la scène de la fontaine est un débat d’idées entre deux conceptions de l’amour."
+    },
+    {
+      "unit": "acte2",
+      "ref": "Acte II, scène 5",
+      "title": "La réponse de Perdican",
+      "quote": "on se retourne pour regarder en arrière, et on se dit : J’ai souffert souvent, je me suis trompé quelquefois, mais j’ai aimé. C’est moi qui ai vécu, et non pas un être factice créé par mon orgueil et mon ennui.",
+      "note": "Fin de la tirade de Perdican, qui clôt l’acte II. Après une longue énumération des défauts des hommes et des femmes, la phrase se retourne en éloge de l’amour vécu. On rapproche souvent ces lignes de la correspondance de Musset avec George Sand. Passage très travaillé à l’oral : gradation, antithèses, rythme ternaire."
+    },
+    {
+      "unit": "acte3",
+      "ref": "Acte III, scène 3",
+      "title": "La bague dans la fontaine",
+      "quote": "Regarde comme notre image a disparu ; la voilà qui revient peu à peu ; l’eau qui s’était troublée reprend son équilibre ; elle tremble encore ;",
+      "note": "Perdican parle à Rosette mais vise Camille, cachée derrière un arbre : ses paroles ont deux destinataires. Le reflet troublé puis reformé dans l’eau sert de symbole à l’amour qu’il prétend effacer. Rosette, qui prend tout au sérieux, ignore qu’elle joue un rôle dans une scène écrite pour une autre."
+    },
+    {
+      "unit": "acte3",
+      "ref": "Acte III, scène 8",
+      "title": "L’aveu trop tardif",
+      "quote": "Insensés que nous sommes ! nous nous aimons. Quel songe avons-nous fait, Camille ? Quelles vaines paroles, quelles misérables folies ont passé comme un vent funeste entre nous deux ?",
+      "note": "Dans l’oratoire, Perdican accuse l’orgueil d’avoir séparé les deux cousins. L’aveu arrive au moment où Rosette, cachée, l’entend : le cri qui suit fait basculer la pièce dans le drame. La dernière réplique de Camille, très brève, contraste avec ces longues phrases."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "unit": "acte1",
+      "ref": "Acte I, scène 2",
+      "question": "Quel est le prénom de la grand-tante religieuse dont Camille admire le portrait dans le salon ?",
+      "answer": "Isabelle",
+      "evidence": "Oh ! oui, une sainte ! c’est ma grand’tante Isabelle."
+    },
+    {
+      "id": "q2",
+      "unit": "acte2",
+      "ref": "Acte II, scène 4",
+      "question": "Selon le récit de Blazius au baron, dans quel champ dame Pluche faisait-elle des soubresauts ?",
+      "answer": "luzerne",
+      "evidence": "Et elle frappait avec son éventail sur le coude de dame Pluche, qui faisait un soubresaut dans la luzerne à chaque exclamation."
+    },
+    {
+      "id": "q3",
+      "unit": "acte2",
+      "ref": "Acte II, scène 5",
+      "question": "Quel est le prénom de l’amie religieuse dont Camille raconte les malheurs à Perdican ?",
+      "answer": "Louise",
+      "evidence": "Ce que je voulais vous raconter comme une curiosité, c’est que tous les récits de Louise, toutes les fictions de mes rêves portaient votre ressemblance."
+    },
+    {
+      "id": "q4",
+      "unit": "acte3",
+      "ref": "Acte III, scène 2",
+      "question": "D’après la lettre de Camille lue par Perdican, qu’est-ce que le pauvre jeune homme a dans le cœur ?",
+      "answer": "poignard",
+      "evidence": "C’est une terrible chose ; mais ce pauvre jeune homme a le poignard dans le cœur ;"
+    },
+    {
+      "id": "q5",
+      "unit": "acte3",
+      "ref": "Acte III, scène 8",
+      "question": "Dans l’oratoire, depuis combien d’années Dieu sait-il, selon Camille, qu’elle aime Perdican ?",
+      "answer": "quinze",
+      "evidence": "il y a quinze ans qu’il le sait."
+    }
+  ],
+  "readingTips": [
+    "La pièce est en prose et se lit vite, en une heure et quart environ. Lisez-la d’une traite une première fois, puis revenez aux trois grandes scènes : la fontaine (acte II, scène 5), la scène de la tapisserie (acte III, scène 6) et l’oratoire (acte III, scène 8).",
+    "Les didascalies entre parenthèses indiquent les changements de lieu (place, salon, jardin, fontaine, oratoire) : notez-les, la pièce en change presque à chaque scène.",
+    "Distinguez bien les deux ecclésiastiques : Blazius est le gouverneur de Perdican, Bridaine le curé de la paroisse. Leurs scènes sont construites en miroir.",
+    "Suivez à la trace les billets et la lettre de Camille : qui écrit, qui porte, qui lit. Toute l’intrigue de l’acte III en dépend."
+  ],
+  "updated": "2026-10-16"
+}
