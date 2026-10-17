@@ -127,6 +127,7 @@ function guidePage(g: Guide): { seo: SeoData; published_at: string } {
 <div><dt>Longueur</dt><dd>${nf(g.words)} mots, environ ${hours(g.words)} de lecture</dd></div>
 <div><dt>Niveau</dt><dd>${esc(g.level)}</dd></div>
 </dl>
+<p class="small signature">Fiche écrite par Octave, l’assistant IA de READ FRANCE, à partir du texte de l’édition suivie, publiée le ${frDate(g.datePublished ?? UPDATED)}${g.updated !== (g.datePublished ?? UPDATED) ? `, mise à jour le ${frDate(g.updated)}` : ''}. Aucun professeur ne l’a encore relue : signalez une erreur à <a href="mailto:${CONTACT}">${CONTACT}</a>.</p>
 <p class="programme"><strong>${prog}.</strong> ${esc(g.programmeNote)}</p>${g.programmeSources?.length ? `\n<p class="small">Textes officiels consultés le ${frDate(g.updated)} : ${g.programmeSources.map((s) => `<a href="${esc(s.url)}" rel="noopener">${esc(s.label)}</a>`).join(' ; ')}.</p>` : ''}
 ${g.intro.map((p) => `<p>${esc(p)}</p>`).join('\n')}
 ${ressources(g, 'haut')}
@@ -201,6 +202,8 @@ const methode = staticPage('methode/', 'Comment les fiches Lectoguide sont faite
 <p>Chaque œuvre est reprise de Wikisource, dans une édition ancienne identifiée sur la fiche (éditeur, année). Le texte est découpé selon ses propres unités : chapitres, actes, lettres, soirs, poèmes, ou pour un texte d’un seul tenant, des parties définies par numéros de paragraphes. Tous les auteurs sont morts avant 1925 ; les textes sont donc libres en France comme à l’étranger.</p>
 <h2>Les résumés et les passages</h2>
 <p>Les résumés sont écrits à partir du texte, partie par partie, en trois à six phrases. Chaque nom et chaque événement a été recherché dans le texte avant d’être écrit. Les passages clés sont des citations courtes (45 mots au plus), copiées de l’édition suivie et vérifiées par programme : une citation qui ne se retrouve pas mot pour mot dans sa partie bloque la publication.</p>
+<h2>Qui écrit les fiches</h2>
+<p>Octave, l’assistant IA de READ FRANCE, écrit les fiches à partir du texte seul, puis un programme vérifie chaque citation et chaque réponse dans l’édition suivie. Aucun professeur ne les a encore relues. Les faits sur les programmes viennent du Bulletin officiel et d’éduscol, liés sur chaque fiche avec la date à laquelle nous les avons lus.</p>
 <h2>Les cinq questions</h2>
 <p>Elles suivent le format des points de contrôle de l’application Vread : une question ouverte sur un fait précis d’une partie, une réponse d’un seul mot qui figure dans cette partie. Le moteur de lecture de READ FRANCE vérifie la forme (35 à 160 caractères, pas de oui ou non, pas de choix multiple, réponse absente de la question et pas trop générique), la présence de la réponse et du passage dans la partie citée, et l’absence de doublon.</p>
 <p>Il fait aussi passer un test « avec le résumé seul » : un lecteur qui n’a pas le texte, mais seulement les résumés de la fiche, doit répondre en citant le résumé. S’il trouve, la question est réécrite. Ce lecteur est un agent qui n’a jamais vu le texte, ni les réponses.</p>
@@ -210,7 +213,7 @@ const methode = staticPage('methode/', 'Comment les fiches Lectoguide sont faite
 <li>Les références suivent l’édition de Wikisource. Dans une édition scolaire, les numéros de pages diffèrent, mais les chapitres, actes et scènes sont les mêmes.</li>
 <li>Les fiches ne disent rien des attentes d’un correcteur ou d’un examinateur : nous ne publions que ce que le texte et le Bulletin officiel permettent de vérifier.</li>
 </ul>
-<p>Une erreur ? Écrivez à <a href="mailto:${CONTACT}">${CONTACT}</a> en citant la fiche et le passage.</p>`);
+<p>Une erreur ? Écrivez à <a href="mailto:${CONTACT}">${CONTACT}</a> en citant la fiche et le passage.</p>`, [], 'WebPage', HOME_UPDATED);
 
 const confidentialite = staticPage('confidentialite/', 'Confidentialité : Lectoguide par READ FRANCE',
   'Lectoguide ne demande aucun compte et ne dépose aucun cookie. La mesure d’audience est agrégée, sans identifiant.',

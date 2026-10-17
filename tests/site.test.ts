@@ -135,7 +135,7 @@ test('engine QA: each guide passed every gate, the summary cold-answer gate incl
 
 test('no thin page, no boilerplate shared by more than 2 guides (editorial checker from chapter-coffee-club)', () => {
   const list = guides.map((g) => ({ slug: g.slug, html: html[`/${g.slug}/index.html`].replace(/<aside[\s\S]*?<\/aside>|<header[\s\S]*?<\/header>|<footer[\s\S]*?<\/footer>/g, ' ') }));
-  assert.deepEqual(editorialWarnings(list, { minWords: 900, maxShared: 2 }).filter((w) => !/Chaque réponse tient en un mot|Ces résumés servent|Textes officiels consultés/.test(w.issue)), []);
+  assert.deepEqual(editorialWarnings(list, { minWords: 900, maxShared: 2 }).filter((w) => !/Chaque réponse tient en un mot|Ces résumés servent|Textes officiels consultés|Fiche écrite par Octave/.test(w.issue)), []);
 });
 
 test('anti-AI grid (lint-ia) on every page', { skip: !process.env.LINT_IA }, () => {
@@ -160,6 +160,7 @@ test('programme: home has the bac, lycée and collège sections; official texts 
       assert.ok(h.includes(`href="${s.url}"`), `${g.slug}: ${s.url}`);
     }
     if (g.programme === 'lycee' || (g.programmeSources ?? []).length) assert.ok((g.programmeSources ?? []).length >= 1, `${g.slug}: sources`);
+    assert.match(text(h), /Fiche écrite par Octave, l’assistant IA de READ FRANCE/, `${g.slug}: AI disclosure`);
     if (g.programme === 'bac') assert.ok(h.includes(`href="https://outils.vread.fr/lectoclasse/kits/${g.slug}/"`), `${g.slug}: kit page`);
     assert.doesNotMatch(text(h), /session 2027/i, g.slug);
   }
