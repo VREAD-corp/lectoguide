@@ -1,4 +1,4 @@
-// Browser test (Chromium, 390 and 1280 px). Local by default; live with BASE_URL=https://outils.vread.fr/lectoguide/
+// Browser test (Chromium, 390 and 1440 px). Local by default; live with BASE_URL=https://outils.vread.fr/lectoguide/
 // Always ?octave_notrack=1: our own visits are counted apart, never as audience.
 import { chromium } from 'playwright';
 import assert from 'node:assert/strict';
@@ -24,7 +24,7 @@ if (!BASE) {
 const browser = await chromium.launch();
 const results = [];
 const step = async (n, fn) => { try { await fn(); results.push(['ok', n]); } catch (e) { results.push(['FAIL', `${n}: ${e.message}`]); } };
-for (const width of [390, 1280]) {
+for (const width of [390, 1440]) {
   const ctx = await browser.newContext({ viewport: { width, height: 900 } });
   const page = await ctx.newPage();
   const errors = []; const hits = [];
@@ -43,6 +43,14 @@ for (const width of [390, 1280]) {
     await page.locator('ol.questions summary').first().click();
     assert.equal(await page.locator('ol.questions details[open]').count(), 1);
     assert.equal(await page.locator('.cta-haut').isVisible(), false, 'arm a: no top box');
+  });
+  await step(`${width}: every new guide (lycée and collège, 2026-10-17) renders without horizontal scroll, with its official texts`, async () => {
+    for (const slug of (process.env.NEW_GUIDES || 'candide,phedre,contes-de-perrault').split(',')) {
+      await page.goto(BASE + slug + '/?octave_notrack=1', { waitUntil: 'networkidle' });
+      assert.ok(await page.evaluate(() => document.documentElement.scrollWidth) <= width + 1, slug);
+      assert.equal(await page.locator('ol.questions > li').count(), 5, slug);
+      assert.ok(await page.locator('p.small a[href*="education.gouv.fr"]').count() >= 1, slug);
+    }
   });
   await step(`${width}: A/B arm b shows the resources box after the introduction`, async () => {
     await page.goto(BASE + 'le-cid/?octave_notrack=1&cta=b', { waitUntil: 'networkidle' });

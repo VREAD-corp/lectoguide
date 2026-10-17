@@ -1,0 +1,109 @@
+{
+  "set": "lectoguide/contes-de-perrault",
+  "coldGate": "summary",
+  "title": "Histoires ou contes du temps passé",
+  "author": "Charles Perrault",
+  "language": "fr",
+  "units": [
+    {
+      "id": "belle",
+      "label": "La Belle au bois dormant",
+      "file": "../../sources/contes-de-perrault/01.txt",
+      "summary": "Un roi et une reine obtiennent enfin une fille, et sept fées invitées au baptême lui font chacune un don. Une vieille fée qu’on n’avait pas priée annonce que la princesse se percera la main d’un fuseau et en mourra ; une jeune fée, restée cachée derrière la tapisserie, change cette mort en un sommeil de cent ans, au bout duquel le fils d’un roi viendra la réveiller. Quinze ou seize ans plus tard, malgré l’édit qui interdit les fuseaux, la princesse se pique chez une vieille femme qui file en haut d’un donjon ; la bonne fée endort tout le château avec elle, et un bois de ronces et d’épines pousse autour du parc. Cent ans après, un prince d’une autre famille traverse ce bois, qui s’ouvre devant lui, réveille la princesse et l’épouse le soir même. Il vit deux ans avec elle en secret, car sa mère est de race ogresse, et en a deux enfants, l’Aurore et le Jour. Devenu roi, il part à la guerre en laissant la régence à sa mère, qui veut manger ses petits-enfants puis sa belle-fille : le maître d’hôtel les cache et lui sert à leur place un agneau, un chevreau et une biche, jusqu’au jour où l’ogresse découvre la ruse, fait préparer une cuve pleine de crapauds et de serpents, et s’y jette elle-même quand son fils rentre à l’improviste."
+    },
+    {
+      "id": "chaperon",
+      "label": "Le Petit Chaperon rouge",
+      "file": "../../sources/contes-de-perrault/02.txt",
+      "summary": "Une petite fille de village, que tout le monde appelle le Petit Chaperon rouge à cause du chaperon que sa mère-grand lui a fait faire, part porter une galette et un petit pot de beurre à sa mère-grand malade. Dans un bois, elle rencontre le loup, qui n’ose pas la manger à cause des bûcherons de la forêt, et elle lui dit où habite sa grand-mère. Le loup prend le chemin le plus court, dévore la grand-mère et se couche dans son lit, tandis que la fillette s’attarde en route. Quand elle arrive, il lui demande de venir se coucher près de lui, répond à ses questions sur ses bras, ses jambes, ses oreilles, ses yeux et ses dents, puis la mange. Une moralité en vers suit le récit."
+    },
+    {
+      "id": "barbe",
+      "label": "La Barbe bleue",
+      "file": "../../sources/contes-de-perrault/03.txt",
+      "summary": "Un homme très riche, que sa barbe bleue rend effrayant et dont on ne sait ce que sont devenues les femmes précédentes, épouse la cadette des deux filles d’une voisine, après huit jours de fêtes dans une de ses maisons de campagne. Un mois plus tard, il part en voyage pour six semaines et confie à sa femme toutes ses clefs, en lui défendant d’ouvrir le petit cabinet au bout de la grande galerie de l’appartement bas. Pendant que ses amies visitent la maison, elle ouvre ce cabinet et y découvre les corps des femmes qu’il a égorgées ; la petite clef, tachée de sang, ne peut plus être nettoyée, car elle est fée. Revenu le soir même, la Barbe bleue voit la tache et annonce à sa femme qu’elle va mourir ; elle obtient un demi-quart d’heure et envoie sa sœur Anne guetter du haut de la tour l’arrivée de leurs deux frères. Les frères entrent au dernier moment et tuent la Barbe bleue ; sa veuve, seule héritière, marie sa sœur, achète des charges de capitaine à ses frères et se remarie. Deux moralités en vers suivent le récit."
+    },
+    {
+      "id": "chat",
+      "label": "Le Maître Chat ou le Chat botté",
+      "file": "../../sources/contes-de-perrault/04.txt",
+      "summary": "Un meunier laisse à ses trois fils son moulin, son âne et son chat ; le plus jeune, qui n’a eu que le chat, se désole. Le chat lui demande un sac et une paire de bottes, attrape un lapin de garenne puis deux perdrix et les offre au roi de la part du marquis de Carabas, nom qu’il invente pour son maître. Un jour où le roi se promène au bord de la rivière avec sa fille, il fait baigner son maître, crie qu’on le noie et raconte que des voleurs ont emporté ses habits : le roi le fait habiller, et la princesse tombe amoureuse de lui. Courant devant le carrosse, le chat menace les faucheurs et les moissonneurs pour qu’ils disent au roi que les prés et les blés appartiennent au marquis. Il arrive enfin au château d’un ogre très riche, l’amène à se changer en lion puis en souris, et le mange ; le roi, reçu dans ce château, donne sa fille au marquis le jour même. Deux moralités en vers suivent le récit."
+    },
+    {
+      "id": "fees",
+      "label": "Les Fées",
+      "file": "../../sources/contes-de-perrault/05.txt",
+      "summary": "Une veuve a deux filles : l’aînée, qui lui ressemble, désagréable et orgueilleuse, qu’elle adore, et la cadette, douce et belle, qu’elle fait manger à la cuisine et travailler sans cesse. Un jour, à la fontaine où elle va puiser de l’eau deux fois par jour, la cadette donne à boire à une pauvre femme, qui est une fée et lui donne le don de faire sortir de sa bouche une fleur ou une pierre précieuse à chaque parole. La mère envoie alors l’aînée à la fontaine ; la fée, cette fois sous les habits d’une princesse, est reçue avec insolence et donne à la jeune fille le don de jeter un serpent ou un crapaud à chaque mot. Menacée par sa mère, la cadette s’enfuit dans la forêt, où le fils du roi la rencontre et l’épouse. L’aînée, chassée à son tour, va mourir au coin d’un bois. Deux moralités en vers suivent le récit."
+    },
+    {
+      "id": "cendrillon",
+      "label": "Cendrillon ou la petite pantoufle de verre",
+      "file": "../../sources/contes-de-perrault/06.txt",
+      "summary": "Un gentilhomme se remarie avec une femme hautaine, mère de deux filles qui lui ressemblent ; sa propre fille, douce et bonne, fait les plus durs travaux de la maison et dort dans un grenier. Comme elle va s’asseoir dans les cendres au coin de la cheminée, la cadette de ses demi-sœurs l’appelle Cendrillon. Le fils du roi donne un bal : la marraine de Cendrillon, qui est fée, change une citrouille en carrosse, six souris en chevaux, un rat en cocher et six lézards en laquais, l’habille de drap d’or et d’argent, lui donne des pantoufles de verre et lui ordonne de partir avant minuit. Le premier soir, Cendrillon quitte le bal à onze heures trois quarts ; le second, elle entend sonner minuit, s’enfuit et perd une pantoufle, que le prince ramasse. Le prince fait essayer la pantoufle aux princesses, aux duchesses et à toute la Cour, puis chez les deux sœurs : elle va au pied de Cendrillon, qui sort l’autre de sa poche. Cendrillon pardonne à ses sœurs, épouse le prince et marie les deux jeunes filles à deux grands seigneurs. Deux moralités en vers suivent le récit."
+    },
+    {
+      "id": "riquet",
+      "label": "Riquet à la houppe",
+      "file": "../../sources/contes-de-perrault/07.txt",
+      "summary": "Une reine met au monde un fils très laid, mais une fée lui donne beaucoup d’esprit et le pouvoir d’en donner autant à la personne qu’il aimera le mieux ; on l’appelle Riquet à la houppe à cause de la touffe de cheveux qu’il a sur la tête. Sept ou huit ans plus tard, dans un royaume voisin, une reine a deux filles : l’aînée, très belle et très sotte, reçoit de la même fée le don de rendre beau celui qui lui plaira, et la cadette, très laide, a beaucoup d’esprit. Riquet, amoureux de l’aînée d’après ses portraits, la rencontre seule dans un bois et lui offre de l’esprit si elle promet de l’épouser dans un an ; elle accepte et devient aussitôt brillante. Un an plus tard, dans le même bois, elle découvre sous la terre une grande cuisine où l’on prépare les noces de Riquet pour le lendemain, et se souvient de sa promesse. Elle hésite, mais Riquet lui apprend le don qu’elle a reçu ; elle souhaite qu’il devienne beau, et il lui paraît aussitôt le plus beau des hommes, même si certains pensent que l’amour seul a opéré ce changement. Le roi accepte ce gendre, et les noces ont lieu le lendemain. Deux moralités en vers suivent le récit."
+    },
+    {
+      "id": "poucet",
+      "label": "Le Petit Poucet",
+      "file": "../../sources/contes-de-perrault/08.txt",
+      "summary": "Un bûcheron et sa femme, très pauvres, ont sept garçons ; le plus jeune, tout petit et silencieux, est appelé le petit Poucet. Pendant une famine, les parents décident de perdre leurs enfants dans la forêt ; le petit Poucet, qui les a entendus, sème des petits cailloux blancs et ramène ses frères à la maison, où le seigneur du village vient d’envoyer dix écus qu’il devait. Quand l’argent est dépensé, les enfants sont de nouveau abandonnés ; cette fois, les oiseaux mangent les miettes de pain que le petit Poucet a semées, et les sept frères arrivent la nuit chez un ogre, dont la femme les cache. Pendant la nuit, le petit Poucet échange les bonnets de ses frères et le sien contre les couronnes d’or des sept filles de l’ogre, que leur père égorge par erreur. L’ogre poursuit les garçons avec ses bottes de sept lieues, s’endort sur le rocher où ils se cachent, et le petit Poucet lui prend ses bottes. Le conte donne ensuite deux fins : dans la première, il obtient par un mensonge toutes les richesses de l’ogre ; dans la seconde, il devient courrier du roi et fait la fortune de sa famille. Une moralité en vers termine le recueil."
+    }
+  ],
+  "items": [
+    {
+      "id": "q1",
+      "unit": "belle",
+      "type": "word",
+      "question": "Contre quel empereur, son voisin, le jeune roi part-il faire la guerre en laissant la régence à sa mère ?",
+      "answer": "Cantalabutte",
+      "evidence": [
+        "Quelque temps aprés, le Roi alla faire la guerre à l’Empereur Cantalabutte, son voisin."
+      ]
+    },
+    {
+      "id": "q2",
+      "unit": "barbe",
+      "type": "word",
+      "question": "Que la sœur Anne découvre-t-elle d’abord dans la grosse poussière qui approche, avant de voir les deux cavaliers ?",
+      "answer": "Moutons",
+      "evidence": [
+        "Helas, non, ma sœur, c’est un Troupeau de Moutons."
+      ]
+    },
+    {
+      "id": "q3",
+      "unit": "cendrillon",
+      "type": "word",
+      "question": "Quel surnom, plus grossier que celui que lui donne la cadette, l’héroïne reçoit-elle d’habitude dans le logis ?",
+      "answer": "Cucendron",
+      "evidence": [
+        "Lorsqu’elle avoit fait son ouvrage, elle s’alloit mettre au coin de la cheminée & s’asseoir dans les cendres, ce qui faisoit qu’on l’appeloit communément dans le logis Cucendron ;"
+      ]
+    },
+    {
+      "id": "q4",
+      "unit": "riquet",
+      "type": "word",
+      "question": "Quel ustensile de cuisine les rôtisseurs sortis de terre tiennent-ils à la main en travaillant dans le bois ?",
+      "answer": "lardoire",
+      "evidence": [
+        "Il en sortit une bande de vingt ou trente Rotisseurs, qui allerent se camper dans une allée du bois autour d’une table fort longue, & qui tous, la lardoire à la main & la queuë de Renard sur l’oreille, se mirent à travailler en cadence au son d’une Chanson harmonieuse."
+      ]
+    },
+    {
+      "id": "q5",
+      "unit": "poucet",
+      "type": "word",
+      "question": "Quel est le prénom du bûcheron, à qui sa femme reproche d’avoir voulu perdre leurs enfants ?",
+      "answer": "Guillaume",
+      "evidence": [
+        "Mais aussi, Guillaume, c’est toy qui les as voulu perdre, j’avois bien dit que nous nous en repentirions, que font-ils maintenant dans cette Forest ?"
+      ]
+    }
+  ]
+}

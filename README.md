@@ -1,10 +1,12 @@
 # Lectoguide par READ FRANCE
 
 Free reading guides at **https://outils.vread.fr/lectoguide/** for public-domain works on French school programmes: the
-8 public-domain works of the bac de français (épreuve anticipée de juin 2027, session 2028; BO n° 30 of 24 July 2025) and
-collège classics. Each guide: the text unit by unit (one summary per chapter, act, letter, soir, poem or part), 5–6 key
+8 public-domain works of the bac de français (épreuve anticipée de juin 2027; BO n° 30 of 24 July 2025), lycée classics
+(seconde: Phèdre, Le Malade imaginaire, Candide, Le Dernier Jour d'un condamné) and collège classics (26 guides on
+2026-10-17). `programme` is `bac`, `lycee` or `college`; `programmeSources` lists the official texts behind
+`programmeNote` (education.gouv.fr BO pages, éduscol), shown on the page with the date they were checked. Each guide: the text unit by unit (one summary per chapter, act, letter, soir, poem or part), 5–6 key
 passages quoted word for word with their reference, and 5 one-word comprehension questions in Vread's checkpoint format,
-validated by READ FRANCE's reading engine. Links to Lectoclasse, Chapter Checks, Lectopoint and vread.fr.
+validated by READ FRANCE's reading engine. Bac guides link to their Lectoclasse kit page (`/lectoclasse/kits/<slug>/`). Links to Lectoclasse, Chapter Checks, Lectopoint and vread.fr.
 
 ## The SEO engine (historical reuse)
 
@@ -24,7 +26,7 @@ hashes and line authors: [PROVENANCE.md](PROVENANCE.md). chapter-coffee-club its
 ```sh
 npm test      # build + SEO logic tests + site/content checks (quotes found in the sources, QA logs 5/5, no thin page)
 OCTAVE_CHECKOUT_WEB=../octave-checkout/gas/web LINT_IA=../vread-revenue-lab/content/lint-ia.mjs CHAPTER_COFFEE_CLUB=../chapter-coffee-club npm test
-npm run e2e   # Chromium 390 / 1280 px, ?octave_notrack=1; BASE_URL=https://outils.vread.fr/lectoguide/ for live
+npm run e2e   # Chromium 390 / 1440 px, ?octave_notrack=1; BASE_URL=https://outils.vread.fr/lectoguide/ for live
 E=../vread-reading-engine/bin/reading-engine.mjs
 node $E qa qa/items/le-cid.json --gate summary --cold qa/cold/le-cid.answers.jsonl --out qa/logs/le-cid
 ```

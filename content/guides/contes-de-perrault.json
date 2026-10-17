@@ -1,0 +1,241 @@
+{
+  "slug": "contes-de-perrault",
+  "title": "Histoires ou contes du temps passé",
+  "author": "Charles Perrault",
+  "authorDates": "1628-1703",
+  "published": "1697",
+  "genre": "contes en prose avec des moralités en vers",
+  "programme": "college",
+  "level": "Cycle 3 (CM1 à 6e) et 5e",
+  "programmeNote": "La liste de référence des lectures pour le cycle 3 (CM1 et CM2) publiée par éduscol (version 2018) range les Contes de Perrault parmi les œuvres du patrimoine, niveau de lecture 2, en citant Peau d’âne (un conte en vers, absent du recueil de 1697), La Barbe bleue et Cendrillon. Le programme de cycle 4 de 2015 (BOEN n° 31 du 30 juillet 2020) prévoyait en 5e l’étude d’un conte merveilleux en lecture intégrale, dans l’entrée « Imaginer des univers nouveaux » ; le programme applicable en 5e depuis la rentrée 2026 (BO n° 10 du 5 mars 2026) consacre une entrée au conte et à la fable, « Imaginer, sentir, raisonner : des histoires pour plaire et instruire (récit, fiction) ». Aucun de ces textes n’impose une œuvre précise.",
+  "programmeSources": [
+    {
+      "label": "Liste de référence des lectures pour le cycle 3, version 2018 (éduscol)",
+      "url": "https://eduscol.education.gouv.fr/sites/default/files/document/lecture-cycle-3-liste-de-reference-2018-pdf-74166.pdf"
+    },
+    {
+      "label": "Programmes des cycles 2, 3 et 4, version du BOEN n° 31 du 30 juillet 2020",
+      "url": "https://www.education.gouv.fr/bo/20/Hebdo31/MENE2018714A.htm"
+    },
+    {
+      "label": "Programme de français du cycle 4, arrêté du 18 février 2026 (BO n° 10 du 5 mars 2026)",
+      "url": "https://www.education.gouv.fr/bo/2026/Hebdo10/MENE2602912A"
+    }
+  ],
+  "source": {
+    "label": "Wikisource, d’après l’édition originale, Paris, Claude Barbin, 1697",
+    "url": "https://fr.wikisource.org/wiki/Histoires_ou_Contes_du_temps_pass%C3%A9_(1697)/Original",
+    "licence": "Transcription Wikisource, CC BY-SA 4.0"
+  },
+  "words": 17452,
+  "units": [
+    {
+      "id": "belle",
+      "label": "La Belle au bois dormant",
+      "file": "sources/contes-de-perrault/01.txt",
+      "words": 3467,
+      "summary": "Un roi et une reine obtiennent enfin une fille, et sept fées invitées au baptême lui font chacune un don. Une vieille fée qu’on n’avait pas priée annonce que la princesse se percera la main d’un fuseau et en mourra ; une jeune fée, restée cachée derrière la tapisserie, change cette mort en un sommeil de cent ans, au bout duquel le fils d’un roi viendra la réveiller. Quinze ou seize ans plus tard, malgré l’édit qui interdit les fuseaux, la princesse se pique chez une vieille femme qui file en haut d’un donjon ; la bonne fée endort tout le château avec elle, et un bois de ronces et d’épines pousse autour du parc. Cent ans après, un prince d’une autre famille traverse ce bois, qui s’ouvre devant lui, réveille la princesse et l’épouse le soir même. Il vit deux ans avec elle en secret, car sa mère est de race ogresse, et en a deux enfants, l’Aurore et le Jour. Devenu roi, il part à la guerre en laissant la régence à sa mère, qui veut manger ses petits-enfants puis sa belle-fille : le maître d’hôtel les cache et lui sert à leur place un agneau, un chevreau et une biche, jusqu’au jour où l’ogresse découvre la ruse, fait préparer une cuve pleine de crapauds et de serpents, et s’y jette elle-même quand son fils rentre à l’improviste."
+    },
+    {
+      "id": "chaperon",
+      "label": "Le Petit Chaperon rouge",
+      "file": "sources/contes-de-perrault/02.txt",
+      "words": 786,
+      "summary": "Une petite fille de village, que tout le monde appelle le Petit Chaperon rouge à cause du chaperon que sa mère-grand lui a fait faire, part porter une galette et un petit pot de beurre à sa mère-grand malade. Dans un bois, elle rencontre le loup, qui n’ose pas la manger à cause des bûcherons de la forêt, et elle lui dit où habite sa grand-mère. Le loup prend le chemin le plus court, dévore la grand-mère et se couche dans son lit, tandis que la fillette s’attarde en route. Quand elle arrive, il lui demande de venir se coucher près de lui, répond à ses questions sur ses bras, ses jambes, ses oreilles, ses yeux et ses dents, puis la mange. Une moralité en vers suit le récit."
+    },
+    {
+      "id": "barbe",
+      "label": "La Barbe bleue",
+      "file": "sources/contes-de-perrault/03.txt",
+      "words": 1945,
+      "summary": "Un homme très riche, que sa barbe bleue rend effrayant et dont on ne sait ce que sont devenues les femmes précédentes, épouse la cadette des deux filles d’une voisine, après huit jours de fêtes dans une de ses maisons de campagne. Un mois plus tard, il part en voyage pour six semaines et confie à sa femme toutes ses clefs, en lui défendant d’ouvrir le petit cabinet au bout de la grande galerie de l’appartement bas. Pendant que ses amies visitent la maison, elle ouvre ce cabinet et y découvre les corps des femmes qu’il a égorgées ; la petite clef, tachée de sang, ne peut plus être nettoyée, car elle est fée. Revenu le soir même, la Barbe bleue voit la tache et annonce à sa femme qu’elle va mourir ; elle obtient un demi-quart d’heure et envoie sa sœur Anne guetter du haut de la tour l’arrivée de leurs deux frères. Les frères entrent au dernier moment et tuent la Barbe bleue ; sa veuve, seule héritière, marie sa sœur, achète des charges de capitaine à ses frères et se remarie. Deux moralités en vers suivent le récit."
+    },
+    {
+      "id": "chat",
+      "label": "Le Maître Chat ou le Chat botté",
+      "file": "sources/contes-de-perrault/04.txt",
+      "words": 1682,
+      "summary": "Un meunier laisse à ses trois fils son moulin, son âne et son chat ; le plus jeune, qui n’a eu que le chat, se désole. Le chat lui demande un sac et une paire de bottes, attrape un lapin de garenne puis deux perdrix et les offre au roi de la part du marquis de Carabas, nom qu’il invente pour son maître. Un jour où le roi se promène au bord de la rivière avec sa fille, il fait baigner son maître, crie qu’on le noie et raconte que des voleurs ont emporté ses habits : le roi le fait habiller, et la princesse tombe amoureuse de lui. Courant devant le carrosse, le chat menace les faucheurs et les moissonneurs pour qu’ils disent au roi que les prés et les blés appartiennent au marquis. Il arrive enfin au château d’un ogre très riche, l’amène à se changer en lion puis en souris, et le mange ; le roi, reçu dans ce château, donne sa fille au marquis le jour même. Deux moralités en vers suivent le récit."
+    },
+    {
+      "id": "fees",
+      "label": "Les Fées",
+      "file": "sources/contes-de-perrault/05.txt",
+      "words": 896,
+      "summary": "Une veuve a deux filles : l’aînée, qui lui ressemble, désagréable et orgueilleuse, qu’elle adore, et la cadette, douce et belle, qu’elle fait manger à la cuisine et travailler sans cesse. Un jour, à la fontaine où elle va puiser de l’eau deux fois par jour, la cadette donne à boire à une pauvre femme, qui est une fée et lui donne le don de faire sortir de sa bouche une fleur ou une pierre précieuse à chaque parole. La mère envoie alors l’aînée à la fontaine ; la fée, cette fois sous les habits d’une princesse, est reçue avec insolence et donne à la jeune fille le don de jeter un serpent ou un crapaud à chaque mot. Menacée par sa mère, la cadette s’enfuit dans la forêt, où le fils du roi la rencontre et l’épouse. L’aînée, chassée à son tour, va mourir au coin d’un bois. Deux moralités en vers suivent le récit."
+    },
+    {
+      "id": "cendrillon",
+      "label": "Cendrillon ou la petite pantoufle de verre",
+      "file": "sources/contes-de-perrault/06.txt",
+      "words": 2449,
+      "summary": "Un gentilhomme se remarie avec une femme hautaine, mère de deux filles qui lui ressemblent ; sa propre fille, douce et bonne, fait les plus durs travaux de la maison et dort dans un grenier. Comme elle va s’asseoir dans les cendres au coin de la cheminée, la cadette de ses demi-sœurs l’appelle Cendrillon. Le fils du roi donne un bal : la marraine de Cendrillon, qui est fée, change une citrouille en carrosse, six souris en chevaux, un rat en cocher et six lézards en laquais, l’habille de drap d’or et d’argent, lui donne des pantoufles de verre et lui ordonne de partir avant minuit. Le premier soir, Cendrillon quitte le bal à onze heures trois quarts ; le second, elle entend sonner minuit, s’enfuit et perd une pantoufle, que le prince ramasse. Le prince fait essayer la pantoufle aux princesses, aux duchesses et à toute la Cour, puis chez les deux sœurs : elle va au pied de Cendrillon, qui sort l’autre de sa poche. Cendrillon pardonne à ses sœurs, épouse le prince et marie les deux jeunes filles à deux grands seigneurs. Deux moralités en vers suivent le récit."
+    },
+    {
+      "id": "riquet",
+      "label": "Riquet à la houppe",
+      "file": "sources/contes-de-perrault/07.txt",
+      "words": 2591,
+      "summary": "Une reine met au monde un fils très laid, mais une fée lui donne beaucoup d’esprit et le pouvoir d’en donner autant à la personne qu’il aimera le mieux ; on l’appelle Riquet à la houppe à cause de la touffe de cheveux qu’il a sur la tête. Sept ou huit ans plus tard, dans un royaume voisin, une reine a deux filles : l’aînée, très belle et très sotte, reçoit de la même fée le don de rendre beau celui qui lui plaira, et la cadette, très laide, a beaucoup d’esprit. Riquet, amoureux de l’aînée d’après ses portraits, la rencontre seule dans un bois et lui offre de l’esprit si elle promet de l’épouser dans un an ; elle accepte et devient aussitôt brillante. Un an plus tard, dans le même bois, elle découvre sous la terre une grande cuisine où l’on prépare les noces de Riquet pour le lendemain, et se souvient de sa promesse. Elle hésite, mais Riquet lui apprend le don qu’elle a reçu ; elle souhaite qu’il devienne beau, et il lui paraît aussitôt le plus beau des hommes, même si certains pensent que l’amour seul a opéré ce changement. Le roi accepte ce gendre, et les noces ont lieu le lendemain. Deux moralités en vers suivent le récit."
+    },
+    {
+      "id": "poucet",
+      "label": "Le Petit Poucet",
+      "file": "sources/contes-de-perrault/08.txt",
+      "words": 3636,
+      "summary": "Un bûcheron et sa femme, très pauvres, ont sept garçons ; le plus jeune, tout petit et silencieux, est appelé le petit Poucet. Pendant une famine, les parents décident de perdre leurs enfants dans la forêt ; le petit Poucet, qui les a entendus, sème des petits cailloux blancs et ramène ses frères à la maison, où le seigneur du village vient d’envoyer dix écus qu’il devait. Quand l’argent est dépensé, les enfants sont de nouveau abandonnés ; cette fois, les oiseaux mangent les miettes de pain que le petit Poucet a semées, et les sept frères arrivent la nuit chez un ogre, dont la femme les cache. Pendant la nuit, le petit Poucet échange les bonnets de ses frères et le sien contre les couronnes d’or des sept filles de l’ogre, que leur père égorge par erreur. L’ogre poursuit les garçons avec ses bottes de sept lieues, s’endort sur le rocher où ils se cachent, et le petit Poucet lui prend ses bottes. Le conte donne ensuite deux fins : dans la première, il obtient par un mensonge toutes les richesses de l’ogre ; dans la seconde, il devient courrier du roi et fait la fortune de sa famille. Une moralité en vers termine le recueil."
+    }
+  ],
+  "intro": [
+    "Histoires ou Contes du temps passé, avec des moralités paraît à Paris chez Claude Barbin en 1697 : le privilège est daté du 28 octobre 1696 et enregistré le 11 janvier 1697. Le recueil réunit huit contes en prose, chacun suivi d’une ou de deux moralités en vers. L’épître dédicatoire, adressée à Mademoiselle, nièce de Louis XIV, est signée P. Darmancour ; le recueil est aujourd’hui publié sous le nom de Charles Perrault (1628-1703). Perrault avait déjà publié des contes en vers, dont Peau d’âne, qui ne figure pas dans ce recueil. Le livre est aussi édité sous le titre Contes de ma mère l’Oye. Le texte compte environ 17 500 mots.",
+    "Pour étudier le conte merveilleux, observez ce que les huit récits ont en commun : la formule d’ouverture, les fées et les ogres, les objets enchantés (une clef, des bottes, une pantoufle), les nombres qui reviennent (trois fils, sept fées, sept garçons), les épreuves et les ruses. Regardez aussi la voix du narrateur, qui commente l’histoire entre parenthèses et sourit parfois de ce qu’il raconte. Comparez enfin chaque récit avec sa moralité : elle ne tire pas toujours la leçon qu’on attendrait, et quand il y en a deux, elles ne disent pas la même chose."
+  ],
+  "characters": [
+    {
+      "name": "La princesse de La Belle au bois dormant",
+      "role": "fille de roi condamnée par une vieille fée, endormie cent ans puis réveillée et épousée par un prince."
+    },
+    {
+      "name": "La reine-mère ogresse",
+      "role": "mère de ce prince, qui veut dévorer sa belle-fille et ses petits-enfants, l’Aurore et le Jour."
+    },
+    {
+      "name": "Le Petit Chaperon rouge",
+      "role": "petite fille de village envoyée chez sa mère-grand, qui parle au loup sans se méfier."
+    },
+    {
+      "name": "La Barbe bleue",
+      "role": "riche seigneur qui interdit à sa nouvelle épouse d’ouvrir un cabinet où il cache les corps de ses femmes."
+    },
+    {
+      "name": "La sœur Anne",
+      "role": "sœur de la jeune épouse, qui guette du haut de la tour l’arrivée de leurs frères."
+    },
+    {
+      "name": "Le Maître Chat",
+      "role": "chat qui, chaussé de bottes, fait la fortune du plus jeune fils d’un meunier par ses ruses."
+    },
+    {
+      "name": "Le marquis de Carabas",
+      "role": "nom que le chat donne à son maître, le fils cadet du meunier, qui finit par épouser la fille du roi."
+    },
+    {
+      "name": "Les deux sœurs des Fées",
+      "role": "la cadette, douce, qui reçoit le don des fleurs et des pierres précieuses, et l’aînée, insolente, qui reçoit celui des serpents et des crapauds."
+    },
+    {
+      "name": "Cendrillon",
+      "role": "fille d’un gentilhomme, maltraitée par sa belle-mère et ses demi-sœurs, aidée par sa marraine fée."
+    },
+    {
+      "name": "Riquet à la houppe",
+      "role": "prince très laid et très spirituel, qui peut donner de l’esprit à celle qu’il aime."
+    },
+    {
+      "name": "La princesse de Riquet à la houppe",
+      "role": "belle et sotte au début, qui reçoit de Riquet l’esprit et peut à son tour rendre beau celui qu’elle aime."
+    },
+    {
+      "name": "Le petit Poucet",
+      "role": "le plus jeune des sept fils d’un bûcheron, minuscule et silencieux, qui sauve ses frères par la ruse."
+    },
+    {
+      "name": "L’Ogre du Petit Poucet",
+      "role": "géant qui mange les enfants et possède des bottes de sept lieues."
+    }
+  ],
+  "passages": [
+    {
+      "unit": "belle",
+      "ref": "La Belle au bois dormant",
+      "title": "Le réveil de la princesse",
+      "quote": "Alors, comme la fin de l’enchantement estoit venuë, la Princesse s’éveilla ; & le regardant avec des yeux plus tendres qu’une premiere veuë ne sembloit le permettre ; est ce vous, mon Prince, luy dit-elle ; vous vous estes bien fait attendre.",
+      "note": "Le prince s’agenouille, la princesse se réveille et parle la première, avec une phrase de reproche plaisant après cent ans de sommeil. Le narrateur ajoute aussitôt un commentaire amusé : elle a eu le temps de préparer ce qu’elle dirait. Bon exemple de l’humour de Perrault, qui raconte le merveilleux tout en souriant des usages de la galanterie."
+    },
+    {
+      "unit": "chaperon",
+      "ref": "Le Petit Chaperon rouge",
+      "title": "La fin du dialogue",
+      "quote": "Ma mere-grand, que vous avez de grandes dens ! c’est pour te manger. Et, en disant ces mots, ce méchant loup se jetta sur le petit chaperon rouge, & la mangea.",
+      "note": "Avant ce passage, le dialogue a repris quatre fois la même construction (« que vous avez de grands… », « c’est pour mieux… ») : la dernière réponse rompt la série. Le conte s’arrête là, sans sauveur : c’est la moralité qui prend le relais et explique, pour les jeunes filles, qui sont les « loups doucereux ». À comparer avec les fins heureuses des adaptations plus tardives."
+    },
+    {
+      "unit": "barbe",
+      "ref": "La Barbe bleue",
+      "title": "Anne, ma sœur Anne",
+      "quote": "la pauvre affligée luy crioit de temps en temps, Anne, ma sœur Anne, ne vois-tu rien venir. Et la sœur Anne luy répondoit, je ne vois rien que le soleil qui poudroye, et l’herbe qui verdoye.",
+      "note": "La question de la jeune femme et la réponse de sa sœur reviennent plusieurs fois, en alternance avec les cris de la Barbe bleue. Cette répétition fait durer l’attente et monter la peur jusqu’à l’arrivée des frères. Passage utile pour étudier la tension dramatique et le rythme d’un récit oral."
+    },
+    {
+      "unit": "chat",
+      "ref": "Le Maître Chat ou le Chat botté",
+      "title": "La menace aux faucheurs",
+      "quote": "bonnes gens qui fauchez, si vous ne dites au Roy que le pré que vous fauchez appartient à Monsieur le Marquis de Carabas, vous serez tous hachez menu comme chair à pasté.",
+      "note": "Le chat n’a ni force ni richesse : il agit par la parole, en menaçant les paysans puis en flattant l’ogre. La formule revient presque mot pour mot devant les moissonneurs, et le roi croit ce qu’on lui répète. Le conte montre comment un mensonge bien organisé fabrique une fortune, ce que la première moralité appelle « l’industrie & le sçavoir faire »."
+    },
+    {
+      "unit": "cendrillon",
+      "ref": "Cendrillon ou la petite pantoufle de verre",
+      "title": "La consigne de minuit",
+      "quote": "mais sa Maraine luy recommanda, sur toutes choses, de ne pas passer minuit, l’avertissant que, si elle demeuroit au bal un moment davantage, son carosse redeviendroit citroüille, ses chevaux des sourils, ses laquais des lezards, et que ses vieux habits reprendroient leur première forme.",
+      "note": "La marraine fixe la règle qui organise toute la suite : chaque objet transformé redeviendra ce qu’il était. L’énumération reprend, à l’envers, les métamorphoses qui viennent d’être racontées. Le récit prépare ainsi la fuite du second bal et la pantoufle perdue, seul objet qui reste."
+    },
+    {
+      "unit": "poucet",
+      "ref": "Le Petit Poucet",
+      "title": "L’échange des couronnes",
+      "quote": "il alla tout doucement les mettre sur la teste des sept filles de l’Ogre, aprés leur avoir osté leurs Couronnes d’or, qu’il mit sur la teste de ses freres & sur la sienne",
+      "note": "Le plus petit des sept frères sauve les autres par la ruse, comme il l’a déjà fait avec les cailloux. Le lecteur sait ce que l’ogre ignore, et la scène suivante, où il tâte les têtes dans le noir, joue sur ce décalage. Utile pour montrer le renversement entre le faible et le fort, que reprend la moralité."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "unit": "belle",
+      "ref": "La Belle au bois dormant",
+      "question": "Contre quel empereur, son voisin, le jeune roi part-il faire la guerre en laissant la régence à sa mère ?",
+      "answer": "Cantalabutte",
+      "evidence": "Quelque temps aprés, le Roi alla faire la guerre à l’Empereur Cantalabutte, son voisin."
+    },
+    {
+      "id": "q2",
+      "unit": "barbe",
+      "ref": "La Barbe bleue",
+      "question": "Que la sœur Anne découvre-t-elle d’abord dans la grosse poussière qui approche, avant de voir les deux cavaliers ?",
+      "answer": "Moutons",
+      "evidence": "Helas, non, ma sœur, c’est un Troupeau de Moutons."
+    },
+    {
+      "id": "q3",
+      "unit": "cendrillon",
+      "ref": "Cendrillon ou la petite pantoufle de verre",
+      "question": "Quel surnom, plus grossier que celui que lui donne la cadette, l’héroïne reçoit-elle d’habitude dans le logis ?",
+      "answer": "Cucendron",
+      "evidence": "Lorsqu’elle avoit fait son ouvrage, elle s’alloit mettre au coin de la cheminée & s’asseoir dans les cendres, ce qui faisoit qu’on l’appeloit communément dans le logis Cucendron ;"
+    },
+    {
+      "id": "q4",
+      "unit": "riquet",
+      "ref": "Riquet à la houppe",
+      "question": "Quel ustensile de cuisine les rôtisseurs sortis de terre tiennent-ils à la main en travaillant dans le bois ?",
+      "answer": "lardoire",
+      "evidence": "Il en sortit une bande de vingt ou trente Rotisseurs, qui allerent se camper dans une allée du bois autour d’une table fort longue, & qui tous, la lardoire à la main & la queuë de Renard sur l’oreille, se mirent à travailler en cadence au son d’une Chanson harmonieuse."
+    },
+    {
+      "id": "q5",
+      "unit": "poucet",
+      "ref": "Le Petit Poucet",
+      "question": "Quel est le prénom du bûcheron, à qui sa femme reproche d’avoir voulu perdre leurs enfants ?",
+      "answer": "Guillaume",
+      "evidence": "Mais aussi, Guillaume, c’est toy qui les as voulu perdre, j’avois bien dit que nous nous en repentirions, que font-ils maintenant dans cette Forest ?"
+    }
+  ],
+  "readingTips": [
+    "Le texte suit l’édition de 1697, avec son orthographe : estoit pour était, luy pour lui, sçavoir pour savoir, le signe & pour et, parfois I pour J (Ie pour Je). Lisez à voix haute, l’oreille reconnaît vite les mots. Quelques termes ont changé de sens : un chaperon est une coiffure, une huche un coffre à pain, et une clef ou des bottes « fées » sont enchantées.",
+    "Le recueil se lit en deux heures environ. Le Petit Chaperon rouge tient en moins de huit cents mots ; La Belle au bois dormant et Le Petit Poucet sont les plus longs, autour de trois mille cinq cents mots chacun.",
+    "Les paroles des personnages ne sont signalées ni par des guillemets ni par des tirets : repérez les verbes dit, répondit, reprit pour savoir qui parle, surtout dans Riquet à la houppe, presque entièrement dialogué.",
+    "Ne vous arrêtez pas au mariage de La Belle au bois dormant : la seconde moitié du conte, avec la reine ogresse, est souvent coupée dans les adaptations. Lisez aussi chaque moralité jusqu’au bout, puis demandez-vous si elle s’adresse aux enfants ou aux adultes."
+  ],
+  "updated": "2026-10-17",
+  "datePublished": "2026-10-17"
+}

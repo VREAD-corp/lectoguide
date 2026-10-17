@@ -1,0 +1,206 @@
+{
+  "slug": "micromegas",
+  "title": "Micromégas",
+  "author": "Voltaire",
+  "authorDates": "1694-1778",
+  "published": "1752",
+  "genre": "conte philosophique",
+  "programme": "college",
+  "level": "3e (4e à partir de la rentrée 2027)",
+  "programmeNote": "L’entrée de 3e « Dénoncer les travers de la société » (programme de cycle 4, BOEN n° 31 du 30 juillet 2020, applicable en 3e jusqu’en 2027-2028) cite le conte philosophique parmi les formes à étudier. Le nouveau programme de cycle 4 (arrêté du 18 février 2026, BO n° 10 du 5 mars 2026) crée en 4e, à la rentrée 2027, l’entrée « Critiquer, dénoncer, penser : les Lumières en héritage ». Aucun de ces textes n’impose une œuvre précise.",
+  "programmeSources": [
+    {
+      "label": "Programmes des cycles 2, 3 et 4, version du BOEN n° 31 du 30 juillet 2020",
+      "url": "https://www.education.gouv.fr/bo/20/Hebdo31/MENE2018714A.htm"
+    },
+    {
+      "label": "Programme de français du cycle 4, arrêté du 18 février 2026 (BO n° 10 du 5 mars 2026)",
+      "url": "https://www.education.gouv.fr/bo/2026/Hebdo10/MENE2602912A"
+    }
+  ],
+  "source": {
+    "label": "Wikisource, d’après Œuvres complètes de Voltaire, édition Louis Moland, Garnier, 1877, tome 21",
+    "url": "https://fr.wikisource.org/wiki/Microm%C3%A9gas",
+    "licence": "Transcription Wikisource, CC BY-SA 4.0"
+  },
+  "words": 6976,
+  "units": [
+    {
+      "id": "ch1",
+      "label": "Chapitre I",
+      "file": "sources/micromegas/01.txt",
+      "words": 993,
+      "summary": "Micromégas, jeune habitant d’une planète qui tourne autour de l’étoile Sirius, mesure huit lieues de haut. Le muphti de son pays fait condamner un livre qu’il a écrit sur les insectes de Sirius, après un procès de deux cent vingt ans, et le jeune savant est banni de la cour pour huit cents ans. Il voyage alors de planète en planète en se servant des lois de la gravitation. Arrivé sur Saturne, dont les habitants ne mesurent qu’environ mille toises, il se moque d’abord de leur petitesse, puis se lie d’amitié avec le secrétaire de l’Académie de Saturne."
+    },
+    {
+      "id": "ch2",
+      "label": "Chapitre II",
+      "file": "sources/micromegas/02.txt",
+      "words": 1044,
+      "summary": "Le secrétaire commence par comparer la nature à diverses choses, et Micromégas l’arrête : il veut être instruit, pas flatté. Les deux savants comparent leurs mondes. Les Saturniens ont soixante-douze sens et vivent environ quinze mille de nos années ; les Siriens ont près de mille sens et vivent sept cents fois plus longtemps, mais les uns comme les autres trouvent leur vie trop courte. Après avoir discuté pendant une révolution du soleil, ils décident de voyager ensemble."
+    },
+    {
+      "id": "ch3",
+      "label": "Chapitre III",
+      "file": "sources/micromegas/03.txt",
+      "words": 597,
+      "summary": "La maîtresse du Saturnien lui reproche en larmes de partir, puis se console avec un autre. Les deux voyageurs sautent sur l’anneau de Saturne, passent de lune en lune, montent sur une comète, séjournent un an dans Jupiter et longent Mars, qu’ils trouvent trop petit pour s’y arrêter. Ils finissent par débarquer sur la Terre, au bord de la mer Baltique, le 5 juillet 1737."
+    },
+    {
+      "id": "ch4",
+      "label": "Chapitre IV",
+      "file": "sources/micromegas/04.txt",
+      "words": 1003,
+      "summary": "Les deux géants font le tour de la Terre en trente-six heures sans apercevoir aucun habitant, et le nain de Saturne conclut un peu vite qu’elle est déserte ; Micromégas conteste ce raisonnement. En se disputant, Micromégas casse le fil de son collier, et ses diamants se révèlent d’excellents microscopes. Le Saturnien découvre ainsi une baleine dans la Baltique, puis tous deux aperçoivent un objet de même taille qui flotte : le vaisseau d’une troupe de philosophes qui revient du cercle polaire."
+    },
+    {
+      "id": "ch5",
+      "label": "Chapitre V",
+      "file": "sources/micromegas/05.txt",
+      "words": 607,
+      "summary": "Micromégas saisit délicatement le vaisseau, le pose sur son ongle puis dans le creux de sa main ; les passagers, qui se croient sur un rocher, descendent sur ses doigts. Le narrateur rappelle combien les hommes sont petits à l’échelle de tels êtres. Avec le microscope, les deux voyageurs finissent par voir remuer ces atomes, et le Saturnien croit à tort les surprendre en train de se reproduire."
+    },
+    {
+      "id": "ch6",
+      "label": "Chapitre VI",
+      "file": "sources/micromegas/06.txt",
+      "words": 1105,
+      "summary": "Micromégas s’aperçoit que les atomes se parlent ; avec une rognure d’ongle, il se fabrique une sorte d’entonnoir pour les entendre, et apprend à comprendre leur langue, le français. Il leur adresse un discours bienveillant qui affole l’équipage, puis le nain explique aux hommes d’où viennent leurs visiteurs. Un physicien du vaisseau mesure le nain sans se tromper, et les philosophes mesurent ensuite Micromégas : Micromégas en conclut qu’il ne faut pas juger un être sur sa taille."
+    },
+    {
+      "id": "ch7",
+      "label": "Chapitre VII",
+      "file": "sources/micromegas/07.txt",
+      "words": 1627,
+      "summary": "Micromégas croit que ces êtres presque sans matière vivent heureux ; un philosophe lui répond que les hommes s’entretuent en ce moment même pour un morceau de terre qu’aucun d’eux n’a vu. Les savants répondent juste aux questions de mesure, mais se contredisent sur la nature de l’âme : un disciple d’Aristote, un cartésien, un disciple de Malebranche, un de Leibniz, un de Locke. Un petit théologien en bonnet carré affirme que l’univers entier a été fait pour l’homme, et les deux géants éclatent de rire. Avant de partir, Micromégas laisse aux hommes un livre de philosophie ; à l’Académie des sciences de Paris, on le trouve tout blanc."
+    }
+  ],
+  "intro": [
+    "Micromégas, sous-titré « histoire philosophique », est un conte de Voltaire que l’édition Moland date de 1752. Un géant venu d’une planète de l’étoile Sirius et un habitant de Saturne, plus petit que lui mais encore immense, traversent le système solaire et débarquent sur la Terre, où ils ne découvrent qu’à grand-peine des êtres minuscules : les hommes. Voltaire met en récit les savoirs de son temps, la gravitation, le microscope, les calculs des astronomes, et fait arriver ses voyageurs au moment où une expédition de savants revient du cercle polaire, ce qui renvoie à l’expédition de Maupertuis en Laponie (1736-1737). Le secrétaire de l’Académie de Saturne parodie, selon une note de l’édition, le style de Fontenelle dans les Entretiens sur la pluralité des mondes. Le conte compte sept chapitres et environ 7 000 mots.",
+    "Au collège, le texte sert à étudier le conte philosophique et sa façon de dénoncer en faisant rire. En lisant, suivez le jeu des échelles : chaque fois qu’un personnage en juge un autre trop petit pour penser, un être plus grand pourrait le juger de la même façon. Repérez aussi les interventions du narrateur, qui dit avoir connu Micromégas, s’adresse au lecteur et feint de prendre au sérieux des calculs absurdes : c’est par lui que passe l’ironie. Le dernier chapitre réunit les deux cibles du conte, la guerre menée pour un enjeu que personne n’a vu et l’orgueil de ceux qui croient tout savoir."
+  ],
+  "characters": [
+    {
+      "name": "Micromégas",
+      "role": "jeune savant de Sirius, haut de huit lieues, banni de la cour de sa planète et devenu voyageur."
+    },
+    {
+      "name": "Le nain de Saturne",
+      "role": "secrétaire de l’Académie de Saturne, haut d’environ mille toises, compagnon de voyage de Micromégas ; il juge souvent trop vite."
+    },
+    {
+      "name": "La maîtresse du Saturnien",
+      "role": "jeune Saturnienne qui reproche au secrétaire de partir."
+    },
+    {
+      "name": "Le muphti de Sirius",
+      "role": "dignitaire religieux qui fait condamner le livre de Micromégas."
+    },
+    {
+      "name": "Les philosophes du vaisseau",
+      "role": "savants qui reviennent du cercle polaire ; l’un mesure les deux géants, les autres exposent chacun leur idée de l’âme."
+    },
+    {
+      "name": "Le petit théologien en bonnet carré",
+      "role": "animalcule sûr que l’univers a été fait pour l’homme."
+    },
+    {
+      "name": "Le narrateur",
+      "role": "historien du voyage, qui prétend avoir connu Micromégas lors de son passage sur la Terre."
+    }
+  ],
+  "passages": [
+    {
+      "unit": "ch1",
+      "ref": "Chapitre I",
+      "title": "Un nom, une taille",
+      "quote": "il s’appelait Micromégas, nom qui convient fort à tous les grands. Il avait huit lieues de haut : j’entends, par huit lieues, vingt-quatre mille pas géométriques de cinq pieds chacun.",
+      "note": "Le nom du héros réunit deux mots grecs, mikros (petit) et megas (grand) : il annonce la leçon du conte, selon laquelle on n’est grand ou petit que par comparaison. La remarque sur « tous les grands » vise aussi les puissants. Le narrateur convertit aussitôt la taille du géant en unités précises, avec un sérieux de géomètre qui fait sourire."
+    },
+    {
+      "unit": "ch2",
+      "ref": "Chapitre II",
+      "title": "Plaire ou instruire",
+      "quote": "Eh non ! dit le voyageur ; encore une fois, la nature est comme la nature. Pourquoi lui chercher des comparaisons ? — Pour vous plaire, répondit le secrétaire. — Je ne veux point qu’on me plaise, répondit le voyageur ; je veux qu’on m’instruise",
+      "note": "Le secrétaire de Saturne a comparé la nature à un parterre, à une assemblée de blondes et de brunes, puis à une galerie de peintures, et Micromégas l’a coupé chaque fois. Voltaire se moque ici du style galant de Fontenelle et oppose deux manières de parler de la science. Le dialogue vif, aux répliques courtes, se prête bien à une lecture à deux voix."
+    },
+    {
+      "unit": "ch4",
+      "ref": "Chapitre IV",
+      "title": "Le nain juge trop vite",
+      "quote": "Le nain, qui jugeait quelquefois un peu trop vite, décida d’abord qu’il n’y avait personne sur la terre. Sa première raison était qu’il n’avait vu personne.",
+      "note": "Le Saturnien conclut de ce qu’il ne voit pas à ce qui n’existe pas. Micromégas lui oppose les étoiles qu’il distingue et que le nain ne voit pas. Toute la suite corrige cette erreur de méthode : il faudra un instrument, du temps et de la patience avant de pouvoir juger."
+    },
+    {
+      "unit": "ch6",
+      "ref": "Chapitre VI",
+      "title": "La grandeur apparente",
+      "quote": "Je vois plus que jamais qu’il ne faut juger de rien sur sa grandeur apparente.",
+      "note": "Micromégas tire la leçon de la scène où un physicien humain, armé d’un quart de cercle, vient de mesurer le nain sans se tromper. Il s’adresse aussitôt à Dieu, qui a donné de l’intelligence à des êtres si petits. La phrase peut servir de clé pour le conte, mais le chapitre suivant la nuance : l’esprit des hommes n’empêche ni leur folie ni leur orgueil."
+    },
+    {
+      "unit": "ch7",
+      "ref": "Chapitre VII",
+      "title": "Sultan ou César",
+      "quote": "Il ne s’agit que de savoir s’il appartiendra à un certain homme qu’on nomme Sultan, ou à un autre qu’on nomme, je ne sais pourquoi, César.",
+      "note": "Un philosophe du vaisseau explique au Sirien la guerre qui oppose alors des hommes coiffés de chapeaux à des hommes coiffés de turbans. Vu de Sirius, l’enjeu se réduit à un tas de boue grand comme un talon, et les deux souverains ne sont plus que des noms. L’édition Moland y voit une allusion à la guerre des Russes et des Turcs (1736-1739). Le changement d’échelle suffit à rendre la guerre absurde."
+    },
+    {
+      "unit": "ch7",
+      "ref": "Chapitre VII",
+      "title": "Le livre blanc",
+      "quote": "on le porta à Paris à l’Académie des sciences ; mais quand le vieux secrétaire l’eut ouvert, il ne vit rien qu’un livre tout blanc : « Ah ! dit-il, je m’en étais bien douté. »",
+      "note": "Micromégas avait promis aux hommes un livre où ils verraient le bout des choses. La page blanche se lit de deux façons : les hommes sont incapables d’y rien lire, ou bien il n’y a rien à savoir sur le fond des choses. Le conte s’arrête sur cette chute, sans commentaire du narrateur, et laisse le lecteur trancher."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "unit": "ch1",
+      "ref": "Chapitre I",
+      "question": "Quel vicaire se vante d’avoir vu le ciel empyrée au bout de sa lunette, ce que Micromégas n’a jamais vu ?",
+      "answer": "Derham",
+      "evidence": "ce beau ciel empyrée que l’illustre vicaire Derham se vante d’avoir vu au bout de sa lunette"
+    },
+    {
+      "id": "q2",
+      "unit": "ch3",
+      "ref": "Chapitre III",
+      "question": "Quel père, selon le narrateur, écrira contre l’existence des deux lunes de Mars ?",
+      "answer": "Castel",
+      "evidence": "Je sais bien que le père Castel écrira, et même assez plaisamment, contre l’existence de ces deux lunes"
+    },
+    {
+      "id": "q3",
+      "unit": "ch4",
+      "ref": "Chapitre IV",
+      "question": "Aux côtes de quelle région, selon les gazettes, le vaisseau des philosophes avait-il échoué ?",
+      "answer": "Botnie",
+      "evidence": "Les gazettes dirent que leur vaisseau échoua aux côtes de Botnie, et qu’ils eurent bien de la peine à se sauver"
+    },
+    {
+      "id": "q4",
+      "unit": "ch6",
+      "ref": "Chapitre VI",
+      "question": "Quels petits instruments, braqués sur un quart de cercle, le raisonneur utilise-t-il pour observer le nain ?",
+      "answer": "pinnules",
+      "evidence": "observa l’interlocuteur avec des pinnules braquées sur un quart de cercle, fit deux stations, et à la troisième il parla ainsi"
+    },
+    {
+      "id": "q5",
+      "unit": "ch7",
+      "ref": "Chapitre VII",
+      "question": "Dans quel vêtement du Saturnien le vaisseau tombe-t-il pendant le fou rire des deux voyageurs ?",
+      "answer": "culotte",
+      "evidence": "dans ces convulsions le vaisseau, que le Sirien avait sur son ongle, tomba dans une poche de la culotte du Saturnien."
+    }
+  ],
+  "readingTips": [
+    "Comptez trois quarts d’heure pour l’ensemble : les sept chapitres sont courts, le plus long est le dernier.",
+    "Gardez en tête quelques mesures anciennes : une lieue fait environ quatre kilomètres, un pied de roi environ 32,5 centimètres, une toise six pieds (près de deux mètres). Inutile de refaire les calculs : leur précision absurde fait partie de la satire.",
+    "Au chapitre VII, il n’est pas nécessaire de connaître Aristote, Descartes, Malebranche, Leibniz et Locke pour suivre : notez seulement que chacun définit l’âme autrement, et lequel des philosophes reconnaît qu’il ne sait pas.",
+    "L’orthographe est celle d’une édition du XIXe siècle (très-jolie, Leibnitz, Leuwenhoek). Le muphti est un dignitaire musulman : Voltaire transporte sur Sirius une censure religieuse qui vise l’Europe de son temps."
+  ],
+  "updated": "2026-10-17",
+  "datePublished": "2026-10-17"
+}

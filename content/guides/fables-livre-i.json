@@ -1,0 +1,322 @@
+{
+  "slug": "fables-livre-i",
+  "title": "Fables, livre I",
+  "author": "Jean de La Fontaine",
+  "authorDates": "1621-1695",
+  "published": "1668",
+  "genre": "fables en vers",
+  "programme": "college",
+  "level": "Cycle 3 (CM1 à 6e) et 5e",
+  "programmeNote": "La liste de référence des lectures pour le cycle 3 (CM1 et CM2) publiée par éduscol (version 2018) range les Fables de La Fontaine parmi les œuvres du patrimoine, niveau de lecture 1 à 3. En 5e, le programme de cycle 4 applicable depuis la rentrée 2026 (arrêté du 18 février 2026, BO n° 10 du 5 mars 2026) consacre une entrée au conte et à la fable : « Imaginer, sentir, raisonner : des histoires pour plaire et instruire (récit, fiction) ». Aucun de ces textes n’impose une œuvre précise.",
+  "programmeSources": [
+    {
+      "label": "Liste de référence des lectures pour le cycle 3, version 2018 (éduscol)",
+      "url": "https://eduscol.education.gouv.fr/sites/default/files/document/lecture-cycle-3-liste-de-reference-2018-pdf-74166.pdf"
+    },
+    {
+      "label": "Programme de français du cycle 4, arrêté du 18 février 2026 (BO n° 10 du 5 mars 2026)",
+      "url": "https://www.education.gouv.fr/bo/2026/Hebdo10/MENE2602912A"
+    }
+  ],
+  "source": {
+    "label": "Wikisource, d’après Œuvres complètes de La Fontaine, éd. Charles Marty-Laveaux, tome I (Fables), Paris, Paul Daffis, 1863 (orthographe du XVIIe siècle)",
+    "url": "https://fr.wikisource.org/wiki/%C5%92uvres_compl%C3%A8tes_de_la_Fontaine_(Marty-Laveaux)/Tome_1/Livre_premier",
+    "licence": "Transcription Wikisource, CC BY-SA 4.0"
+  },
+  "words": 4600,
+  "units": [
+    {
+      "id": "dedicace",
+      "label": "Dédicace : À Monseigneur le Dauphin",
+      "file": "sources/fables-livre-i/00.txt",
+      "words": 131,
+      "summary": "La Fontaine s’adresse en vers au Dauphin, le fils de Louis XIV. Il présente ses fables comme des récits venus d’Ésope, où les animaux parlent pour instruire les hommes, et laisse à d’autres le soin de chanter les exploits des rois."
+    },
+    {
+      "id": "f01",
+      "label": "I. La Cigale et la Fourmi",
+      "file": "sources/fables-livre-i/01.txt",
+      "words": 108,
+      "summary": "La Cigale, qui a chanté tout l’été, n’a plus rien à manger quand vient l’hiver. Elle va demander à sa voisine la Fourmi de lui prêter quelques grains et promet de rembourser avec les intérêts. La Fourmi, qui n’aime pas prêter, lui demande ce qu’elle faisait pendant la belle saison et la renvoie danser."
+    },
+    {
+      "id": "f02",
+      "label": "II. Le Corbeau et le Renard",
+      "file": "sources/fables-livre-i/02.txt",
+      "words": 133,
+      "summary": "Perché sur un arbre, le Corbeau tient un fromage dans son bec. Attiré par l’odeur, le Renard le flatte et vante son plumage ; pour montrer sa belle voix, le Corbeau ouvre le bec et laisse tomber le fromage. Le Renard s’en saisit en lui faisant la leçon, et le Corbeau jure, trop tard, qu’on ne l’y prendra plus."
+    },
+    {
+      "id": "f03",
+      "label": "III. La Grenouille qui se veut faire aussi grosse que le Bœuf",
+      "file": "sources/fables-livre-i/03.txt",
+      "words": 111,
+      "summary": "Une Grenouille envie la taille d’un Bœuf et se gonfle en demandant à sa sœur si elle l’égale enfin, jusqu’à éclater. La Fontaine applique la leçon aux hommes : bourgeois, petits princes et marquis veulent tous imiter plus grands qu’eux."
+    },
+    {
+      "id": "f04",
+      "label": "IV. Les Deux Mulets",
+      "file": "sources/fables-livre-i/04.txt",
+      "words": 130,
+      "summary": "Deux mulets cheminent ensemble : l’un porte de l’avoine, l’autre de l’argent. Fier de sa charge, le second marche la tête haute en faisant sonner sa sonnette, jusqu’à ce qu’une troupe ennemie l’attaque et le blesse, tandis que son compagnon n’est pas inquiété. Celui-ci lui fait remarquer qu’un emploi modeste est moins dangereux."
+    },
+    {
+      "id": "f05",
+      "label": "V. Le Loup et le Chien",
+      "file": "sources/fables-livre-i/05.txt",
+      "words": 289,
+      "summary": "Un loup affamé rencontre un Dogue gras et puissant, qu’il n’ose pas attaquer. Le Chien l’invite à quitter les bois pour servir les hommes, en lui promettant des restes et des caresses ; le Loup est tenté, jusqu’à ce qu’il remarque le cou pelé du Chien, marqué par le collier. En apprenant que le Chien ne court pas où il veut, le Loup refuse et s’enfuit."
+    },
+    {
+      "id": "f06",
+      "label": "VI. La Génisse, la Chèvre et la Brebis, en société avec le Lion",
+      "file": "sources/fables-livre-i/06.txt",
+      "words": 157,
+      "summary": "La Génisse, la Chèvre et la Brebis s’associent avec un Lion et promettent de partager gains et pertes. Une proie se prend dans les lacs de la Chèvre ; le Lion la découpe en quatre parts et les garde toutes, chacune pour une raison différente, en menaçant d’étrangler celle qui toucherait à la dernière."
+    },
+    {
+      "id": "f07",
+      "label": "VII. La Besace",
+      "file": "sources/fables-livre-i/07.txt",
+      "words": 263,
+      "summary": "Jupiter invite tous les animaux à venir se plaindre de leur apparence. Le Singe se trouve bien fait et se moque de l’Ours, l’Ours critique l’Éléphant, l’Éléphant la Baleine, la Fourmi le Ciron : chacun est content de soi. La Fontaine en conclut que les hommes voient les défauts d’autrui et jamais les leurs, comme s’ils portaient une besace à deux poches."
+    },
+    {
+      "id": "f08",
+      "label": "VIII. L’Hirondelle et les Petits Oiseaux",
+      "file": "sources/fables-livre-i/08.txt",
+      "words": 375,
+      "summary": "Une Hirondelle qui a beaucoup voyagé voit un paysan semer une graine dont on fera plus tard des filets et des lacets. Elle conseille aux petits oiseaux de manger cette graine, puis d’arracher les jeunes pousses, puis de se cacher ou de partir, mais ils se moquent d’elle. Beaucoup finissent prisonniers."
+    },
+    {
+      "id": "f09",
+      "label": "IX. Le Rat de ville et le Rat des champs",
+      "file": "sources/fables-livre-i/09.txt",
+      "words": 150,
+      "summary": "Le Rat de ville invite le Rat des champs à un festin de restes. Un bruit à la porte de la salle les fait fuir ; quand le calme revient, le Rat de ville veut finir le repas. Le Rat des champs préfère rentrer chez lui, où il mange sans être dérangé, car la crainte gâte le plaisir."
+    },
+    {
+      "id": "f10",
+      "label": "X. Le Loup et l’Agneau",
+      "file": "sources/fables-livre-i/10.txt",
+      "words": 198,
+      "summary": "La Fontaine annonce d’abord la morale. Un Loup à jeun accuse un Agneau qui boit au ruisseau de troubler son eau, puis d’avoir médit de lui l’année précédente ; l’Agneau répond qu’il boit plus bas que lui et qu’il n’était pas encore né. Le Loup accuse alors son frère, puis les siens, et finit par l’emporter dans la forêt pour le manger, sans autre procès."
+    },
+    {
+      "id": "f11",
+      "label": "XI. L’Homme et son image",
+      "file": "sources/fables-livre-i/11.txt",
+      "words": 217,
+      "summary": "Un homme qui se croit le plus beau du monde accuse tous les miroirs d’être faux et finit par les fuir dans un lieu écarté. Il y trouve un canal d’eau pure où il se voit malgré lui. La Fontaine explique l’allégorie : les miroirs sont les sottises des autres, et le canal est le livre des Maximes ; la fable est dédiée, par des initiales, au duc de La Rochefoucauld."
+    },
+    {
+      "id": "f12",
+      "label": "XII. Le Dragon à plusieurs têtes et le Dragon à plusieurs queues",
+      "file": "sources/fables-livre-i/12.txt",
+      "words": 206,
+      "summary": "Chez l’Empereur, un Allemand vante la puissance des princes de l’Empire devant l’envoyé du Grand Seigneur. L’envoyé répond par une histoire : un dragon à cent têtes n’a pas pu traverser une haie, alors qu’un dragon à une seule tête et à plusieurs queues est passé sans peine. Un État aux chefs nombreux est moins fort qu’un État qui obéit à un seul."
+    },
+    {
+      "id": "f13",
+      "label": "XIII. Les Voleurs et l’Âne",
+      "file": "sources/fables-livre-i/13.txt",
+      "words": 99,
+      "summary": "Deux voleurs se battent pour un âne qu’ils ont pris ; pendant qu’ils se battent, un troisième larron emmène l’animal. La Fontaine compare l’âne à une province que des princes se disputent et qu’un quatrième finit par saisir."
+    },
+    {
+      "id": "f14",
+      "label": "XIV. Simonide préservé par les dieux",
+      "file": "sources/fables-livre-i/14.txt",
+      "words": 477,
+      "summary": "Le poète Simonide doit faire l’éloge d’un athlète sans grand mérite ; il remplit les deux tiers de son poème avec l’éloge de deux dieux jumeaux. L’athlète ne paie qu’un tiers du prix promis, mais l’invite à souper ; pendant le repas, deux inconnus demandent Simonide à la porte, et la maison s’effondre après son départ, blessant l’athlète et ses invités. La Fontaine conclut qu’il faut louer les dieux et payer les poètes."
+    },
+    {
+      "id": "f15",
+      "label": "XV. La Mort et le Malheureux",
+      "file": "sources/fables-livre-i/15.txt",
+      "words": 246,
+      "summary": "Un malheureux appelle sans cesse la Mort ; quand elle se présente, il la supplie de s’en aller. La Fontaine cite un mot de Mécène, qui préfère vivre infirme plutôt que mourir, puis explique en prose pourquoi il ajoute une seconde fable sur le même sujet, plus proche d’Ésope."
+    },
+    {
+      "id": "f16",
+      "label": "XVI. La Mort et le Bûcheron",
+      "file": "sources/fables-livre-i/16.txt",
+      "words": 148,
+      "summary": "Un pauvre bûcheron, courbé sous son fagot, s’arrête et fait la liste de ses misères : la faim, les impôts, les soldats, les créanciers, la corvée. Il appelle la Mort ; quand elle arrive, il lui demande seulement de l’aider à recharger son bois. La morale dit que les hommes préfèrent souffrir plutôt que mourir."
+    },
+    {
+      "id": "f17",
+      "label": "XVII. L’Homme entre deux âges et ses deux maîtresses",
+      "file": "sources/fables-livre-i/17.txt",
+      "words": 208,
+      "summary": "Un homme grisonnant, qui songe à se marier, fréquente deux veuves, l’une jeune, l’autre plus âgée. La vieille lui arrache ses cheveux noirs, la jeune ses cheveux blancs, si bien qu’il devient chauve ; il les remercie de la leçon et renonce au mariage."
+    },
+    {
+      "id": "f18",
+      "label": "XVIII. Le Renard et la Cigogne",
+      "file": "sources/fables-livre-i/18.txt",
+      "words": 205,
+      "summary": "Le Renard invite la Cigogne à dîner et lui sert un brouet clair sur une assiette, qu’elle ne peut pas manger avec son long bec. Pour se venger, la Cigogne l’invite à son tour et sert la viande dans un vase à long col ; le Renard doit rentrer chez lui à jeun et honteux. La morale s’adresse aux trompeurs."
+    },
+    {
+      "id": "f19",
+      "label": "XIX. L’Enfant et le Maître d’école",
+      "file": "sources/fables-livre-i/19.txt",
+      "words": 197,
+      "summary": "Un jeune enfant tombe à l’eau en jouant et s’accroche aux branches d’un saule. Un maître d’école qui passe lui fait un long sermon avant de le tirer de là. La Fontaine vise les bavards, les censeurs et les pédants, qui parlent au lieu d’agir."
+    },
+    {
+      "id": "f20",
+      "label": "XX. Le Coq et la Perle",
+      "file": "sources/fables-livre-i/20.txt",
+      "words": 62,
+      "summary": "Un coq trouve une perle et la donne au premier joaillier, car un grain de mil lui serait plus utile. De même, un ignorant qui hérite d’un manuscrit le porte au libraire voisin et préférerait une petite pièce de monnaie."
+    },
+    {
+      "id": "f21",
+      "label": "XXI. Les Frelons et les Mouches à miel",
+      "file": "sources/fables-livre-i/21.txt",
+      "words": 268,
+      "summary": "Des frelons et des abeilles se disputent des rayons de miel sans maître ; la guêpe chargée de juger n’arrive pas à trancher, même après une nouvelle enquête. Une abeille propose que chaque camp construise des cellules pour montrer qui sait faire le miel ; les frelons refusent, et la guêpe donne le miel aux abeilles. La Fontaine critique la lenteur et le coût des procès."
+    },
+    {
+      "id": "f22",
+      "label": "XXII. Le Chêne et le Roseau",
+      "file": "sources/fables-livre-i/22.txt",
+      "words": 222,
+      "summary": "Le Chêne plaint le Roseau, que le moindre vent fait plier, vante sa propre force et regrette de ne pas pouvoir l’abriter. Le Roseau répond qu’il plie mais ne rompt pas. Une tempête venue du nord éclate : le Roseau plie, et le Chêne est déraciné."
+    }
+  ],
+  "intro": [
+    "Les Fables choisies mises en vers de Jean de La Fontaine paraissent en 1668, en 6 livres, avec une dédicace au Dauphin, le fils de Louis XIV, né en 1661. La Fontaine reprend surtout des sujets d’Ésope, le fabuliste grec, et les raconte en vers de longueurs variées, avec des dialogues vifs et des commentaires en son nom. Le livre I réunit 22 fables, de La Cigale et la Fourmi au Chêne et le Roseau, précédées d’une dédicace en vers. D’autres recueils suivront jusqu’à un douzième livre. Le texte donné ici suit l’édition Marty-Laveaux (1863), qui conserve l’orthographe du XVIIe siècle.",
+    "Pour l’entrée sur les histoires qui plaisent et qui instruisent, observez dans chaque fable les deux parties : le récit, souvent bâti sur un dialogue et une chute, et la morale. Notez où elle se place : au début (Le Loup et l’Agneau), à la fin (Le Corbeau et le Renard), dans la bouche d’un personnage, ou pas du tout, quand le lecteur doit la trouver seul (La Cigale et la Fourmi). Repérez aussi ce que représentent les animaux : le loup, le renard ou le lion jouent des rôles humains, et plusieurs fables visent la société du temps, la justice, les impôts, les puissants."
+  ],
+  "characters": [
+    {
+      "name": "Le fabuliste",
+      "role": "le je qui raconte, commente et tire souvent la morale en son nom."
+    },
+    {
+      "name": "Le Loup",
+      "role": "affamé et violent dans Le Loup et l’Agneau, mais attaché à sa liberté dans Le Loup et le Chien."
+    },
+    {
+      "name": "Le Renard",
+      "role": "rusé et flatteur face au Corbeau, trompé à son tour par la Cigogne."
+    },
+    {
+      "name": "Le Lion",
+      "role": "le plus fort, qui partage le butin à son seul profit."
+    },
+    {
+      "name": "Jupiter",
+      "role": "le roi des dieux, qui convoque tous les animaux dans La Besace."
+    },
+    {
+      "name": "La Mort",
+      "role": "appelée par les malheureux, qui la renvoient dès qu’elle arrive."
+    },
+    {
+      "name": "Simonide",
+      "role": "poète grec que les dieux récompensent de ses louanges."
+    },
+    {
+      "name": "Le Dauphin",
+      "role": "fils de Louis XIV, à qui le recueil est dédié."
+    }
+  ],
+  "passages": [
+    {
+      "unit": "dedicace",
+      "ref": "Dédicace",
+      "title": "Instruire par les animaux",
+      "quote": "Tout parle en mon Ouvrage, et mesme les Poissons.\nCe qu’ils disent s’adresse à tous tant que nous sommes.\nJe me sers d’Animaux pour instruire les Hommes.",
+      "note": "La Fontaine annonce son projet au jeune prince. Le dernier vers résume le principe de la fable : un récit plaisant, où parlent des animaux, porte une leçon pour les lecteurs humains. Le pronom nous inclut le poète lui-même parmi ceux que les fables corrigent."
+    },
+    {
+      "unit": "f01",
+      "ref": "Fable I",
+      "title": "La réplique de la Fourmi",
+      "quote": "Nuit et jour à tout venant\nJe chantois, ne vous déplaise.\nVous chantiez ? j’en suis fort aise.\nEt bien, dansez maintenant.",
+      "note": "La fable se termine sur un échange au discours direct, sans morale explicite. La Fourmi reprend le verbe de la Cigale et le retourne avec ironie. Le vers court de sept syllabes rend la chute très vive : au lecteur de juger qui a raison, l’imprévoyante ou l’avare."
+    },
+    {
+      "unit": "f02",
+      "ref": "Fable II",
+      "title": "La leçon du Renard",
+      "quote": "Apprenez que tout flateur\nVit aux dépens de celuy qui l’écoute.\nCette leçon vaut bien un fromage sans doute.",
+      "note": "Ici, c’est le personnage rusé qui énonce la morale, et il se fait payer sa leçon. Le présent de vérité générale (vit) donne à la phrase la forme d’une maxime. Comparez avec les louanges du début : le Renard parle au Corbeau comme à un grand seigneur pour mieux le dépouiller."
+    },
+    {
+      "unit": "f05",
+      "ref": "Fable V",
+      "title": "Le collier",
+      "quote": "Attaché ? dit le Loup : vous ne courez donc pas\nOù vous voulez ? Pas toûjours, mais qu’importe ?\nIl importe si bien, que de tous vos repas\nJe ne veux en aucune sorte :",
+      "note": "Le dialogue s’accélère : questions brèves, répliques coupées au milieu du vers. Le Loup reprend le mot du Chien (importe) pour le contredire, et la liberté l’emporte sur le confort. Passage utile pour étudier la mise en scène d’un dialogue dans un récit en vers."
+    },
+    {
+      "unit": "f10",
+      "ref": "Fable X",
+      "title": "La morale en tête",
+      "quote": "La raison du plus fort est toûjours la meilleure.\nNous l’allons montrer tout à l’heure.",
+      "note": "La morale est placée avant le récit, et le mot meilleure est ironique : la fable va montrer que la force l’emporte, non qu’elle a raison. L’Agneau a beau répondre poliment et logiquement, le Loup change d’accusation jusqu’à ce qu’il n’ait plus besoin de prétexte. La fable VI annonce déjà ce droit du plus fort."
+    },
+    {
+      "unit": "f22",
+      "ref": "Fable XXII",
+      "title": "La réponse du Roseau",
+      "quote": "Je plie, et ne romps pas. Vous avez jusqu’icy\nContre leurs coups épouvantables\nResisté sans courber le dos :\nMais attendons la fin.",
+      "note": "Le Roseau répond calmement au long discours du Chêne. Sa formule courte s’oppose à l’orgueil de l’arbre, et la phrase Mais attendons la fin annonce la chute. La tempête décrite ensuite agrandit le Chêne, dont la tête touchait au ciel et les pieds aux enfers, pour rendre sa chute plus forte."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "unit": "f06",
+      "ref": "Fable VI",
+      "question": "Quel animal se trouve pris dans les filets de la Chèvre et doit être partagé entre les associés ?",
+      "answer": "Cerf",
+      "evidence": "Dans les laqs de la Chevre un Cerf se trouva pris."
+    },
+    {
+      "id": "q2",
+      "unit": "f12",
+      "ref": "Fable XII",
+      "question": "Par quel titre turc La Fontaine désigne-t-il l’envoyé du Grand Seigneur qui répond à l’Allemand ?",
+      "answer": "Chiaoux",
+      "evidence": "Le Chiaoux homme de sens,"
+    },
+    {
+      "id": "q3",
+      "unit": "f19",
+      "ref": "Fable XIX",
+      "question": "De quel animal le maître d’école traite-t-il l’enfant avant de le gronder ?",
+      "answer": "babouin",
+      "evidence": "De le tancer. Ah le petit babouin !"
+    },
+    {
+      "id": "q4",
+      "unit": "f21",
+      "ref": "Fable XXI",
+      "question": "Depuis combien de mois la cause des frelons et des abeilles est-elle pendante, selon une abeille ?",
+      "answer": "six",
+      "evidence": "Depuis tantost six moys que la cause est pendante,"
+    },
+    {
+      "id": "q5",
+      "unit": "f22",
+      "ref": "Fable XXII",
+      "question": "À quelle montagne le Chêne compare-t-il son front, qui arrête les rayons du soleil ?",
+      "answer": "Caucase",
+      "evidence": "Cependant que mon front au Caucase pareil,"
+    }
+  ],
+  "readingTips": [
+    "Les fables sont courtes : la plus longue, celle de Simonide, se lit en cinq minutes, et le livre entier en moins d’une heure. Lisez-les à voix haute, une ou deux à la fois, en changeant de voix pour chaque personnage.",
+    "L’orthographe est celle du XVIIe siècle : lisez oi comme ai (je chantois, il estoit), ne prononcez pas le s placé devant une consonne (teste pour tête, maistre pour maître), et reconnaissez y pour i (luy, moy). Le sens ne change pas, seule la graphie a vieilli.",
+    "Quelques mots ont disparu ou changé de sens : un manant est un paysan, un magister un maître d’école, un brouet un bouillon, un ducaton une petite pièce de monnaie, la bise le vent froid de l’hiver. Notez-les au fil de la lecture.",
+    "Pour chaque fable, repérez la place de la morale et dites-la avec vos mots. Comparez ensuite deux fables qui se répondent : Le Loup et le Chien avec Le Loup et l’Agneau, ou La Mort et le Malheureux avec La Mort et le Bûcheron, que La Fontaine a placées côte à côte."
+  ],
+  "updated": "2026-10-17",
+  "datePublished": "2026-10-17"
+}

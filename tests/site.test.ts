@@ -19,8 +19,9 @@ const text = (h: string) => h.replace(/<script[\s\S]*?<\/script>/g, ' ').replace
 const guides = readdirSync(join(ROOT, 'content/guides')).map((f) => JSON.parse(readFileSync(join(ROOT, 'content/guides', f), 'utf8')));
 const norm = (s: string) => s.normalize('NFC').replace(/[’ʼ]/g, "'").replace(/\s+/g, ' ').trim();
 
-test('10 to 20 guides, every page: lang fr, title, description, one h1, canonical (except 404), unique titles', () => {
-  assert.ok(guides.length >= 10 && guides.length <= 20, `${guides.length} guides`);
+test('10 to 30 guides, every page: lang fr, title, description, one h1, canonical (except 404), unique titles', () => {
+  assert.ok(guides.length >= 10 && guides.length <= 30, `${guides.length} guides`);
+  assert.ok(guides.every((g) => ['bac', 'lycee', 'college'].includes(g.programme)));
   assert.equal(pages.length, guides.length + 5);
   for (const [p, h] of Object.entries(html)) {
     assert.match(h, /<html lang="fr">/, p);
@@ -134,7 +135,7 @@ test('engine QA: each guide passed every gate, the summary cold-answer gate incl
 
 test('no thin page, no boilerplate shared by more than 2 guides (editorial checker from chapter-coffee-club)', () => {
   const list = guides.map((g) => ({ slug: g.slug, html: html[`/${g.slug}/index.html`].replace(/<aside[\s\S]*?<\/aside>|<header[\s\S]*?<\/header>|<footer[\s\S]*?<\/footer>/g, ' ') }));
-  assert.deepEqual(editorialWarnings(list, { minWords: 900, maxShared: 2 }).filter((w) => !/Chaque réponse tient en un mot|Ces résumés servent/.test(w.issue)), []);
+  assert.deepEqual(editorialWarnings(list, { minWords: 900, maxShared: 2 }).filter((w) => !/Chaque réponse tient en un mot|Ces résumés servent|Textes officiels consultés/.test(w.issue)), []);
 });
 
 test('anti-AI grid (lint-ia) on every page', { skip: !process.env.LINT_IA }, () => {
@@ -146,5 +147,20 @@ test('anti-AI grid (lint-ia) on every page', { skip: !process.env.LINT_IA }, () 
     const out = execFileSync('node', [process.env.LINT_IA!, f], { encoding: 'utf8' });
     const score = +(out.match(/(\d+)\s*\/\s*100/) || [])[1]!;
     assert.ok(score >= 85 && /\/100\s+OK/.test(out), `${p}: ${out.slice(0, 500)}`);
+  }
+});
+
+test('programme: home has the bac, lycée and collège sections; official texts linked where a guide cites them; bac kits link to their Lectoclasse page', () => {
+  const home = html['/index.html'];
+  for (const id of ['bac', 'lycee', 'college']) assert.match(home, new RegExp(`<h2 id="${id}">`), id);
+  for (const g of guides) {
+    const h = html[`/${g.slug}/index.html`];
+    for (const s of g.programmeSources ?? []) {
+      assert.match(s.url, /^https:\/\/(www\.education\.gouv\.fr|eduscol\.education\.gouv\.fr)\//, `${g.slug}: official source`);
+      assert.ok(h.includes(`href="${s.url}"`), `${g.slug}: ${s.url}`);
+    }
+    if (g.programme === 'lycee' || (g.programmeSources ?? []).length) assert.ok((g.programmeSources ?? []).length >= 1, `${g.slug}: sources`);
+    if (g.programme === 'bac') assert.ok(h.includes(`href="https://outils.vread.fr/lectoclasse/kits/${g.slug}/"`), `${g.slug}: kit page`);
+    assert.doesNotMatch(text(h), /session 2027/i, g.slug);
   }
 });

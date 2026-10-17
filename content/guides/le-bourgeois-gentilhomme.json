@@ -1,0 +1,208 @@
+{
+  "slug": "le-bourgeois-gentilhomme",
+  "title": "Le Bourgeois gentilhomme",
+  "author": "Molière",
+  "authorDates": "1622-1673",
+  "published": "1670",
+  "genre": "comédie-ballet en cinq actes et en prose",
+  "programme": "college",
+  "level": "5e",
+  "programmeNote": "Le programme de cycle 4 de 2015 (dans sa version du BOEN n° 31 du 30 juillet 2020) prévoyait en 5e, dans l’entrée « Avec autrui : familles, amis, réseaux », l’étude d’une comédie du XVIIe siècle en lecture intégrale. Depuis la rentrée 2026, la 5e suit le nouveau programme de cycle 4 (arrêté du 18 février 2026, BO n° 10 du 5 mars 2026) : l’entrée « Expérimenter et jouer au théâtre : la société sens dessus dessous (théâtre) » porte sur la dynamique du comique et sur les relations entre dominants et dominés. Aucun de ces textes n’impose une œuvre précise.",
+  "programmeSources": [
+    {
+      "label": "Programme de français du cycle 4, arrêté du 18 février 2026 (BO n° 10 du 5 mars 2026)",
+      "url": "https://www.education.gouv.fr/bo/2026/Hebdo10/MENE2602912A"
+    },
+    {
+      "label": "Programmes des cycles 2, 3 et 4, version du BOEN n° 31 du 30 juillet 2020",
+      "url": "https://www.education.gouv.fr/bo/20/Hebdo31/MENE2018714A.htm"
+    }
+  ],
+  "source": {
+    "label": "Wikisource, d’après les Œuvres complètes de Molière, édition Charles Louandre, Charpentier, 1910, tome III",
+    "url": "https://fr.wikisource.org/wiki/Le_Bourgeois_gentilhomme/%C3%89dition_Louandre,_1910",
+    "licence": "Transcription Wikisource, CC BY-SA 4.0"
+  },
+  "words": 21103,
+  "units": [
+    {
+      "id": "acte1",
+      "label": "Acte I",
+      "file": "sources/le-bourgeois-gentilhomme/01.txt",
+      "words": 2471,
+      "summary": "Dans la maison de M. Jourdain, à Paris, le maître de musique et le maître à danser attendent leur client, un riche bourgeois qui veut vivre comme les gens de qualité : il juge mal leurs arts, mais il paie bien. M. Jourdain paraît en robe de chambre, fait admirer ses habits du matin et ses laquais, puis écoute l’air de sérénade composé par l’élève du maître de musique ; il le trouve trop triste et chante à la place une chanson qu’il connaît. Les deux maîtres le persuadent que la musique et la danse sont nécessaires à un homme du monde. Il assiste à un dialogue en musique entre une musicienne et deux musiciens, qu’il faut imaginer en bergers, puis à une entrée de ballet de quatre danseurs."
+    },
+    {
+      "id": "acte2",
+      "label": "Acte II",
+      "file": "sources/le-bourgeois-gentilhomme/02.txt",
+      "words": 4317,
+      "summary": "M. Jourdain prend une leçon de menuet et apprend la révérence qui lui servira à saluer une marquise, Dorimène, qu’il attend à dîner. Le maître d’armes lui donne sa leçon, puis se querelle avec les maîtres de musique et de danse sur la supériorité de leurs arts ; le maître de philosophie, venu les calmer, les méprise tous trois, et la dispute tourne aux coups. Resté seul avec son élève, le philosophe lui propose la logique, la morale et la physique ; M. Jourdain préfère l’orthographe, apprend comment se prononcent les voyelles et quelques consonnes, découvre qu’il parle en prose et fait arranger de plusieurs façons la phrase du billet destiné à la marquise. Le maître tailleur apporte enfin l’habit neuf, que des garçons tailleurs lui passent en dansant ; à chaque titre flatteur qu’ils lui donnent, M. Jourdain leur donne de l’argent."
+    },
+    {
+      "id": "acte3",
+      "label": "Acte III",
+      "file": "sources/le-bourgeois-gentilhomme/03.txt",
+      "words": 7701,
+      "summary": "M. Jourdain veut se montrer en ville dans son habit neuf. Sa servante Nicole ne peut s’arrêter de rire en le voyant, et Mme Jourdain lui reproche ses maîtres et ses fréquentations ; il leur fait la leçon sur la prose et sur la voyelle U, puis met un fleuret dans les mains de Nicole, qui lui porte aussitôt plusieurs bottes. Dorante, un comte à qui il prête de l’argent, fait le compte de ses dettes et lui emprunte encore deux cents louis ; en aparté, il lui donne des nouvelles de la marquise Dorimène, à qui il a remis de sa part un diamant. Mme Jourdain veut marier sa fille Lucile à Cléonte ; après une brouille entre les amoureux et leurs domestiques, vite expliquée, Cléonte demande la main de Lucile, mais M. Jourdain refuse parce qu’il n’est pas gentilhomme. Covielle, le valet de Cléonte, imagine une mascarade pour duper le bourgeois. Dorante amène Dorimène, qui croit recevoir de lui seul les présents et la fête ; M. Jourdain l’accueille par des révérences et un compliment embrouillé, et six cuisiniers dansent avant d’apporter le repas."
+    },
+    {
+      "id": "acte4",
+      "label": "Acte IV",
+      "file": "sources/le-bourgeois-gentilhomme/04.txt",
+      "words": 3259,
+      "summary": "Au festin, Dorante fait les honneurs à la place de M. Jourdain, qui tente auprès de Dorimène des galanteries maladroites, et des musiciens chantent des airs à boire. Mme Jourdain, qu’on croyait chez sa sœur, surprend le repas et accuse son mari ; Dorimène, offensée, s’en va et Dorante la suit. Covielle, déguisé, se présente comme un ami du père de M. Jourdain, qu’il dit avoir été gentilhomme, et annonce que le fils du Grand Turc veut épouser Lucile et faire de son futur beau-père un mamamouchi, une dignité de son pays. Cléonte paraît en Turc, Covielle traduit son charabia, puis met Dorante dans la confidence. Au cours d’une cérémonie turque chantée et dansée, le muphti et les Turcs coiffent M. Jourdain d’un turban, lui remettent un sabre et le frappent en cadence."
+    },
+    {
+      "id": "acte5",
+      "label": "Acte V",
+      "file": "sources/le-bourgeois-gentilhomme/05.txt",
+      "words": 3355,
+      "summary": "En costume turc, M. Jourdain répète devant sa femme les paroles de la cérémonie, et elle le croit devenu fou. Dorimène, décidée à faire cesser les dépenses que Dorante fait pour elle, accepte de l’épouser. Lucile refuse d’abord le fils du Grand Turc, puis reconnaît Cléonte et obéit à son père ; Mme Jourdain s’y oppose jusqu’à ce que Covielle lui révèle la ruse à l’oreille. On fait venir un notaire pour les deux mariages, M. Jourdain promet Nicole au faux interprète et croit que l’union de Dorante et de Dorimène n’est qu’une feinte pour tromper sa femme. La comédie finit par un ballet : des spectateurs de toutes sortes, dont des Gascons, un Suisse et un vieux couple de bourgeois, se disputent les livrets, puis des Espagnols, des Italiens et des Poitevins chantent et dansent."
+    }
+  ],
+  "intro": [
+    "Le Bourgeois gentilhomme est une comédie-ballet en cinq actes et en prose de Molière, créée devant Louis XIV au château de Chambord le 14 octobre 1670, puis jouée à Paris, au théâtre du Palais-Royal, à partir du 23 novembre. Lully en a composé la musique, et chaque acte se termine par un intermède chanté ou dansé. Selon les notes de l’édition Louandre, la cérémonie turque de l’acte IV renvoie à la présence à la cour, à cette époque, d’un envoyé turc. M. Jourdain, fils de marchand enrichi, rêve d’être un homme de qualité : il paie des maîtres, s’habille à la mode, prête son argent à un comte et courtise une marquise. Il refuse sa fille à Cléonte parce que celui-ci n’est pas noble, et Cléonte revient déguisé en fils du Grand Turc.",
+    "Pour étudier la comédie en 5e, observez d’où vient le rire : de l’écart entre ce que M. Jourdain veut paraître et ce qu’il est, visible dans ses leçons, son habit, son compliment à Dorimène. Regardez aussi les rapports de force : les maîtres et Dorante flattent sa vanité pour son argent, alors que sa femme et sa servante, qui parlent franc, voient clair. Les deux derniers actes basculent dans la farce et le spectacle : le mariage se conclut grâce à une mascarade, et M. Jourdain finit la pièce aussi aveugle qu’au début."
+  ],
+  "characters": [
+    {
+      "name": "Monsieur Jourdain",
+      "role": "Riche bourgeois de Paris, qui veut à tout prix passer pour un homme de qualité."
+    },
+    {
+      "name": "Madame Jourdain",
+      "role": "Sa femme, bourgeoise de bon sens, opposée aux folies de son mari."
+    },
+    {
+      "name": "Lucile",
+      "role": "Leur fille, amoureuse de Cléonte."
+    },
+    {
+      "name": "Cléonte",
+      "role": "Jeune homme honnête qui aime Lucile mais refuse de se dire gentilhomme."
+    },
+    {
+      "name": "Covielle",
+      "role": "Valet de Cléonte, amoureux de Nicole, inventeur de la mascarade turque."
+    },
+    {
+      "name": "Nicole",
+      "role": "Servante de M. Jourdain, rieuse et franche."
+    },
+    {
+      "name": "Dorante",
+      "role": "Comte endetté qui vit aux dépens de M. Jourdain et courtise Dorimène."
+    },
+    {
+      "name": "Dorimène",
+      "role": "Marquise veuve, que M. Jourdain courtise sans qu’elle le sache."
+    },
+    {
+      "name": "Les maîtres",
+      "role": "Maître de musique, maître à danser, maître d’armes et maître de philosophie, payés pour instruire M. Jourdain."
+    },
+    {
+      "name": "Le maître tailleur",
+      "role": "Fournisseur de l’habit neuf, aidé de ses garçons tailleurs."
+    },
+    {
+      "name": "Le muphti",
+      "role": "Chef de la cérémonie turque de l’acte IV."
+    }
+  ],
+  "passages": [
+    {
+      "unit": "acte1",
+      "ref": "Acte I, scène 1",
+      "title": "Le discernement dans la bourse",
+      "quote": "C’est un homme, à la vérité, dont les lumières sont petites, qui parle à tort et à travers de toutes choses, et n’applaudit qu’à contre-sens ; mais son argent redresse les jugements de son esprit ; il a du discernement dans sa bourse",
+      "note": "Avant même son entrée, M. Jourdain est jugé par ceux qui vivent de lui. Le maître de musique enchaîne les formules qui associent l’esprit et l’argent : la satire vise le bourgeois ignorant, mais aussi les artistes qui le flattent pour être payés. Utile pour étudier une scène d’exposition."
+    },
+    {
+      "unit": "acte2",
+      "ref": "Acte II, scène 6",
+      "title": "Quarante ans de prose",
+      "quote": "Par ma foi, il y a plus de quarante ans que je dis de la prose, sans que j’en susse rien ; et je vous suis le plus obligé du monde de m’avoir appris cela.",
+      "note": "Le philosophe vient d’expliquer que tout ce qui n’est pas vers est prose. M. Jourdain s’émerveille d’une évidence et remercie comme d’un grand savoir. Le comique tient à sa naïveté, mais la leçon est elle-même creuse : le maître ne lui apprend rien qu’il ne sache déjà faire."
+    },
+    {
+      "unit": "acte3",
+      "ref": "Acte III, scène 12",
+      "title": "Cléonte refuse de mentir",
+      "quote": "Je trouve que toute imposture est indigne d’un honnête homme, et qu’il y a de la lâcheté à déguiser ce que le ciel nous a fait naître, à se parer aux yeux du monde d’un titre dérobé",
+      "note": "Cléonte demande Lucile et répond franchement qu’il n’est pas gentilhomme. Sa tirade, sérieuse et bien construite, oppose la sincérité à l’usage du temps, qui laisse chacun usurper un titre. Ce scrupule lui coûte la main de Lucile : la ruse de l’acte IV le force ensuite à jouer un rôle."
+    },
+    {
+      "unit": "acte3",
+      "ref": "Acte III, scène 12",
+      "title": "Mettez-vous là, mon gendre",
+      "quote": "Je ne veux point tous ces caquets, et je veux un homme, en un mot, qui m’ait obligation de ma fille, et à qui je puisse dire : Mettez-vous là, mon gendre, et dînez avec moi.",
+      "note": "Mme Jourdain répond au projet de faire de Lucile une marquise. Elle imagine les moqueries du quartier et préfère un gendre de son rang. Son bon sens populaire, plein d’expressions familières, fait contrepoint à la folie de son mari : bon passage pour comparer deux visions du mariage."
+    },
+    {
+      "unit": "acte4",
+      "ref": "Acte IV, scène 5",
+      "title": "Mamamouchi, paladin",
+      "quote": "Oui, mamamouchi ; c’est-à-dire, en notre langue, paladin. Paladin, ce sont de ces anciens… Paladin, enfin. Il n’y a rien de plus noble que cela dans le monde",
+      "note": "Covielle invente une dignité turque et s’embrouille dans sa propre définition, que les points de suspension laissent en suspens. M. Jourdain ne remarque rien : il entend seulement le mot noble. La scène montre comment la ruse s’appuie sur le désir de la dupe."
+    },
+    {
+      "unit": "acte5",
+      "ref": "Acte V, scène 3",
+      "title": "Les serpents et les lions",
+      "quote": "Monsieur, je vous souhaite la force des serpents et la prudence des lions.",
+      "note": "M. Jourdain reprend le souhait que Covielle lui avait traduit à l’acte IV, mais il en inverse les termes. Le contresens prouve qu’il répète sans comprendre, comme lors de ses leçons. Dorante et Dorimène, qui savent tout, jouent le jeu : la mascarade se poursuit jusqu’au dénouement."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "unit": "acte1",
+      "ref": "Acte I, scène 2",
+      "question": "Quel nom porte la belle à qui s’adresse l’air de sérénade chanté par la musicienne ?",
+      "answer": "Iris",
+      "evidence": "Si vous traitez ainsi, belle Iris, qui vous aime,"
+    },
+    {
+      "id": "q2",
+      "unit": "acte2",
+      "ref": "Acte II, scène 6",
+      "question": "Dans le style de quel poète latin le maître de philosophie veut-il écrire une satire contre les autres maîtres ?",
+      "answer": "Juvénal",
+      "evidence": "je vais composer contre eux une satire du style de Juvénal, qui les déchirera de la belle façon."
+    },
+    {
+      "id": "q3",
+      "unit": "acte3",
+      "ref": "Acte III, scène 10",
+      "question": "Selon Lucile, quelle parente l’a obligée, le matin, à éviter Cléonte ?",
+      "answer": "tante",
+      "evidence": "par la présence d’une vieille tante, qui veut à toute force que la seule approche d’un homme déshonore une fille"
+    },
+    {
+      "id": "q4",
+      "unit": "acte4",
+      "ref": "Acte IV, scène 6",
+      "question": "À quelle plante, selon la traduction de Covielle, le faux fils du Grand Turc souhaite-t-il que ressemble le cœur de M. Jourdain ?",
+      "answer": "rosier",
+      "evidence": "C’est-à-dire : Monsieur Jourdain, votre cœur soit toute l’année comme un rosier fleuri."
+    },
+    {
+      "id": "q5",
+      "unit": "acte5",
+      "ref": "Acte V, scène 7",
+      "question": "Dans quelle ville Covielle dit-il qu’il irait annoncer qu’on a vu un homme plus fou que M. Jourdain ?",
+      "answer": "Rome",
+      "evidence": "Si l’on en peut voir un plus fou, je l’irai dire à Rome."
+    }
+  ],
+  "readingTips": [
+    "La pièce est en prose et se lit en une heure et demie environ. L’acte III est de loin le plus long (vingt et une scènes) ; les actes IV et V sont plus courts, mais une bonne part du texte y est chantée.",
+    "L’orthographe suit une édition ancienne (je voudrois, connoître, étoit) : lisez « oi » comme « ai ». Quelques mots ont changé : céans veut dire ici, un truchement est un interprète, un carême-prenant un masque de carnaval.",
+    "Ne sautez pas les intermèdes : ils font partie de la comédie-ballet. La cérémonie turque est écrite dans un jargon proche de l’italien (Mi star muphti) ; lisez-la à voix haute. Le ballet final contient des couplets en espagnol et en italien, sans traduction dans ce texte.",
+    "Repérez les indications « bas » et « à part » de l’acte III : Mme Jourdain commente en aparté les emprunts de Dorante, et Dorante parle bas à Dorimène pour se moquer de son hôte."
+  ],
+  "updated": "2026-10-17",
+  "datePublished": "2026-10-17"
+}

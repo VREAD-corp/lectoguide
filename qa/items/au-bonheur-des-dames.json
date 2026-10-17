@@ -1,0 +1,145 @@
+{
+  "set": "lectoguide/au-bonheur-des-dames",
+  "coldGate": "summary",
+  "title": "Au Bonheur des Dames",
+  "author": "Émile Zola",
+  "language": "fr",
+  "units": [
+    {
+      "id": "ch01",
+      "label": "Chapitre I",
+      "file": "../../sources/au-bonheur-des-dames/01.txt",
+      "summary": "Un matin d’octobre, Denise Baudu, vingt ans, arrive de Valognes à Paris avec ses frères Jean, seize ans, et Pépé, cinq ans, après la mort de leurs parents. Avant de trouver la boutique de leur oncle, rue de la Michodière, ils s’arrêtent, éblouis, devant les vitrines du Bonheur des Dames. L’oncle Baudu, drapier au Vieil Elbeuf, les reçoit avec embarras : les affaires vont mal, il ne peut pas embaucher sa nièce, mais il loge les enfants, et l’on décide de mettre Pépé en pension chez une vieille dame du quartier. Chez le marchand de soieries Vinçard, la place est déjà prise ; Robineau, commis du Bonheur des Dames, conseille à Denise de se présenter au rayon des confections. Le soir, la famille raconte comment Octave Mouret, devenu seul maître du magasin à la mort de sa femme, tombée sur le chantier, ruine peu à peu les petits commerces du quartier, dont celui du vieux Bourras, marchand de parapluies. Denise promet pourtant de se présenter le lendemain."
+    },
+    {
+      "id": "ch02",
+      "label": "Chapitre II",
+      "file": "../../sources/au-bonheur-des-dames/02.txt",
+      "summary": "Le lendemain, à sept heures et demie, Denise n’ose pas entrer au Bonheur des Dames et croise un jeune homme qu’elle prend pour un chef de rayon : c’est Octave Mouret. Dans son cabinet, Mouret prépare avec Bourdoncle la grande mise en vente des nouveautés d’hiver du lundi suivant, puis il inspecte la maison, du sous-sol aux caisses ; au rayon de la soie, il fixe avec Bouthemont le prix du Paris-Bonheur à cinq francs soixante, à peine le prix d’achat. Après une longue hésitation, Denise trouve le rayon des confections, où madame Aurélie, la première, inscrit sa demande en présence de Mouret, qui apprend qu’elle est la nièce de Baudu. En sortant, elle fait la connaissance d’Henri Deloche, un jeune homme venu lui aussi demander une place."
+    },
+    {
+      "id": "ch03",
+      "label": "Chapitre III",
+      "file": "../../sources/au-bonheur-des-dames/03.txt",
+      "summary": "Un samedi d’octobre, madame Desforges reçoit ses amies pour le thé dans son appartement de la rue de Rivoli : madame Bourdelais, madame Guibal, madame de Boves et sa fille Blanche, madame Marty. Mouret, qui est l’amant de la maîtresse de maison, y retrouve Paul de Vallagnosc, un ancien camarade de collège devenu petit employé de ministère. Il est surtout venu rencontrer le baron Hartmann, directeur du Crédit Immobilier, à qui il expose sa méthode et propose une association pour agrandir le magasin le long de la future rue du Dix-Décembre. Pendant ce temps, les dames parlent toilette, dentelles et soldes, et madame Marty sort ses achats devant son mari, professeur au lycée. À la nuit tombante, le baron accepte d’étudier l’affaire, à condition que la vente du lundi ait l’importance annoncée."
+    },
+    {
+      "id": "ch04",
+      "label": "Chapitre IV",
+      "file": "../../sources/au-bonheur-des-dames/04.txt",
+      "summary": "Le lundi 10 octobre, jour de la grande mise en vente des nouveautés d’hiver, le Bonheur des Dames accueille ses clientes dans un salon oriental tendu de tapis anciens. Denise commence le même jour au rayon des confections ; on l’installe dans une chambre sous les combles, et elle apprend qu’elle entre au pair, sans appointements fixes. Les autres vendeuses, Clara en tête, lui prennent les clientes, et madame Aurélie la tient à l’écart. La matinée reste vide et Mouret s’inquiète, puis la foule envahit les rayons l’après-midi et le Paris-Bonheur se vend en masse ; madame Desforges et ses amies font leurs achats. Obligée de présenter un manteau sur ses épaules, Denise devient la risée du rayon, Mouret compris ; seule Pauline Cugnot, vendeuse à la lingerie, lui témoigne de l’amitié. Le soir, la recette dépasse quatre-vingt mille francs, et Denise pleure seule dans sa chambre."
+    },
+    {
+      "id": "ch05",
+      "label": "Chapitre V",
+      "file": "../../sources/au-bonheur-des-dames/05.txt",
+      "summary": "Le lendemain, Mouret convoque Denise dans son cabinet pour lui reprocher sa coiffure et sa tenue. Pendant l’hiver, elle souffre de la fatigue, de ses gros souliers et des moqueries du rayon ; toujours au pair, elle donne à Jean l’argent qu’il réclame, et Pauline lui prête la somme qui lui manque pour la pension de Pépé. Elle découvre que Colomban, le fiancé de sa cousine Geneviève, est amoureux de Clara, puis obtient enfin trois cents francs d’appointements fixes. Un dimanche de mai, elle part pour Joinville avec Pauline et son ami Baugé, employé au Bon Marché ; elle y voit Hutin attablé avec une chanteuse et en souffre. Le soir, au bord de la Marne, Deloche lui avoue son amour, et elle ne lui offre que son amitié. Rentrée tard, elle traverse le magasin plongé dans le noir et rencontre Mouret dans l’escalier."
+    },
+    {
+      "id": "ch06",
+      "label": "Chapitre VI",
+      "file": "../../sources/au-bonheur-des-dames/06.txt",
+      "summary": "Quand vient la morte-saison d’été, Mouret et Bourdoncle renvoient les employés en masse. Au rayon, on prête à Denise un amant et un enfant caché ; pour payer les dettes de Jean, elle coud la nuit des nœuds de cravate que Robineau lui a procurés. Le 20 juillet, après le déjeuner, l’inspecteur Jouve veut l’embrasser dans le réfectoire, et elle le repousse. L’après-midi, Jean vient au magasin lui demander quinze francs ; elle l’emmène au sous-sol, où Jouve les surprend. Denise affirme que c’est son frère, mais personne ne la croit, et Bourdoncle la fait renvoyer ; Robineau est congédié le soir même. Mouret, qui apprend ensuite que le jeune homme était bien son frère, se fâche contre Bourdoncle mais laisse faire."
+    },
+    {
+      "id": "ch07",
+      "label": "Chapitre VII",
+      "file": "../../sources/au-bonheur-des-dames/07.txt",
+      "summary": "Mise à la porte par une chaude après-midi de juillet, Denise loue pour quinze francs par mois une chambre sous les toits chez le vieux Bourras et reprend Pépé avec elle. Elle cherche en vain une place et connaît la misère ; Bourras finit par l’employer dans sa boutique, à quarante sous par jour. Un soir de janvier, sur le conseil de Deloche, elle entre chez Robineau, qui a racheté le fonds de soieries de Vinçard ; soutenu par le fabricant Gaujean, Robineau mène contre le Paris-Bonheur une guerre des prix qui le ruine peu à peu. Pendant ce temps, le Bonheur des Dames continue de s’agrandir, et Bourras refuse de vendre. Un soir, au jardin des Tuileries, Mouret aborde Denise, s’excuse de son renvoi et lui propose de revenir ; elle refuse, mais accepte de transmettre à Bourras une offre de quatre-vingt mille francs. Le soir même, Bourras apprend que Mouret a acheté la maison dont il est locataire, et l’oncle Baudu invite Denise et Pépé à dîner pour le lendemain."
+    },
+    {
+      "id": "ch08",
+      "label": "Chapitre VIII",
+      "file": "../../sources/au-bonheur-des-dames/08.txt",
+      "summary": "Le quartier ne parle que du percement de la rue du Dix-Décembre et des agrandissements du Bonheur des Dames, qui doit occuper tout le pâté de maisons. Denise et Pépé dînent chez les Baudu ; après le repas, Geneviève, malade et amaigrie, confie à Denise que Colomban en aime une autre. À partir de septembre, les travaux se poursuivent la nuit à la lumière électrique, et les petits commerçants voisins font faillite l’un après l’autre. En décembre, Baudu vend à perte sa maison de campagne de Rambouillet aux Lhomme et repousse d’un an le mariage de sa fille. Denise quitte Robineau pour rentrer au Bonheur avec mille francs d’appointements, et Deloche lui apprend que Clara serait la maîtresse de Mouret. Au Vieil Elbeuf, Colomban avoue à Denise qu’il aime Clara, et Geneviève l’entend ; Baudu, hors de lui, renvoie chez le concurrent une cliente qui trouve sa marchandise trop chère."
+    },
+    {
+      "id": "ch09",
+      "label": "Chapitre IX",
+      "file": "../../sources/au-bonheur-des-dames/09.txt",
+      "summary": "Le lundi 14 mars, par un froid retour d’hiver, le Bonheur des Dames inaugure ses magasins neufs avec une grande exposition des nouveautés d’été. Denise, rentrée au magasin début février, reçoit le matin l’ordre de passer le soir au cabinet de Mouret. Toute la journée, la foule envahit les galeries : madame Marty dépense sans compter avec sa fille, madame Bourdelais promène ses trois enfants, M. de Boves retrouve madame Guibal, et madame de Boves tente de cacher sous son manteau une pièce de dentelle. Madame Desforges, jalouse, se fait servir longuement par Denise aux confections et cherche à l’humilier. Le soir, Mouret nomme Denise seconde du rayon, et la recette dépasse cinq cent quatre-vingt mille francs."
+    },
+    {
+      "id": "ch10",
+      "label": "Chapitre X",
+      "file": "../../sources/au-bonheur-des-dames/10.txt",
+      "summary": "Le premier dimanche d’août, le magasin fermé fait son inventaire. Denise, retenue dans sa chambre par une entorse, reçoit une lettre de Mouret qui l’invite à dîner le soir même ; elle comprend qu’elle l’aime et pleure devant Pauline, qui va épouser Baugé. La nouvelle fait le tour du magasin en quelques minutes, et au réfectoire Deloche jette son verre de vin au visage de Favier, qui insulte Denise. L’après-midi, dans la salle de l’échantillonnage, Mouret lui déclare son amour et lui offre une petite fortune ; elle refuse, lui reproche la dame qu’il fréquente et dit que ses frères l’attendent chez son oncle. À six heures, l’inventaire est terminé sur un chiffre d’affaires de quatre-vingts millions, et Mouret regarde Denise s’en aller."
+    },
+    {
+      "id": "ch11",
+      "label": "Chapitre XI",
+      "file": "../../sources/au-bonheur-des-dames/11.txt",
+      "summary": "Bouthemont, dont la place au Bonheur est menacée, arrive le premier au thé de quatre heures chez madame Desforges. Henriette a fait venir Denise sous prétexte de retoucher un manteau, pour la mettre en présence de Mouret, et la jeune fille attend debout dans l’antichambre. Mouret arrive avec Vallagnosc, et le baron Hartmann lui annonce que le Crédit Immobilier refuse encore son projet de façade sur la rue du Dix-Décembre. Pendant l’essayage, Henriette humilie Denise puis l’insulte devant Mouret, qui renvoie la jeune fille avec douceur et avoue ensuite à Henriette qu’il l’aime. De retour au salon, il apprend à Bouthemont son renvoi ; celui-ci décide d’ouvrir son propre magasin près de l’Opéra, et Henriette le recommande au baron."
+    },
+    {
+      "id": "ch12",
+      "label": "Chapitre XII",
+      "file": "../../sources/au-bonheur-des-dames/12.txt",
+      "summary": "Le 25 septembre commencent les travaux de la nouvelle façade sur la rue du Dix-Décembre. Seconde aux confections, Denise impose désormais son autorité, même à Clara, mais Bourdoncle la fait surveiller et affirme à Mouret qu’elle a pour amants Hutin et Deloche. Jaloux, Mouret multiplie les renvois, dont celui d’Albert Lhomme, complice d’un vol organisé à sa caisse. Surprise avec Deloche près du réservoir, sous les toits, Denise doit s’expliquer devant Mouret dans son cabinet et lui avoue qu’elle aime quelqu’un. Le lendemain, elle est nommée première d’un nouveau rayon de costumes pour enfants et inspire des réformes en faveur des employés ; à l’infirmerie, elle confie à Pauline, qu’elle a protégée d’un renvoi, qu’elle aime Mouret. Les mois passent, la façade s’élève, et Mouret commence à penser au mariage."
+    },
+    {
+      "id": "ch13",
+      "label": "Chapitre XIII",
+      "file": "../../sources/au-bonheur-des-dames/13.txt",
+      "summary": "Un matin de novembre, Denise est appelée au chevet de sa cousine Geneviève, qui dépérit depuis le départ de Colomban, tandis que le Vieil Elbeuf, sans clients et hypothéqué, achève de se ruiner. Geneviève meurt le lendemain, et son enterrement rassemble tout le petit commerce ruiné du quartier. Denise obtient de Mouret qu’il aide sa famille et Bourras quand ils seront à bout. Quelques semaines plus tard, Robineau, acculé à la faillite, se jette sous un omnibus ; il s’en sort avec une jambe cassée, mais sa faillite est déclarée. En janvier, madame Baudu meurt les yeux tournés vers le Bonheur des Dames, et Bourras, ruiné à son tour, voit démolir sa maison en refusant toute aide. Denise vient proposer à son oncle une place d’inspecteur au Bonheur, puis renonce devant sa douleur."
+    },
+    {
+      "id": "ch14",
+      "label": "Chapitre XIV",
+      "file": "../../sources/au-bonheur-des-dames/14.txt",
+      "summary": "Un lundi de février, le Bonheur des Dames inaugure sa façade monumentale de la rue du Dix-Décembre avec une grande exposition de blanc, tandis qu’en face le Vieil Elbeuf est fermé depuis que Baudu est entré dans une maison de retraite. Près de cent mille clientes envahissent les galeries ; Denise, qui a donné sa démission et doit partir le lendemain pour Valognes, y accompagne ses deux frères. L’inspecteur Jouve surprend madame de Boves en train de voler des dentelles ; elle signe un aveu, l’affaire est étouffée, et le vendeur Deloche est renvoyé. En regardant la foule, Mouret, qui lutte depuis une semaine contre lui-même, décide d’épouser Denise ; le soir, le caissier Lhomme lui apporte une recette de plus d’un million. Dans son cabinet, il la demande en mariage : elle refuse d’abord à cause de ses frères, puis lui avoue qu’elle l’aime, et il lui propose de passer un mois à Valognes avant de venir l’y chercher."
+    }
+  ],
+  "items": [
+    {
+      "id": "q1",
+      "unit": "ch01",
+      "type": "word",
+      "question": "Chez quel marchand de nouveautés de Valognes Denise a-t-elle travaillé pendant deux ans avant de venir à Paris ?",
+      "answer": "Cornaille",
+      "evidence": [
+        "Elle avait passé deux ans là-bas, chez Cornaille, le premier marchand de nouveautés de la ville ;"
+      ]
+    },
+    {
+      "id": "q2",
+      "unit": "ch04",
+      "type": "word",
+      "question": "De quelle ville vient Pauline Cugnot, la vendeuse de la lingerie qui prend le parti de Denise ?",
+      "answer": "Chartres",
+      "evidence": [
+        "Moi qui vous parle, je suis de Chartres."
+      ]
+    },
+    {
+      "id": "q3",
+      "unit": "ch07",
+      "type": "word",
+      "question": "Quel prénom une ancienne locataire a-t-elle écrit au plafond de la chambre que Denise loue chez Bourras ?",
+      "answer": "Ernestine",
+      "evidence": [
+        "Et, comme Denise regardait avec surprise l’angle du plafond, au-dessus du lit, où une dame de passage avait écrit son nom : Ernestine, en promenant la flamme d’une chandelle, il ajouta d’un air bonhomme :"
+      ]
+    },
+    {
+      "id": "q4",
+      "unit": "ch10",
+      "type": "word",
+      "question": "Quel est le nom de la surveillante qui apporte à Denise la lettre où Mouret l’invite à dîner ?",
+      "answer": "Cabin",
+      "evidence": [
+        "Doucement, elle continuait de s’essayer à marcher, en se promettant de se coucher de bonne heure, afin de reposer sa jambe, lorsque la surveillante, madame Cabin, frappa et lui donna une lettre, d’un air de mystère."
+      ]
+    },
+    {
+      "id": "q5",
+      "unit": "ch14",
+      "type": "word",
+      "question": "Quel est le prénom de la jeune femme que Jean a épousée huit jours avant la grande exposition de blanc ?",
+      "answer": "Thérèse",
+      "evidence": [
+        "C’était d’abord le paletot havane, que Thérèse, après réflexion, voulait changer contre un paletot de drap blanc, même taille, même coupe."
+      ]
+    }
+  ]
+}

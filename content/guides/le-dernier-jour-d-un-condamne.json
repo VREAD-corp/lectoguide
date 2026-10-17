@@ -1,0 +1,508 @@
+{
+  "slug": "le-dernier-jour-d-un-condamne",
+  "title": "Le Dernier Jour d’un condamné",
+  "author": "Victor Hugo",
+  "authorDates": "1802-1885",
+  "published": "1829",
+  "genre": "roman",
+  "programme": "lycee",
+  "level": "Seconde ; aussi au collège, en 3e à partir de la rentrée 2028",
+  "programmeNote": "Au lycée, le programme de seconde (BO spécial n° 1 du 22 janvier 2019, modifié en 2020) demande, pour l’objet d’étude « Le roman et le récit du XVIIIe siècle au XXIe siècle », deux œuvres intégrales de forme et de siècle différents : un roman et, par ailleurs, un recueil de nouvelles, un récit de voyage, un journal ou un autre récit. Au collège, le nouveau programme de cycle 4 (arrêté du 18 février 2026, BO n° 10 du 5 mars 2026) prévoit en 3e, à la rentrée 2028, l’entrée « Défendre les valeurs humanistes : écrivains et journalistes acteurs de leur temps (articles, essai, récit) », dont la présentation cite Hugo. Aucun de ces textes n’impose une œuvre précise.",
+  "programmeSources": [
+    {
+      "label": "Programme de français de seconde (BO spécial n° 1 du 22 janvier 2019, version modifiée en 2020, sur éduscol)",
+      "url": "https://eduscol.education.gouv.fr/sites/default/files/document/04-annexe1francais2ebomodifiepdf-69834.pdf"
+    },
+    {
+      "label": "Programme de français du cycle 4, arrêté du 18 février 2026 (BO n° 10 du 5 mars 2026)",
+      "url": "https://www.education.gouv.fr/bo/2026/Hebdo10/MENE2602912A"
+    }
+  ],
+  "source": {
+    "label": "Wikisource, d’après les Œuvres complètes de Victor Hugo, Roman, tome I, Imprimerie nationale et Ollendorff, Paris, 1910",
+    "url": "https://fr.wikisource.org/wiki/Le_Dernier_Jour_d%E2%80%99un_Condamn%C3%A9",
+    "licence": "Transcription Wikisource, CC BY-SA 4.0"
+  },
+  "words": 24082,
+  "units": [
+    {
+      "id": "ch01",
+      "label": "Chapitre I",
+      "file": "sources/le-dernier-jour-d-un-condamne/01.txt",
+      "words": 410,
+      "summary": "À Bicêtre, le narrateur, condamné à mort, vit depuis cinq semaines avec cette seule pensée. Il oppose la liberté de son esprit d’autrefois à l’idée fixe qui l’emprisonne et le poursuit jusque dans ses rêves. Il vient de s’éveiller en croyant sortir d’un cauchemar, et la réalité de sa condamnation le reprend aussitôt."
+    },
+    {
+      "id": "ch02",
+      "label": "Chapitre II",
+      "file": "sources/le-dernier-jour-d-un-condamne/02.txt",
+      "words": 1657,
+      "summary": "Le condamné raconte la fin de son procès, par une belle matinée d’août, après trois jours d’audience. Réveillé pendant que les jurés achèvent de délibérer, il est conduit dans la salle des assises pleine de soleil et se met à espérer ; son avocat, lui, n’espère que les travaux forcés à perpétuité, ce que le condamné refuse avec indignation. Le président lit l’arrêt de mort. En montant dans la voiture grillée, il entend une jeune fille se réjouir : ce sera dans six semaines."
+    },
+    {
+      "id": "ch03",
+      "label": "Chapitre III",
+      "file": "sources/le-dernier-jour-d-un-condamne/03.txt",
+      "words": 217,
+      "summary": "Le condamné se dit que tous les hommes sont condamnés à mort avec des sursis indéfinis, et que sa vie de cachot ne vaut guère d’être regrettée. Le raisonnement ne tient pas : il conclut que c’est horrible."
+    },
+    {
+      "id": "ch04",
+      "label": "Chapitre IV",
+      "file": "sources/le-dernier-jour-d-un-condamne/04.txt",
+      "words": 116,
+      "summary": "La voiture noire l’a conduit à Bicêtre. De loin, l’édifice garde un air de château royal ; de près, ce n’est plus qu’une masure aux fenêtres barrées de fer."
+    },
+    {
+      "id": "ch05",
+      "label": "Chapitre V",
+      "file": "sources/le-dernier-jour-d-un-condamne/05.txt",
+      "words": 472,
+      "summary": "À son arrivée, on lui met la camisole de force et on lui retire couteau et fourchette : il s’est pourvu en cassation, et l’on veut le garder en vie jusqu’à l’exécution. Peu à peu, il obtient une promenade par semaine au préau, de l’encre, du papier et une lampe. Le dimanche, les détenus lui apprennent l’argot, dont il donne des exemples ; ce sont les seuls qui le plaignent."
+    },
+    {
+      "id": "ch06",
+      "label": "Chapitre VI",
+      "file": "sources/le-dernier-jour-d-un-condamne/06.txt",
+      "words": 620,
+      "summary": "Puisqu’il peut écrire, il décide de tenir le journal de ses souffrances jusqu’au bout. Ces pages, espère-t-il, pourraient un jour faire réfléchir ceux qui condamnent à la douleur morale qu’ils ignorent. Mais elles pourraient aussi finir dans la boue du préau."
+    },
+    {
+      "id": "ch07",
+      "label": "Chapitre VII",
+      "file": "sources/le-dernier-jour-d-un-condamne/07.txt",
+      "words": 165,
+      "summary": "Aussitôt, il se reprend : que lui importe de sauver d’autres condamnés quand sa tête aura été coupée ? C’est lui qu’il voudrait voir sauvé, et l’idée de mourir bientôt le révolte."
+    },
+    {
+      "id": "ch08",
+      "label": "Chapitre VIII",
+      "file": "sources/le-dernier-jour-d-un-condamne/08.txt",
+      "words": 241,
+      "summary": "Étape par étape, il compte les délais de la procédure de cassation et arrive à six semaines : la jeune fille entendue au sortir du tribunal avait raison. Or il est à Bicêtre depuis cinq semaines au moins, peut-être six."
+    },
+    {
+      "id": "ch09",
+      "label": "Chapitre IX",
+      "file": "sources/le-dernier-jour-d-un-condamne/09.txt",
+      "words": 247,
+      "summary": "Le condamné vient de faire son testament, presque inutile puisqu’il est condamné aux frais. Il laisse une mère de 64 ans, une femme de santé fragile et une fille de trois ans, Marie, dont la pensée le fait souffrir plus que tout."
+    },
+    {
+      "id": "ch10",
+      "label": "Chapitre X",
+      "file": "sources/le-dernier-jour-d-un-condamne/10.txt",
+      "words": 375,
+      "summary": "Son cachot mesure huit pieds carrés de pierre, il y a une botte de paille, une voûte, aucune fenêtre, seulement une petite ouverture grillée dans la porte. Un factionnaire le surveille jour et nuit. Des curieux sont venus le regarder comme une bête de ménagerie, et le guichetier a été payé pour cela."
+    },
+    {
+      "id": "ch11",
+      "label": "Chapitre XI",
+      "file": "sources/le-dernier-jour-d-un-condamne/11.txt",
+      "words": 397,
+      "summary": "La nuit, il promène sa lampe sur les murs de sa cellule, couverts d’inscriptions et de dessins laissés par les condamnés qui l’ont précédé : des cœurs, des devises, une date (1824), des noms, un bonnet de liberté signé d’un des quatre sous-officiers de La Rochelle. La vue d’un échafaud dessiné en blanc dans un coin l’arrête."
+    },
+    {
+      "id": "ch12",
+      "label": "Chapitre XII",
+      "file": "sources/le-dernier-jour-d-un-condamne/12.txt",
+      "words": 564,
+      "summary": "Reprenant sa lecture du mur, il découvre sous une toile d’araignée les noms, datés de 1815 à 1823, de plusieurs assassins exécutés avant lui et se rappelle leurs crimes. Pris de fièvre, il croit voir le cachot rempli d’hommes qui portent leur tête à la main. L’araignée qu’il a dérangée court sur son pied et le ramène à la réalité."
+    },
+    {
+      "id": "ch13",
+      "label": "Chapitre XIII",
+      "file": "sources/le-dernier-jour-d-un-condamne/13.txt",
+      "words": 2332,
+      "summary": "Quelques jours plus tôt, un guichetier l’a mené à une fenêtre pour voir ferrer les forçats qui partent le lendemain pour le bagne de Toulon. Il décrit la visite des médecins, le déshabillage et l’habillage sous une averse glacée, le rivage des colliers de fer, puis la ronde des forçats enchaînés autour de la lanterne. Quand ils l’aperçoivent et le saluent comme un camarade, il est pris de terreur et s’évanouit."
+    },
+    {
+      "id": "ch14",
+      "label": "Chapitre XIV",
+      "file": "sources/le-dernier-jour-d-un-condamne/14.txt",
+      "words": 728,
+      "summary": "Il revient à lui à l’infirmerie. Au petit jour, de sa fenêtre, il voit partir sous la pluie les cinq charrettes de forçats, enchaînés pour un voyage de vingt-cinq jours. Ce spectacle lui fait préférer l’échafaud au bagne."
+    },
+    {
+      "id": "ch15",
+      "label": "Chapitre XV",
+      "file": "sources/le-dernier-jour-d-un-condamne/15.txt",
+      "words": 309,
+      "summary": "Dès le lendemain, il retourne au cachot. Il se reproche de ne pas avoir tenté de s’évader de l’infirmerie, se dit que son pourvoi sera rejeté et qu’il n’obtiendra pas sa grâce. Il ne lui reste que trois étapes : Bicêtre, la Conciergerie, la Grève."
+    },
+    {
+      "id": "ch16",
+      "label": "Chapitre XVI",
+      "file": "sources/le-dernier-jour-d-un-condamne/16.txt",
+      "words": 730,
+      "summary": "À l’infirmerie, il a entendu sous sa fenêtre une jeune fille de quinze ans chanter une complainte en argot, dont le texte est reproduit. La chanson raconte l’arrestation d’un voleur qui a tué un homme et la menace de la pendaison. Le contraste entre cette voix douce et ces paroles le bouleverse."
+    },
+    {
+      "id": "ch17",
+      "label": "Chapitre XVII",
+      "file": "sources/le-dernier-jour-d-un-condamne/17.txt",
+      "words": 181,
+      "summary": "Il rêve d’évasion : marcher lentement, vêtu comme un maraîcher, se cacher jusqu’au soir dans un endroit qu’il connaît depuis le collège, puis chercher sa route vers une ville ou une autre. Mais il imagine aussitôt un gendarme qui lui demande son passeport. Il se souvient d’être venu à Bicêtre, enfant, voir le grand puits et les fous."
+    },
+    {
+      "id": "ch18",
+      "label": "Chapitre XVIII",
+      "file": "sources/le-dernier-jour-d-un-condamne/18.txt",
+      "words": 81,
+      "summary": "Après une nuit passée à écrire, le guichetier entre à six heures, le salue poliment et lui demande ce qu’il désire pour déjeuner. Cette politesse inhabituelle lui fait craindre que l’exécution soit pour le jour même."
+    },
+    {
+      "id": "ch19",
+      "label": "Chapitre XIX",
+      "file": "sources/le-dernier-jour-d-un-condamne/19.txt",
+      "words": 73,
+      "summary": "Le directeur de la prison vient en personne lui demander s’il a besoin de quelque chose, et l’appelle monsieur. Le condamné en est certain : c’est pour aujourd’hui."
+    },
+    {
+      "id": "ch20",
+      "label": "Chapitre XX",
+      "file": "sources/le-dernier-jour-d-un-condamne/20.txt",
+      "words": 210,
+      "summary": "Il juge que le directeur et ses gardiens ont bien fait leur métier, et voit dans ce geôlier aimable la prison faite homme. Tout autour de lui, murs, portes et gardiens, n’est que prison."
+    },
+    {
+      "id": "ch21",
+      "label": "Chapitre XXI",
+      "file": "sources/le-dernier-jour-d-un-condamne/21.txt",
+      "words": 638,
+      "summary": "Peu avant six heures et demie, un vieux prêtre entre dans son cachot ; puis un huissier de la cour royale, accompagné du directeur, vient lui lire le rejet de son pourvoi. L’arrêt sera exécuté le jour même en place de Grève, et l’on partira à sept heures et demie pour la Conciergerie. Resté seul, le condamné cherche en vain un moyen de fuir."
+    },
+    {
+      "id": "ch22",
+      "label": "Chapitre XXII",
+      "file": "sources/le-dernier-jour-d-un-condamne/22.txt",
+      "words": 2001,
+      "summary": "Le condamné est transféré de Bicêtre à la Conciergerie dans la même voiture grillée, sous une pluie fine, avec l’aumônier, l’huissier et des gendarmes. Pendant le trajet, l’huissier bavarde : il parle de politique et des condamnés célèbres qu’il a déjà conduits, sans rien comprendre aux réponses de son voisin. La voiture traverse Paris et arrive dans la cour de la Conciergerie à huit heures et demie."
+    },
+    {
+      "id": "ch23",
+      "label": "Chapitre XXIII",
+      "file": "sources/le-dernier-jour-d-un-condamne/23.txt",
+      "words": 1741,
+      "summary": "Au Palais de Justice, on l’enferme dans un petit cabinet où entre un autre condamné à mort, un vieux forçat qui doit prendre sa place à Bicêtre. L’homme raconte sa vie en argot : orphelin, voleur, bagnard, puis libéré que personne ne veut employer, renvoyé au bagne pour un pain volé, évadé, enfin assassin sur les grands chemins. Il obtient la redingote du condamné et lui laisse sa veste de laine."
+    },
+    {
+      "id": "ch24",
+      "label": "Chapitre XXIV",
+      "file": "sources/le-dernier-jour-d-un-condamne/24.txt",
+      "words": 118,
+      "summary": "Après coup, il se reprend : il n’a pas donné sa redingote par charité, le vieux forçat la lui a prise parce qu’il était plus fort. Il se sent plein de rage."
+    },
+    {
+      "id": "ch25",
+      "label": "Chapitre XXV",
+      "file": "sources/le-dernier-jour-d-un-condamne/25.txt",
+      "words": 110,
+      "summary": "On le met dans une cellule où il obtient une table, une chaise, de quoi écrire et un lit de sangle, mais un gendarme s’installe avec lui."
+    },
+    {
+      "id": "ch26",
+      "label": "Chapitre XXVI",
+      "file": "sources/le-dernier-jour-d-un-condamne/26.txt",
+      "words": 471,
+      "summary": "À dix heures, il pense à sa fille Marie : dans six heures, il sera mort. Il imagine ce qu’on fera de son corps, puis la honte qu’éprouvera Marie, plus tard, à cause de son nom. Pourtant, il n’arrive pas à croire que c’est bien lui qui va mourir."
+    },
+    {
+      "id": "ch27",
+      "label": "Chapitre XXVII",
+      "file": "sources/le-dernier-jour-d-un-condamne/27.txt",
+      "words": 162,
+      "summary": "Le condamné ne sait pas comment se passe l’exécution, et le nom même de la machine l’épouvante. D’après ce qu’il a entendu dire, on y couche le condamné sur le ventre."
+    },
+    {
+      "id": "ch28",
+      "label": "Chapitre XXVIII",
+      "file": "sources/le-dernier-jour-d-un-condamne/28.txt",
+      "words": 161,
+      "summary": "Un jour, depuis une voiture, il a vu trois hommes monter la guillotine sur la place de Grève ; il avait détourné la tête. Onze heures sonnent : il pense qu’on la prépare en ce moment pour lui."
+    },
+    {
+      "id": "ch29",
+      "label": "Chapitre XXIX",
+      "file": "sources/le-dernier-jour-d-un-condamne/29.txt",
+      "words": 73,
+      "summary": "Il se reprend à espérer la grâce du roi et accepterait les galères, même à perpétuité."
+    },
+    {
+      "id": "ch30",
+      "label": "Chapitre XXX",
+      "file": "sources/le-dernier-jour-d-un-condamne/30.txt",
+      "words": 996,
+      "summary": "Le prêtre revient. Le condamné attendait des paroles qui le touchent, mais l’aumônier récite un sermon appris, et le condamné lui demande de le laisser seul. Il imagine qu’un prêtre de paroisse, pris au hasard et bouleversé, aurait su le consoler. On lui apporte un repas recherché qu’il ne peut avaler."
+    },
+    {
+      "id": "ch31",
+      "label": "Chapitre XXXI",
+      "file": "sources/le-dernier-jour-d-un-condamne/31.txt",
+      "words": 226,
+      "summary": "Un sous-architecte vient prendre des mesures dans la cellule et annonce au condamné que la prison sera beaucoup mieux dans six mois. Le vieux gendarme de garde lui fait remarquer qu’on ne parle pas si haut dans la chambre d’un mort."
+    },
+    {
+      "id": "ch32",
+      "label": "Chapitre XXXII",
+      "file": "sources/le-dernier-jour-d-un-condamne/32.txt",
+      "words": 688,
+      "summary": "Le gendarme qui relève le premier joue à la loterie : il demande au condamné de revenir après sa mort lui donner trois bons numéros. Le condamné lui en promet quatre s’il change d’habits avec lui, et croit un instant pouvoir s’évader. Le gendarme refuse quand il comprend : pour que les numéros soient bons, il faut que le condamné soit mort."
+    },
+    {
+      "id": "ch33",
+      "label": "Chapitre XXXIII",
+      "file": "sources/le-dernier-jour-d-un-condamne/33.txt",
+      "words": 689,
+      "summary": "Les yeux fermés, il revoit son enfance dans un jardin dominé par le dôme du Val-de-Grâce, puis Pepa, une jeune Andalouse de quatorze ans. Un soir d’été, après une course dans le jardin, ils lisent ensemble un livre, assis sur un banc, et s’embrassent pour la première fois."
+    },
+    {
+      "id": "ch34",
+      "label": "Chapitre XXXIV",
+      "file": "sources/le-dernier-jour-d-un-condamne/34.txt",
+      "words": 252,
+      "summary": "Une heure sonne. Il retrouve son crime dans ses souvenirs et voudrait se repentir davantage. Ses années d’innocence s’opposent à cette dernière année, ouverte par un crime et fermée par un supplice."
+    },
+    {
+      "id": "ch35",
+      "label": "Chapitre XXXV",
+      "file": "sources/le-dernier-jour-d-un-condamne/35.txt",
+      "words": 72,
+      "summary": "Au même moment, dans Paris, d’autres travaillent, lisent le journal ou préparent leur soirée : il pense à eux."
+    },
+    {
+      "id": "ch36",
+      "label": "Chapitre XXXVI",
+      "file": "sources/le-dernier-jour-d-un-condamne/36.txt",
+      "words": 287,
+      "summary": "Enfant, il est monté dans la tour du bourdon de Notre-Dame et a failli tomber quand la cloche a sonné ; aujourd’hui, il retrouve le même vertige."
+    },
+    {
+      "id": "ch37",
+      "label": "Chapitre XXXVII",
+      "file": "sources/le-dernier-jour-d-un-condamne/37.txt",
+      "words": 102,
+      "summary": "L’hôtel de ville, édifice noir qui borde la place de Grève, regarde les condamnés de toutes ses fenêtres les jours d’exécution."
+    },
+    {
+      "id": "ch38",
+      "label": "Chapitre XXXVIII",
+      "file": "sources/le-dernier-jour-d-un-condamne/38.txt",
+      "words": 104,
+      "summary": "À une heure et quart, il note ses douleurs : la tête, les reins, les yeux, les coudes. Dans deux heures quarante-cinq, écrit-il, il sera guéri."
+    },
+    {
+      "id": "ch39",
+      "label": "Chapitre XXXIX",
+      "file": "sources/le-dernier-jour-d-un-condamne/39.txt",
+      "words": 232,
+      "summary": "On dit que la guillotine ne fait pas souffrir ; il demande qui peut le savoir et rappelle les six semaines d’agonie qui précèdent la demi-seconde du couteau."
+    },
+    {
+      "id": "ch40",
+      "label": "Chapitre XL",
+      "file": "sources/le-dernier-jour-d-un-condamne/40.txt",
+      "words": 251,
+      "summary": "Il pense sans cesse au roi, qui vit au même moment dans un autre palais de la ville et pourrait le sauver en signant son nom au bas d’un papier."
+    },
+    {
+      "id": "ch41",
+      "label": "Chapitre XLI",
+      "file": "sources/le-dernier-jour-d-un-condamne/41.txt",
+      "words": 498,
+      "summary": "Il essaie de regarder la mort en face et imagine ce qui suivra : une grande lumière, un gouffre, une nuit où roulent des têtes, ou une assemblée des suppliciés sur la place de Grève. Ces visions l’effraient, et il réclame un prêtre et un crucifix."
+    },
+    {
+      "id": "ch42",
+      "label": "Chapitre XLII",
+      "file": "sources/le-dernier-jour-d-un-condamne/42.txt",
+      "words": 754,
+      "summary": "Il s’endort une heure et fait un cauchemar : chez lui, la nuit, avec des amis, il découvre une petite vieille immobile cachée derrière la porte d’une armoire, qui finit par le mordre à la main dans l’obscurité. À son réveil, l’aumônier lui apprend qu’on lui a amené sa fille."
+    },
+    {
+      "id": "ch43",
+      "label": "Chapitre XLIII",
+      "file": "sources/le-dernier-jour-d-un-condamne/43.txt",
+      "words": 788,
+      "summary": "Marie, accompagnée de sa bonne, ne reconnaît pas son père : elle l’appelle monsieur et lui dit que son papa est mort. Elle lui lit en épelant le papier qu’elle tient à la main, l’arrêt de mort de son père, que la bonne a acheté un sou. Le condamné la fait emmener."
+    },
+    {
+      "id": "ch44",
+      "label": "Chapitre XLIV",
+      "file": "sources/le-dernier-jour-d-un-condamne/44.txt",
+      "words": 99,
+      "summary": "Il croit avoir encore une heure et s’oblige à penser au bourreau, à la charrette, à la foule."
+    },
+    {
+      "id": "ch45",
+      "label": "Chapitre XLV",
+      "file": "sources/le-dernier-jour-d-un-condamne/45.txt",
+      "words": 97,
+      "summary": "Il imagine la foule qui applaudira son exécution et pense que plus d’un spectateur finira un jour sur le même échafaud."
+    },
+    {
+      "id": "ch46",
+      "label": "Chapitre XLVI",
+      "file": "sources/le-dernier-jour-d-un-condamne/46.txt",
+      "words": 71,
+      "summary": "On a remmené Marie, qui ne pense déjà plus à lui. Il veut écrire pour elle son histoire, afin qu’elle sache pourquoi le nom qu’il lui laisse est sanglant."
+    },
+    {
+      "id": "ch47",
+      "label": "Chapitre XLVII",
+      "file": "sources/le-dernier-jour-d-un-condamne/47.txt",
+      "words": 45,
+      "summary": "Le chapitre, intitulé Mon histoire, ne contient qu’une note de l’éditeur : les feuillets n’ont pas été retrouvés, et le condamné n’a peut-être pas eu le temps de les écrire."
+    },
+    {
+      "id": "ch48",
+      "label": "Chapitre XLVIII",
+      "file": "sources/le-dernier-jour-d-un-condamne/48.txt",
+      "words": 1996,
+      "summary": "Le condamné écrit d’une chambre de l’hôtel de ville. À trois heures, on est venu le chercher : le bourreau et ses deux valets lui ont coupé les cheveux et le col de sa chemise, lié les mains et les pieds, puis la charrette l’a conduit, sous la pluie et au milieu de la foule, par le Pont-au-Change et le quai jusqu’à la place de Grève. En descendant de la charrette, à la vue de la guillotine, il a demandé à faire une dernière déclaration, et on l’a monté à l’hôtel de ville."
+    },
+    {
+      "id": "ch49",
+      "label": "Chapitre XLIX",
+      "file": "sources/le-dernier-jour-d-un-condamne/49.txt",
+      "words": 235,
+      "summary": "Un magistrat vient le voir ; le condamné le supplie à genoux de lui accorder sa grâce, ou quelques minutes. Le bourreau rappelle que l’heure approche. Resté seul avec deux gendarmes, il espère encore, puis croit entendre monter l’escalier ; le journal s’arrête sur l’heure de l’exécution."
+    }
+  ],
+  "intro": [
+    "Le Dernier Jour d’un condamné est un court roman de Victor Hugo, paru le 7 février 1829 chez Charles Gosselin, sans nom d’auteur. C’est le journal qu’un condamné à mort tient depuis Bicêtre, où il attend le résultat de son pourvoi en cassation, jusqu’à l’hôtel de ville, quelques minutes avant son exécution en place de Grève. Le narrateur ne donne jamais son nom et ne raconte pas son crime : le chapitre XLVII, Mon histoire, ne contient qu’une note de l’éditeur. D’après les notes de l’édition de 1910, Gosselin avait demandé à Hugo de raconter ce crime, et l’auteur avait refusé. La troisième édition, parue dès la fin de février 1829, ajoute un dialogue satirique, Une comédie à propos d’une tragédie, et l’édition de 1832 une longue préface contre la peine de mort, datée du 15 mars 1832 ; ces deux textes ne font pas partie des 49 chapitres présentés ici.",
+    "En seconde, le livre se lit dans l’objet d’étude consacré au roman et au récit. Suivez d’abord le temps : cinq semaines d’attente tiennent dans les premiers chapitres, puis le dernier jour, de six heures du matin à quatre heures de l’après-midi, occupe plus de la moitié du livre, et le narrateur note l’heure de plus en plus souvent. Relevez ensuite les gens qui l’entourent (guichetiers, huissier, prêtre, gendarmes, foule) et la manière dont chacun traite sa mort comme une affaire ordinaire. Le chapitre VI annonce le projet du livre, faire réfléchir ceux qui condamnent : Hugo reprend ce combat contre la peine de mort en 1834 avec Claude Gueux."
+  ],
+  "characters": [
+    {
+      "name": "Le condamné",
+      "role": "narrateur sans nom, jeune homme instruit, condamné à mort pour un crime de sang dont il ne dit rien ; il tient ce journal jusqu’à sa dernière heure."
+    },
+    {
+      "name": "Marie",
+      "role": "sa fille de trois ans, qu’il n’a pas vue depuis près d’un an ; elle lui est amenée le dernier jour."
+    },
+    {
+      "name": "La mère et la femme du condamné",
+      "role": "évoquées dans le journal, elles n’apparaissent jamais ; le dernier jour, Marie vient sans sa mère, qui est malade."
+    },
+    {
+      "name": "Le prêtre",
+      "role": "vieux prêtre aux cheveux blancs qui accompagne le condamné de Bicêtre jusqu’à l’échafaud."
+    },
+    {
+      "name": "L’huissier",
+      "role": "employé de la cour royale qui lit au condamné le rejet de son pourvoi et le conduit à la Conciergerie en bavardant."
+    },
+    {
+      "name": "Le friauche",
+      "role": "vieux forçat condamné à mort lui aussi, qui doit prendre la place du narrateur à Bicêtre et lui raconte sa vie."
+    },
+    {
+      "name": "Le gendarme de la loterie",
+      "role": "garde de la Conciergerie qui voudrait que le condamné revienne après sa mort lui donner des numéros gagnants."
+    },
+    {
+      "name": "Pepa",
+      "role": "jeune Andalouse que le condamné a aimée à quatorze ans, dans le jardin de son enfance."
+    },
+    {
+      "name": "Le bourreau et ses deux valets",
+      "role": "ils font la « toilette » du condamné et le conduisent en charrette à la place de Grève."
+    }
+  ],
+  "passages": [
+    {
+      "unit": "ch01",
+      "ref": "Chapitre I",
+      "title": "Le captif et son idée fixe",
+      "quote": "Maintenant je suis captif. Mon corps est aux fers dans un cachot, mon esprit est en prison dans une idée. Une horrible, une sanglante, une implacable idée !",
+      "note": "Dès le premier chapitre, le narrateur oppose son esprit libre d’autrefois à l’idée fixe qui l’enferme. La formule « Condamné à mort ! » revient trois fois dans ces quelques paragraphes, au début, au milieu et à la dernière ligne, comme le refrain obsédant qu’il décrit."
+    },
+    {
+      "unit": "ch06",
+      "ref": "Chapitre VI",
+      "title": "Pourquoi écrire",
+      "quote": "N’y aura-t-il pas dans ce procès-verbal de la pensée agonisante, dans cette progression toujours croissante de douleurs, dans cette espèce d’autopsie intellectuelle d’un condamné, plus d’une leçon pour ceux qui condamnent ?",
+      "note": "Le condamné dit le projet de son journal : montrer aux juges la souffrance morale qu’un arrêt de mort passe sous silence. Le livre se présente ainsi comme un document plus que comme une histoire ; l’image de l’« autopsie intellectuelle » se prête bien à un commentaire à l’oral."
+    },
+    {
+      "unit": "ch13",
+      "ref": "Chapitre XIII",
+      "title": "La Grève et le bagne",
+      "quote": "Je ne puis dire ce qui se passait en moi. J’étais leur camarade en effet. La Grève est sœur de Toulon. J’étais même placé plus bas qu’eux ; ils me faisaient honneur.",
+      "note": "Après le ferrage, les forçats reconnaissent le condamné à sa fenêtre et le saluent comme l’un des leurs. La phrase courte « La Grève est sœur de Toulon » rapproche la place des exécutions et le bagne, et le narrateur se sent leur camarade, « placé plus bas qu’eux »."
+    },
+    {
+      "unit": "ch23",
+      "ref": "Chapitre XXIII",
+      "title": "Le pain volé",
+      "quote": "Je donnai un coup de coude dans le carreau d’un boulanger ; j’empoignai un pain, et le boulanger m’empoigna ; je ne mangeai pas le pain, et j’eus les galères à perpétuité, avec trois lettres de feu sur l’épaule.",
+      "note": "Le vieux forçat résume sa vie : libéré, il n’a trouvé aucun travail à cause de son passeport de galérien, et un vol de pain l’a renvoyé au bagne pour toujours. Par sa voix, le roman montre une loi qui pousse un homme du petit vol au crime ; Hugo reprendra cette idée dans Claude Gueux (1834), puis dans Les Misérables (1862)."
+    },
+    {
+      "unit": "ch43",
+      "ref": "Chapitre XLIII",
+      "title": "Marie lit l’arrêt",
+      "quote": "Je lui ai arraché cela des mains. C’est ma sentence de mort qu’elle me lisait. Sa bonne avait eu le papier pour un sou. Il me coûtait plus cher, à moi.",
+      "note": "Marie, qui ne reconnaît pas son père, vient de lui lire en épelant le papier qu’elle tient : sa sentence de mort. La dernière phrase joue sur le prix de ce papier, un sou pour la bonne, la vie pour lui. Le pathétique tient à la simplicité des mots de l’enfant, qui joue avec ce papier sans comprendre."
+    },
+    {
+      "unit": "ch49",
+      "ref": "Chapitre XLIX",
+      "title": "L’espoir jusqu’au bout",
+      "quote": "Oh ! l’horrible peuple avec ses cris d’hyène ! — Qui sait si je ne lui échapperai pas ? si je ne serai pas sauvé ? si ma grâce ?… Il est impossible qu’on ne me fasse pas grâce !",
+      "note": "Jusqu’à la dernière page, le condamné espère sa grâce : les questions sans réponse et les points de suspension montrent une pensée qui s’emballe. Le journal s’interrompt quelques lignes plus loin, sur une heure écrite en capitales, « QUATRE HEURES. » ; le lecteur ne voit pas l’exécution, et le blanc qui suit tient lieu de récit de la mort."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "unit": "ch11",
+      "ref": "Chapitre XI",
+      "question": "Quel nom de condamné, décoré d’arabesques, le narrateur lit-il sur le mur opposé de son cachot ?",
+      "answer": "Papavoine",
+      "evidence": "Sur le mur opposé on lit ce mot : Papavoine."
+    },
+    {
+      "id": "q2",
+      "unit": "ch17",
+      "ref": "Chapitre XVII",
+      "question": "Près de quel village le condamné connaît-il un fourré où il allait pêcher des grenouilles quand il était au collège ?",
+      "answer": "Arcueil",
+      "evidence": "Je sais auprès d’Arcueil un fourré d’arbres à côté d’un marais, où, étant au collège, je venais avec mes camarades pêcher des grenouilles tous les jeudis."
+    },
+    {
+      "id": "q3",
+      "unit": "ch22",
+      "ref": "Chapitre XXII",
+      "question": "Quel objet l’huissier tend-il au condamné, avant qu’un cahot ne le fasse tomber sous les pieds du gendarme ?",
+      "answer": "tabatière",
+      "evidence": "En ce moment sa tabatière, qu’il me tendait, a rencontré le grillage qui nous séparait."
+    },
+    {
+      "id": "q4",
+      "unit": "ch33",
+      "ref": "Chapitre XXXIII",
+      "question": "De quel savant le condamné et Pepa lisent-ils ensemble le tome second des Voyages, un soir d’été ?",
+      "answer": "Spallanzani",
+      "evidence": "J’avais sur moi le tome second des Voyages de Spallanzani."
+    },
+    {
+      "id": "q5",
+      "unit": "ch48",
+      "ref": "Chapitre XLVIII",
+      "question": "Quel nom les enfants pendus aux grilles crient-ils au valet qui monte dans la charrette après le bourreau ?",
+      "answer": "Mardi",
+      "evidence": "— Bravo, Mardi ! ont crié de nouveau les enfants."
+    }
+  ],
+  "readingTips": [
+    "Le roman compte environ 24 000 mots en 49 chapitres très inégaux : certains tiennent en trois lignes, d’autres (XIII, XXII, XXIII, XLVIII) en plusieurs pages. Comptez deux à trois heures de lecture ; les chapitres courts se lisent comme des notes prises sur le moment.",
+    "Notez les lieux successifs (Bicêtre, la Conciergerie, l’hôtel de ville) et les heures que le narrateur indique à partir du chapitre XVIII : le livre suit son trajet d’une prison à l’autre jusqu’à la place de Grève.",
+    "Les chapitres V, XVI et XXIII contiennent de l’argot des prisons. Au chapitre V, le narrateur traduit lui-même les mots entre parenthèses ; au chapitre XXIII, beaucoup d’éditions ajoutent des notes, mais le fil du récit du vieux forçat suffit le plus souvent.",
+    "Relisez le chapitre II après le chapitre XLVIII : le soleil d’août a laissé place à la pluie, mais la foule et les marchandes de fleurs du quai sont toujours là."
+  ],
+  "updated": "2026-10-17",
+  "datePublished": "2026-10-17"
+}

@@ -1,0 +1,534 @@
+{
+ "set": "lectoguide/fables-livre-i",
+ "coldGate": "summary",
+ "title": "Fables, livre I",
+ "language": "fr",
+ "engine": "1.0.0",
+ "generatedAt": "2026-10-17T16:39:43.362Z",
+ "totals": {
+  "items": 5,
+  "ok": 5,
+  "failing": 0,
+  "byCheck": {},
+  "cold": {
+   "pass": 5,
+   "leak": 0,
+   "partial": 0,
+   "pending": 0,
+   "exempt": 0
+  },
+  "warnings": 0
+ },
+ "items": [
+  {
+   "id": "q1",
+   "type": "word",
+   "question": "Quel animal se trouve pris dans les filets de la Chèvre et doit être partagé entre les associés ?",
+   "ok": true,
+   "cold": "pass",
+   "coldAnswer": "INCONNU",
+   "failed": [],
+   "warnings": [],
+   "checks": [
+    {
+     "id": "evidence_in_unit",
+     "ok": true,
+     "severity": "block",
+     "message": "Every passage is in the unit text."
+    },
+    {
+     "id": "answer_in_unit",
+     "ok": true,
+     "severity": "block",
+     "message": "The answer is a word of the text."
+    },
+    {
+     "id": "form:answer_single_word",
+     "ok": true,
+     "severity": "block",
+     "message": "Un seul mot."
+    },
+    {
+     "id": "form:answer_length",
+     "ok": true,
+     "severity": "block",
+     "message": "Entre 2 et 40 caractères."
+    },
+    {
+     "id": "form:answer_chars",
+     "ok": true,
+     "severity": "block",
+     "message": "Lettres, chiffres, trait d'union ou apostrophe."
+    },
+    {
+     "id": "form:answer_generic",
+     "ok": true,
+     "severity": "block",
+     "message": "Réponse précise, pas un mot passe-partout."
+    },
+    {
+     "id": "form:answer_in_question",
+     "ok": true,
+     "severity": "block",
+     "message": "La question ne donne pas la réponse."
+    },
+    {
+     "id": "form:question_length",
+     "ok": true,
+     "severity": "block",
+     "message": "Entre 35 et 160 caractères."
+    },
+    {
+     "id": "form:question_mark",
+     "ok": true,
+     "severity": "block",
+     "message": "Se termine par un point d'interrogation."
+    },
+    {
+     "id": "form:question_yes_no",
+     "ok": true,
+     "severity": "block",
+     "message": "Question ouverte."
+    },
+    {
+     "id": "form:question_multiple_choice",
+     "ok": true,
+     "severity": "warn",
+     "message": "Pas de choix multiple."
+    },
+    {
+     "id": "answer_in_evidence",
+     "ok": true,
+     "severity": "warn",
+     "message": "Le passage cité contient la réponse."
+    },
+    {
+     "id": "form:validator",
+     "ok": true,
+     "severity": "warn",
+     "message": "Generation validator passed."
+    },
+    {
+     "id": "cold_answer",
+     "ok": true,
+     "severity": "block",
+     "message": "Not answerable without the text (cold answer: unknown)."
+    },
+    {
+     "id": "duplicate",
+     "ok": true,
+     "severity": "block",
+     "message": "No near-duplicate."
+    }
+   ]
+  },
+  {
+   "id": "q2",
+   "type": "word",
+   "question": "Par quel titre turc La Fontaine désigne-t-il l’envoyé du Grand Seigneur qui répond à l’Allemand ?",
+   "ok": true,
+   "cold": "pass",
+   "coldAnswer": "INCONNU",
+   "failed": [],
+   "warnings": [],
+   "checks": [
+    {
+     "id": "evidence_in_unit",
+     "ok": true,
+     "severity": "block",
+     "message": "Every passage is in the unit text."
+    },
+    {
+     "id": "answer_in_unit",
+     "ok": true,
+     "severity": "block",
+     "message": "The answer is a word of the text."
+    },
+    {
+     "id": "form:answer_single_word",
+     "ok": true,
+     "severity": "block",
+     "message": "Un seul mot."
+    },
+    {
+     "id": "form:answer_length",
+     "ok": true,
+     "severity": "block",
+     "message": "Entre 2 et 40 caractères."
+    },
+    {
+     "id": "form:answer_chars",
+     "ok": true,
+     "severity": "block",
+     "message": "Lettres, chiffres, trait d'union ou apostrophe."
+    },
+    {
+     "id": "form:answer_generic",
+     "ok": true,
+     "severity": "block",
+     "message": "Réponse précise, pas un mot passe-partout."
+    },
+    {
+     "id": "form:answer_in_question",
+     "ok": true,
+     "severity": "block",
+     "message": "La question ne donne pas la réponse."
+    },
+    {
+     "id": "form:question_length",
+     "ok": true,
+     "severity": "block",
+     "message": "Entre 35 et 160 caractères."
+    },
+    {
+     "id": "form:question_mark",
+     "ok": true,
+     "severity": "block",
+     "message": "Se termine par un point d'interrogation."
+    },
+    {
+     "id": "form:question_yes_no",
+     "ok": true,
+     "severity": "block",
+     "message": "Question ouverte."
+    },
+    {
+     "id": "form:question_multiple_choice",
+     "ok": true,
+     "severity": "warn",
+     "message": "Pas de choix multiple."
+    },
+    {
+     "id": "answer_in_evidence",
+     "ok": true,
+     "severity": "warn",
+     "message": "Le passage cité contient la réponse."
+    },
+    {
+     "id": "form:validator",
+     "ok": true,
+     "severity": "warn",
+     "message": "Generation validator passed."
+    },
+    {
+     "id": "cold_answer",
+     "ok": true,
+     "severity": "block",
+     "message": "Not answerable without the text (cold answer: unknown)."
+    },
+    {
+     "id": "duplicate",
+     "ok": true,
+     "severity": "block",
+     "message": "No near-duplicate."
+    }
+   ]
+  },
+  {
+   "id": "q3",
+   "type": "word",
+   "question": "De quel animal le maître d’école traite-t-il l’enfant avant de le gronder ?",
+   "ok": true,
+   "cold": "pass",
+   "coldAnswer": "INCONNU",
+   "failed": [],
+   "warnings": [],
+   "checks": [
+    {
+     "id": "evidence_in_unit",
+     "ok": true,
+     "severity": "block",
+     "message": "Every passage is in the unit text."
+    },
+    {
+     "id": "answer_in_unit",
+     "ok": true,
+     "severity": "block",
+     "message": "The answer is a word of the text."
+    },
+    {
+     "id": "form:answer_single_word",
+     "ok": true,
+     "severity": "block",
+     "message": "Un seul mot."
+    },
+    {
+     "id": "form:answer_length",
+     "ok": true,
+     "severity": "block",
+     "message": "Entre 2 et 40 caractères."
+    },
+    {
+     "id": "form:answer_chars",
+     "ok": true,
+     "severity": "block",
+     "message": "Lettres, chiffres, trait d'union ou apostrophe."
+    },
+    {
+     "id": "form:answer_generic",
+     "ok": true,
+     "severity": "block",
+     "message": "Réponse précise, pas un mot passe-partout."
+    },
+    {
+     "id": "form:answer_in_question",
+     "ok": true,
+     "severity": "block",
+     "message": "La question ne donne pas la réponse."
+    },
+    {
+     "id": "form:question_length",
+     "ok": true,
+     "severity": "block",
+     "message": "Entre 35 et 160 caractères."
+    },
+    {
+     "id": "form:question_mark",
+     "ok": true,
+     "severity": "block",
+     "message": "Se termine par un point d'interrogation."
+    },
+    {
+     "id": "form:question_yes_no",
+     "ok": true,
+     "severity": "block",
+     "message": "Question ouverte."
+    },
+    {
+     "id": "form:question_multiple_choice",
+     "ok": true,
+     "severity": "warn",
+     "message": "Pas de choix multiple."
+    },
+    {
+     "id": "answer_in_evidence",
+     "ok": true,
+     "severity": "warn",
+     "message": "Le passage cité contient la réponse."
+    },
+    {
+     "id": "form:validator",
+     "ok": true,
+     "severity": "warn",
+     "message": "Generation validator passed."
+    },
+    {
+     "id": "cold_answer",
+     "ok": true,
+     "severity": "block",
+     "message": "Not answerable without the text (cold answer: unknown)."
+    },
+    {
+     "id": "duplicate",
+     "ok": true,
+     "severity": "block",
+     "message": "No near-duplicate."
+    }
+   ]
+  },
+  {
+   "id": "q4",
+   "type": "word",
+   "question": "Depuis combien de mois la cause des frelons et des abeilles est-elle pendante, selon une abeille ?",
+   "ok": true,
+   "cold": "pass",
+   "coldAnswer": "INCONNU",
+   "failed": [],
+   "warnings": [],
+   "checks": [
+    {
+     "id": "evidence_in_unit",
+     "ok": true,
+     "severity": "block",
+     "message": "Every passage is in the unit text."
+    },
+    {
+     "id": "answer_in_unit",
+     "ok": true,
+     "severity": "block",
+     "message": "The answer is a word of the text."
+    },
+    {
+     "id": "form:answer_single_word",
+     "ok": true,
+     "severity": "block",
+     "message": "Un seul mot."
+    },
+    {
+     "id": "form:answer_length",
+     "ok": true,
+     "severity": "block",
+     "message": "Entre 2 et 40 caractères."
+    },
+    {
+     "id": "form:answer_chars",
+     "ok": true,
+     "severity": "block",
+     "message": "Lettres, chiffres, trait d'union ou apostrophe."
+    },
+    {
+     "id": "form:answer_generic",
+     "ok": true,
+     "severity": "block",
+     "message": "Réponse précise, pas un mot passe-partout."
+    },
+    {
+     "id": "form:answer_in_question",
+     "ok": true,
+     "severity": "block",
+     "message": "La question ne donne pas la réponse."
+    },
+    {
+     "id": "form:question_length",
+     "ok": true,
+     "severity": "block",
+     "message": "Entre 35 et 160 caractères."
+    },
+    {
+     "id": "form:question_mark",
+     "ok": true,
+     "severity": "block",
+     "message": "Se termine par un point d'interrogation."
+    },
+    {
+     "id": "form:question_yes_no",
+     "ok": true,
+     "severity": "block",
+     "message": "Question ouverte."
+    },
+    {
+     "id": "form:question_multiple_choice",
+     "ok": true,
+     "severity": "warn",
+     "message": "Pas de choix multiple."
+    },
+    {
+     "id": "answer_in_evidence",
+     "ok": true,
+     "severity": "warn",
+     "message": "Le passage cité contient la réponse."
+    },
+    {
+     "id": "form:validator",
+     "ok": true,
+     "severity": "warn",
+     "message": "Generation validator passed."
+    },
+    {
+     "id": "cold_answer",
+     "ok": true,
+     "severity": "block",
+     "message": "Not answerable without the text (cold answer: unknown)."
+    },
+    {
+     "id": "duplicate",
+     "ok": true,
+     "severity": "block",
+     "message": "No near-duplicate."
+    }
+   ]
+  },
+  {
+   "id": "q5",
+   "type": "word",
+   "question": "À quelle montagne le Chêne compare-t-il son front, qui arrête les rayons du soleil ?",
+   "ok": true,
+   "cold": "pass",
+   "coldAnswer": "INCONNU",
+   "failed": [],
+   "warnings": [],
+   "checks": [
+    {
+     "id": "evidence_in_unit",
+     "ok": true,
+     "severity": "block",
+     "message": "Every passage is in the unit text."
+    },
+    {
+     "id": "answer_in_unit",
+     "ok": true,
+     "severity": "block",
+     "message": "The answer is a word of the text."
+    },
+    {
+     "id": "form:answer_single_word",
+     "ok": true,
+     "severity": "block",
+     "message": "Un seul mot."
+    },
+    {
+     "id": "form:answer_length",
+     "ok": true,
+     "severity": "block",
+     "message": "Entre 2 et 40 caractères."
+    },
+    {
+     "id": "form:answer_chars",
+     "ok": true,
+     "severity": "block",
+     "message": "Lettres, chiffres, trait d'union ou apostrophe."
+    },
+    {
+     "id": "form:answer_generic",
+     "ok": true,
+     "severity": "block",
+     "message": "Réponse précise, pas un mot passe-partout."
+    },
+    {
+     "id": "form:answer_in_question",
+     "ok": true,
+     "severity": "block",
+     "message": "La question ne donne pas la réponse."
+    },
+    {
+     "id": "form:question_length",
+     "ok": true,
+     "severity": "block",
+     "message": "Entre 35 et 160 caractères."
+    },
+    {
+     "id": "form:question_mark",
+     "ok": true,
+     "severity": "block",
+     "message": "Se termine par un point d'interrogation."
+    },
+    {
+     "id": "form:question_yes_no",
+     "ok": true,
+     "severity": "block",
+     "message": "Question ouverte."
+    },
+    {
+     "id": "form:question_multiple_choice",
+     "ok": true,
+     "severity": "warn",
+     "message": "Pas de choix multiple."
+    },
+    {
+     "id": "answer_in_evidence",
+     "ok": true,
+     "severity": "warn",
+     "message": "Le passage cité contient la réponse."
+    },
+    {
+     "id": "form:validator",
+     "ok": true,
+     "severity": "warn",
+     "message": "Generation validator passed."
+    },
+    {
+     "id": "cold_answer",
+     "ok": true,
+     "severity": "block",
+     "message": "Not answerable without the text (cold answer: unknown)."
+    },
+    {
+     "id": "duplicate",
+     "ok": true,
+     "severity": "block",
+     "message": "No near-duplicate."
+    }
+   ]
+  }
+ ]
+}

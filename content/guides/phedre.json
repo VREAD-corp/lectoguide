@@ -1,0 +1,199 @@
+{
+  "slug": "phedre",
+  "title": "Phèdre",
+  "author": "Jean Racine",
+  "authorDates": "1639-1699",
+  "published": "1677",
+  "genre": "tragédie en cinq actes et en vers",
+  "programme": "lycee",
+  "level": "Seconde",
+  "programmeNote": "Le programme de seconde (arrêté du 17 janvier 2019, BO spécial n° 1 du 22 janvier 2019, modifié en 2020) demande, pour l’objet d’étude « Le théâtre du XVIIe siècle au XXIe siècle », l’étude de deux pièces de genre et de siècle différents en œuvres intégrales : une tragédie du XVIIe siècle comme Phèdre est l’un des choix possibles. Le programme de seconde n’impose aucune œuvre.",
+  "programmeSources": [
+    {
+      "label": "Programme de français de seconde (BO spécial n° 1 du 22 janvier 2019, version modifiée en 2020, sur éduscol)",
+      "url": "https://eduscol.education.gouv.fr/sites/default/files/document/04-annexe1francais2ebomodifiepdf-69834.pdf"
+    }
+  ],
+  "source": {
+    "label": "Wikisource, d’après Œuvres de Jean Racine, précédées des Mémoires sur sa vie par Louis Racine, Paris, Firmin-Didot frères, 1854",
+    "url": "https://fr.wikisource.org/wiki/Ph%C3%A8dre_(Racine),_Didot,_1854",
+    "licence": "Transcription Wikisource, CC BY-SA 4.0"
+  },
+  "words": 14430,
+  "units": [
+    {
+      "id": "preface",
+      "label": "Préface",
+      "file": "sources/phedre/00.txt",
+      "words": 979,
+      "summary": "Racine indique qu’il a pris le sujet chez Euripide et explique ses choix. Phèdre ne doit être ni tout à fait coupable ni tout à fait innocente : pour la rendre moins odieuse, il confie la fausse accusation à la nourrice, et il donne à Hippolyte une faiblesse, son amour pour Aricie, en citant ses sources antiques. Il affirme enfin qu’aucune de ses pièces ne met mieux la vertu en lumière, et souhaite réconcilier la tragédie avec les personnes pieuses qui la condamnent."
+    },
+    {
+      "id": "acte1",
+      "label": "Acte I",
+      "file": "sources/phedre/01.txt",
+      "words": 3003,
+      "summary": "À Trézène, Hippolyte annonce à son gouverneur Théramène qu’il part chercher son père Thésée, absent depuis des mois ; il avoue qu’il fuit aussi Aricie, que Thésée a condamnée à ne jamais se marier, et laisse deviner qu’il l’aime. Œnone annonce que la reine, malade, veut revoir le jour. Seule avec sa nourrice, Phèdre, qui ne dort plus et ne mange plus depuis trois jours, finit par avouer qu’elle aime Hippolyte, son beau-fils, et raconte comment elle l’a fait exiler pour l’oublier. Panope annonce la mort de Thésée et la division d’Athènes sur sa succession. Œnone persuade Phèdre de vivre, pour défendre les droits de son fils et parce que son amour n’est plus un crime."
+    },
+    {
+      "id": "acte2",
+      "label": "Acte II",
+      "file": "sources/phedre/02.txt",
+      "words": 3037,
+      "summary": "Ismène annonce à Aricie que Thésée serait mort et qu’Hippolyte semble l’aimer ; Aricie avoue qu’elle l’aime aussi. Hippolyte vient lui rendre sa liberté et lui céder ses droits sur Athènes, puis lui déclare son amour. Phèdre vient ensuite lui recommander son fils ; peu à peu, elle lui révèle sa passion, lui demande de la frapper et s’empare de son épée, avant qu’Œnone ne l’entraîne. Théramène apprend à Hippolyte qu’Athènes a choisi pour roi le fils de Phèdre et qu’une rumeur dit Thésée vivant."
+    },
+    {
+      "id": "acte3",
+      "label": "Acte III",
+      "file": "sources/phedre/03.txt",
+      "words": 2146,
+      "summary": "Phèdre, accablée de honte, charge Œnone d’offrir à Hippolyte la couronne d’Athènes pour le fléchir, puis demande à Vénus de la venger. Œnone revient : Thésée est vivant et arrive. Phèdre ne pense plus qu’à mourir ; Œnone lui propose d’accuser Hippolyte la première, en se servant de l’épée restée entre ses mains, et Phèdre la laisse faire. Thésée, accueilli par des paroles obscures de sa femme et par la demande de départ de son fils, raconte sa captivité chez le tyran de l’Épire et exige de savoir qui l’a trahi. Resté avec Théramène, Hippolyte décide d’avouer à son père son amour pour Aricie."
+    },
+    {
+      "id": "acte4",
+      "label": "Acte IV",
+      "file": "sources/phedre/04.txt",
+      "words": 2635,
+      "summary": "Œnone a accusé Hippolyte devant Thésée, qui reconnaît l’épée de son fils. Thésée chasse Hippolyte et demande à Neptune d’accomplir le vœu qu’il lui avait promis d’exaucer : le punir. Hippolyte se défend sans accuser Phèdre et avoue qu’il aime Aricie, mais Thésée n’y voit qu’une ruse. Phèdre vient demander la grâce d’Hippolyte et apprend de Thésée qu’il aime Aricie ; jalouse, elle renonce à le défendre, puis, épouvantée par ses propres crimes, chasse Œnone en la maudissant."
+    },
+    {
+      "id": "acte5",
+      "label": "Acte V",
+      "file": "sources/phedre/05.txt",
+      "words": 2630,
+      "summary": "Hippolyte propose à Aricie de fuir avec lui et de l’épouser dans un temple, aux portes de Trézène ; elle accepte. Interrogée par Thésée, Aricie défend Hippolyte à mots couverts, et le doute gagne le roi. Panope annonce qu’Œnone s’est jetée dans la mer et que Phèdre veut mourir ; Thésée supplie Neptune de ne pas l’exaucer. Théramène vient raconter la mort d’Hippolyte : un monstre sorti des flots a affolé ses chevaux, qui l’ont traîné sur les rochers. Phèdre, qui a pris du poison, avoue la vérité à Thésée et meurt ; Thésée décide de traiter Aricie comme sa fille."
+    }
+  ],
+  "intro": [
+    "Phèdre est une tragédie en cinq actes et en alexandrins de Jean Racine, créée le 1er janvier 1677 à l’Hôtel de Bourgogne et publiée la même année sous le titre Phèdre et Hippolyte. Racine reprend un sujet traité par Euripide et par Sénèque, qu’il cite dans sa préface : l’amour de Phèdre, épouse de Thésée, pour son beau-fils Hippolyte. Deux jours après la création, une troupe rivale joue une pièce de Pradon sur le même sujet, et la concurrence tourne à la querelle. Phèdre est la dernière tragédie que Racine écrit pour le théâtre public ; il ne reviendra à la scène qu’avec deux tragédies sacrées, Esther et Athalie. Le texte donné ici suit l’édition Firmin-Didot de 1854.",
+    "Pour l’objet d’étude sur le théâtre, observez comment la tragédie classique tient en un seul lieu, Trézène, et en une seule journée, et comment l’action avance par une suite d’aveux : Phèdre à Œnone, Hippolyte à Aricie, Phèdre à Hippolyte, puis à Thésée. Notez ce que la pièce montre et ce qu’elle raconte : la mort d’Hippolyte n’est jamais vue, elle est rapportée par un récit. Suivez enfin la question que pose la préface, celle de la culpabilité de Phèdre, entre la colère des dieux, le poids de sa famille et les conseils d’Œnone. Si vous étudiez aussi une comédie, comparez la manière dont chaque genre traite les conflits entre parents et enfants."
+  ],
+  "characters": [
+    {
+      "name": "Phèdre",
+      "role": "Épouse de Thésée, fille de Minos et de Pasiphaé, qui aime Hippolyte, le fils de son mari."
+    },
+    {
+      "name": "Thésée",
+      "role": "Roi d’Athènes, héros vainqueur de monstres, absent au début de la pièce et cru mort."
+    },
+    {
+      "name": "Hippolyte",
+      "role": "Fils de Thésée et de l’Amazone Antiope, jeune chasseur qui aime Aricie malgré la défense de son père."
+    },
+    {
+      "name": "Aricie",
+      "role": "Princesse du sang royal d’Athènes, sœur des Pallantides, ennemis de Thésée, et tenue par lui en captivité."
+    },
+    {
+      "name": "Œnone",
+      "role": "Nourrice et confidente de Phèdre, prête à tout pour la sauver."
+    },
+    {
+      "name": "Théramène",
+      "role": "Gouverneur et ami d’Hippolyte, qui fait le récit de sa mort."
+    },
+    {
+      "name": "Ismène",
+      "role": "Confidente d’Aricie."
+    },
+    {
+      "name": "Panope",
+      "role": "Femme de la suite de Phèdre, qui apporte les nouvelles."
+    }
+  ],
+  "passages": [
+    {
+      "unit": "acte1",
+      "ref": "Acte I, scène 3",
+      "title": "L’aveu à Œnone",
+      "quote": "Je le vis, je rougis, je pâlis à sa vue ;\nUn trouble s’éleva dans mon âme éperdue ;\nMes yeux ne voyaient plus, je ne pouvais parler ;\nJe sentis tout mon corps et transir et brûler :",
+      "note": "Phèdre raconte à Œnone sa première rencontre avec Hippolyte. Les verbes au passé simple s’enchaînent en rythme ternaire (je le vis, je rougis, je pâlis), et l’antithèse transir et brûler fait de l’amour une maladie du corps. Quelques vers plus loin, la formule sur Vénus attachée à sa proie présente cette passion comme une punition divine."
+    },
+    {
+      "unit": "acte2",
+      "ref": "Acte II, scène 2",
+      "title": "La déclaration d’Hippolyte",
+      "quote": "Présente, je vous fuis ; absente, je vous trouve ;\nDans le fond des forêts votre image me suit ;",
+      "note": "Hippolyte, qui se vantait d’échapper à l’amour, avoue à Aricie qu’il est vaincu. Le parallélisme et l’antithèse (présente, absente ; fuir, trouver) disent une contradiction qu’il ne maîtrise pas. Il s’excuse ensuite de parler une langue étrangère : comparez cet aveu maladroit et innocent avec celui de Phèdre trois scènes plus loin."
+    },
+    {
+      "unit": "acte2",
+      "ref": "Acte II, scène 5",
+      "title": "Le labyrinthe",
+      "quote": "C’est moi, prince, c’est moi dont l’utile secours\nVous eût du labyrinthe enseigné les détours.",
+      "note": "Phèdre feint de parler de Thésée jeune et réécrit la légende crétoise : elle prend la place de sa sœur Ariane et imagine Hippolyte à la place de son père. Le passage au conditionnel passé montre un rêve impossible, et l’aveu se fait par détour avant d’éclater quelques vers plus bas. Scène à travailler pour l’oral : le glissement du vous au tu marque le moment où Phèdre se trahit."
+    },
+    {
+      "unit": "acte3",
+      "ref": "Acte III, scène 3",
+      "title": "Le plan d’Œnone",
+      "quote": "Vous le craignez : osez l’accuser la première\nDu crime dont il peut vous charger aujourd’hui.\nQui vous démentira ? Tout parle contre lui :",
+      "note": "Œnone propose la calomnie qui va perdre Hippolyte. Ses questions et ses impératifs pressent une Phèdre épuisée, qui finit par s’abandonner à elle. C’est le choix annoncé dans la préface : Racine met la fausse accusation dans la bouche de la nourrice pour rendre la reine moins odieuse."
+    },
+    {
+      "unit": "acte4",
+      "ref": "Acte IV, scène 6",
+      "title": "La jalousie",
+      "quote": "Ils s’aiment ! Par quel charme ont-ils trompé mes yeux ?\nComment se sont-ils vus ? depuis quand ? dans quels lieux ?",
+      "note": "Phèdre vient d’apprendre qu’Hippolyte aime Aricie. Les exclamations et la série de questions brèves traduisent l’égarement de la jalousie. La tirade s’achève sur une vision des enfers où son père Minos juge les morts : Phèdre mesure alors sa faute devant toute sa famille, des dieux aux juges infernaux."
+    },
+    {
+      "unit": "acte5",
+      "ref": "Acte V, scène 6",
+      "title": "Le récit de Théramène",
+      "quote": "Son front large est armé de cornes menaçantes ;\nTout son corps est couvert d’écailles jaunissantes,\nIndomptable taureau, dragon impétueux,\nSa croupe se recourbe en replis tortueux ;",
+      "note": "Théramène décrit le monstre envoyé par Neptune. Le récit remplace ce que la scène classique ne montre pas : il rend la vision présente par l’accumulation de détails et par les sonorités (les r roulés dans croupe, recourbe, replis). Ce long récit, un des plus célèbres du théâtre français, fait du spectateur le témoin d’une mort qu’il ne voit pas."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "unit": "acte1",
+      "ref": "Acte I, scène 3",
+      "question": "Avec ses vains ornements, qu’est-ce qui pèse à Phèdre quand elle sort pour revoir le jour ?",
+      "answer": "voiles",
+      "evidence": "Que ces vains ornements, que ces voiles me pèsent !"
+    },
+    {
+      "id": "q2",
+      "unit": "acte2",
+      "ref": "Acte II, scène 1",
+      "question": "Combien de frères Aricie dit-elle avoir perdus dans la guerre contre Thésée ?",
+      "answer": "Six",
+      "evidence": "Six frères… Quel espoir d’une illustre maison !"
+    },
+    {
+      "id": "q3",
+      "unit": "acte3",
+      "ref": "Acte III, scène 3",
+      "question": "Avec les murs, quelle partie du palais Phèdre imagine-t-elle prête à parler pour l’accuser ?",
+      "answer": "voûtes",
+      "evidence": "Il me semble déjà que ces murs, que ces voûtes"
+    },
+    {
+      "id": "q4",
+      "unit": "acte4",
+      "ref": "Acte IV, scène 6",
+      "question": "À quel animal sauvage Phèdre compare-t-elle Hippolyte quand elle apprend qu’il aime Aricie ?",
+      "answer": "tigre",
+      "evidence": "Ce tigre, que jamais je n’abordai sans crainte,"
+    },
+    {
+      "id": "q5",
+      "unit": "acte5",
+      "ref": "Acte V, scène 6",
+      "question": "Vers quelle ville menait le chemin qu’Hippolyte suivait quand le monstre est sorti des flots ?",
+      "answer": "Mycènes",
+      "evidence": "Il suivait tout pensif le chemin de Mycènes ;"
+    }
+  ],
+  "readingTips": [
+    "La pièce compte 1 654 alexandrins : comptez une heure et demie à deux heures. Lisez la préface après l’acte V, elle éclaire les choix de Racine sur Phèdre, Œnone et Hippolyte.",
+    "L’édition de 1854 modernise l’orthographe, mais garde quelques formes anciennes utiles au vers ou à la rime : je l’avoûrai (je l’avouerai, en trois syllabes), je voi, je croi, revien. Les majuscules accentuées (Ô, À) sont celles de la transcription.",
+    "Plusieurs mots ont au XVIIe siècle un sens plus fort qu’aujourd’hui : flamme et feux (l’amour), fureur (la folie de la passion), gloire (la réputation), ennui (le tourment), amant (celui qui aime). Notez-les quand vous les rencontrez.",
+    "Gardez en tête l’arbre généalogique : Phèdre est la fille de Minos et de Pasiphaé et descend du Soleil ; Hippolyte est le fils de Thésée et d’une Amazone ; Aricie est la dernière de la famille de Pallante, rivale de Thésée pour le trône d’Athènes. Ces liens expliquent les enjeux de pouvoir des actes I et II."
+  ],
+  "updated": "2026-10-17",
+  "datePublished": "2026-10-17"
+}

@@ -1,0 +1,202 @@
+{
+  "slug": "le-malade-imaginaire",
+  "title": "Le Malade imaginaire",
+  "author": "Molière",
+  "authorDates": "1622-1673",
+  "published": "1673",
+  "genre": "comédie en trois actes et en prose, mêlée de musique et de danses",
+  "programme": "lycee",
+  "level": "Seconde ; aussi au collège, en 5e",
+  "programmeNote": "Au lycée, le programme de seconde (arrêté du 17 janvier 2019, BO spécial n° 1 du 22 janvier 2019, modifié en 2020) demande, pour l’objet d’étude « Le théâtre du XVIIe siècle au XXIe siècle », l’étude de deux pièces de genre et de siècle différents en œuvres intégrales. Au collège, une comédie de Molière peut répondre à l’entrée de 5e « Expérimenter et jouer au théâtre : la société sens dessus dessous (théâtre) » du programme de cycle 4 applicable depuis la rentrée 2026 (BO n° 10 du 5 mars 2026). Aucun de ces textes n’impose une œuvre précise.",
+  "programmeSources": [
+    {
+      "label": "Programme de français de seconde (BO spécial n° 1 du 22 janvier 2019, version modifiée en 2020, sur éduscol)",
+      "url": "https://eduscol.education.gouv.fr/sites/default/files/document/04-annexe1francais2ebomodifiepdf-69834.pdf"
+    },
+    {
+      "label": "Programme de français du cycle 4, arrêté du 18 février 2026 (BO n° 10 du 5 mars 2026)",
+      "url": "https://www.education.gouv.fr/bo/2026/Hebdo10/MENE2602912A"
+    }
+  ],
+  "source": {
+    "label": "Wikisource, d’après les Œuvres complètes de Molière, édition Charles Louandre, Charpentier, 1910, tome III",
+    "url": "https://fr.wikisource.org/wiki/Le_Malade_imaginaire",
+    "licence": "Transcription Wikisource, CC BY-SA 4.0"
+  },
+  "words": 22196,
+  "units": [
+    {
+      "id": "acte1",
+      "label": "Prologue et acte I",
+      "file": "sources/le-malade-imaginaire/01.txt",
+      "words": 8061,
+      "summary": "Le prologue est une églogue chantée et dansée : la déesse Flore annonce aux bergers le retour de Louis XIV, deux bergers rivalisent pour chanter ses exploits, puis le dieu Pan les invite à se taire et à ne songer qu’aux plaisirs du roi ; un second prologue, plus court, fait chanter une bergère contre les médecins. Dans sa chambre, Argan vérifie les mémoires de son apothicaire en rabattant chaque somme, puis s’emporte parce que personne ne répond à sa sonnette. Il annonce à sa fille Angélique qu’il l’a promise à Thomas Diafoirus, fils de médecin et neveu de son propre médecin, monsieur Purgon, alors qu’elle croyait qu’il parlait de Cléante, le jeune homme qu’elle aime ; la servante Toinette conteste ce mariage, et Argan la poursuit autour de sa chaise. Sa seconde femme, Béline, le dorlote et fait venir un notaire, qui lui explique comment avantager sa femme malgré la coutume, au détriment de ses enfants. Toinette promet son aide à Angélique. Dans le premier intermède, Polichinelle, le vieil amoureux de Toinette, vient la nuit donner une sérénade à sa maîtresse, se dispute avec des violons qui l’interrompent, puis tombe entre les mains du guet, qui ne le lâche qu’après l’avoir fait payer."
+    },
+    {
+      "id": "acte2",
+      "label": "Acte II",
+      "file": "sources/le-malade-imaginaire/02.txt",
+      "words": 6247,
+      "summary": "Cléante s’introduit chez Argan en se faisant passer pour le remplaçant du maître de musique d’Angélique. Monsieur Diafoirus et son fils Thomas font leur visite : Thomas récite des compliments appris par cœur, se trompe de destinataire, offre une thèse à Angélique et l’invite à une dissection, tandis que son père fait l’éloge de sa lenteur d’esprit. Cléante et Angélique chantent devant tous un petit opéra prétendument improvisé, où deux bergers se déclarent leur amour, jusqu’à ce qu’Argan l’interrompe. Devant Béline, Angélique refuse un mari imposé, et Argan lui laisse quatre jours pour choisir entre Thomas et le couvent ; les deux médecins prennent ensuite le pouls d’Argan. Averti par Béline, Argan interroge sa petite fille Louison, qui fait la morte pour échapper au fouet, puis raconte la visite du jeune homme chez sa sœur. Béralde, frère d’Argan, vient proposer un autre parti pour Angélique et amène, en second intermède, des Égyptiens vêtus en Mores qui chantent et dansent."
+    },
+    {
+      "id": "acte3",
+      "label": "Acte III",
+      "file": "sources/le-malade-imaginaire/03.txt",
+      "words": 7888,
+      "summary": "Béralde essaie de convaincre son frère qu’il se porte bien et que les médecins ne savent pas guérir ; il va jusqu’à lui proposer d’aller voir une comédie sur ce sujet. Il renvoie monsieur Fleurant, l’apothicaire venu administrer un lavement ; furieux, monsieur Purgon rompt avec Argan, déchire la donation qu’il destinait à son neveu et lui annonce une suite de maladies qui doit le mener à la mort. Toinette se déguise en vieux médecin de passage, contredit tous les diagnostics de Purgon et propose des remèdes absurdes. Sur son conseil, Argan fait le mort : Béline se réjouit de la nouvelle et veut la cacher pour mettre la main sur ses biens, tandis qu’Angélique le pleure sincèrement. Argan consent alors à donner sa fille à Cléante s’il se fait médecin, mais Béralde lui propose de se faire recevoir médecin lui-même. La pièce se termine par une cérémonie burlesque en latin de cuisine, où Argan est reçu docteur devant une assemblée de médecins, d’apothicaires et de chirurgiens."
+    }
+  ],
+  "intro": [
+    "Le Malade imaginaire est la dernière pièce de Molière, une comédie en trois actes et en prose mêlée de musique et de danses, créée au théâtre du Palais-Royal le 10 février 1673, sur une musique de Marc-Antoine Charpentier. Molière y jouait Argan. Le 17 février, jour de la quatrième représentation, il fut pris d’une convulsion pendant la cérémonie finale et mourut le soir même, chez lui. La notice de l’édition Louandre rappelle que la pièce devait délasser le roi au retour de la campagne de Hollande, mais qu’elle ne fut pas jouée devant la cour. Argan, bourgeois persuadé d’être malade, veut marier sa fille à un médecin pour avoir les soins à domicile, et ne voit ni les calculs de sa seconde femme ni l’affection de sa fille.",
+    "En seconde, la pièce peut être étudiée dans l’objet d’étude consacré au théâtre du XVIIe au XXIe siècle. Suivez les deux fils de l’intrigue : la satire des médecins (Purgon, les Diafoirus, la cérémonie) et le drame familial d’un père qui menace sa fille du couvent. Relevez aussi les scènes où l’on joue la comédie à l’intérieur de la comédie : la fausse leçon de musique, la mort feinte de Louison, Toinette en médecin, Argan qui fait le mort, la réception finale. Chaque fois, la feinte fait apparaître une vérité que le malade refusait de voir."
+  ],
+  "characters": [
+    {
+      "name": "Argan",
+      "role": "Bourgeois qui se croit malade et vit entouré de médecins et de remèdes."
+    },
+    {
+      "name": "Béline",
+      "role": "Seconde femme d’Argan, tendre en apparence, intéressée par son héritage."
+    },
+    {
+      "name": "Angélique",
+      "role": "Fille d’Argan, amoureuse de Cléante."
+    },
+    {
+      "name": "Louison",
+      "role": "Petite fille d’Argan, sœur d’Angélique."
+    },
+    {
+      "name": "Béralde",
+      "role": "Frère d’Argan, homme raisonnable qui se moque de la médecine."
+    },
+    {
+      "name": "Cléante",
+      "role": "Jeune homme amoureux d’Angélique."
+    },
+    {
+      "name": "Monsieur Diafoirus",
+      "role": "Médecin, beau-frère de monsieur Purgon."
+    },
+    {
+      "name": "Thomas Diafoirus",
+      "role": "Son fils, jeune médecin pédant que l’on destine à Angélique."
+    },
+    {
+      "name": "Monsieur Purgon",
+      "role": "Médecin d’Argan."
+    },
+    {
+      "name": "Monsieur Fleurant",
+      "role": "Apothicaire d’Argan."
+    },
+    {
+      "name": "Monsieur de Bonnefoi",
+      "role": "Notaire amené par Béline."
+    },
+    {
+      "name": "Toinette",
+      "role": "Servante d’Argan, vive et rusée, alliée d’Angélique."
+    },
+    {
+      "name": "Polichinelle",
+      "role": "Vieil amoureux de Toinette, héros du premier intermède."
+    }
+  ],
+  "passages": [
+    {
+      "unit": "acte1",
+      "ref": "Acte I, scène 1",
+      "title": "Les comptes d’Argan",
+      "quote": "et, l’autre mois, il y avoit douze médecines et vingt lavements. Je ne m’étonne pas si je ne me porte pas si bien ce mois-ci que l’autre.",
+      "note": "Fin du monologue d’ouverture, où Argan relit et marchande les mémoires de son apothicaire. Il conclut qu’il va moins bien parce qu’il a pris moins de remèdes : sa logique est renversée. Le monologue présente le personnage sans qu’aucun autre ne parle, ce qui en fait un bon extrait pour l’oral."
+    },
+    {
+      "unit": "acte1",
+      "ref": "Acte I, scène 5",
+      "title": "Un gendre médecin",
+      "quote": "Ma raison est que, me voyant infirme et malade comme je le suis, je veux me faire un gendre et des alliés médecins, afin de m’appuyer de bons secours contre ma maladie",
+      "note": "Argan explique à Toinette pourquoi il veut un médecin pour gendre. Le mariage de sa fille est pensé pour son propre corps : la manie détruit le rôle du père. Toinette répond en feignant d’accepter qu’il soit malade, pour mieux montrer l’absurdité du projet."
+    },
+    {
+      "unit": "acte2",
+      "ref": "Acte II, scène 6",
+      "title": "L’éloge d’un fils lent",
+      "quote": "Il n’a jamais eu l’imagination bien vive, ni ce feu d’esprit qu’on remarque dans quelques-uns ; mais c’est par là que j’ai toujours bien auguré de sa judiciaire, qualité requise pour l’exercice de notre art.",
+      "note": "Monsieur Diafoirus vante son fils en énumérant des défauts qu’il présente comme des qualités. Plus loin, il le loue de refuser les découvertes de son siècle, comme la circulation du sang. L’éloge devient une satire de la médecine routinière, attachée aux anciens."
+    },
+    {
+      "unit": "acte2",
+      "ref": "Acte II, scène 7",
+      "title": "Le mariage par contrainte",
+      "quote": "Le mariage est une chaîne où l’on ne doit jamais soumettre un cœur par force ; et, si monsieur est honnête homme, il ne doit point vouloir accepter une personne qui seroit à lui par contrainte.",
+      "note": "Angélique demande du temps, puis répond aux arguments de Thomas, qui lui oppose le latin de l’école. La jeune fille parle avec fermeté et raison face à un prétendant qui récite. Passage utile pour étudier la question du consentement au mariage dans la comédie."
+    },
+    {
+      "unit": "acte3",
+      "ref": "Acte III, scène 3",
+      "title": "Mourir des remèdes",
+      "quote": "La nature, d’elle-même, quand nous la laissons faire, se tire doucement du désordre où elle est tombée. C’est notre inquiétude, c’est notre impatience qui gâte tout",
+      "note": "Béralde répond à la question d’Argan sur ce qu’il faut faire quand on est malade. Dans ce long débat, le frère raisonnable développe une critique argumentée de la médecine de son temps. La scène est une sorte de pause sérieuse au milieu de la comédie."
+    },
+    {
+      "unit": "acte3",
+      "ref": "Acte III, scène 18",
+      "title": "L’oraison funèbre de Béline",
+      "quote": "Quelle perte est-ce que la sienne ? et de quoi servoit-il sur la terre ? Un homme incommode à tout le monde, malpropre, dégoûtant, sans cesse un lavement ou une médecine dans le ventre",
+      "note": "Béline croit Argan mort et le dit à Toinette, sans savoir qu’il l’entend. L’accumulation d’adjectifs dresse un portrait cruel qui contredit tous ses mots tendres des actes précédents. Le spectateur, qui sait la mort feinte, rit de voir l’hypocrite démasquée par sa propre bouche."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "unit": "acte1",
+      "ref": "Acte I, scène 2",
+      "question": "Contre quoi Toinette prétend-elle s’être cogné la tête en accourant aux appels d’Argan ?",
+      "answer": "volet",
+      "evidence": "Vous pressez si fort les personnes, que je me suis donné un grand coup de la tête contre la carne d’un volet."
+    },
+    {
+      "id": "q2",
+      "unit": "acte1",
+      "ref": "Acte I, premier intermède",
+      "question": "Dans le premier intermède, que choisit d’abord Polichinelle plutôt que les coups de bâton ?",
+      "answer": "croquignoles",
+      "evidence": "Si c’est une nécessité, et qu’il faille en passer par là, je choisis les croquignoles."
+    },
+    {
+      "id": "q3",
+      "unit": "acte2",
+      "ref": "Acte II, scène 9",
+      "question": "Après avoir pris le pouls d’Argan, quel organe Thomas Diafoirus dit-il atteint ?",
+      "answer": "rate",
+      "evidence": "Ce qui marque une intempérie dans le parenchyme splénique, c’est-à-dire la rate."
+    },
+    {
+      "id": "q4",
+      "unit": "acte3",
+      "ref": "Acte III, scène 6",
+      "question": "Quelle est la première maladie dans laquelle monsieur Purgon annonce qu’Argan va tomber ?",
+      "answer": "bradypepsie",
+      "evidence": "Que vous tombiez dans la bradypepsie,"
+    },
+    {
+      "id": "q5",
+      "unit": "acte3",
+      "ref": "Acte III, scène 18",
+      "question": "Que Béline veut-elle prendre à Argan avant de le porter dans son lit et de cacher sa mort ?",
+      "answer": "clefs",
+      "evidence": "Viens, Toinette ; prenons auparavant toutes ses clefs."
+    }
+  ],
+  "readingTips": [
+    "La pièce est en prose et se lit en une heure et demie à deux heures. Le prologue, à la gloire de Louis XIV, peut se lire après la comédie ; l’action commence avec le monologue d’Argan.",
+    "L’orthographe suit une édition ancienne (je voudrois, connoître, étoit) : lisez « oi » comme « ai ». Un clystère et un lavement désignent le même remède, un apothicaire est un pharmacien, la casse et le séné sont des purgatifs.",
+    "Les chansons de Polichinelle et de la vieille, dans le premier intermède, sont en italien et ne sont pas traduites ici ; la scène se comprend par les didascalies. La cérémonie finale mêle latin, français et italien : lisez-la à voix haute, la plupart des mots se devinent.",
+    "Dans la cérémonie, des passages sont placés entre crochets : selon une note de l’édition Louandre, ce sont des parties retrouvées et signalées par M. Magnin dans la Revue des Deux Mondes en 1846, puis reproduites par cette édition."
+  ],
+  "updated": "2026-10-17",
+  "datePublished": "2026-10-17"
+}
