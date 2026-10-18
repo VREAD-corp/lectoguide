@@ -57,6 +57,27 @@ for (const width of [390, 1440]) {
     assert.equal(await page.getAttribute('html', 'data-xp-lg-cta'), 'b');
     assert.equal(await page.locator('.cta-haut').isVisible(), true);
   });
+  await step(`${width}: A/B rd-hero: arm a hides the Candide excerpt, arm b shows it with its link in the first screen`, async () => {
+    await page.goto(BASE + '?octave_notrack=1&hero=a', { waitUntil: 'networkidle' });
+    assert.equal(await page.getAttribute('html', 'data-xp-rd-hero'), 'a');
+    assert.equal(await page.locator('[data-hero-excerpt]').isVisible(), false, 'arm a: no excerpt');
+    await page.goto(BASE + '?octave_notrack=1&hero=b', { waitUntil: 'networkidle' });
+    assert.equal(await page.getAttribute('html', 'data-xp-rd-hero'), 'b');
+    assert.equal(await page.locator('[data-hero-excerpt]').isVisible(), true, 'arm b: excerpt');
+    assert.equal(await page.locator('[data-hero-excerpt] blockquote').count(), 2);
+    const link = page.locator('[data-hero-excerpt] a[data-sample]');
+    const box = await link.boundingBox();
+    assert.ok(box && box.y + box.height <= 667, `excerpt link in the first screen (y=${box && box.y})`);
+    assert.ok(await page.evaluate(() => document.documentElement.scrollWidth) <= width + 1);
+    await link.click(); await page.waitForURL(/\/candide\//);
+  });
+  await step(`${width}: home FAQ opens; inner pages show the breadcrumb from outils.vread.fr`, async () => {
+    await page.goto(BASE + '?octave_notrack=1', { waitUntil: 'networkidle' });
+    await page.locator('#faq-1 summary').click();
+    assert.equal(await page.locator('#faq-1[open]').count(), 1);
+    await page.goto(BASE + 'methode/?octave_notrack=1', { waitUntil: 'networkidle' });
+    assert.equal(await page.locator('nav.fil a').first().getAttribute('href'), 'https://outils.vread.fr/');
+  });
   await step(`${width}: tracking hits are flagged notrack`, async () => {
     for (const h of hits) if (h.includes('"event"')) assert.match(h, /"excluded":"notrack"/);
   });

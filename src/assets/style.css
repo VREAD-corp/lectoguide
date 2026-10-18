@@ -57,3 +57,26 @@ ul.autres { columns: 2 14rem; }
 footer.site { border-top: 1px solid var(--line); margin-top: 48px; padding: 20px 0 32px; font-size: .9rem; color: var(--muted); }
 footer.site ul { list-style: none; display: flex; flex-wrap: wrap; gap: 6px 18px; padding: 0; }
 @media print { header.site, footer.site, .ressources, .fil { display: none; } details { display: block; } details > * { display: block; } body { background: #fff; } }
+/* A/B rd-hero (POOLED-READING-01): the excerpt shows only in arm b (cro.js sets html[data-xp-rd-hero] before the first paint). */
+.hero-excerpt { display: none; }
+html[data-xp-rd-hero="b"] .hero-excerpt { display: block; background: #fff; border: 1px solid var(--line); border-left: 4px solid var(--mark); border-radius: 10px; padding: 10px 16px 6px; margin: 12px 0 16px; }
+.hero-excerpt figcaption { font-size: .9rem; color: var(--muted); }
+.hero-excerpt .btn { display: inline-block; margin: 8px 0 4px; padding: 10px 16px; min-height: 44px; border-radius: 8px; background: var(--accent); color: #fff; font: 600 .95rem/1.5 var(--sans); text-decoration: none; }
+.hero-excerpt .btn:hover { background: var(--accent-ink); color: #fff; }
+.hero-excerpt blockquote { font-size: .98rem; }
+.hero-excerpt .ref { font: 400 .78rem/1.3 var(--sans); color: var(--muted); text-transform: uppercase; letter-spacing: .04em; font-style: normal; margin-top: 2px; }
+.hero-excerpt ol.q-extrait { padding-left: 1.2em; margin: 6px 0 8px; font-family: var(--serif); font-size: .98rem; }
+.hero-excerpt ol.q-extrait li { margin: 0 0 6px; }
+.hero-excerpt ol.q-extrait .ref { display: block; }
+@media (min-width: 900px) {
+  html[data-xp-rd-hero="b"] main .wrap:has(> .hero) { max-width: 66rem; }
+  html[data-xp-rd-hero="b"] main .wrap:has(> .hero) > :not(.hero) { max-width: calc(50rem - 64px); margin-left: auto; margin-right: auto; } /* only the hero widens in arm b */
+  html[data-xp-rd-hero="b"] .hero { display: grid; grid-template-columns: minmax(0, 1fr) 24rem; column-gap: 32px; grid-template-areas: "t f" "c f" "p f"; grid-template-rows: auto auto 1fr; align-items: start; }
+  html[data-xp-rd-hero="b"] .hero > h1 { grid-area: t; }
+  html[data-xp-rd-hero="b"] .hero > .chapeau { grid-area: c; }
+  html[data-xp-rd-hero="b"] .hero > .hero-p { grid-area: p; }
+  html[data-xp-rd-hero="b"] .hero-excerpt { grid-area: f; margin-top: 18px; }
+}
+@media print { .hero-excerpt { display: none !important; } }
+details[id^="faq-"] { border-bottom: 1px solid var(--line); padding: 6px 0; }
+details[id^="faq-"] p { margin: .3em 0 .5em; }

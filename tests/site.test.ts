@@ -70,7 +70,54 @@ test('tracking: xp.js then cro.js (site lectoguide), mesure.js v:2 knows lectogu
   const xp = readFileSync(join(DIST, 'assets/xp.js'), 'utf8');
   assert.match(xp, /id: 'lg-cta'/);
   const re = new RegExp(xp.match(/pages: '([^']+)'/)![1]);
-  assert.ok(re.test('/lectoguide/le-cid/') && !re.test('/lectoguide/') && !re.test('/lectoguide/methode/') && !re.test('/lectoguide/confidentialite/'));
+  assert.ok(re.test('/lectoguide/le-cid/') && !re.test('/lectoguide/') && !re.test('/lectoguide/methode/') && !re.test('/lectoguide/confidentialite/'));  // POOLED-READING-01: rd-hero on the home only, by tab; arm b's excerpt is in the page and hidden by default.
+  const hero = xp.slice(xp.indexOf("id: 'rd-hero'"));
+  assert.match(hero, /variants: \['a', 'b'\],\s*mode: 'tab',\s*param: 'hero',\s*pages: '\^\/lectoguide\/\$'/);
+  const home = html['/index.html'];
+  assert.match(home, /<figure class="hero-excerpt" data-hero-excerpt[^>]*>/);
+  assert.match(home, /href="\/lectoguide\/candide\/" data-cta data-sample>/);
+  assert.equal((home.match(/class="carte-fiche"><a href="[^"]+" data-cta>/g) || []).length, guides.length, 'guide cards are CTAs');
+  const css = readFileSync(join(DIST, 'assets/style.css'), 'utf8');
+  assert.match(css, /\.hero-excerpt \{ display: none; \}/); assert.match(css, /html\[data-xp-rd-hero="b"\] \.hero-excerpt \{ display: block;/);
+  for (const [p, h] of Object.entries(html)) assert.match(h, /data-cta="\[data-mesure\], \.btn, \[data-cta\]"/, p);
+});
+
+test('SEO: breadcrumb from outils.vread.fr on inner pages, Article by READ FRANCE SAS (about page) on guides, FAQPage = visible FAQ', () => {
+  const ld = (h: string) => [...h.matchAll(/<script data-rh="true" type="application\/ld\+json">([\s\S]*?)<\/script>/g)].map((m) => JSON.parse(m[1]));
+  for (const [p, h] of Object.entries(html)) {
+    if (p === '/index.html' || p === '/404.html') continue;
+    assert.match(h, /<nav class="fil" aria-label="Fil d’Ariane"><a href="https:\/\/outils\.vread\.fr\/">outils\.vread\.fr<\/a> › <a href="\/lectoguide\/">Lectoguide<\/a> › /, p);
+    const bc = ld(h).find((d) => d['@type'] === 'BreadcrumbList');
+    assert.ok(bc, p);
+    assert.equal(bc.itemListElement[0].item, 'https://outils.vread.fr/'); assert.equal(bc.itemListElement[1].item, 'https://outils.vread.fr/lectoguide/');
+    assert.deepEqual(bc.itemListElement.map((x: { position: number }) => x.position), bc.itemListElement.map((_: unknown, i: number) => i + 1), p);
+    assert.match(h, /href="https:\/\/outils\.vread\.fr\/a-propos\/">Qui fait ce site, et comment<\/a>/, p);
+  }
+  for (const g of guides) {
+    const a = ld(html[`/${g.slug}/index.html`]).find((d) => d['@type'] === 'Article');
+    assert.ok(a && a.headline.length <= 110 && a.datePublished && a.dateModified === g.updated, g.slug);
+    assert.deepEqual(a.author, { '@type': 'Organization', name: 'READ FRANCE SAS', url: 'https://outils.vread.fr/a-propos/' }, g.slug);
+  }
+  const home = html['/index.html'];
+  const faq = ld(home).find((d) => d['@type'] === 'FAQPage');
+  const visible = [...home.matchAll(/<details id="faq-\d+"><summary>([^<]+)<\/summary><p>([\s\S]*?)<\/p><\/details>/g)].map((m) => [m[1], m[2].replace(/<[^>]+>/g, '')]);
+  const un = (s: string) => s.replace(/&#39;|&amp;|&quot;/g, (x) => ({ '&#39;': "'", '&amp;': '&', '&quot;': '"' })[x]!);
+  assert.ok(faq && visible.length === faq.mainEntity.length && visible.length >= 3);
+  faq.mainEntity.forEach((q: { name: string; acceptedAnswer: { text: string } }, i: number) => { assert.equal(q.name, un(visible[i][0])); assert.equal(q.acceptedAnswer.text, un(visible[i][1])); });
+  assert.match(html['/methode/index.html'], /Tanguy Warsmann et Vincent Cance/);
+  const sm = readFileSync(join(DIST, 'sitemap.xml'), 'utf8');
+  assert.ok(sm.includes('<loc>https://outils.vread.fr/lectoguide/</loc><lastmod>2026-10-18</lastmod>'));
+  for (const g of guides) assert.ok(sm.includes(`<loc>https://outils.vread.fr/lectoguide/${g.slug}/</loc><lastmod>${g.updated}</lastmod>`), g.slug);
+});
+
+test('cluster: each guide links its Lectoclasse kit and its Lectopoint text when they exist, with the work in the anchor', () => {
+  const lp = JSON.parse(readFileSync(join(ROOT, 'content/lectopoint-texts.json'), 'utf8')) as string[];
+  for (const g of guides) {
+    const h = html[`/${g.slug}/index.html`];
+    if (g.programme === 'bac') assert.ok(h.includes(`href="https://outils.vread.fr/lectoclasse/kits/${g.slug}/" data-mesure="cta_click">Lectoclasse\u00a0: le kit`), g.slug);
+    if (lp.includes(g.slug)) assert.ok(h.includes(`href="https://outils.vread.fr/lectopoint/?texte=${g.slug}" data-mesure="cta_click">Lectopoint\u00a0: vos propres points de contrôle sur `), g.slug);
+  }
+  assert.ok(html['/contes-de-perrault/index.html'].includes('href="https://outils.vread.fr/lectopoint/?texte=le-petit-poucet"'));
 });
 
 test('vendored mesure.js and cro.js are byte-identical to the octave-checkout masters', { skip: !process.env.OCTAVE_CHECKOUT_WEB }, () => {

@@ -35,6 +35,18 @@ node $E qa qa/items/le-cid.json --gate summary --cold qa/cold/le-cid.answers.jso
 
 `mesure.js` (v:2, cookieless) and `cro.js`, byte-identical to `octave-checkout/gas/web`, to the octave-checkout Apps
 Script (site `lectoguide`). `cta_click` = a link to Lectoclasse, Chapter Checks, Lectopoint or vread.fr. A/B `lg-cta`
-(by day): the « Pour la classe » box after the questions only (a) or also after the introduction (b); metric `cta`.
+(by day): the « Pour la classe » box after the questions only (a) or also after the introduction (b); metric `cta`. A/B `rd-hero`
+(POOLED-READING-01, by tab, home only, same id on the 7 reading sites of outils.vread.fr, pooled analysis in
+vread-revenue-lab): current hero (a) or a verbatim excerpt of the Candide guide in the first screen (b); metric `cta`
+(a guide card, the excerpt's link or a READ FRANCE resource; cards carry `data-cta`), goal `sample` (`data-sample`).
+
+## SEO (2026-10-18)
+
+Inner pages carry a breadcrumb from the hub (outils.vread.fr › Lectoguide › …, visible + BreadcrumbList). Guides: Article
++ LearningResource, author READ FRANCE SAS with `url` https://outils.vread.fr/a-propos/ (the hub page on who writes and
+who publishes); the Octave disclosure stays on every guide. Home: visible « Questions fréquentes » = FAQPage. Cluster
+inside the reading group: each guide links its Lectoclasse kit (`/lectoclasse/kits/<slug>/`) and its Lectopoint text
+(`/lectopoint/?texte=<slug>`, `LECTOPOINT_PART` for a tale of a collection). Sitemap lastmod = date of the last content
+change (`updated` of each guide; `SEO_UPDATED` for the home, method and privacy pages).
 
 © 2026 READ FRANCE SAS. See LICENSE.
