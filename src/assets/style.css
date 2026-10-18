@@ -63,6 +63,12 @@ html[data-xp-rd-hero="b"] .hero-excerpt { display: block; background: #fff; bord
 .hero-excerpt figcaption { font-size: .9rem; color: var(--muted); }
 .hero-excerpt .btn { display: inline-block; margin: 8px 0 4px; padding: 10px 16px; min-height: 44px; border-radius: 8px; background: var(--accent); color: #fff; font: 600 .95rem/1.5 var(--sans); text-decoration: none; }
 .hero-excerpt .btn:hover { background: var(--accent-ink); color: #fff; }
+/* POOLED-READING-02: the free example (a whole guide) one click away in the first screen, in both arms. */
+.hero-cta { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 18px; margin: 4px 0 14px; }
+.hero-cta .btn { display: inline-block; padding: 10px 18px; min-height: 44px; border-radius: 8px; background: var(--accent); color: #fff; font: 600 1rem/1.5 var(--sans); text-decoration: none; }
+.hero-cta .btn:hover { background: var(--accent-ink); color: #fff; }
+.hero-cta .btn cite { font-style: italic; }
+.hero-cta > a:not(.btn) { font-family: var(--sans); min-height: 44px; display: inline-flex; align-items: center; }
 .hero-excerpt blockquote { font-size: .98rem; }
 .hero-excerpt .ref { font: 400 .78rem/1.3 var(--sans); color: var(--muted); text-transform: uppercase; letter-spacing: .04em; font-style: normal; margin-top: 2px; }
 .hero-excerpt ol.q-extrait { padding-left: 1.2em; margin: 6px 0 8px; font-family: var(--serif); font-size: .98rem; }
@@ -71,9 +77,10 @@ html[data-xp-rd-hero="b"] .hero-excerpt { display: block; background: #fff; bord
 @media (min-width: 900px) {
   html[data-xp-rd-hero="b"] main .wrap:has(> .hero) { max-width: 66rem; }
   html[data-xp-rd-hero="b"] main .wrap:has(> .hero) > :not(.hero) { max-width: calc(50rem - 64px); margin-left: auto; margin-right: auto; } /* only the hero widens in arm b */
-  html[data-xp-rd-hero="b"] .hero { display: grid; grid-template-columns: minmax(0, 1fr) 24rem; column-gap: 32px; grid-template-areas: "t f" "c f" "p f"; grid-template-rows: auto auto 1fr; align-items: start; }
+  html[data-xp-rd-hero="b"] .hero { display: grid; grid-template-columns: minmax(0, 1fr) 24rem; column-gap: 32px; grid-template-areas: "t f" "c f" "a f" "p f"; grid-template-rows: auto auto auto 1fr; align-items: start; }
   html[data-xp-rd-hero="b"] .hero > h1 { grid-area: t; }
   html[data-xp-rd-hero="b"] .hero > .chapeau { grid-area: c; }
+  html[data-xp-rd-hero="b"] .hero > .hero-cta { grid-area: a; }
   html[data-xp-rd-hero="b"] .hero > .hero-p { grid-area: p; }
   html[data-xp-rd-hero="b"] .hero-excerpt { grid-area: f; margin-top: 18px; }
 }

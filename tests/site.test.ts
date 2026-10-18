@@ -75,7 +75,9 @@ test('tracking: xp.js then cro.js (site lectoguide), mesure.js v:2 knows lectogu
   assert.match(hero, /variants: \['a', 'b'\],\s*mode: 'tab',\s*param: 'hero',\s*pages: '\^\/lectoguide\/\$'/);
   const home = html['/index.html'];
   assert.match(home, /<figure class="hero-excerpt" data-hero-excerpt[^>]*>/);
-  assert.match(home, /href="\/lectoguide\/candide\/" data-cta data-sample>/);
+  assert.match(home, /href="\/lectoguide\/candide\/" data-cta data-sample data-mesure="sample_click">Lire la fiche/);
+  // POOLED-READING-02: in both arms, the example guide is a button right after the chapeau (sample_click, cro.js goal 'sample').
+  assert.match(home, /<\/p>\n<p class="hero-cta"><a class="btn" href="\/lectoguide\/candide\/" data-cta data-sample data-mesure="sample_click">Voir une fiche exemple/);
   assert.equal((home.match(/class="carte-fiche"><a href="[^"]+" data-cta>/g) || []).length, guides.length, 'guide cards are CTAs');
   const css = readFileSync(join(DIST, 'assets/style.css'), 'utf8');
   assert.match(css, /\.hero-excerpt \{ display: none; \}/); assert.match(css, /html\[data-xp-rd-hero="b"\] \.hero-excerpt \{ display: block;/);

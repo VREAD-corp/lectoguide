@@ -122,6 +122,8 @@ function ressources(g: Guide, where: 'haut' | 'bas') {
 </aside>`;
 }
 
+/** « de Voltaire », « d’Émile Zola » (élision devant une voyelle ou un h muet). */
+const deA = (a: string) => (/^[aeiouyhâàéèêîïôûœ]/i.test(a) ? 'd’' : 'de ') + a;
 function guidePage(g: Guide): { seo: SeoData; published_at: string } {
   const path = `${g.slug}/`;
   const qa = qaOf(g.slug);
@@ -129,12 +131,12 @@ function guidePage(g: Guide): { seo: SeoData; published_at: string } {
   const unitWord = byUnit(g);
   const prog = progLabel(g);
   const others = guides.filter((x) => x.programme === g.programme && x.slug !== g.slug);
-  const title = `${g.title} (${g.author}) : résumé ${unitWord}, passages clés, questions`;
-  const description = `${g.title} de ${g.author} (${g.published}) : le texte ${unitWord} en ${g.units.length} résumés, ${g.passages.length} passages clés avec leur référence et 5 questions pour vérifier sa lecture. ${prog}.`;
+  const title = `Fiche de lecture ${g.title} (${g.author}) : résumé ${unitWord}, passages clés, questions`;
+  const description = `Fiche de lecture gratuite : ${g.title} ${deA(g.author)} (${g.published}) : le texte ${unitWord} en ${g.units.length} résumés, ${g.passages.length} passages clés avec leur référence et 5 questions pour vérifier sa lecture. ${prog}.`;
   const crumbs: Crumb[] = [...ROOT_CRUMBS, { name: progShort[g.programme], href: `${u('')}#${g.programme}` }, { name: g.title, url: abs(path) }];
   const body = `${trail(crumbs)}
 <article class="fiche">
-<h1>${esc(g.title)}, de ${esc(g.author)}</h1>
+<h1>Fiche de lecture : ${esc(g.title)}, ${esc(deA(g.author))}</h1>
 <p class="chapeau">Guide de lecture : le texte ${unitWord}, les passages à connaître et cinq questions pour vérifier qu’on a lu.</p>
 <dl class="carte">
 <div><dt>Auteur</dt><dd>${esc(g.author)} (${esc(g.authorDates)})</dd></div>
@@ -168,11 +170,11 @@ ${others.length ? `<h2 id="autres">${othersTitle[g.programme]}</h2><ul class="au
   const seo: SeoData = {
     title, description, canonical: abs(path), ogType: 'article', lang: 'fr', lastModified: g.updated,
     jsonLd: [
-      { '@context': 'https://schema.org', '@type': 'LearningResource', '@id': `${abs(path)}#guide`, name: `${g.title}, de ${g.author} : guide de lecture`, url: abs(path), inLanguage: 'fr',
+      { '@context': 'https://schema.org', '@type': 'LearningResource', '@id': `${abs(path)}#guide`, name: `${g.title}, ${deA(g.author)} : fiche de lecture`, url: abs(path), inLanguage: 'fr',
         isAccessibleForFree: true, learningResourceType: ['fiche de lecture', 'questionnaire'], educationalLevel: g.level, datePublished: g.datePublished ?? UPDATED, dateModified: g.updated,
         author: AUTHOR_ORG, publisher: { '@id': SITE.organizationId }, isPartOf: { '@id': `${SITE.origin}/#website` },
         about: { '@type': 'Book', name: g.title, author: { '@type': 'Person', name: g.author }, datePublished: g.published.slice(0, 4), inLanguage: 'fr', genre: g.genre }, description },
-      { '@context': 'https://schema.org', '@type': 'Article', '@id': `${abs(path)}#article`, headline: `${g.title}, de ${g.author} : guide de lecture`.slice(0, 110),
+      { '@context': 'https://schema.org', '@type': 'Article', '@id': `${abs(path)}#article`, headline: `${g.title}, ${deA(g.author)} : fiche de lecture`.slice(0, 110),
         description, url: abs(path), mainEntityOfPage: abs(path), inLanguage: 'fr', datePublished: g.datePublished ?? UPDATED, dateModified: g.updated,
         author: AUTHOR_ORG, publisher: { '@id': SITE.organizationId }, isPartOf: { '@id': `${SITE.origin}/#website` }, about: { '@id': `${abs(path)}#guide` },
         articleSection: progShort[g.programme] },
@@ -202,7 +204,7 @@ const XG = guides.find((g) => g.slug === 'candide')!;
 const XP = [XG.passages[0], XG.passages[5]], XQ = [XG.questions[0], XG.questions[4]];
 const heroExcerpt = `<figure class="hero-excerpt" data-hero-excerpt data-section="extrait">
 <figcaption>Extrait réel de la fiche <cite>${esc(XG.title)}</cite>, de ${esc(XG.author)} : deux de ses ${XG.passages.length} passages clés et deux de ses ${XG.questions.length} questions.
-<a class="btn" href="${u(XG.slug + '/')}" data-cta data-sample>Lire la fiche complète, avec les réponses</a></figcaption>
+<a class="btn" href="${u(XG.slug + '/')}" data-cta data-sample data-mesure="sample_click">Lire la fiche complète, avec les réponses</a></figcaption>
 ${XP.map((x) => `<blockquote><p>« ${esc(x.quote)} »</p><p class="ref">${esc(x.ref)} · ${esc(x.title)}</p></blockquote>`).join('\n')}
 <ol class="q-extrait">${XQ.map((q) => `<li><span class="ref">${esc(q.ref)}</span> ${esc(q.question)}</li>`).join('')}</ol>
 </figure>`;
@@ -217,11 +219,12 @@ ${FAQ.map(([q, a], i) => `<details id="faq-${i + 1}"><summary>${esc(q)}</summary
 </section>`;
 const faqLd = { '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: FAQ.map(([q, a]) => ({ '@type': 'Question', name: typo(q), acceptedAnswer: { '@type': 'Answer', text: typo(a) } })) }; // same typography as the page
 
-const home = staticPage('', 'Lectoguide : fiches de lecture des classiques au programme, bac de français, lycée et collège',
-  `${guides.length} fiches de lecture gratuites sur les œuvres du domaine public au programme : résumé partie par partie, passages clés avec leurs références, 5 questions pour vérifier sa lecture.`,
+const home = staticPage('', 'Fiches de lecture gratuites : œuvres du bac de français 2027, lycée, collège – Lectoguide',
+  `${guides.length} fiches de lecture gratuites, sans compte, sur les classiques du domaine public au programme, dont ${bac.length} œuvres du bac de français 2027 : résumé chapitre par chapitre ou acte par acte, passages clés avec leurs références, 5 questions pour vérifier sa lecture.`,
   `<div class="hero">
-<h1>Fiches de lecture des classiques au programme</h1>
+<h1>Fiches de lecture gratuites des classiques au programme</h1>
 <p class="chapeau">${guides.length} fiches gratuites, sans compte, sur des œuvres du domaine public, du bac de français au collège. Pour chacune : le texte partie par partie, les passages à connaître avec leur référence, et cinq questions dont la réponse tient en un mot du texte.</p>
+<p class="hero-cta"><a class="btn" href="${u(XG.slug + '/')}" data-cta data-sample data-mesure="sample_click">Voir une fiche exemple : <cite>Candide</cite></a> <a href="#bac">Toutes les fiches</a></p>
 ${heroExcerpt}
 <p class="hero-p">Les fiches sont faites pour accompagner la lecture, pas pour l’éviter. Les résumés aident à se repérer ; les questions portent sur des détails qu’ils ne donnent pas. Chaque citation a été vérifiée mot pour mot dans l’édition suivie, et chaque question passée au moteur de lecture de READ FRANCE (<a href="${u('methode/')}">la méthode</a>).</p>
 </div>
