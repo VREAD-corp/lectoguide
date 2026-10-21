@@ -214,3 +214,11 @@ test('programme: home has the bac, lycée and collège sections; official texts 
     assert.doesNotMatch(text(h), /session 2027/i, g.slug);
   }
 });
+
+test('POOLED-READING-02: every guide links a free example of the cluster with sample_click (Lectoclasse kit on Le Menteur, or the Petit Poucet PDF for the collège)', () => {
+  for (const g of guides) {
+    const h = html[`/${g.slug}/index.html`];
+    const want = g.programme === 'college' ? 'https://outils.vread.fr/lectoclasse/college/lectoclasse-petit-poucet-rallye.pdf' : 'https://outils.vread.fr/lectoclasse/echantillon/';
+    assert.ok(h.includes(`href="${want}" data-mesure="sample_click"`), g.slug);
+  }
+});

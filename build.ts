@@ -101,16 +101,22 @@ ${body}
 <ul><li><a href="${u('methode/')}">Comment les fiches sont faites</a></li><li><a href="${ABOUT}">Qui fait ce site, et comment</a></li><li><a href="${u('confidentialite/')}">Confidentialité</a></li><li><a href="${u('mentions-legales/')}">Mentions légales</a></li><li><a href="https://outils.vread.fr/lectopoint/">Lectopoint, les points de contrôle à imprimer</a></li></ul>
 </div></footer>`);
 
+// The cluster's free examples (sample_click, POOLED-READING-02): Lectoclasse's free kit on Le Menteur for the lycée and
+// bac guides, the Petit Poucet rallye PDF for the collège guides.
+const LC_SAMPLE = 'https://outils.vread.fr/lectoclasse/echantillon/';
+const LC_COLLEGE_SAMPLE = 'https://outils.vread.fr/lectoclasse/college/lectoclasse-petit-poucet-rallye.pdf';
 function ressources(g: Guide, where: 'haut' | 'bas') {
+  const kitSample = `<a href="${LC_SAMPLE}" data-mesure="sample_click">le kit gratuit sur Le Menteur</a>`;
+  const poucet = `<a href="${LC_COLLEGE_SAMPLE}" data-mesure="sample_click">l’exemple gratuit sur Le Petit Poucet</a> (PDF)`;
   const lc = g.slug === 'le-menteur'
-    ? `<li><a href="https://outils.vread.fr/lectoclasse/kits/le-menteur/" data-mesure="cta_click">Lectoclasse : le kit complet du Menteur, gratuit</a> (questions par acte, corrigé, fiche d’oral, texte intégral à imprimer).</li>`
+    ? `<li><a href="https://outils.vread.fr/lectoclasse/kits/le-menteur/" data-mesure="cta_click">Lectoclasse : le kit complet du Menteur, gratuit</a> (questions par acte, corrigé, fiche d’oral, texte intégral à imprimer) : ${kitSample.replace('le kit gratuit sur Le Menteur', 'l’ouvrir sans attendre')}.</li>`
     : LECTOCLASSE_KITS.has(g.slug)
-      ? `<li><a href="https://outils.vread.fr/lectoclasse/kits/${g.slug}/" data-mesure="cta_click">Lectoclasse : le kit de lecture sur ${esc(g.title)}</a>, questions et corrigés prêts à imprimer, pour les établissements français hors Union européenne.</li>`
+      ? `<li><a href="https://outils.vread.fr/lectoclasse/kits/${g.slug}/" data-mesure="cta_click">Lectoclasse : le kit de lecture sur ${esc(g.title)}</a>, questions et corrigés prêts à imprimer, pour les établissements français hors Union européenne ; ${kitSample} montre un kit entier.</li>`
       : g.slug === 'contes-de-perrault'
-        ? `<li><a href="https://outils.vread.fr/lectoclasse/college/" data-mesure="cta_click">Lectoclasse au collège : l’exemple gratuit sur Le Petit Poucet</a>, questionnaire, corrigé et diplôme de lecteur, tiré d’un rallye-lecture de 12 classiques.</li>`
+        ? `<li><a href="https://outils.vread.fr/lectoclasse/college/" data-mesure="cta_click">Lectoclasse au collège</a> : ${poucet}, questionnaire, corrigé et diplôme de lecteur, tiré d’un rallye-lecture de 12 classiques.</li>`
       : g.programme === 'lycee'
-        ? `<li><a href="https://outils.vread.fr/lectoclasse/" data-mesure="cta_click">Lectoclasse</a> : des kits de lecture à imprimer sur les huit œuvres du domaine public au programme du bac de français (épreuve de juin 2027).</li>`
-        : `<li><a href="https://outils.vread.fr/lectoclasse/college/" data-mesure="cta_click">Lectoclasse au collège</a> : un rallye-lecture de 12 classiques, avec un exemple gratuit sur Le Petit Poucet.</li>`;
+        ? `<li><a href="https://outils.vread.fr/lectoclasse/" data-mesure="cta_click">Lectoclasse</a> : des kits de lecture à imprimer sur les huit œuvres du domaine public au programme du bac de français (épreuve de juin 2027) ; ${kitSample} montre un kit entier.</li>`
+        : `<li><a href="https://outils.vread.fr/lectoclasse/college/" data-mesure="cta_click">Lectoclasse au collège</a> : un rallye-lecture de 12 classiques, avec ${poucet}.</li>`;
   const part = LECTOPOINT_PART[g.slug];
   const lp = LECTOPOINT_TEXTS.has(g.slug) || part
     ? `<li><a href="https://outils.vread.fr/lectopoint/?texte=${part ? part.slug : g.slug}" data-mesure="cta_click">Lectopoint : vos propres points de contrôle sur ${esc(part ? part.title : g.title)}</a>, le texte déjà découpé en parties, à imprimer (gratuit).</li>`
