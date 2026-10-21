@@ -1,0 +1,91 @@
+{
+  "set": "lectoguide/la-parure",
+  "coldGate": "summary",
+  "title": "La Parure",
+  "author": "Guy de Maupassant",
+  "language": "fr",
+  "units": [
+    {
+      "id": "p1",
+      "label": "Partie 1 (§ 1 à 29)",
+      "file": "../../sources/la-parure/01.txt",
+      "summary": "Une jeune femme jolie, née dans une famille d’employés et sans dot, a épousé un petit commis du ministère de l’instruction publique. Elle souffre de son logement modeste, rêve de salons, de dîners fins et de bijoux, et ne va plus voir une amie riche, une ancienne camarade de couvent, tant elle revient malheureuse de ces visites. Un soir, son mari lui apporte fièrement une invitation à une soirée à l’hôtel du ministère, le lundi 18 janvier. Au lieu de se réjouir, Mathilde pleure : elle n’a pas de robe pour y aller. Loisel lui donne quatre cents francs, la somme qu’il gardait pour s’acheter un fusil de chasse."
+    },
+    {
+      "id": "p2",
+      "label": "Partie 2 (§ 30 à 52)",
+      "file": "../../sources/la-parure/02.txt",
+      "summary": "La robe est prête, mais à l’approche de la fête Mathilde reste triste : elle n’a aucun bijou et craint d’avoir l’air pauvre. Son mari lui propose de porter des fleurs, puis lui conseille d’aller en emprunter à son amie Mme Forestier. Le lendemain, celle-ci ouvre devant elle un coffret et la laisse choisir ; Mathilde essaie plusieurs parures sans pouvoir se décider. Elle trouve enfin une rivière de diamants, demande à ne prendre que ce bijou, et se sauve avec son trésor."
+    },
+    {
+      "id": "p3",
+      "label": "Partie 3 (§ 53 à 85)",
+      "file": "../../sources/la-parure/03.txt",
+      "summary": "Au bal, Mathilde est la plus admirée des invitées et danse jusqu’à quatre heures du matin, pendant que son mari dort dans un petit salon. À la sortie, honteuse de ses vêtements ordinaires, elle se hâte de partir, et le couple doit marcher jusqu’aux quais de la Seine pour trouver une vieille voiture. Rentrée chez elle, elle découvre devant la glace que la rivière n’est plus à son cou. Loisel refait le trajet à pied, puis passe la journée à la Préfecture de police, aux journaux et aux compagnies de voitures, sans rien trouver. Pour gagner du temps, il fait écrire à Mme Forestier que le fermoir est cassé et en réparation."
+    },
+    {
+      "id": "p4",
+      "label": "Partie 4 (§ 86 à 106)",
+      "file": "../../sources/la-parure/04.txt",
+      "summary": "Au bout d’une semaine, les Loisel renoncent à retrouver le bijou. Le joaillier dont le nom est dans la boîte n’a vendu que l’écrin ; ils trouvent ailleurs une rivière semblable, qu’on leur cède pour trente-six mille francs. Loisel ajoute à son héritage des emprunts, des billets et des prêts d’usuriers. Mme Forestier reprend la parure sans ouvrir l’écrin. Le couple renvoie la bonne, loue une mansarde et met dix ans à tout rembourser : Mathilde fait les gros travaux du ménage, son mari tient des comptes le soir et fait des copies la nuit. Vieillie, elle repense parfois au bal."
+    },
+    {
+      "id": "p5",
+      "label": "Partie 5 (§ 107 à 129)",
+      "file": "../../sources/la-parure/05.txt",
+      "summary": "Un dimanche, en promenade, Mathilde aperçoit Mme Forestier, toujours jeune et belle, qui promène un enfant. La dette étant payée, elle décide de tout lui dire, mais son amie ne la reconnaît pas et s’étonne qu’une inconnue l’appelle par son prénom. Mathilde raconte la perte, le remplacement et les dix ans de misère, avec une fierté naïve. Très émue, Mme Forestier lui prend les mains et lui apprend que sa rivière était fausse."
+    }
+  ],
+  "items": [
+    {
+      "id": "q1",
+      "unit": "p1",
+      "type": "word",
+      "question": "Dans quelle plaine le mari comptait-il aller chasser l’alouette avec des amis, l’été suivant ?",
+      "answer": "Nanterre",
+      "evidence": [
+        "Il avait un peu pâli, car il réservait juste cette somme pour acheter un fusil et s’offrir des parties de chasse, l’été suivant, dans la plaine de Nanterre, avec quelques amis qui allaient tirer des alouettes, par là, le dimanche."
+      ]
+    },
+    {
+      "id": "q2",
+      "unit": "p2",
+      "type": "word",
+      "question": "Quel adjectif, tiré du nom d’une ville d’Italie, qualifie la croix d’or et de pierreries que Mathilde essaie chez son amie ?",
+      "answer": "vénitienne",
+      "evidence": [
+        "Elle vit d’abord des bracelets, puis un collier de perles, puis une croix vénitienne, or et pierreries, d’un admirable travail."
+      ]
+    },
+    {
+      "id": "q3",
+      "unit": "p3",
+      "type": "word",
+      "question": "Dans quelle rue de Paris la vieille voiture ramène-t-elle les Loisel après le bal ?",
+      "answer": "Martyrs",
+      "evidence": [
+        "Il les ramena jusqu’à leur porte, rue des Martyrs, et ils remontèrent tristement chez eux."
+      ]
+    },
+    {
+      "id": "q4",
+      "unit": "p4",
+      "type": "word",
+      "question": "Combien de milliers de francs Loisel possédait-il, que lui avait laissés son père ?",
+      "answer": "dix-huit",
+      "evidence": [
+        "Loisel possédait dix-huit mille francs que lui avait laissés son père."
+      ]
+    },
+    {
+      "id": "q5",
+      "unit": "p5",
+      "type": "word",
+      "question": "Par quel nom le narrateur désigne-t-il Mathilde au moment où son amie, qui ne la reconnaît pas, s’étonne d’être appelée par son prénom ?",
+      "answer": "bourgeoise",
+      "evidence": [
+        "L’autre ne la reconnaissait point, s’étonnant d’être appelée ainsi familièrement par cette bourgeoise."
+      ]
+    }
+  ]
+}

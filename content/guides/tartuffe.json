@@ -1,0 +1,192 @@
+{
+  "slug": "tartuffe",
+  "title": "Le Tartuffe ou l’Imposteur",
+  "author": "Molière",
+  "authorDates": "1622-1673",
+  "published": "1669",
+  "genre": "comédie en cinq actes et en vers",
+  "programme": "lycee",
+  "level": "Seconde",
+  "programmeNote": "En seconde, le programme de français (BO spécial n° 1 du 22 janvier 2019, version modifiée en 2020 publiée sur éduscol) consacre au théâtre l’objet d’étude « Le théâtre du XVIIe siècle au XXIe siècle ». Le corpus associe deux pièces qui diffèrent à la fois par le genre et par le siècle, et y ajoute la lecture cursive d’au moins une pièce d’une autre période ; le texte demande aussi de replacer les œuvres dans le contexte de leur création et de leur réception. Une comédie en vers dont les représentations publiques ont été suspendues pendant près de cinq ans se prête bien à ce travail, mais le programme de seconde ne fixe aucune liste d’œuvres : le choix revient au professeur.",
+  "programmeSources": [
+    {
+      "label": "Programme de français de seconde (BO spécial n° 1 du 22 janvier 2019, version modifiée en 2020, sur éduscol)",
+      "url": "https://eduscol.education.gouv.fr/sites/default/files/document/04-annexe1francais2ebomodifiepdf-69834.pdf"
+    }
+  ],
+  "source": {
+    "label": "Wikisource, d’après les Œuvres complètes de Molière, édition Charles Louandre, Charpentier, 1910, tome II",
+    "url": "https://fr.wikisource.org/wiki/Tartuffe_ou_l%E2%80%99Imposteur/%C3%89dition_Louandre,_1910",
+    "licence": "Transcription Wikisource, CC BY-SA 4.0"
+  },
+  "words": 18887,
+  "units": [
+    {
+      "id": "acte1",
+      "label": "Acte I",
+      "file": "sources/tartuffe/01.txt",
+      "words": 4010,
+      "summary": "Madame Pernelle quitte la maison de son fils Orgon en reprochant à chacun sa conduite : sa bru Elmire dépense trop, son petit-fils Damis est un sot, la suivante Dorine parle trop et Cléante prêche des maximes qu’on ne doit pas suivre. Elle ne défend que Tartuffe, le dévot qu’Orgon a recueilli chez lui, puis s’en va en giflant sa servante Flipote. Restée avec Cléante, Dorine raconte comment son maître, devenu « comme un homme hébété », ne jure plus que par cet homme qu’il appelle son frère. Rentré de la campagne, Orgon écoute le récit de la fièvre d’Elmire en ne demandant que des nouvelles de Tartuffe. Face à Cléante, il raconte comment il l’a connu à l’église ; son beau-frère lui répond par une longue distinction entre les dévots sincères et les hypocrites, puis l’interroge sur le mariage promis entre Mariane et Valère, et Orgon se dérobe."
+    },
+    {
+      "id": "acte2",
+      "label": "Acte II",
+      "file": "sources/tartuffe/02.txt",
+      "words": 4077,
+      "summary": "Orgon annonce à sa fille Mariane qu’il veut la marier à Tartuffe, et non plus à Valère, à qui il l’avait promise. Dorine, qui écoutait derrière lui, se moque du projet et multiplie les objections ; Orgon, furieux, tente en vain de la faire taire et manque la gifle qu’il voulait lui donner. Seule avec Mariane, la suivante lui reproche de n’avoir rien répondu, feint de se réjouir de ce mariage et lui dépeint avec ironie la vie qui l’attend dans la petite ville de son futur mari. Valère arrive, apprend la nouvelle, et les deux amants, piqués, se disputent jusqu’à faire semblant de se quitter. Dorine les réconcilie et leur propose de gagner du temps : Mariane feindra d’obéir en multipliant les prétextes, pendant que Valère fera agir ses amis."
+    },
+    {
+      "id": "acte3",
+      "label": "Acte III",
+      "file": "sources/tartuffe/03.txt",
+      "words": 3471,
+      "summary": "Damis veut punir Tartuffe ; Dorine lui demande de laisser agir Elmire, qui veut parler au dévot du mariage de Mariane, mais le jeune homme se cache dans un cabinet. Tartuffe entre en affichant sa piété, tend un mouchoir à Dorine pour qu’elle couvre sa gorge, puis, seul avec Elmire, lui déclare son amour dans le langage de la dévotion. Elmire promet de se taire s’il renonce à Mariane et presse lui-même son union avec Valère ; Damis sort alors de sa cachette et dénonce tout à Orgon qui arrive. Tartuffe s’accuse lui-même de tous les crimes avec une humilité si bien jouée qu’Orgon chasse et déshérite son fils. Pour braver la famille, Orgon décide de donner sa fille à Tartuffe le soir même et de lui faire donation de tous ses biens."
+    },
+    {
+      "id": "acte4",
+      "label": "Acte IV",
+      "file": "sources/tartuffe/04.txt",
+      "words": 3641,
+      "summary": "Cléante demande à Tartuffe de réconcilier le père et le fils et de refuser une donation qui dépouille l’héritier ; le dévot invoque l’intérêt du ciel, puis s’esquive en prétextant un devoir pieux. À genoux, Mariane supplie son père de ne pas la marier à Tartuffe et demande plutôt le couvent, mais Orgon reste inflexible. Elmire lui propose de lui faire voir la vérité : elle le cache sous une table et fait venir Tartuffe, en feignant de céder à son amour. Le dévot exige des preuves et promet de lever tous ses scrupules ; Elmire tousse pour avertir son mari, qui finit par sortir de sa cachette et chasse l’hypocrite. Mais Tartuffe se dit maître de la maison, et Orgon, qui lui a déjà fait la donation, s’inquiète d’une cassette restée en haut."
+    },
+    {
+      "id": "acte5",
+      "label": "Acte V",
+      "file": "sources/tartuffe/05.txt",
+      "words": 3688,
+      "summary": "Orgon avoue à Cléante que la cassette contient les papiers d’un ami en fuite et qu’il l’a confiée à Tartuffe. Madame Pernelle refuse de croire à la trahison de son cher dévot jusqu’à l’arrivée de monsieur Loyal, huissier envoyé par Tartuffe, qui signifie à Orgon l’ordre de quitter sa maison dès le lendemain. Valère vient avertir Orgon que Tartuffe l’a dénoncé au prince avec la cassette, et lui offre son carrosse et de l’argent pour fuir. Tartuffe paraît avec un exempt pour faire arrêter Orgon, mais c’est lui que l’exempt emmène : le prince a reconnu en lui un fourbe déjà connu sous un autre nom, annule la donation et pardonne à Orgon. La pièce se termine sur l’annonce du mariage de Mariane et de Valère."
+    }
+  ],
+  "intro": [
+    "Le Tartuffe ou l’Imposteur est une comédie en cinq actes et en alexandrins de Molière, et son histoire commence par une interdiction. Selon la notice de l’édition Louandre, qui cite Sainte-Beuve, trois actes sont joués aux fêtes de Versailles en 1664, puis la pièce est tenue loin du public. Le 5 août 1667, Molière la risque sous le titre L’Imposteur, avec un héros rebaptisé Panulphe : elle est arrêtée dès le lendemain, et un mandement de l’archevêque de Paris en défend même la lecture sous peine d’excommunication. L’interdiction n’est levée que le 5 février 1669 ; la pièce enchaîne alors quarante-quatre représentations et paraît imprimée en mars, chez le libraire Ribou. Le texte suivi ici est celui de l’édition Louandre (Charpentier, 1910) : 1 962 vers, environ 18 900 mots.",
+    "En seconde, la pièce montre comment une comédie classique bâtit son personnage principal avant même de le faire paraître. Tartuffe n’entre en scène qu’à l’acte III : relevez ce que les autres disent de lui dans les deux premiers actes, ceux qui l’admirent comme Orgon et sa mère, et ceux qui le percent à jour comme Dorine et Damis. Repérez ensuite les moments où la vérité ne passe que par une mise en scène, quand un personnage se cache pour entendre ce qu’on ne lui dirait pas en face. Suivez enfin Cléante, le beau-frère raisonneur : ses tirades séparent la dévotion sincère de l’hypocrisie, et c’est sur cette frontière que s’est jouée la querelle de la pièce."
+  ],
+  "characters": [
+    {
+      "name": "Orgon",
+      "role": "Riche bourgeois de Paris, chef de famille, qui a recueilli Tartuffe chez lui et lui sacrifie peu à peu tous les siens."
+    },
+    {
+      "name": "Tartuffe",
+      "role": "Faux dévot sorti de la misère grâce à Orgon, qui gouverne la maison au nom du ciel et convoite la femme de son bienfaiteur."
+    },
+    {
+      "name": "Elmire",
+      "role": "Seconde épouse d’Orgon, calme et mesurée, qui éconduit Tartuffe sans éclat avant de le démasquer devant son mari."
+    },
+    {
+      "name": "Madame Pernelle",
+      "role": "Mère d’Orgon, aussi entêtée que lui dans son admiration pour Tartuffe ; elle ouvre la pièce par une suite de reproches."
+    },
+    {
+      "name": "Mariane et Valère",
+      "role": "La fille d’Orgon et le jeune homme à qui elle était promise, timides et prompts au dépit, qui ont besoin de Dorine pour se défendre."
+    },
+    {
+      "name": "Damis",
+      "role": "Fils d’Orgon, impétueux, qui veut confondre Tartuffe par la force et se fait chasser par son père."
+    },
+    {
+      "name": "Dorine",
+      "role": "Suivante de Mariane au franc-parler moqueur, qui tient tête à son maître et organise la résistance de la maison."
+    },
+    {
+      "name": "Cléante",
+      "role": "Beau-frère d’Orgon, homme de mesure, qui oppose à l’aveuglement de son beau-frère la différence entre zèle sincère et zèle affecté."
+    }
+  ],
+  "passages": [
+    {
+      "unit": "acte1",
+      "ref": "Acte I, scène 6",
+      "title": "Le masque et le visage",
+      "quote": "Hé quoi ! vous ne ferez nulle distinction\nEntre l’hypocrisie et la dévotion ?\nVous les voulez traiter d’un semblable langage,\nEt rendre même honneur au masque qu’au visage ;",
+      "note": "Cléante répond à Orgon par une série de questions oratoires qui opposent deux à deux l’hypocrisie et la dévotion, le masque et le visage. La comparaison avec les faux braves, quelques vers plus haut, donne la clé de la pièce : la piété la plus bruyante n’est pas la plus sincère. Pour un commentaire, relevez les antithèses et les parallélismes qui structurent la tirade."
+    },
+    {
+      "unit": "acte1",
+      "ref": "Acte I, scène 6",
+      "title": "Le portrait du dévot par Orgon",
+      "quote": "Chaque jour à l’église il venait, d’un air doux,\nTout vis-à-vis de moi se mettre à deux genoux.\nIl attirait les yeux de l’assemblée entière\nPar l’ardeur dont au ciel il poussait sa prière ;",
+      "note": "Orgon croit faire l’éloge de Tartuffe et décrit sans le voir une pure comédie de dévotion : les gestes sont faits pour être vus de toute l’assemblée. Le spectateur, qui n’a pas encore rencontré le personnage, le juge déjà à travers ce récit naïf. Observez les verbes d’action et les marques d’exagération."
+    },
+    {
+      "unit": "acte2",
+      "ref": "Acte II, scène 3",
+      "title": "L’éloge ironique de Dorine",
+      "quote": "Monsieur Tartuffe ! oh ! oh ! n’est-ce rien qu’on propose ?\nCertes, monsieur Tartuffe, à bien prendre la chose,\nN’est pas un homme, non, qui se mouche du pied ;",
+      "note": "Pour secouer Mariane, Dorine fait semblant d’approuver le mariage et loue Tartuffe à contresens. L’antiphrase, les exclamations et l’expression familière (se moucher du pied) font entendre le mépris sous l’éloge. La scène se joue à voix haute : l’ironie passe par le ton bien plus que par les mots."
+    },
+    {
+      "unit": "acte3",
+      "ref": "Acte III, scène 3",
+      "title": "La déclaration à Elmire",
+      "quote": "Ah ! pour être dévot, je n’en suis pas moins homme :\nEt, lorsqu’on vient à voir vos célestes appas,\nUn cœur se laisse prendre, et ne raisonne pas.",
+      "note": "Tartuffe déclare son amour à Elmire avec les mots de la religion : célestes appas, beautés éternelles, béatitude. Ce vers célèbre résume le personnage, qui se sert de sa dévotion comme d’une excuse au lieu d’une règle. Comparez le vocabulaire de cette tirade à celui des répliques pieuses de la scène précédente."
+    },
+    {
+      "unit": "acte4",
+      "ref": "Acte IV, scène 5",
+      "title": "Les accommodements avec le ciel",
+      "quote": "Le ciel défend, de vrai, certains contentements ;\nMais on trouve avec lui des accommodements.\nSelon divers besoins, il est une science\nD’étendre les liens de notre conscience,",
+      "note": "Tartuffe expose à Elmire une morale de la conscience élastique, où l’intention suffit à excuser l’acte : c’est la casuistique que Pascal avait raillée dans Les Provinciales. L’édition Louandre signale qu’à cet endroit Molière a placé une note, « C’est un scélérat qui parle », pour qu’on ne lui prête pas ces maximes. Orgon entend tout de sa cachette, ce qui fait du passage un discours à double destinataire."
+    },
+    {
+      "unit": "acte5",
+      "ref": "Acte V, scène 7",
+      "title": "Un prince ennemi de la fraude",
+      "quote": "Nous vivons sous un prince ennemi de la fraude,\nUn prince dont les yeux se font jour dans les cœurs,\nEt que ne peut tromper tout l’art des imposteurs.",
+      "note": "Au moment où tout semble perdu, l’exempt retourne la situation au nom du roi. Le dénouement vient de l’extérieur de la famille, et la tirade fait l’éloge d’un souverain qui voit clair dans les cœurs. On peut y lire un hommage à Louis XIV, qui avait finalement autorisé la pièce, et discuter en classe de ce dénouement imposé d’en haut."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "unit": "acte1",
+      "ref": "Acte I, scène 1",
+      "question": "Quelle femme Madame Pernelle cite-t-elle en exemple d’une vie exemplaire, avant que Dorine ne la traite de prude ?",
+      "answer": "Orante",
+      "evidence": "On sait qu’Orante mène une vie exemplaire ;"
+    },
+    {
+      "id": "q2",
+      "unit": "acte2",
+      "ref": "Acte II, scène 3",
+      "question": "Quel nom propre Dorine cite-t-elle avec les marionnettes parmi les plaisirs du carnaval promis à Mariane ?",
+      "answer": "Fagotin",
+      "evidence": "Le bal et la grand’bande, assavoir, deux musettes,\nEt parfois Fagotin, et les marionnettes ;"
+    },
+    {
+      "id": "q3",
+      "unit": "acte3",
+      "ref": "Acte III, scène 2",
+      "question": "En apercevant Dorine, auprès de qui Tartuffe annonce-t-il qu’il va partager les deniers de ses aumônes ?",
+      "answer": "prisonniers",
+      "evidence": "Si l’on vient pour me voir, je vais aux prisonniers\nDes aumônes que j’ai, partager les deniers."
+    },
+    {
+      "id": "q4",
+      "unit": "acte4",
+      "ref": "Acte IV, scène 5",
+      "question": "Quel jus Tartuffe propose-t-il à Elmire quand elle se met à tousser ?",
+      "answer": "réglisse",
+      "evidence": "Vous plaît-il un morceau de ce jus de réglisse ?"
+    },
+    {
+      "id": "q5",
+      "unit": "acte5",
+      "ref": "Acte V, scène 1",
+      "question": "Comment s’appelle l’ami en fuite qui a confié à Orgon la cassette de papiers ?",
+      "answer": "Argas",
+      "evidence": "C’est un dépôt qu’Argas, cet ami que je plains,\nLui-même en grand secret m’a mis entre les mains."
+    }
+  ],
+  "readingTips": [
+    "Comptez deux heures environ pour les cinq actes. L’acte II est le plus long, mais sa dernière scène, une dispute d’amoureux en répliques très courtes, se lit vite ; l’acte III, le plus bref, contient la première entrée de Tartuffe.",
+    "À chaque scène, notez qui est présent et qui écoute sans être vu : un cabinet à l’acte III, une table à l’acte IV. Les didascalies, nombreuses, signalent aussi les apartés (« à part », « bas ») et les gestes, comme la gifle manquée de l’acte II.",
+    "Plusieurs mots ont changé de sens : céans (ici, dans cette maison), un cagot ou un bigot (un faux dévot), un libertin (un esprit fort, qui doute de la religion), un exempt (un officier chargé des arrestations), un huissier à verge (un officier de justice qui signifie les actes). L’orthographe est modernisée, avec quelques formes anciennes gardées pour la rime : je voi, je croi, je vous di.",
+    "Lisez la tirade de Cléante de l’acte I, scène 6, puis relisez-la après le dénouement : le prince y montre le discernement que Cléante réclamait d’Orgon cinq actes plus tôt."
+  ],
+  "updated": "2026-10-21",
+  "datePublished": "2026-10-21"
+}

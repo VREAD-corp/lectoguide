@@ -19,8 +19,8 @@ const text = (h: string) => h.replace(/<script[\s\S]*?<\/script>/g, ' ').replace
 const guides = readdirSync(join(ROOT, 'content/guides')).map((f) => JSON.parse(readFileSync(join(ROOT, 'content/guides', f), 'utf8')));
 const norm = (s: string) => s.normalize('NFC').replace(/[’ʼ]/g, "'").replace(/\s+/g, ' ').trim();
 
-test('10 to 30 guides, every page: lang fr, title, description, one h1, canonical (except 404), unique titles', () => {
-  assert.ok(guides.length >= 10 && guides.length <= 30, `${guides.length} guides`);
+test('10 to 40 guides, every page: lang fr, title, description, one h1, canonical (except 404), unique titles', () => {
+  assert.ok(guides.length >= 10 && guides.length <= 40, `${guides.length} guides`);
   assert.ok(guides.every((g) => ['bac', 'lycee', 'college'].includes(g.programme)));
   assert.equal(pages.length, guides.length + 5);
   for (const [p, h] of Object.entries(html)) {
@@ -108,7 +108,7 @@ test('SEO: breadcrumb from outils.vread.fr on inner pages, Article by READ FRANC
   faq.mainEntity.forEach((q: { name: string; acceptedAnswer: { text: string } }, i: number) => { assert.equal(q.name, un(visible[i][0])); assert.equal(q.acceptedAnswer.text, un(visible[i][1])); });
   assert.match(html['/methode/index.html'], /Tanguy Warsmann et Vincent Cance/);
   const sm = readFileSync(join(DIST, 'sitemap.xml'), 'utf8');
-  assert.ok(sm.includes('<loc>https://outils.vread.fr/lectoguide/</loc><lastmod>2026-10-18</lastmod>'));
+  assert.ok(sm.includes('<loc>https://outils.vread.fr/lectoguide/</loc><lastmod>2026-10-21</lastmod>'));
   for (const g of guides) assert.ok(sm.includes(`<loc>https://outils.vread.fr/lectoguide/${g.slug}/</loc><lastmod>${g.updated}</lastmod>`), g.slug);
 });
 

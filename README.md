@@ -3,7 +3,9 @@
 Free reading guides at **https://outils.vread.fr/lectoguide/** for public-domain works on French school programmes: the
 8 public-domain works of the bac de français (épreuve anticipée de juin 2027; BO n° 30 of 24 July 2025), lycée classics
 (seconde: Phèdre, Le Malade imaginaire, Candide, Le Dernier Jour d'un condamné) and collège classics (26 guides on
-2026-10-17). `programme` is `bac`, `lycee` or `college`; `programmeSources` lists the official texts behind
+2026-10-17; 34 on 2026-10-21 with La Parure, Un cœur simple, Cyrano de Bergerac, Zadig, L'Île des esclaves, Le Jeu de
+l'amour et du hasard, Pierre et Jean and Tartuffe, picked from public Google suggestions such as « fiche de lecture <titre> »
+and « <titre> résumé par chapitre »). `programme` is `bac`, `lycee` or `college`; `programmeSources` lists the official texts behind
 `programmeNote` (education.gouv.fr BO pages, éduscol), shown on the page with the date they were checked. Each guide: the text unit by unit (one summary per chapter, act, letter, soir, poem or part), 5–6 key
 passages quoted word for word with their reference, and 5 one-word comprehension questions in Vread's checkpoint format,
 validated by READ FRANCE's reading engine. Bac guides link to their Lectoclasse kit page (`/lectoclasse/kits/<slug>/`). Links to Lectoclasse, Chapter Checks, Lectopoint and vread.fr.

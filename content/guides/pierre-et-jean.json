@@ -1,0 +1,227 @@
+{
+  "slug": "pierre-et-jean",
+  "title": "Pierre et Jean",
+  "author": "Guy de Maupassant",
+  "authorDates": "1850-1893",
+  "published": "1888",
+  "genre": "roman",
+  "programme": "lycee",
+  "level": "Seconde",
+  "programmeNote": "Le programme de français de seconde (BO spécial n° 1 du 22 janvier 2019, version modifiée en 2020) range le roman dans l’objet d’étude « Le roman et le récit du XVIIIe siècle au XXIe siècle ». Il y prévoit deux œuvres intégrales, dont un roman, prises dans deux siècles et deux formes de récit distincts, et au moins une lecture cursive d’une autre période ; il ne fixe aucun titre. Il propose aussi d’éclairer ces œuvres par des textes liés à leur esthétique : la préface « Le Roman », où Maupassant expose sa conception du roman réaliste, joue ce rôle à l’intérieur même du volume.",
+  "programmeSources": [
+    {
+      "label": "Programme de français de seconde (BO spécial n° 1 du 22 janvier 2019, version modifiée en 2020, sur éduscol)",
+      "url": "https://eduscol.education.gouv.fr/sites/default/files/document/04-annexe1francais2ebomodifiepdf-69834.pdf"
+    }
+  ],
+  "source": {
+    "label": "Wikisource, d’après l’édition originale, Paris, Paul Ollendorff, 1888 (avec la préface « Le Roman »)",
+    "url": "https://fr.wikisource.org/wiki/Pierre_et_Jean",
+    "licence": "Transcription Wikisource, CC BY-SA 4.0"
+  },
+  "words": 48900,
+  "units": [
+    {
+      "id": "pref",
+      "label": "Préface « Le Roman »",
+      "file": "sources/pierre-et-jean/00.txt",
+      "words": 4537,
+      "summary": "Maupassant refuse aux critiques le droit de dire ce qu’est un roman : chaque écrivain compose selon son tempérament, et le critique devrait juger l’effort de l’artiste sans lui imposer de règles. Il oppose le romancier qui arrange une aventure en vue du dénouement à celui qui veut donner une image exacte de la vie en groupant de petits faits bien choisis. Pour lui, le réaliste doit trier et composer, si bien que les réalistes de talent mériteraient d’être appelés des illusionnistes. Il compare ensuite le roman d’analyse psychologique et le roman objectif, qui cache la psychologie sous les actes des personnages, et juge le second plus vraisemblable, sans condamner le premier. Il termine sur les leçons de Louis Bouilhet et de Gustave Flaubert : la patience, l’observation prolongée d’un objet jusqu’à le distinguer de tous les autres, et la recherche du mot juste."
+    },
+    {
+      "id": "ch01",
+      "label": "Chapitre I",
+      "file": "sources/pierre-et-jean/01.txt",
+      "words": 6589,
+      "summary": "Un mardi, le père Roland, ancien bijoutier parisien retiré au Havre pour naviguer et pêcher, emmène en mer sa femme, ses deux fils et une jeune voisine veuve, Mme Rosémilly. Au retour, Pierre, l’aîné, docteur en médecine de trente ans, et Jean, le cadet, blond et calme, licencié en droit, font de la course à l’aviron un duel que Jean finit par gagner. Le soir, le notaire de la famille vient annoncer qu’un vieil ami des Roland à Paris, Léon Maréchal, est mort en laissant toute sa fortune à Jean, une vingtaine de mille francs de rentes. Le père exulte sans un mot de regret pour le mort, tandis que sa femme pleure, puis s’inquiète de voir Pierre désavantagé."
+    },
+    {
+      "id": "ch02",
+      "label": "Chapitre II",
+      "file": "sources/pierre-et-jean/02.txt",
+      "words": 2613,
+      "summary": "Le soir même, Pierre erre dans la ville, mal à l’aise sans savoir pourquoi, et finit par s’avouer, sur la jetée, qu’il est jaloux de son frère. Il trouve Jean assis au bout du môle, lui confie son envie de partir sur les navires qui arrivent du monde entier, puis le félicite avec chaleur. Il monte ensuite chez Marowsko, un vieux pharmacien polonais connu dans les hôpitaux de Paris, qui lui fait goûter une liqueur de son invention et lui demande comment la baptiser. Apprenant que Jean hérite seul, le pharmacien répète que « ça ne fera pas un bon effet », sans vouloir s’expliquer."
+    },
+    {
+      "id": "ch03",
+      "label": "Chapitre III",
+      "file": "sources/pierre-et-jean/03.txt",
+      "words": 5594,
+      "summary": "Le lendemain, Pierre décide de faire fortune comme médecin et visite des appartements ; il en trouve un très beau sur le boulevard François Ier, mais n’a pas de quoi payer le premier terme et pense à emprunter à Jean. Pendant que la famille est chez le notaire, il va voir une serveuse de brasserie qui, apprenant l’héritage, lui dit qu’il n’est pas étonnant que son frère lui ressemble si peu. Pierre comprend qu’elle croit Jean fils de Maréchal, se rappelle le mot du pharmacien et décide de prévenir son frère. Au dîner de fête, avec Mme Rosémilly et le capitaine Beausire, il gâche la joie de son père en lui parlant des dangers du vin, croise le regard de la jeune veuve qui le juge jaloux, puis boit beaucoup et ne dit rien à Jean."
+    },
+    {
+      "id": "ch04",
+      "label": "Chapitre IV",
+      "file": "sources/pierre-et-jean/04.txt",
+      "words": 5238,
+      "summary": "Au réveil, Pierre attribue ses soupçons à sa jalousie et se montre aimable ; il passe l’après-midi en mer sur la barque familiale, jusqu’à ce que la brume les oblige à rentrer. Le soir, il apprend que sa mère a loué pour Jean l’appartement qu’il voulait, et que Maréchal est devenu l’ami de la famille l’année où lui-même, à trois ans, avait la scarlatine. Pourquoi cet homme, qui l’a connu le premier, a-t-il tout laissé au cadet ? La nuit, sur la jetée noyée de brouillard, au milieu des cris des sirènes, Pierre rassemble ses souvenirs de Maréchal, se rappelle qu’il était blond comme Jean et qu’un petit portrait de lui a disparu du salon de Paris. Il passe de la certitude que sa mère a aimé cet homme au remords de l’avoir soupçonnée, puis rentre se coucher en espérant s’être trompé."
+    },
+    {
+      "id": "ch05",
+      "label": "Chapitre V",
+      "file": "sources/pierre-et-jean/05.txt",
+      "words": 5278,
+      "summary": "Réveillé dans la nuit, Pierre ne doute plus ; il entre sans bruit dans la chambre de Jean endormi pour chercher sur son visage une ressemblance avec Roland, et n’en trouve aucune. Au matin, avant de partir pour la journée à Trouville, il demande à sa mère ce qu’est devenu le portrait de Maréchal, et elle répond qu’elle ne sait pas trop. Sur la plage pleine de monde, il ne voit plus dans les femmes élégantes que coquetterie et tromperie. Au dîner, le père raconte que sa femme a sorti ce portrait de son secrétaire quelques jours plus tôt : Pierre comprend qu’elle a menti. Elle va le chercher, Pierre compare la miniature au visage de Jean, et sa mère comprend qu’il soupçonne ; quand Mme Rosémilly sonne, il cache le portrait sous la pendule et s’en va."
+    },
+    {
+      "id": "ch06",
+      "label": "Chapitre VI",
+      "file": "sources/pierre-et-jean/06.txt",
+      "words": 4977,
+      "summary": "Pendant deux semaines, Pierre tourmente sa mère par des allusions ; elle a des crises de nerfs qu’il examine froidement et qu’il provoque, tout en souffrant de ne plus pouvoir l’aimer. Pour fêter l’installation de Jean, la famille part en voiture déjeuner à Saint-Jouin avec Mme Rosémilly et le capitaine Beausire. À marée basse, tous pêchent les salicoques dans les rochers, et Jean déclare son amour à la jeune veuve, qui accepte de l’épouser avec un calme très pratique. Restée sur la plage avec Pierre, Mme Roland l’entend ricaner sur ce mariage et s’enfuit vers Jean, qui lui annonce la nouvelle ; elle l’approuve et l’embrasse en pleurant."
+    },
+    {
+      "id": "ch07",
+      "label": "Chapitre VII",
+      "file": "sources/pierre-et-jean/07.txt",
+      "words": 5258,
+      "summary": "Au retour, on prend le thé dans le nouvel appartement de Jean, que sa mère a décoré avec soin : galerie vitrée, salon de consultation, chambre au grand lit, salle à manger ronde à la japonaise. Restés seuls pendant que leur mère prépare la chambre, les deux frères se querellent quand Pierre appelle encore Mme Rosémilly « la veuve » ; Jean l’accuse d’être jaloux depuis l’enfance, et Pierre lui jette qu’on le dit fils de Maréchal, puis s’enfuit. Jean trouve sa mère étendue sur le lit, le visage enfoui dans l’oreiller, et elle lui avoue que c’est vrai. Elle veut partir ; il la retient, et elle lui raconte son amour pour Maréchal, qui a duré plus de dix ans, avant de lui demander d’accepter d’être son fils. Jean la supplie de rester, promet de la délivrer de Pierre et la raccompagne chez elle vers trois heures du matin."
+    },
+    {
+      "id": "ch08",
+      "label": "Chapitre VIII",
+      "file": "sources/pierre-et-jean/08.txt",
+      "words": 4286,
+      "summary": "Seul, Jean se demande s’il peut garder l’héritage ; après bien des détours, il décide de laisser à Pierre la fortune de Roland et de garder celle de Maréchal. Pour éloigner son frère, il pense à une place de médecin sur un grand paquebot de la Compagnie transatlantique, la Lorraine, et en parle au déjeuner : Pierre comprend, se déclare candidat et propose de demander des lettres à ses anciens professeurs. Jean emmène ensuite sa mère chez Mme Rosémilly, qui confirme son accord ; on règle le mariage sans consulter le père Roland. Chez Jean, Mme Roland range le linge de son fils, puis pose sur la cheminée le portrait enveloppé de papier, que Jean va enfermer dans un tiroir de son bureau."
+    },
+    {
+      "id": "ch09",
+      "label": "Chapitre IX",
+      "file": "sources/pierre-et-jean/09.txt",
+      "words": 4530,
+      "summary": "Pierre est nommé médecin de la Lorraine. Avant de partir, il annonce la nouvelle au vieux pharmacien, qui l’accuse de l’abandonner, puis à la serveuse de brasserie, qui l’écoute à peine. Le matin du départ, il descend dans l’entrepont où s’entassent des centaines d’émigrants. Ses parents, son frère, Mme Rosémilly et le capitaine Beausire viennent le saluer dans sa cabine, puis montent sur la barque familiale pour voir passer le paquebot au large des jetées ; Pierre, seul à l’arrière, envoie des baisers à sa mère. De retour sur le quai, Mme Roland apprend à son mari le mariage de Jean, qu’il approuve aussitôt."
+    }
+  ],
+  "intro": [
+    "Pierre et Jean est le quatrième roman de Guy de Maupassant. D’après la table de La Nouvelle Revue, il y paraît d’abord dans deux tomes, celui de novembre-décembre 1887 et celui de janvier-février 1888, puis en volume chez Paul Ollendorff en 1888, précédé d’une longue étude, « Le Roman », datée de La Guillette, à Étretat, septembre 1887. Le roman compte neuf chapitres et environ 44 000 mots ; la préface en ajoute 4 500, et Maupassant y appelle son livre « le petit roman qui suit ». Le texte suivi ici est celui de l’édition Ollendorff de 1888, transcrit et validé sur Wikisource. L’action tient en deux mois environ, de la fin de l’été au départ d’un paquebot le 7 octobre, dans une famille de petits bourgeois parisiens retirés au Havre.",
+    "En seconde, le roman se prête à l’étude du point de vue. Du chapitre II au chapitre V, le récit suit presque toujours Pierre et ses pensées ; à partir du VI, il passe aussi par Jean et par leur mère. En lisant, distinguez ce que Pierre sait de ce qu’il déduit : une date, la couleur d’une barbe, un portrait rangé, une réponse trop lente lui servent de preuves, et il les assemble lui-même « ainsi qu’on dresse un réquisitoire ». Mettez ensuite la préface en regard du roman : Maupassant y défend un roman qui cache la psychologie sous les gestes, et le livre montre souvent un sentiment par un regard détourné ou un objet qu’on déplace."
+  ],
+  "characters": [
+    {
+      "name": "Pierre Roland",
+      "role": "fils aîné, trente ans, docteur en médecine fraîchement reçu, brun, nerveux et jaloux de son frère ; c’est lui qui découvre le secret de leur mère."
+    },
+    {
+      "name": "Jean Roland",
+      "role": "fils cadet, de cinq ans plus jeune, blond et paisible, licencié en droit, qui hérite de Maréchal et s’installe comme avocat."
+    },
+    {
+      "name": "Mme Roland (Louise)",
+      "role": "la mère, quarante-huit ans, femme d’ordre et de rêverie, qui a aimé Maréchal pendant plus de dix ans."
+    },
+    {
+      "name": "M. Roland",
+      "role": "le père, ancien bijoutier de Paris retiré au Havre, passionné de pêche et de navigation, bruyant et sans finesse."
+    },
+    {
+      "name": "Mme Rosémilly",
+      "role": "voisine des Roland, veuve à vingt-trois ans d’un capitaine au long cours, femme de bon sens que Jean demande en mariage."
+    },
+    {
+      "name": "Léon Maréchal",
+      "role": "ancien ami des Roland à Paris, chef de bureau aux finances, mort sans héritier direct ; il lègue toute sa fortune à Jean."
+    },
+    {
+      "name": "Le capitaine Beausire",
+      "role": "ancien long-courrier devenu l’ami de pêche du père Roland, bon vivant et grand conteur."
+    },
+    {
+      "name": "Marowsko",
+      "role": "vieux pharmacien polonais, venu de Paris s’établir au Havre sur la promesse de Pierre de lui amener des clients."
+    }
+  ],
+  "passages": [
+    {
+      "unit": "pref",
+      "ref": "Préface « Le Roman »",
+      "title": "Les réalistes, des illusionnistes",
+      "quote": "Faire vrai consiste donc à donner l’illusion complète du vrai, suivant la logique ordinaire des faits, et non à les transcrire servilement dans le pêle-mêle de leur succession. J’en conclus que les Réalistes de talent devraient s’appeler plutôt des Illusionnistes.",
+      "note": "Maupassant tire la conclusion de son raisonnement sur le choix des détails : l’artiste trie et prépare au lieu de tout copier. La formule finale, avec ses majuscules, retourne le mot « réaliste » contre ceux qui le prennent au pied de la lettre. À mettre en regard du roman : quels petits faits Maupassant retient-il pour faire naître le soupçon de Pierre ?"
+    },
+    {
+      "unit": "ch03",
+      "ref": "Chapitre III",
+      "title": "« Ça n’est pas étonnant »",
+      "quote": "— Eh bien ! il a de la chance ton frère d’avoir des amis de cette espèce-là ! Vrai, ça n’est pas étonnant qu’il te ressemble si peu !",
+      "note": "Une phrase de serveuse, dite « avec un sourire drôle », déclenche tout le drame. Le narrateur ne la commente pas : c’est Pierre qui, quelques lignes plus loin, en tire le sens, pendant que la fille reprend « un air bête et naïf ». Le passage montre comment le soupçon vient de l’extérieur, d’une parole banale, avant de s’installer dans l’esprit du personnage."
+    },
+    {
+      "unit": "ch04",
+      "ref": "Chapitre IV",
+      "title": "Le réquisitoire de la jetée",
+      "quote": "S’était-elle donnée ?… Mais oui, puisque cet homme n’avait pas eu d’autre amie ; — mais oui, puisqu’il était resté fidèle à la femme éloignée et vieillie, — mais oui, puisqu’il avait laissé toute sa fortune à son fils, à leur fils !…",
+      "note": "La nuit, dans le brouillard, Pierre raisonne comme un procureur qui accuse sa mère. L’anaphore de « mais oui, puisque » enchaîne des arguments qui reposent tous sur une supposition. Pour une lecture linéaire, suivez le glissement du discours indirect libre vers le cri final, « à leur fils », où le doute se change en certitude."
+    },
+    {
+      "unit": "ch05",
+      "ref": "Chapitre V",
+      "title": "Regarder sa mère",
+      "quote": "Il comprenait à présent que, l’aimant, il ne l’avait jamais regardée. C’était bien elle pourtant, et il n’ignorait rien des plus petits détails de son visage ; mais ces petits détails il les apercevait nettement pour la première fois.",
+      "note": "Avant de partir pour Trouville, Pierre voit sa mère comme une inconnue. Le paradoxe (aimer sans regarder) résume le chapitre : le soupçon change le fils en observateur, presque en médecin qui examine un malade. Ce regard neuf prépare la scène du soir, où il compare le portrait et le visage de Jean."
+    },
+    {
+      "unit": "ch07",
+      "ref": "Chapitre VII",
+      "title": "L’aveu à Jean",
+      "quote": "dis-toi bien que si j’ai été la maîtresse de ton père, j’ai été encore plus sa femme, sa vraie femme, que je n’en ai pas honte au fond du cœur, que je ne regrette rien, que je l’aime encore tout mort qu’il est",
+      "note": "Dans sa longue réplique, Mme Roland ne demande pas pardon : elle défend son amour. « Ton père » désigne ici Maréchal, et ce changement de mot dit à lui seul le bouleversement de la scène. Observez les propositions en « que je » qui s’accumulent, puis les phrases qui se brisent en points de suspension un peu plus loin."
+    },
+    {
+      "unit": "ch09",
+      "ref": "Chapitre IX",
+      "title": "Une petite fumée grise",
+      "quote": "sa femme se retourna encore une fois pour jeter un dernier regard sur la haute mer ; mais elle ne vit plus rien qu’une petite fumée grise, si lointaine, si légère qu’elle avait l’air d’un peu de brume.",
+      "note": "Le roman s’achève sur une image, sans commentaire du narrateur. Juste avant, le père Roland apprend le mariage de Jean et l’approuve sans rien comprendre ; la mère, elle, regarde s’effacer le fils qu’elle a perdu. Cette brume rappelle le brouillard du chapitre IV, où le soupçon est né : la comparaison des deux scènes fait un bon sujet d’écrit."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "unit": "ch02",
+      "ref": "Chapitre II, chez le pharmacien",
+      "question": "Quel nom Pierre conseille-t-il de donner à la nouvelle liqueur du vieux pharmacien ?",
+      "answer": "groseillette",
+      "evidence": "Le docteur contesta encore la valeur de ce nom, bien qu’il l’eût trouvé, et il conseilla simplement « groseillette », que Marowsko déclara admirable."
+    },
+    {
+      "id": "q2",
+      "unit": "ch04",
+      "ref": "Chapitre IV, la nuit sur la jetée",
+      "question": "Dans quelle rue de Paris se trouvait l’appartement où Maréchal recevait les deux frères à dîner ?",
+      "answer": "Tronchet",
+      "evidence": "Il le retrouvait peu à peu, tout entier, dans son appartement de la rue Tronchet quand il les recevait à sa table, son frère et lui."
+    },
+    {
+      "id": "q3",
+      "unit": "ch06",
+      "ref": "Chapitre VI, l’arrivée à Saint-Jouin",
+      "question": "Comment appelle-t-on la patronne de l’auberge où la famille déjeune à Saint-Jouin ?",
+      "answer": "Alphonsine",
+      "evidence": "La patronne, qu’on appelle la belle Alphonsine, s’en vint, souriante, sur sa porte, et tendit la main aux deux dames qui hésitaient devant le marchepied trop haut."
+    },
+    {
+      "id": "q4",
+      "unit": "ch07",
+      "ref": "Chapitre VII, la visite de l’appartement",
+      "question": "En quelle étoffe est la tenture de la chambre à coucher que Mme Roland a préparée pour Jean ?",
+      "answer": "cretonne",
+      "evidence": "La tenture était en cretonne de Rouen qui imitait la vieille toile normande."
+    },
+    {
+      "id": "q5",
+      "unit": "ch09",
+      "ref": "Chapitre IX, avant le départ",
+      "question": "Quel est le nom du médecin de la Picardie que Pierre va interroger à bord sur sa future vie ?",
+      "answer": "Pirette",
+      "evidence": "Le Dr Pirette étant à bord, il s’y rendit, et il fut reçu dans une petite chambre de paquebot par un jeune homme à barbe blonde qui ressemblait à son frère."
+    }
+  ],
+  "readingTips": [
+    "Comptez cinq heures environ pour le roman et quarante minutes pour la préface. Le chapitre II est le plus court ; les chapitres III à VII ont des longueurs voisines.",
+    "Tenez une liste des indices que Pierre accumule contre sa mère, chapitre par chapitre, en notant pour chacun s’il s’agit d’un fait, d’un souvenir ou d’une interprétation.",
+    "Relisez à la suite la nuit sur la jetée (fin du chapitre IV) et la scène du portrait (fin du chapitre V) : on y voit le doute devenir certitude.",
+    "Lisez la préface après le roman : vous y reconnaîtrez des principes appliqués dans le livre, comme le tri des détails et une psychologie montrée par les gestes plutôt qu’expliquée."
+  ],
+  "updated": "2026-10-21",
+  "datePublished": "2026-10-21"
+}

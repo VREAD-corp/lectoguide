@@ -1,0 +1,170 @@
+{
+  "slug": "le-jeu-de-l-amour-et-du-hasard",
+  "title": "Le Jeu de l’amour et du hasard",
+  "author": "Marivaux",
+  "authorDates": "1688-1763",
+  "published": "1730",
+  "genre": "comédie en trois actes et en prose",
+  "programme": "lycee",
+  "level": "Seconde",
+  "programmeNote": "Le programme de français de seconde (BO spécial n° 1 du 22 janvier 2019, version modifiée en 2020) réserve au théâtre l’objet d’étude « Le théâtre du XVIIe siècle au XXIe siècle » ; il y prévoit l’étude en œuvres intégrales de deux pièces qui diffèrent par le genre et par le siècle, et la lecture cursive d’au moins une pièce d’une autre période. Comédie de 1730, Le Jeu de l’amour et du hasard peut ainsi faire pendant à une tragédie du XVIIe siècle ou à une pièce contemporaine. Parmi les exercices recommandés, la lecture expressive attentive « au rythme et à l’enchaînement des répliques » trouve ici un terrain favorable, puisque les personnages se renvoient sans cesse les mots les uns des autres. Le programme laisse le choix des titres au professeur.",
+  "programmeSources": [
+    {
+      "label": "Programme de français de seconde (BO spécial n° 1 du 22 janvier 2019, version modifiée en 2020, sur éduscol)",
+      "url": "https://eduscol.education.gouv.fr/sites/default/files/document/04-annexe1francais2ebomodifiepdf-69834.pdf"
+    }
+  ],
+  "source": {
+    "label": "Wikisource, d’après Marivaux, Théâtre, volume I, Nelson, 1915",
+    "url": "https://fr.wikisource.org/wiki/Le_Jeu_de_l%E2%80%99amour_et_du_hasard",
+    "licence": "Transcription Wikisource, CC BY-SA 4.0"
+  },
+  "words": 15732,
+  "units": [
+    {
+      "id": "acte1",
+      "label": "Acte I",
+      "file": "sources/le-jeu-de-l-amour-et-du-hasard/01.txt",
+      "words": 5089,
+      "summary": "Silvia confie à Lisette qu’elle redoute le mariage : elle a vu des hommes charmants en société devenir sombres ou glacés chez eux, et elle raconte avoir trouvé la femme de Tersandre en larmes après une querelle. Monsieur Orgon lui annonce l’arrivée de Dorante, fils d’un vieil ami, en lui laissant toute liberté de le refuser, et Silvia obtient de prendre la place de Lisette pour observer son prétendu. Seul avec Mario, Orgon lit la lettre du père de Dorante : le jeune homme a eu la même idée et se présentera sous l’habit de son valet, et le père et le fils décident de laisser faire sans prévenir Silvia. Dorante arrive sous le nom de Bourguignon, Mario oblige les deux faux domestiques à se tutoyer et se dit lui-même amoureux de Lisette. Restés seuls, Silvia et Dorante s’étonnent l’un de l’autre et ne parviennent pas à se quitter, puis Arlequin entre sous le nom de son maître, avec des manières si grossières que Dorante se reproche de s’être fié à lui."
+    },
+    {
+      "id": "acte2",
+      "label": "Acte II",
+      "file": "sources/le-jeu-de-l-amour-et-du-hasard/02.txt",
+      "words": 5834,
+      "summary": "Lisette avertit Orgon que le prétendu s’éprend d’elle d’heure en heure ; Orgon, qui veut prolonger le jeu, lui permet de l’épouser si elle y parvient et lui défend de l’éconduire au nom de Silvia. Arlequin fait à Lisette une cour pressante et maladroite, lui baise la main et obtient qu’elle lui dise qu’elle l’aime ; ils se jurent un amour durable. Silvia, qui veut se débarrasser de ce prétendu qu’elle trouve grossier, s’emporte quand Lisette soupçonne le valet de l’avoir prévenue contre son maître et s’étonne de la voir le défendre ; restée seule, elle s’indigne encore de ce qu’elle a cru entendre. Bourguignon lui déclare de nouveau son amour et se jette à ses genoux au moment où Orgon et Mario entrent ; tous deux la pressent ensuite de questions et s’amusent de sa colère. À la fin de l’acte, Dorante lui avoue qu’il est le vrai Dorante et que l’homme qui courtise sa « maîtresse » est son valet ; Silvia lui cache qui elle est et demande à Mario de feindre de l’aimer."
+    },
+    {
+      "id": "acte3",
+      "label": "Acte III",
+      "file": "sources/le-jeu-de-l-amour-et-du-hasard/03.txt",
+      "words": 4809,
+      "summary": "Dorante menace de chasser Arlequin, qui le supplie de le laisser épouser celle qu’il croit être la fille d’Orgon ; Dorante finit par admettre qu’il aille d’abord lui avouer sa condition. Mario, qui joue au rival, défend à Bourguignon de parler d’amour à Lisette et le rend jaloux, puis Silvia explique à son père et à son frère qu’elle attend de Dorante qu’il l’épouse en la croyant suivante, au terme d’un combat entre l’amour et la raison. Avec l’accord d’Orgon, Lisette et Arlequin s’avouent l’un à l’autre leur condition réelle, en rient et décident de ne détromper personne. Dorante annonce qu’il va partir en laissant un billet, revient sur ses pas et, après une longue réplique de Silvia sur la distance qui les sépare, lui offre son cœur et sa main malgré sa condition. Silvia fait alors entrer son père et se fait reconnaître, et Orgon montre à Dorante la lettre qui l’avait averti de tout."
+    }
+  ],
+  "intro": [
+    "Le Jeu de l’amour et du hasard est une comédie en trois actes et en prose de Marivaux, représentée pour la première fois à Paris par les Comédiens-Italiens le 23 janvier 1730, comme l’indique la page de titre de l’édition suivie. Marivaux a donné à cette troupe la plupart de ses comédies : Silvia et Mario y portent les noms de scène de deux de ses comédiens, et Arlequin est le valet traditionnel de la comédie italienne. Une note de l’édition signale qu’au Théâtre-Français ce valet a pris le nom de Pasquin. L’action se passe en une journée, à Paris, dans la maison de Monsieur Orgon, et le texte compte environ 15 700 mots. Il est reproduit ici d’après le premier volume du Théâtre de Marivaux publié par Nelson en 1915, dans la transcription validée de Wikisource.",
+    "En seconde, la pièce se lit comme une comédie du XVIIIe siècle, à rapprocher d’une pièce d’un autre siècle et d’un autre genre. Le spectateur connaît les deux travestissements dès la quatrième scène de l’acte I : la curiosité se porte alors sur la façon dont Silvia et Dorante s’avouent, d’abord à eux-mêmes, ce qu’ils éprouvent. Relevez les apartés, très nombreux, qui font entendre au public ce qu’un personnage tait à son interlocuteur, et les répliques qui reprennent un mot de la précédente pour le retourner. Observez aussi la question du rang : Arlequin et Lisette jouent les maîtres sans en avoir le langage, Dorante et Silvia trahissent leur éducation sous leur déguisement, et le dénouement marie chacun dans sa condition."
+  ],
+  "characters": [
+    {
+      "name": "Silvia",
+      "role": "fille de Monsieur Orgon, qui prend l’habit et le nom de sa femme de chambre pour observer le prétendu qu’on lui destine."
+    },
+    {
+      "name": "Dorante",
+      "role": "le prétendu, fils d’un vieil ami d’Orgon, qui arrive sous la livrée de son propre valet et sous le nom de Bourguignon."
+    },
+    {
+      "name": "Lisette",
+      "role": "femme de chambre de Silvia ; elle joue sa maîtresse et prend vite goût à son rôle auprès du faux Dorante."
+    },
+    {
+      "name": "Arlequin",
+      "role": "valet de Dorante, qui se fait passer pour son maître sans parvenir à en prendre les manières."
+    },
+    {
+      "name": "Monsieur Orgon",
+      "role": "vieux gentilhomme, père de Silvia et de Mario ; averti des deux déguisements par une lettre, il laisse le jeu aller jusqu’au bout."
+    },
+    {
+      "name": "Mario",
+      "role": "frère de Silvia, mis dans la confidence ; il se pose en rival de Bourguignon pour éprouver Dorante."
+    }
+  ],
+  "passages": [
+    {
+      "unit": "acte1",
+      "ref": "Acte I, scène 1",
+      "title": "Le masque des maris",
+      "quote": "Oui, fiez-vous-y à cette physionomie si douce, si prévenante, qui disparaît un quart d’heure après pour faire place à un visage sombre, brutal, farouche qui devient l’effroi de toute une maison !",
+      "note": "Dans la scène d’exposition, Silvia appuie sa peur du mariage sur des portraits d’hommes de sa connaissance. L’image du visage qu’on change en rentrant chez soi annonce le sujet de la pièce : peut-on connaître quelqu’un sous l’apparence qu’il donne ? Relevez l’accumulation d’adjectifs et l’exclamation, qui font de la réplique une petite satire."
+    },
+    {
+      "unit": "acte1",
+      "ref": "Acte I, scène 7",
+      "title": "Un valet qui ôterait son chapeau",
+      "quote": "j’ai toujours envie d’ôter mon chapeau de dessus ma tête, et quand je te tutoie, il me semble que je jure ; enfin j’ai un penchant à te traiter avec des respects qui te feraient rire.",
+      "note": "Dorante, déguisé, décrit à la fausse Lisette la gêne qu’il éprouve à la tutoyer. Le spectateur, qui sait tout, entend dans ce trouble le signe que le rang et l’éducation percent sous le costume. Le passage se prête à une étude du double sens : chaque compliment vise juste sans que le personnage le sache."
+    },
+    {
+      "unit": "acte2",
+      "ref": "Acte II, scène 9",
+      "title": "Ni haine ni amour",
+      "quote": "je ne te veux ni bien ni mal ; je ne te hais, ni ne t’aime, ni ne t’aimerai, à moins que l’esprit ne me tourne.",
+      "note": "Silvia croit fermer la porte, mais la gradation des négations et la restriction finale disent le contraire de ce qu’elle affirme. Dorante la reprend deux fois, jusqu’à la supplier de la lui répéter cent fois. Un bon point de départ pour étudier le marivaudage, ce langage où l’aveu passe par la dénégation."
+    },
+    {
+      "unit": "acte2",
+      "ref": "Acte II, scène 12",
+      "title": "L’aveu de Dorante",
+      "quote": "Je hais la maîtresse dont je devais être l’époux, et j’aime la suivante qui ne devait trouver en moi qu’un nouveau maître.",
+      "note": "Dorante révèle son identité à celle qu’il croit être une domestique, et Silvia, en aparté, comprend enfin ce qu’elle ressent. La phrase repose sur un parallélisme qui oppose les deux femmes qu’il croit voir. L’ironie dramatique est double : il parle de la même personne, et le public le sait."
+    },
+    {
+      "unit": "acte3",
+      "ref": "Acte III, scène 4",
+      "title": "Le combat entre l’amour et la raison",
+      "quote": "Mais il faut que j’arrache ma victoire, et non pas qu’il me la donne ; je veux un combat entre l’amour et la raison.",
+      "note": "Silvia sait qui est Dorante, mais elle prolonge l’épreuve pour qu’il l’épouse en la croyant suivante. Orgon parle aussitôt de vanité d’amour-propre : la scène permet de discuter la cruauté du jeu et ce qu’il révèle de la place des femmes dans le choix d’un mari."
+    },
+    {
+      "unit": "acte3",
+      "ref": "Acte III, scène 8",
+      "title": "La main offerte",
+      "quote": "Il n’est ni rang, ni naissance, ni fortune qui ne disparaisse devant une âme comme la tienne. J’aurais honte que mon orgueil tînt encore contre toi, et mon cœur et ma main t’appartiennent.",
+      "note": "Dorante cède après la longue réplique de Silvia sur la distance qui les sépare. Le retour au tutoiement et l’énumération des obstacles balayés font de cette déclaration le sommet de l’épreuve. On peut la confronter au dénouement, qui ne demande à Dorante aucun sacrifice réel puisque la suivante est une fille de condition."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "unit": "acte1",
+      "ref": "Acte I, scène 1",
+      "question": "Quel est le nom de l’homme dont tout le monde vantait la physionomie de galant homme et qui, marié, ne montre chez lui qu’un visage effrayant, selon Silvia ?",
+      "answer": "Ergaste",
+      "evidence": "Ergaste s’est marié ; sa femme, ses enfants, son domestique ne lui connaissent encore que ce visage-là, pendant qu’il promène partout ailleurs cette physionomie si aimable que nous lui voyons, et qui n’est qu’un masque qu’il prend au sortir de chez lui."
+    },
+    {
+      "id": "q2",
+      "unit": "acte1",
+      "ref": "Acte I, scène 5",
+      "question": "Selon le valet qui annonce l’arrivée d’un domestique, par qui ce domestique est-il suivi ?",
+      "answer": "crocheteur",
+      "evidence": "Monsieur, il vient d’arriver un domestique qui demande à vous parler ; il est suivi d’un crocheteur qui porte une valise."
+    },
+    {
+      "id": "q3",
+      "unit": "acte2",
+      "ref": "Acte II, scène 5",
+      "question": "Selon Arlequin, quel objet Lisette aurait-elle pu tenir à la main en descendant à la cave sans cesser d’être sa princesse ?",
+      "answer": "martinet",
+      "evidence": "Hélas ! quand vous ne seriez que Perrette ou Margot ; quand je vous aurais vue, le martinet à la main descendre à la cave, vous auriez toujours été ma princesse."
+    },
+    {
+      "id": "q4",
+      "unit": "acte2",
+      "ref": "Acte II, scène 11",
+      "question": "Par quel nom Silvia désigne-t-elle ironiquement le « volontiers » que Mario lui rappelle ?",
+      "answer": "apostille",
+      "evidence": "L’heureuse apostille, mon frère !"
+    },
+    {
+      "id": "q5",
+      "unit": "acte3",
+      "ref": "Acte III, scène 6",
+      "question": "Quel métier Lisette s’attribue-t-elle auprès de « madame » quand elle avoue à Arlequin qui elle est ?",
+      "answer": "coiffeuse",
+      "evidence": "Le soldat d’antichambre de monsieur vaut bien la coiffeuse de madame."
+    }
+  ],
+  "readingTips": [
+    "Comptez une heure et demie à deux heures. L’acte II est le plus long : la scène 8, où Silvia reste seule, offre un bon endroit pour s’arrêter.",
+    "Tenez à côté de vous un petit tableau : à chaque scène, notez qui sait quoi sur les deux déguisements. Orgon et Mario savent tout dès l’acte I ; Silvia apprend la vérité à la fin de l’acte II, Dorante seulement à la dernière scène.",
+    "Lisez à voix haute un échange de l’acte I, scène 7, entre Silvia et Bourguignon, en soulignant chaque mot que l’un reprend à l’autre.",
+    "Une fois la pièce finie, relisez la première scène : comparez les craintes de Silvia sur les maris avec l’épreuve qu’elle impose à Dorante dans l’acte III."
+  ],
+  "updated": "2026-10-21",
+  "datePublished": "2026-10-21"
+}

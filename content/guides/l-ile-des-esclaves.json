@@ -1,0 +1,184 @@
+{
+  "slug": "l-ile-des-esclaves",
+  "title": "L’Île des esclaves",
+  "author": "Marivaux",
+  "authorDates": "1688-1763",
+  "published": "1725",
+  "genre": "comédie en un acte et en prose",
+  "programme": "lycee",
+  "level": "Seconde",
+  "programmeNote": "Le programme de français de seconde (BO spécial n° 1 du 22 janvier 2019, version modifiée en 2020) consacre l’un de ses objets d’étude au genre dramatique, sous le titre « Le théâtre du XVIIe siècle au XXIe siècle ». Le professeur y fait lire en œuvres intégrales deux pièces qui diffèrent à la fois par le genre et par le siècle, et ajoute la lecture cursive d’une pièce d’une autre période ; le texte demande aussi de tenir compte de la représentation et de la mise en scène. Une comédie en un acte du XVIIIe siècle comme celle de Marivaux peut ainsi être associée, par exemple, à une tragédie du XVIIe siècle ; le programme laisse le choix des titres au professeur.",
+  "programmeSources": [
+    {
+      "label": "Programme de français de seconde (BO spécial n° 1 du 22 janvier 2019, version modifiée en 2020, sur éduscol)",
+      "url": "https://eduscol.education.gouv.fr/sites/default/files/document/04-annexe1francais2ebomodifiepdf-69834.pdf"
+    }
+  ],
+  "source": {
+    "label": "Wikisource, d’après les Œuvres complètes de Marivaux, édition Pierre Duviquet, Haut Cœur et Gayet jeune, tome 4 (tirage de 1830)",
+    "url": "https://fr.wikisource.org/wiki/L%E2%80%99%C3%8Ele_des_esclaves",
+    "licence": "Transcription Wikisource, CC BY-SA 4.0"
+  },
+  "words": 8825,
+  "units": [
+    {
+      "id": "s1",
+      "label": "Scènes 1 et 2",
+      "file": "sources/l-ile-des-esclaves/01.txt",
+      "words": 2012,
+      "summary": "Après un naufrage, Iphicrate, général athénien, et son esclave Arlequin se retrouvent seuls sur une côte ; leurs compagnons se sont noyés ou ont pris place dans la chaloupe. Iphicrate apprend à Arlequin qu’ils ont abordé l’île où vivent depuis un siècle des esclaves grecs révoltés, qui tuent les maîtres ou les réduisent en esclavage. Arlequin refuse alors de le suivre, boit, chante et se moque de lui, et Iphicrate le menace de son épée. Trivelin arrive avec des insulaires et deux femmes sauvées du même vaisseau, fait désarmer Iphicrate et remet l’arme à Arlequin, puis ordonne aux deux hommes d’échanger leurs noms. Il expose la loi de l’île : les maîtres sont mis en esclavage pendant trois ans pour être guéris de leur dureté, et maîtres et esclaves doivent changer d’habit."
+    },
+    {
+      "id": "s2",
+      "label": "Scène 3",
+      "file": "sources/l-ile-des-esclaves/02.txt",
+      "words": 1922,
+      "summary": "Restée avec Trivelin et sa maîtresse Euphrosine, Cléantis donne son nom et récite la liste des injures qui lui servaient de surnoms. Trivelin lui demande de faire, devant l’intéressée, le portrait de sa maîtresse, afin que celle-ci se reconnaisse et se corrige. Cléantis la montre vaine et coquette à toute heure : le soin du visage selon qu’elle a bien ou mal dormi, les plaintes de fatigue pour se faire excuser, le manège qui a conduit un cavalier à lui offrir son cœur, la flatterie qu’elle récompensait pendant une semaine. Euphrosine supplie qu’on la laisse partir ; en s’éloignant, Cléantis annonce encore d’autres traits, sur le négligé qui marque la taille et sur l’entrée dans une loge au spectacle."
+    },
+    {
+      "id": "s3",
+      "label": "Scènes 4 à 6",
+      "file": "sources/l-ile-des-esclaves/03.txt",
+      "words": 2324,
+      "summary": "Seul avec Euphrosine, Trivelin exige qu’elle reconnaisse la justesse du portrait ; après des détours, elle avoue qu’il lui ressemble et qu’il est un peu risible, et Trivelin lui promet une délivrance prochaine. Arlequin revient, ravi du vin de la république, et fait à son tour un portrait rapide de son ancien maître : étourdi, dépensier, emprunteur, moqueur ; Iphicrate finit par l’admettre. Cléantis et Arlequin décident ensuite de se faire la cour à la manière du grand monde, éloignent leurs nouveaux serviteurs et jouent la galanterie jusqu’à ce qu’Arlequin, à genoux, éclate de rire. Ils changent alors de projet : Cléantis épousera Iphicrate et Arlequin Euphrosine, et chacun ira plaider pour l’autre."
+    },
+    {
+      "id": "s4",
+      "label": "Scènes 7 à 9",
+      "file": "sources/l-ile-des-esclaves/04.txt",
+      "words": 1593,
+      "summary": "Cléantis ordonne à Euphrosine d’aimer Arlequin, qui porte désormais le nom d’Iphicrate, et le lui présente comme un homme simple et franc. Arlequin se déclare maladroitement ; Euphrosine le repousse, puis lui demande, dans une longue réplique, de ne pas abuser de son malheur, et il en reste sans voix. Iphicrate, persuadé qu’on l’a trompé, dit à Arlequin qu’il se meurt et lui reproche son ingratitude, en rappelant qu’ils ont grandi ensemble chez son père. Arlequin répond qu’il souffre depuis plus longtemps que lui, lui pardonne les coups reçus et promet de demander qu’on le laisse repartir ; Iphicrate reconnaît ses torts, et Arlequin lui rend ses habits en lui demandant pardon."
+    },
+    {
+      "id": "s5",
+      "label": "Scènes 10 et 11",
+      "file": "sources/l-ile-des-esclaves/05.txt",
+      "words": 974,
+      "summary": "Cléantis arrive avec Euphrosine en larmes, s’étonne qu’Arlequin ait repris son habit et embrasse les genoux de son maître, et réclame leur projet. Arlequin propose que chacun se repente ; Cléantis répond par une tirade contre les maîtres, qui n’ont pour tout mérite que la richesse et le rang, et affirme que seuls comptent le bon cœur, la vertu et la raison. Elle pardonne pourtant et rend la liberté à Euphrosine, qui l’embrasse et lui promet de partager ses biens si elles retournent à Athènes. Trivelin trouve les quatre naufragés réconciliés : il déclare que leurs vengeances auraient été punies comme les duretés des maîtres, tire la leçon de l’aventure et annonce leur départ prochain pour Athènes."
+    }
+  ],
+  "intro": [
+    "L’Île des esclaves est une comédie en un acte et en prose de Marivaux, créée par les Comédiens-Italiens à l’Hôtel de Bourgogne le 5 mars 1725. Elle compte onze scènes et un peu moins de 9 000 mots. Deux Athéniens et leurs esclaves, un homme et une femme de chaque condition, font naufrage sur une île fondée cent ans plus tôt par des esclaves grecs révoltés, dont la loi inverse les rôles pour corriger les maîtres. Arlequin et Trivelin sont des types de la comédie italienne, le répertoire de la troupe qui crée la pièce. Le texte suivi est celui des Œuvres complètes établies par Pierre Duviquet (tome 4, tirage de 1830), seule transcription de la pièce sur Wikisource ; la suivante d’Euphrosine y est nommée Cléanthis dans la liste des personnages et Cléantis partout ailleurs, graphie que reprend cette fiche. Dans la notice qui précède la pièce, Duviquet indique vingt et une représentations consécutives.",
+    "En seconde, la pièce sert à étudier une comédie du XVIIIe siècle et à réfléchir à sa mise en scène. Lisez-la comme une expérience menée sous le regard de Trivelin, qui interroge, juge et commente : deux portraits se répondent (scènes 3 et 5), puis une parodie de galanterie (scène 6) montre les anciens esclaves imitant les manières de leurs maîtres. Repérez le moment où le rire s’arrête, aux scènes 8 et 9, quand la plainte d’Euphrosine et les reproches d’Iphicrate laissent Arlequin sans réplique. Interrogez enfin le dénouement : Arlequin rend son habit à son maître, Cléantis rend la liberté à Euphrosine, et Trivelin annonce le retour à Athènes ; la pièce supprime-t-elle la hiérarchie ou la rend-elle seulement plus humaine ?"
+  ],
+  "characters": [
+    {
+      "name": "Iphicrate",
+      "role": "général athénien, maître d’Arlequin, qui croit pouvoir quitter l’île et doit servir son ancien esclave."
+    },
+    {
+      "name": "Arlequin",
+      "role": "esclave d’Iphicrate, né et élevé dans la maison du père de son maître, joyeux buveur qui devient maître à son tour."
+    },
+    {
+      "name": "Euphrosine",
+      "role": "dame athénienne sauvée du même naufrage, dont sa suivante dresse un portrait cruel."
+    },
+    {
+      "name": "Cléantis (Cléanthis dans la liste des personnages)",
+      "role": "suivante et esclave d’Euphrosine, la plus vive à rappeler aux maîtres ce qu’elle a subi."
+    },
+    {
+      "name": "Trivelin",
+      "role": "magistrat de l’île, chargé de faire observer les lois dans ce canton ; il mène l’épreuve et en tire la leçon."
+    },
+    {
+      "name": "Les habitants de l’île",
+      "role": "descendants des esclaves révoltés ; quelques-uns accompagnent Trivelin et désarment Iphicrate."
+    }
+  ],
+  "passages": [
+    {
+      "unit": "s1",
+      "ref": "Scène 1",
+      "title": "Arlequin change de ton",
+      "quote": "Dans le pays d’Athènes j’étais ton esclave, tu me traitais comme un pauvre animal, et tu disais que cela était juste, parce que tu étais le plus fort.",
+      "note": "Arlequin passe du vouvoiement au tutoiement et de la moquerie à une accusation nette : le maître justifiait la servitude par la seule force. La réplique annonce le programme de la pièce, puisqu’Arlequin prédit à Iphicrate qu’il va connaître la même justice. On peut y étudier le passage du comique à la satire, et l’emploi des pronoms."
+    },
+    {
+      "unit": "s1",
+      "ref": "Scène 2",
+      "title": "La loi de l’île",
+      "quote": "Nous ne nous vengeons plus de vous, nous vous corrigeons ; ce n’est plus votre vie que nous poursuivons, c’est la barbarie de vos cœurs que nous voulons détruire ;",
+      "note": "Trivelin oppose la vengeance des premiers temps à une correction qui doit guérir les maîtres. Les phrases construites en parallèle donnent au discours la forme d’une loi, et l’image médicale (« nos malades ») suit de près. C’est la scène d’exposition du principe : tout le reste de la pièce le met à l’essai."
+    },
+    {
+      "unit": "s2",
+      "ref": "Scène 3",
+      "title": "Le portrait d’Euphrosine",
+      "quote": "Madame se tait, Madame parle ; elle regarde, elle est triste, elle est gaie : silence, discours, regards, tristesse et joie, c’est tout un, il n’y a que la couleur de différente ;",
+      "note": "Cléantis réduit toutes les attitudes de sa maîtresse à la vanité. L’énumération, les antithèses et la reprise de « Madame » donnent au portrait un rythme d’accusation. Le passage se prête à une lecture linéaire sur la satire de la coquetterie et sur le rapport de force entre les deux femmes, l’une parlant, l’autre forcée d’écouter."
+    },
+    {
+      "unit": "s3",
+      "ref": "Scène 6",
+      "title": "Une galanterie jouée",
+      "quote": "Ah ! ah ! ah ! que cela va bien ! Nous sommes aussi bouffons que nos patrons, mais nous sommes plus sages.",
+      "note": "Arlequin rit à genoux au milieu de sa déclaration et casse la scène de galanterie qu’il jouait avec Cléantis. Les anciens esclaves imitent le langage de leurs maîtres pour mieux s’en moquer : c’est du théâtre dans le théâtre, et un passage utile pour réfléchir au jeu de l’acteur."
+    },
+    {
+      "unit": "s4",
+      "ref": "Scène 9",
+      "title": "Le pardon d’Arlequin",
+      "quote": "Tu m’as battu par amitié : puisque tu le dis, je te le pardonne ; je t’ai raillé par bonne humeur, prends-le en bonne part, et fais-en ton profit.",
+      "note": "Arlequin reprend les mots de son maître et les retourne : il a été battu « par amitié », il a raillé « par bonne humeur ». L’ironie n’empêche pas le pardon, qui vient de l’esclave et non du maître. La scène marque le tournant de la pièce ; observez la symétrie des propositions."
+    },
+    {
+      "unit": "s5",
+      "ref": "Scène 10",
+      "title": "La leçon de Cléantis",
+      "quote": "Il faut avoir le cœur bon, de la vertu et de la raison ; voilà ce qu’il faut, voilà ce qui est estimable, ce qui distingue, ce qui fait qu’un homme est plus qu’un autre.",
+      "note": "Au milieu de sa tirade, Cléantis remplace la naissance et la richesse par le mérite moral. Les questions qu’elle pose puis tranche elle-même donnent au passage l’allure d’un plaidoyer. Pour un commentaire, comparez ce discours à celui de Trivelin à la scène 2 : ici, c’est une ancienne esclave qui énonce la morale."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "unit": "s1",
+      "ref": "Scène 1",
+      "question": "Avec quoi, d’après Arlequin, Iphicrate a-t-il coutume de lui faire ses compliments ?",
+      "answer": "gourdin",
+      "evidence": "Mon cher patron, vos compliments me charment ; vous avez coutume de m’en faire à coups de gourdin qui ne valent pas ceux-là ; et le gourdin est dans la chaloupe."
+    },
+    {
+      "id": "q2",
+      "unit": "s2",
+      "ref": "Scène 3",
+      "question": "Dans la liste des surnoms que lui donnait sa maîtresse, lequel Cléantis cite-t-elle entre « Bête » et « Imbécile » ?",
+      "answer": "Butorde",
+      "evidence": "J’en ai une liste : Sotte, Ridicule, Bête, Butorde, Imbécile, et caetera."
+    },
+    {
+      "id": "q3",
+      "unit": "s3",
+      "ref": "Scène 5",
+      "question": "Quelle quantité de vin de la république Arlequin se vante-t-il d’avoir bue en revenant auprès de Trivelin ?",
+      "answer": "pinte",
+      "evidence": "J’en ai bu bravement ma pinte, car je suis si altéré depuis que je suis maître, que tantôt j’aurai encore soif pour pinte."
+    },
+    {
+      "id": "q4",
+      "unit": "s4",
+      "ref": "Scène 9",
+      "question": "Quel mot Arlequin emploie-t-il pour désigner les coups qu’il recevait, quand il les compare à ses propres moqueries ?",
+      "answer": "étrivières",
+      "evidence": "Tu disais bien que tu m’aimais, toi, quand tu me faisais battre ; est-ce que les étrivières sont plus honnêtes que les moqueries ?"
+    },
+    {
+      "id": "q5",
+      "unit": "s5",
+      "ref": "Scène 10",
+      "question": "À quelles créatures, selon Cléantis, les maîtres comparent-ils ceux qui les servent ?",
+      "answer": "vers",
+      "evidence": "Voilà de nos gens qui nous méprisent dans le monde, qui font les fiers, qui nous maltraitent, qui nous regardent comme des vers de terre, et puis, qui sont trop heureux dans l’occasion de nous trouver cent fois plus honnêtes gens qu’eux."
+    }
+  ],
+  "readingTips": [
+    "Comptez une heure à une heure et quart pour lire la pièce d’une traite (environ 8 800 mots). La scène 3, le portrait d’Euphrosine, en occupe à elle seule plus du cinquième.",
+    "Les noms s’échangent dès la scène 2 : Trivelin et les anciens esclaves appellent les maîtres du nom de leurs serviteurs, et inversement. Notez à chaque réplique qui parle et à qui, surtout aux scènes 6 et 7, où Cléantis appelle sa maîtresse « Cléantis ».",
+    "Lisez à voix haute les chansons et les refrains d’Arlequin (scènes 1 et 5), puis ses répliques de la scène 9 : le changement de ton fait entendre le tournant de la pièce.",
+    "Après la dernière scène, relisez la longue réplique de Trivelin à la scène 2 : la loi prévoit trois ans d’épreuve, l’action se règle en une seule journée. Demandez-vous ce que ce raccourci dit du genre de la pièce."
+  ],
+  "updated": "2026-10-21",
+  "datePublished": "2026-10-21"
+}

@@ -1,0 +1,91 @@
+{
+  "set": "lectoguide/cyrano-de-bergerac",
+  "coldGate": "summary",
+  "title": "Cyrano de Bergerac",
+  "author": "Edmond Rostand",
+  "language": "fr",
+  "units": [
+    {
+      "id": "acte1",
+      "label": "Acte I",
+      "file": "../../sources/cyrano-de-bergerac/01.txt",
+      "summary": "En 1640, la salle de l’Hôtel de Bourgogne se remplit pour La Clorise de Baro : cavaliers qui entrent sans payer, pages qui pêchent des perruques, tire-laine, marquis et précieuses. Christian de Neuvillette, arrivé de Touraine, apprend du poète Lignière que la jeune femme qu’il aime s’appelle Roxane, que le comte de Guiche veut la marier au vicomte de Valvert, puis, d’un voleur, que cent hommes attendent Lignière à la porte de Nesle à cause d’une chanson. Cyrano chasse de scène l’acteur Montfleury, à qui il avait interdit de jouer pendant un mois, jette sa bourse aux comédiens pour rembourser les places, puis répond aux moqueries de Valvert sur son nez et le blesse en duel en improvisant une ballade. Seul avec Le Bret, il avoue qu’il aime sa cousine Roxane sans oser l’espérer. La duègne de Roxane vient lui demander un rendez-vous pour le lendemain matin chez Ragueneau, et Cyrano, ivre de joie, part escorter Lignière vers la porte de Nesle, suivi des comédiens et des violons."
+    },
+    {
+      "id": "acte2",
+      "label": "Acte II",
+      "file": "../../sources/cyrano-de-bergerac/02.txt",
+      "summary": "À l’aube, dans sa boutique de la rue Saint-Honoré, Ragueneau mène ses pâtissiers en parlant de poésie, tandis que sa femme Lise découpe les vers de ses amis pour en faire des sacs. Cyrano arrive en avance, écrit une lettre d’amour qu’il ne signe pas, pendant que les poètes racontent la bagarre de la nuit, où huit hommes sont restés sur le pavé. Roxane, masquée, lui rappelle leurs étés d’enfance à Bergerac, soigne sa main blessée, puis lui avoue qu’elle aime Christian, entré le matin même aux cadets, et lui fait promettre de le protéger. Les cadets de Gascogne, une foule d’admirateurs et De Guiche envahissent la boutique ; Cyrano refuse la protection du comte et le vexe en lui rendant les chapeaux des spadassins qu’il avait postés. Pendant le récit du combat, Christian lance plusieurs allusions au nez de Cyrano, qui se retient ; restés seuls, ils concluent un pacte, et Cyrano lui donne la lettre qu’il venait d’écrire."
+    },
+    {
+      "id": "acte3",
+      "label": "Acte III",
+      "file": "../../sources/cyrano-de-bergerac/03.txt",
+      "summary": "Ruiné depuis que Lise est partie avec un mousquetaire, Ragueneau est devenu l’intendant de Roxane, qui récite à Cyrano les lettres de Christian qu’elle sait par cœur. De Guiche vient lui dire adieu avant de partir pour le siège d’Arras ; pour garder Christian à Paris, Roxane lui conseille de se venger de Cyrano en laissant les cadets loin du combat, et le comte garde sur lui l’ordre de leur compagnie. Christian veut parler seul à Roxane et échoue ; le soir, sous le balcon, Cyrano parle à sa place dans l’ombre, puis obtient pour lui un baiser. Un capucin apporte une lettre de De Guiche, que Roxane lit à voix haute comme un ordre de la marier sur-le-champ, et Cyrano retient le comte un quart d’heure en se faisant passer pour un homme tombé de la lune. Une fois le mariage célébré, De Guiche ordonne à Christian de rejoindre le régiment : les cadets partent pour la guerre."
+    },
+    {
+      "id": "acte4",
+      "label": "Acte IV",
+      "file": "../../sources/cyrano-de-bergerac/04.txt",
+      "summary": "Au siège d’Arras, les cadets meurent de faim, assiégés à leur tour par les Espagnols ; chaque matin, Cyrano traverse les lignes ennemies pour porter à Roxane une lettre signée Christian. Il fait jouer au fifre les airs du pays, puis humilie De Guiche en lui rendant l’écharpe blanche que le comte avait abandonnée pendant une charge. De Guiche s’en sert pour faire un signal à un faux espion : l’attaque espagnole portera sur le poste des cadets, qui devront tenir pendant que le maréchal ramène des vivres. Roxane arrive alors en carrosse, avec Ragueneau sur le siège et un repas caché dans la voiture, refuse de repartir et dit à Christian qu’elle n’aime plus que son âme et qu’elle l’aimerait même laid. Christian, qui comprend que c’est Cyrano qu’elle aime, exige qu’il lui dise tout, mais il est tué par le premier coup de feu ; Cyrano se tait et repart au combat pendant que De Guiche emporte Roxane évanouie."
+    },
+    {
+      "id": "acte5",
+      "label": "Acte V",
+      "file": "../../sources/cyrano-de-bergerac/05.txt",
+      "summary": "Quinze ans plus tard, en 1655, Roxane vit toujours en deuil chez les Dames de la Croix, à Paris, où Cyrano vient chaque samedi lui raconter les nouvelles de la semaine. De Guiche, devenu duc de Grammont, avoue qu’il envie parfois la liberté de Cyrano et avertit Le Bret qu’on pourrait chercher à le tuer. Ragueneau raconte qu’un laquais a lâché d’une fenêtre une pièce de bois sur la tête de Cyrano ; celui-ci vient pourtant au rendez-vous, en retard pour la première fois, et s’évanouit au milieu de ses nouvelles. Roxane lui fait lire la dernière lettre de Christian : il la lit à voix haute alors qu’il fait nuit, et elle comprend que les lettres et la voix sous le balcon étaient les siennes. Il nie jusqu’au bout, annonce sa propre mort comme une dernière nouvelle, puis se lève pour l’attendre debout, l’épée à la main, contre ses vieux ennemis imaginaires, avant de tomber dans les bras de Le Bret et de Ragueneau."
+    }
+  ],
+  "items": [
+    {
+      "id": "q1",
+      "unit": "acte1",
+      "type": "word",
+      "question": "Quel vin Lignière accepte-t-il de la distributrice, après avoir refusé l’orangeade et le lait ?",
+      "answer": "rivesalte",
+      "evidence": [
+        "Je reste encore un peu. — Voyons ce rivesalte ?"
+      ]
+    },
+    {
+      "id": "q2",
+      "unit": "acte2",
+      "type": "word",
+      "question": "Quelles pâtisseries Cyrano glisse-t-il dans deux sonnets de Benserade pour éloigner la duègne ?",
+      "answer": "darioles",
+      "evidence": [
+        "…que je vous remplis de darioles."
+      ]
+    },
+    {
+      "id": "q3",
+      "unit": "acte3",
+      "type": "word",
+      "question": "Chez quelle précieuse la duègne et Roxane doivent-elles aller entendre un discours sur le Tendre ?",
+      "answer": "Clomire",
+      "evidence": [
+        "Chez Clomire. Elle tient bureau, dans son réduit."
+      ]
+    },
+    {
+      "id": "q4",
+      "unit": "acte4",
+      "type": "word",
+      "question": "De quels petits oiseaux, selon Ragueneau, les coussins du carrosse de Roxane sont-ils remplis ?",
+      "answer": "ortolans",
+      "evidence": [
+        "Les coussins sont remplis d’ortolans !"
+      ]
+    },
+    {
+      "id": "q5",
+      "unit": "acte5",
+      "type": "word",
+      "question": "Selon sœur Claire, qu’est-ce que sœur Marthe a repris dans la tarte, ce matin-là ?",
+      "answer": "pruneau",
+      "evidence": [
+        "Mais sœur Marthe a repris un pruneau de la tarte,"
+      ]
+    }
+  ]
+}

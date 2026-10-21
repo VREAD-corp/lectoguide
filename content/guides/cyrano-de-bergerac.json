@@ -1,0 +1,188 @@
+{
+  "slug": "cyrano-de-bergerac",
+  "title": "Cyrano de Bergerac",
+  "author": "Edmond Rostand",
+  "authorDates": "1868-1918",
+  "published": "1897",
+  "genre": "comédie héroïque en cinq actes et en vers",
+  "programme": "lycee",
+  "level": "Seconde ; aussi au collège",
+  "programmeNote": "Le programme de seconde (BO spécial n° 1 du 22 janvier 2019, version modifiée en 2020) fonde l’objet d’étude « Le théâtre du XVIIe siècle au XXIe siècle » sur des œuvres intégrales : deux pièces de genre et de siècle différents, et la lecture cursive d’au moins une pièce d’une autre période. Cyrano de Bergerac, pièce de 1897, peut y tenir la place de l’œuvre du XIXe siècle face à une tragédie ou une comédie classique, ou celle de la lecture cursive ; le programme ne nomme aucun titre et demande aussi de prendre en compte la représentation et la mise en scène. La pièce est souvent lue au collège, en 4e ou en 3e : c’est un usage des classes, pas une prescription du programme.",
+  "programmeSources": [
+    {
+      "label": "Programme de français de seconde (BO spécial n° 1 du 22 janvier 2019, version modifiée en 2020, sur éduscol)",
+      "url": "https://eduscol.education.gouv.fr/sites/default/files/document/04-annexe1francais2ebomodifiepdf-69834.pdf"
+    }
+  ],
+  "source": {
+    "label": "Wikisource, d’après Cyrano de Bergerac, Paris, Librairie Charpentier et Fasquelle, 1926",
+    "url": "https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)",
+    "licence": "Transcription Wikisource, CC BY-SA 4.0"
+  },
+  "words": 36869,
+  "units": [
+    {
+      "id": "acte1",
+      "label": "Acte I",
+      "file": "sources/cyrano-de-bergerac/01.txt",
+      "words": 8921,
+      "summary": "En 1640, la salle de l’Hôtel de Bourgogne se remplit pour La Clorise de Baro : cavaliers qui entrent sans payer, pages qui pêchent des perruques, tire-laine, marquis et précieuses. Christian de Neuvillette, arrivé de Touraine, apprend du poète Lignière que la jeune femme qu’il aime s’appelle Roxane, que le comte de Guiche veut la marier au vicomte de Valvert, puis, d’un voleur, que cent hommes attendent Lignière à la porte de Nesle à cause d’une chanson. Cyrano chasse de scène l’acteur Montfleury, à qui il avait interdit de jouer pendant un mois, jette sa bourse aux comédiens pour rembourser les places, puis répond aux moqueries de Valvert sur son nez et le blesse en duel en improvisant une ballade. Seul avec Le Bret, il avoue qu’il aime sa cousine Roxane sans oser l’espérer. La duègne de Roxane vient lui demander un rendez-vous pour le lendemain matin chez Ragueneau, et Cyrano, ivre de joie, part escorter Lignière vers la porte de Nesle, suivi des comédiens et des violons."
+    },
+    {
+      "id": "acte2",
+      "label": "Acte II",
+      "file": "sources/cyrano-de-bergerac/02.txt",
+      "words": 7754,
+      "summary": "À l’aube, dans sa boutique de la rue Saint-Honoré, Ragueneau mène ses pâtissiers en parlant de poésie, tandis que sa femme Lise découpe les vers de ses amis pour en faire des sacs. Cyrano arrive en avance, écrit une lettre d’amour qu’il ne signe pas, pendant que les poètes racontent la bagarre de la nuit, où huit hommes sont restés sur le pavé. Roxane, masquée, lui rappelle leurs étés d’enfance à Bergerac, soigne sa main blessée, puis lui avoue qu’elle aime Christian, entré le matin même aux cadets, et lui fait promettre de le protéger. Les cadets de Gascogne, une foule d’admirateurs et De Guiche envahissent la boutique ; Cyrano refuse la protection du comte et le vexe en lui rendant les chapeaux des spadassins qu’il avait postés. Pendant le récit du combat, Christian lance plusieurs allusions au nez de Cyrano, qui se retient ; restés seuls, ils concluent un pacte, et Cyrano lui donne la lettre qu’il venait d’écrire."
+    },
+    {
+      "id": "acte3",
+      "label": "Acte III",
+      "file": "sources/cyrano-de-bergerac/03.txt",
+      "words": 7427,
+      "summary": "Ruiné depuis que Lise est partie avec un mousquetaire, Ragueneau est devenu l’intendant de Roxane, qui récite à Cyrano les lettres de Christian qu’elle sait par cœur. De Guiche vient lui dire adieu avant de partir pour le siège d’Arras ; pour garder Christian à Paris, Roxane lui conseille de se venger de Cyrano en laissant les cadets loin du combat, et le comte garde sur lui l’ordre de leur compagnie. Christian veut parler seul à Roxane et échoue ; le soir, sous le balcon, Cyrano parle à sa place dans l’ombre, puis obtient pour lui un baiser. Un capucin apporte une lettre de De Guiche, que Roxane lit à voix haute comme un ordre de la marier sur-le-champ, et Cyrano retient le comte un quart d’heure en se faisant passer pour un homme tombé de la lune. Une fois le mariage célébré, De Guiche ordonne à Christian de rejoindre le régiment : les cadets partent pour la guerre."
+    },
+    {
+      "id": "acte4",
+      "label": "Acte IV",
+      "file": "sources/cyrano-de-bergerac/04.txt",
+      "words": 8026,
+      "summary": "Au siège d’Arras, les cadets meurent de faim, assiégés à leur tour par les Espagnols ; chaque matin, Cyrano traverse les lignes ennemies pour porter à Roxane une lettre signée Christian. Il fait jouer au fifre les airs du pays, puis humilie De Guiche en lui rendant l’écharpe blanche que le comte avait abandonnée pendant une charge. De Guiche s’en sert pour faire un signal à un faux espion : l’attaque espagnole portera sur le poste des cadets, qui devront tenir pendant que le maréchal ramène des vivres. Roxane arrive alors en carrosse, avec Ragueneau sur le siège et un repas caché dans la voiture, refuse de repartir et dit à Christian qu’elle n’aime plus que son âme et qu’elle l’aimerait même laid. Christian, qui comprend que c’est Cyrano qu’elle aime, exige qu’il lui dise tout, mais il est tué par le premier coup de feu ; Cyrano se tait et repart au combat pendant que De Guiche emporte Roxane évanouie."
+    },
+    {
+      "id": "acte5",
+      "label": "Acte V",
+      "file": "sources/cyrano-de-bergerac/05.txt",
+      "words": 4741,
+      "summary": "Quinze ans plus tard, en 1655, Roxane vit toujours en deuil chez les Dames de la Croix, à Paris, où Cyrano vient chaque samedi lui raconter les nouvelles de la semaine. De Guiche, devenu duc de Grammont, avoue qu’il envie parfois la liberté de Cyrano et avertit Le Bret qu’on pourrait chercher à le tuer. Ragueneau raconte qu’un laquais a lâché d’une fenêtre une pièce de bois sur la tête de Cyrano ; celui-ci vient pourtant au rendez-vous, en retard pour la première fois, et s’évanouit au milieu de ses nouvelles. Roxane lui fait lire la dernière lettre de Christian : il la lit à voix haute alors qu’il fait nuit, et elle comprend que les lettres et la voix sous le balcon étaient les siennes. Il nie jusqu’au bout, annonce sa propre mort comme une dernière nouvelle, puis se lève pour l’attendre debout, l’épée à la main, contre ses vieux ennemis imaginaires, avant de tomber dans les bras de Le Bret et de Ragueneau."
+    }
+  ],
+  "intro": [
+    "Cyrano de Bergerac est une comédie héroïque en cinq actes et en vers d’Edmond Rostand, créée le 28 décembre 1897 au théâtre de la Porte-Saint-Martin, à Paris, avec Coquelin dans le rôle-titre ; la pièce lui est dédiée. Le texte paraît en volume en 1898 chez Charpentier et Fasquelle, qui le réimprime ensuite pendant des décennies : la transcription suivie ici reproduit un tirage de 1926 de cet éditeur. Les quatre premiers actes se passent en 1640, le cinquième en 1655, l’année où meurt le vrai Savinien de Cyrano de Bergerac, l’écrivain libertin dont Rostand fait son héros. La pièce compte environ 37 000 mots dans ce découpage, didascalies comprises ; presque tout est en alexandrins, mais Rostand y glisse des formes brèves : une ballade, une recette en vers, la chanson des cadets.",
+    "En seconde, la pièce entre dans l’objet d’étude sur le théâtre comme une œuvre de la fin du XIXe siècle tournée vers le XVIIe : rapprochez-la d’une pièce classique, Le Cid par exemple, et notez ce que Rostand reprend (l’alexandrin, le duel, l’honneur) et ce qu’il change, en mêlant le rire et les larmes dans le même acte. Suivez le fil des mots prêtés : qui écrit, qui signe, qui parle, qui écoute. Lisez aussi les didascalies, longues et précises, qui demandent cinq décors et des dizaines de figurants ; elles montrent un théâtre pensé pour la représentation. Au collège, on lit souvent la tirade du nez ou la scène du balcon en extraits ; la lecture intégrale montre comment ces scènes préparent le dénouement de l’acte V."
+  ],
+  "characters": [
+    {
+      "name": "Cyrano de Bergerac",
+      "role": "cadet gascon aux gardes, poète, bretteur et savant, qui aime en secret sa cousine Roxane et se croit trop laid pour être aimé."
+    },
+    {
+      "name": "Roxane",
+      "role": "Magdeleine Robin, cousine de Cyrano, orpheline et précieuse, éprise de Christian puis de l’âme qu’elle croit trouver dans ses lettres."
+    },
+    {
+      "name": "Christian de Neuvillette",
+      "role": "jeune baron venu de Touraine, beau et brave, entré aux cadets, qui ne sait pas parler d’amour et accepte les mots de Cyrano."
+    },
+    {
+      "name": "Le comte de Guiche",
+      "role": "neveu par alliance de Richelieu, marié et épris de Roxane, chef du régiment des gardes au siège d’Arras, devenu duc de Grammont à l’acte V."
+    },
+    {
+      "name": "Le Bret",
+      "role": "ami fidèle de Cyrano, qui lui reproche de se faire des ennemis et reste près de lui jusqu’à la fin."
+    },
+    {
+      "name": "Ragueneau",
+      "role": "pâtissier de la rue Saint-Honoré qui nourrit les poètes à crédit ; ruiné, il devient intendant de Roxane, puis moucheur de chandelles chez Molière."
+    },
+    {
+      "name": "Carbon de Castel-Jaloux",
+      "role": "capitaine de la compagnie des cadets de Gascogne, qui a payé sa compagnie et ne reçoit d’ordres que pour la guerre."
+    }
+  ],
+  "passages": [
+    {
+      "unit": "acte1",
+      "ref": "Acte I, scène 4",
+      "title": "« C’est un peu court, jeune homme ! »",
+      "quote": "Ah ! non ! c’est un peu court, jeune homme !\nOn pouvait dire… Oh ! Dieu !… bien des choses en somme…\nEn variant le ton, — par exemple, tenez :",
+      "note": "Valvert n’a trouvé qu’une platitude ; Cyrano lui montre ce qu’il aurait pu dire, en annonçant chaque variation par l’adjectif qui en donne le ton. La tirade est un exercice de style et une prise de pouvoir : en se moquant de son propre nez, Cyrano interdit aux autres de le faire. Pour une lecture linéaire, relevez la variété des registres et la place du public de l’Hôtel de Bourgogne, témoin de la joute."
+    },
+    {
+      "unit": "acte2",
+      "ref": "Acte II, scène 8",
+      "title": "« Non, merci »",
+      "quote": "Bref, dédaignant d’être le lierre parasite,\nLors même qu’on n’est pas le chêne ou le tilleul,\nNe pas monter bien haut, peut-être, mais tout seul !",
+      "note": "Le Bret reproche à Cyrano d’avoir refusé l’appui de De Guiche. La réplique enchaîne les « Non, merci » contre toutes les façons de réussir par la flatterie, puis bascule vers un idéal de liberté. Observez l’anaphore et l’image du lierre, qui ouvre et ferme la tirade."
+    },
+    {
+      "unit": "acte2",
+      "ref": "Acte II, scène 10",
+      "title": "Le pacte",
+      "quote": "C’est une expérience à tenter un poète.\nVeux-tu me compléter et que je te complète ?\nTu marcheras, j’irai dans l’ombre à ton côté :\nJe serai ton esprit, tu seras ma beauté.",
+      "note": "Cyrano offre à Christian de lui prêter ses mots, et le chiasme du dernier vers résume le pacte qui mène toute la pièce. Juste avant, il se reprend et présente l’offre comme un jeu d’artiste pour cacher son émotion. L’image de l’ombre annonce la scène du balcon."
+    },
+    {
+      "unit": "acte3",
+      "ref": "Acte III, scène 7",
+      "title": "Une ombre sous le balcon",
+      "quote": "Vous voyez la noirceur d’un long manteau qui traîne,\nJ’aperçois la blancheur d’une robe d’été :\nMoi je ne suis qu’une ombre, et vous qu’une clarté !",
+      "note": "Protégé par la nuit, Cyrano parle enfin pour lui-même, alors que Roxane croit entendre Christian. Les antithèses disent sa situation : il ne peut parler qu’à condition de ne pas être vu. Comparez ce langage simple avec les images précieuses que Christian répète, mot à mot, au début de la scène."
+    },
+    {
+      "unit": "acte4",
+      "ref": "Acte IV, scène 8",
+      "title": "L’aveu de Roxane",
+      "quote": "Eh bien ! toi-même enfin l’emporte sur toi-même,\nEt ce n’est plus que pour ton âme que je t’aime !",
+      "note": "Roxane explique qu’elle a traversé les lignes espagnoles à cause des lettres et qu’elle n’aime plus Christian que pour son âme. Ce qu’elle croit être la plus belle preuve d’amour blesse Christian, qui comprend que cette âme est celle de Cyrano. La scène retourne le pacte de l’acte II : la beauté ne compte plus."
+    },
+    {
+      "unit": "acte5",
+      "ref": "Acte V, scène 6",
+      "title": "Celui qui souffle",
+      "quote": "Vous souvient-il du soir où Christian vous parla\nSous le balcon ? Eh bien ! toute ma vie est là :\nPendant que je restais en bas, dans l’ombre noire,\nD’autres montaient cueillir le baiser de la gloire !",
+      "note": "Mourant, Cyrano relit toute sa vie à partir de la nuit du balcon. L’opposition du bas et du haut, de l’ombre et de la gloire, reprend l’acte III et l’étend à Molière, qui vient de lui prendre une scène. Un bon point d’appui pour un portrait du personnage à l’oral."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "unit": "acte1",
+      "ref": "Acte I, scène 2",
+      "question": "Quel vin Lignière accepte-t-il de la distributrice, après avoir refusé l’orangeade et le lait ?",
+      "answer": "rivesalte",
+      "evidence": "Je reste encore un peu. — Voyons ce rivesalte ?"
+    },
+    {
+      "id": "q2",
+      "unit": "acte2",
+      "ref": "Acte II, scène 5",
+      "question": "Quelles pâtisseries Cyrano glisse-t-il dans deux sonnets de Benserade pour éloigner la duègne ?",
+      "answer": "darioles",
+      "evidence": "…que je vous remplis de darioles."
+    },
+    {
+      "id": "q3",
+      "unit": "acte3",
+      "ref": "Acte III, scène 1",
+      "question": "Chez quelle précieuse la duègne et Roxane doivent-elles aller entendre un discours sur le Tendre ?",
+      "answer": "Clomire",
+      "evidence": "Chez Clomire. Elle tient bureau, dans son réduit."
+    },
+    {
+      "id": "q4",
+      "unit": "acte4",
+      "ref": "Acte IV, scène 6",
+      "question": "De quels petits oiseaux, selon Ragueneau, les coussins du carrosse de Roxane sont-ils remplis ?",
+      "answer": "ortolans",
+      "evidence": "Les coussins sont remplis d’ortolans !"
+    },
+    {
+      "id": "q5",
+      "unit": "acte5",
+      "ref": "Acte V, scène 1",
+      "question": "Selon sœur Claire, qu’est-ce que sœur Marthe a repris dans la tarte, ce matin-là ?",
+      "answer": "pruneau",
+      "evidence": "Mais sœur Marthe a repris un pruneau de la tarte,"
+    }
+  ],
+  "readingTips": [
+    "Comptez trois heures à trois heures et demie pour la pièce entière. L’acte V, presque deux fois plus court que les autres, se lit en une demi-heure : gardez-le pour une seule séance.",
+    "Lisez la longue didascalie qui ouvre chaque acte : un théâtre, une rôtisserie à l’aube, une petite place du Marais, un camp militaire, le parc d’un couvent en automne. Chaque lieu donne le ton de l’acte.",
+    "Notez, acte par acte, qui écrit les lettres, qui les signe, qui les lit et qui les reçoit : tout le malentendu tient là, et la dernière scène le dénoue par une lecture à voix haute.",
+    "Lisez à voix haute la ballade du duel (acte I) et la présentation des cadets de Gascogne (acte II) : les vers courts et les refrains y changent le rythme de l’alexandrin."
+  ],
+  "updated": "2026-10-21",
+  "datePublished": "2026-10-21"
+}

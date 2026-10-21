@@ -1,0 +1,188 @@
+{
+  "slug": "la-parure",
+  "title": "La Parure",
+  "author": "Guy de Maupassant",
+  "authorDates": "1850-1893",
+  "published": "1884",
+  "genre": "nouvelle",
+  "programme": "college",
+  "level": "4e (cycle 4)",
+  "programmeNote": "Le programme de cycle 4 publié au BOEN n° 31 du 30 juillet 2020, toujours suivi en 4e pendant l’année 2026-2027, range sous « Regarder le monde, inventer des mondes » l’entrée « La fiction pour interroger le réel », qui demande la lecture intégrale d’un roman ou de nouvelles réalistes ou naturalistes, en lien avec l’histoire du XIXe siècle. Le programme fixé par l’arrêté du 18 février 2026 (BO n° 10 du 5 mars 2026), appliqué en 4e dès la rentrée 2027, ne garde pas d’entrée réaliste dans cette classe : son entrée de récit, « Sonder, explorer, anticiper : la fiction aux limites de notre monde », porte sur le fantastique, l’anticipation et l’enquête. Le récit confronté au réel passe en 3e, à la rentrée 2028, avec l’entrée « Montrer, témoigner, réparer : le roman, le récit à l’épreuve du réel ». Ni l’un ni l’autre ne nomme La Parure.",
+  "programmeSources": [
+    {
+      "label": "Programmes des cycles 2, 3 et 4, version du BOEN n° 31 du 30 juillet 2020",
+      "url": "https://www.education.gouv.fr/bo/20/Hebdo31/MENE2018714A.htm"
+    },
+    {
+      "label": "Programme de français du cycle 4, arrêté du 18 février 2026 (BO n° 10 du 5 mars 2026)",
+      "url": "https://www.education.gouv.fr/bo/2026/Hebdo10/MENE2602912A"
+    }
+  ],
+  "source": {
+    "label": "Wikisource, d’après Contes du jour et de la nuit, C. Marpon et E. Flammarion, Paris, 1885",
+    "url": "https://fr.wikisource.org/wiki/Contes_du_jour_et_de_la_nuit_(%C3%A9d._Flammarion,_1885)/La_Parure",
+    "licence": "Transcription Wikisource, CC BY-SA 4.0"
+  },
+  "words": 2815,
+  "units": [
+    {
+      "id": "p1",
+      "label": "Partie 1 (§ 1 à 29)",
+      "file": "sources/la-parure/01.txt",
+      "words": 888,
+      "summary": "Une jeune femme jolie, née dans une famille d’employés et sans dot, a épousé un petit commis du ministère de l’instruction publique. Elle souffre de son logement modeste, rêve de salons, de dîners fins et de bijoux, et ne va plus voir une amie riche, une ancienne camarade de couvent, tant elle revient malheureuse de ces visites. Un soir, son mari lui apporte fièrement une invitation à une soirée à l’hôtel du ministère, le lundi 18 janvier. Au lieu de se réjouir, Mathilde pleure : elle n’a pas de robe pour y aller. Loisel lui donne quatre cents francs, la somme qu’il gardait pour s’acheter un fusil de chasse."
+    },
+    {
+      "id": "p2",
+      "label": "Partie 2 (§ 30 à 52)",
+      "file": "sources/la-parure/02.txt",
+      "words": 348,
+      "summary": "La robe est prête, mais à l’approche de la fête Mathilde reste triste : elle n’a aucun bijou et craint d’avoir l’air pauvre. Son mari lui propose de porter des fleurs, puis lui conseille d’aller en emprunter à son amie Mme Forestier. Le lendemain, celle-ci ouvre devant elle un coffret et la laisse choisir ; Mathilde essaie plusieurs parures sans pouvoir se décider. Elle trouve enfin une rivière de diamants, demande à ne prendre que ce bijou, et se sauve avec son trésor."
+    },
+    {
+      "id": "p3",
+      "label": "Partie 3 (§ 53 à 85)",
+      "file": "sources/la-parure/03.txt",
+      "words": 638,
+      "summary": "Au bal, Mathilde est la plus admirée des invitées et danse jusqu’à quatre heures du matin, pendant que son mari dort dans un petit salon. À la sortie, honteuse de ses vêtements ordinaires, elle se hâte de partir, et le couple doit marcher jusqu’aux quais de la Seine pour trouver une vieille voiture. Rentrée chez elle, elle découvre devant la glace que la rivière n’est plus à son cou. Loisel refait le trajet à pied, puis passe la journée à la Préfecture de police, aux journaux et aux compagnies de voitures, sans rien trouver. Pour gagner du temps, il fait écrire à Mme Forestier que le fermoir est cassé et en réparation."
+    },
+    {
+      "id": "p4",
+      "label": "Partie 4 (§ 86 à 106)",
+      "file": "sources/la-parure/04.txt",
+      "words": 645,
+      "summary": "Au bout d’une semaine, les Loisel renoncent à retrouver le bijou. Le joaillier dont le nom est dans la boîte n’a vendu que l’écrin ; ils trouvent ailleurs une rivière semblable, qu’on leur cède pour trente-six mille francs. Loisel ajoute à son héritage des emprunts, des billets et des prêts d’usuriers. Mme Forestier reprend la parure sans ouvrir l’écrin. Le couple renvoie la bonne, loue une mansarde et met dix ans à tout rembourser : Mathilde fait les gros travaux du ménage, son mari tient des comptes le soir et fait des copies la nuit. Vieillie, elle repense parfois au bal."
+    },
+    {
+      "id": "p5",
+      "label": "Partie 5 (§ 107 à 129)",
+      "file": "sources/la-parure/05.txt",
+      "words": 296,
+      "summary": "Un dimanche, en promenade, Mathilde aperçoit Mme Forestier, toujours jeune et belle, qui promène un enfant. La dette étant payée, elle décide de tout lui dire, mais son amie ne la reconnaît pas et s’étonne qu’une inconnue l’appelle par son prénom. Mathilde raconte la perte, le remplacement et les dix ans de misère, avec une fierté naïve. Très émue, Mme Forestier lui prend les mains et lui apprend que sa rivière était fausse."
+    }
+  ],
+  "intro": [
+    "La Parure est une nouvelle de Guy de Maupassant parue dans le quotidien Le Gaulois le 17 février 1884, puis reprise dans le recueil Contes du jour et de la nuit (Paris, C. Marpon et E. Flammarion, 1885), aux pages 73 à 93. Ce guide suit cette édition de 1885, transcrite et validée sur Wikisource. Le texte compte environ 2 800 mots et se lit en vingt minutes. L’édition le coupe en sept moments séparés par des astérismes, regroupés ici en cinq parties. Une jeune femme mariée à un petit employé emprunte un bijou pour un bal au ministère, le perd, et le couple met dix ans à payer celui qui le remplace. La dernière réplique change le sens de tout ce qui précède.",
+    "En 4e, la nouvelle se lit comme un récit réaliste : un milieu social précis, celui des petits employés de l’administration à Paris, des sommes d’argent données au franc près, des démarches décrites pas à pas. En lisant, relevez chaque chiffre (le prix de la robe, celui du bijou acheté pour remplacer l’autre, la durée de la dette) et ce qu’il coûte au couple. Observez aussi le narrateur, qui commente parfois la vie de son héroïne et, à la fin de la quatrième partie, interroge le lecteur. Relisez enfin la scène du coffret en connaissant la fin : Maupassant y glisse de quoi préparer la chute sans la trahir."
+  ],
+  "characters": [
+    {
+      "name": "Mathilde Loisel",
+      "role": "jeune femme née dans une famille d’employés, mariée à un commis, qui rêve de luxe"
+    },
+    {
+      "name": "Loisel",
+      "role": "son mari, petit commis au ministère de l’instruction publique, content de peu"
+    },
+    {
+      "name": "Mme Forestier (Jeanne)",
+      "role": "amie riche de Mathilde, ancienne camarade de couvent, qui lui prête la rivière de diamants"
+    },
+    {
+      "name": "Le ministre et Mme Georges Ramponneau",
+      "role": "les hôtes qui invitent les Loisel à la soirée du ministère"
+    },
+    {
+      "name": "La petite Bretonne",
+      "role": "la bonne des Loisel, dont la vue rend Mathilde amère"
+    },
+    {
+      "name": "Le joaillier",
+      "role": "celui dont le nom est inscrit dans la boîte du bijou, qui n’a fourni que l’écrin"
+    }
+  ],
+  "passages": [
+    {
+      "unit": "p1",
+      "ref": "Partie 1 (§ 4)",
+      "title": "Le dîner du pot-au-feu",
+      "quote": "en face de son mari qui découvrait la soupière en déclarant d’un air enchanté : « Ah ! le bon pot-au-feu ! je ne sais rien de meilleur que cela… », elle songeait aux dîners fins",
+      "note": "Une seule phrase met face à face deux mondes : la réplique heureuse du mari, citée au style direct, et la rêverie de Mathilde, faite d’images de luxe. Pour une lecture linéaire, comparez le vocabulaire de chaque côté et la longueur de chaque partie de la phrase."
+    },
+    {
+      "unit": "p2",
+      "ref": "Partie 2 (§ 48)",
+      "title": "La découverte de la rivière",
+      "quote": "Tout à coup elle découvrit, dans une boîte de satin noir, une superbe rivière de diamants ; et son cœur se mit à battre d’un désir immodéré.",
+      "note": "Le désir se lit dans le corps (le cœur qui bat, puis les mains qui tremblent). Notez que le narrateur décrit l’objet et l’émotion de Mathilde, jamais ce que pense Mme Forestier, qui ne dit que quelques mots pendant toute la scène."
+    },
+    {
+      "unit": "p3",
+      "ref": "Partie 3 (§ 54)",
+      "title": "Le triomphe du bal",
+      "quote": "Elle dansait avec ivresse, avec emportement, grisée par le plaisir, ne pensant plus à rien, dans le triomphe de sa beauté, dans la gloire de son succès",
+      "note": "La phrase s’allonge par accumulation, comme portée par la danse. C’est le seul moment heureux du récit : repérez les mots du triomphe et de la gloire, puis voyez comment le mot « gloire » revient quelques paragraphes plus loin, juste avant la découverte de la perte."
+    },
+    {
+      "unit": "p3",
+      "ref": "Partie 3 (§ 62)",
+      "title": "La perte",
+      "quote": "Elle ôta les vêtements dont elle s’était enveloppé les épaules, devant la glace, afin de se voir encore une fois dans sa gloire. Mais soudain elle poussa un cri.",
+      "note": "Le miroir, qui servait au rêve, devient le lieu du malheur. Le récit bascule sur un connecteur bref (« Mais soudain ») : relevez le passage d’une phrase longue et lente à une phrase courte."
+    },
+    {
+      "unit": "p4",
+      "ref": "Partie 4 (§ 106)",
+      "title": "Le narrateur s’adresse au lecteur",
+      "quote": "Que serait-il arrivé si elle n’avait point perdu cette parure ? Qui sait ? qui sait ? Comme la vie est singulière, changeante ! Comme il faut peu de chose pour vous perdre ou vous sauver !",
+      "note": "Le narrateur sort de son récit pour poser des questions sans réponse et livrer une réflexion générale, au présent. Pour un commentaire, montrez que ce paragraphe ferme la longue période de misère et prépare la dernière scène, où un détail va tout changer."
+    },
+    {
+      "unit": "p5",
+      "ref": "Partie 5 (§ 129)",
+      "title": "La dernière réplique",
+      "quote": "— Oh ! ma pauvre Mathilde ! Mais la mienne était fausse. Elle valait au plus cinq cents francs !…",
+      "note": "La nouvelle s’arrête sur cette réplique, sans un mot du narrateur. Le lecteur doit mesurer seul l’écart entre la somme dite ici et le prix payé par les Loisel, et relire les dix ans de travail à la lumière de cette révélation."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "unit": "p1",
+      "ref": "Partie 1 (§ 27)",
+      "question": "Dans quelle plaine le mari comptait-il aller chasser l’alouette avec des amis, l’été suivant ?",
+      "answer": "Nanterre",
+      "evidence": "Il avait un peu pâli, car il réservait juste cette somme pour acheter un fusil et s’offrir des parties de chasse, l’été suivant, dans la plaine de Nanterre, avec quelques amis qui allaient tirer des alouettes, par là, le dimanche."
+    },
+    {
+      "id": "q2",
+      "unit": "p2",
+      "ref": "Partie 2 (§ 45)",
+      "question": "Quel adjectif, tiré du nom d’une ville d’Italie, qualifie la croix d’or et de pierreries que Mathilde essaie chez son amie ?",
+      "answer": "vénitienne",
+      "evidence": "Elle vit d’abord des bracelets, puis un collier de perles, puis une croix vénitienne, or et pierreries, d’un admirable travail."
+    },
+    {
+      "id": "q3",
+      "unit": "p3",
+      "ref": "Partie 3 (§ 61)",
+      "question": "Dans quelle rue de Paris la vieille voiture ramène-t-elle les Loisel après le bal ?",
+      "answer": "Martyrs",
+      "evidence": "Il les ramena jusqu’à leur porte, rue des Martyrs, et ils remontèrent tristement chez eux."
+    },
+    {
+      "id": "q4",
+      "unit": "p4",
+      "ref": "Partie 4 (§ 94)",
+      "question": "Combien de milliers de francs Loisel possédait-il, que lui avait laissés son père ?",
+      "answer": "dix-huit",
+      "evidence": "Loisel possédait dix-huit mille francs que lui avait laissés son père."
+    },
+    {
+      "id": "q5",
+      "unit": "p5",
+      "ref": "Partie 5 (§ 111)",
+      "question": "Par quel nom le narrateur désigne-t-il Mathilde au moment où son amie, qui ne la reconnaît pas, s’étonne d’être appelée par son prénom ?",
+      "answer": "bourgeoise",
+      "evidence": "L’autre ne la reconnaissait point, s’étonnant d’être appelée ainsi familièrement par cette bourgeoise."
+    }
+  ],
+  "readingTips": [
+    "Comptez une vingtaine de minutes pour la nouvelle entière. Lisez-la d’abord d’une traite, sans les résumés, pour découvrir la fin comme les lecteurs du journal en 1884.",
+    "Notez les sommes au crayon dans la marge : quatre cents francs pour la robe, dix francs pour des fleurs, trente-six mille francs pour le bijou de remplacement, cinq sous la page de copie. Ces chiffres mesurent ce que la perte coûte au couple.",
+    "Une « rivière » de diamants est un collier fait d’une rangée de pierres ; une « parure », un ensemble de bijoux, mais aussi l’action de se parer. Le titre et le début du deuxième paragraphe jouent sur ce double sens.",
+    "Après la dernière ligne, relisez la deuxième partie : ce que dit Mme Forestier en ouvrant son coffret, et ce qu’elle ne dit pas, se lit autrement quand on connaît la chute."
+  ],
+  "updated": "2026-10-21",
+  "datePublished": "2026-10-21"
+}

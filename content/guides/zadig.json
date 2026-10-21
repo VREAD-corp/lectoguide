@@ -1,0 +1,308 @@
+{
+  "slug": "zadig",
+  "title": "Zadig ou la Destinée",
+  "author": "Voltaire",
+  "authorDates": "1694-1778",
+  "published": "1748",
+  "genre": "conte philosophique",
+  "programme": "college",
+  "level": "3e (4e à partir de la rentrée 2027)",
+  "programmeNote": "Zadig se rattache à l’entrée de 3e « Dénoncer les travers de la société » du programme de cycle 4 publié au BOEN n° 31 du 30 juillet 2020 : ses indications de corpus nomment le « conte philosophique ou drolatique » parmi les formes satiriques à lire, et ce programme reste celui de la classe de 3e jusqu’en 2027-2028. Le programme de français fixé par l’arrêté du 18 février 2026 (BO n° 10 du 5 mars 2026) entre en vigueur en 5e en 2026-2027, en 4e à la rentrée 2027 et en 3e à la rentrée 2028. En 4e, son entrée « Critiquer, dénoncer, penser : les Lumières en héritage (discours, essai, récit, fiction) » repose sur une œuvre intégrale ou un groupement de textes ; en 5e, l’entrée « Imaginer, sentir, raisonner : des histoires pour plaire et instruire » travaille le conte et la fable sur de larges extraits. Ni l’un ni l’autre texte ne fixe de liste d’œuvres.",
+  "programmeSources": [
+    {
+      "label": "Programmes des cycles 2, 3 et 4, version du BOEN n° 31 du 30 juillet 2020 (annexe 3, cycle 4)",
+      "url": "https://www.education.gouv.fr/bo/20/Hebdo31/MENE2018714A.htm"
+    },
+    {
+      "label": "Programme de français du cycle 4, arrêté du 18 février 2026 (BO n° 10 du 5 mars 2026, annexe 1)",
+      "url": "https://www.education.gouv.fr/bo/2026/Hebdo10/MENE2602912A"
+    }
+  ],
+  "source": {
+    "label": "Wikisource, d’après Œuvres complètes de Voltaire, édition Louis Moland, Garnier, 1877, tome 21",
+    "url": "https://fr.wikisource.org/wiki/Zadig",
+    "licence": "Transcription Wikisource, CC BY-SA 4.0"
+  },
+  "words": 26422,
+  "units": [
+    {
+      "id": "ch01",
+      "label": "Chapitre I",
+      "file": "sources/zadig/01.txt",
+      "words": 1038,
+      "summary": "À Babylone, sous le roi Moabdar, le jeune Zadig, riche, instruit et modéré, doit épouser Sémire. Des hommes armés envoyés par Orcan, neveu d’un ministre, tentent de l’enlever au bord de l’Euphrate ; Zadig les met en fuite, mais une flèche le blesse près de l’œil. Le grand médecin Hermès, qu’on a fait venir d’Égypte, annonce qu’il perdra cet œil, le gauche, réputé incurable ; deux jours plus tard l’abcès perce de lui-même et Zadig guérit. Entre-temps, Sémire, qui déclare ne pas supporter les borgnes, a épousé Orcan. Zadig épouse alors Azora, une femme de la ville, chez qui il remarque un peu de légèreté."
+    },
+    {
+      "id": "ch02",
+      "label": "Chapitre II",
+      "file": "sources/zadig/02.txt",
+      "words": 663,
+      "summary": "Azora rentre indignée : la jeune veuve Cosrou, qui avait juré de rester près du tombeau de son mari tant que le ruisseau voisin coulerait, fait détourner ce ruisseau. Zadig décide d’éprouver sa femme. Avec l’aide de son ami Cador, il se fait passer pour mort et enterrer au bout du jardin. Cador console la veuve, qui se laisse vite gagner ; au souper, il se dit pris d’une douleur violente que seul guérirait le nez d’un homme mort la veille. Azora prend un rasoir et va au tombeau couper le nez de son mari, qui se relève et retient sa main."
+    },
+    {
+      "id": "ch03",
+      "label": "Chapitre III",
+      "file": "sources/zadig/03.txt",
+      "words": 1316,
+      "summary": "Zadig répudie Azora et se retire au bord de l’Euphrate pour étudier la nature. Il décrit avec précision la chienne de la reine et le cheval du roi, qui se sont échappés, tout en affirmant ne les avoir jamais vus. Accusé de vol, il est condamné au knout et à l’exil, puis, quand on retrouve les bêtes, à une amende de quatre cents onces d’or pour avoir nié ce qu’il avait vu. Devant le conseil, il explique qu’il a tout déduit des traces laissées sur le sable et sous les arbres. On lui rend l’amende, frais de justice déduits, c’est-à-dire presque rien ; peu après, il est de nouveau puni pour avoir regardé passer un prisonnier évadé."
+    },
+    {
+      "id": "ch04",
+      "label": "Chapitre IV",
+      "file": "sources/zadig/04.txt",
+      "words": 1544,
+      "summary": "Dans sa maison d’un faubourg de Babylone, Zadig assiste à une dispute de savants sur une loi de Zoroastre qui défend de manger du griffon ; l’auteur de treize volumes sur cet animal l’accuse devant l’archimage Yébor, et Cador apaise l’affaire. Son voisin Arimaze, qu’on appelle l’Envieux, le jalouse. Zadig écrit quatre vers pour une dame, à la louange du roi, puis déchire la feuille ; l’Envieux en ramasse une moitié, dont les demi-vers semblent insulter le roi, et Zadig est condamné à mort sans être entendu. Le perroquet du roi apporte l’autre moitié, collée à une pêche, et les vers complets se révèlent un éloge. Gracié, Zadig rend à l’Envieux les biens que le roi lui donnait, et la reine commence à le regarder avec une faveur dangereuse."
+    },
+    {
+      "id": "ch05",
+      "label": "Chapitre V",
+      "file": "sources/zadig/05.txt",
+      "words": 717,
+      "summary": "Tous les cinq ans, Babylone récompense l’action la plus généreuse par une coupe d’or garnie de pierreries. Le premier satrape présente un juge qui a donné tout son bien pour réparer une erreur, un jeune homme qui a cédé sa fiancée à un ami et un soldat qui a quitté sa maîtresse pour sauver sa mère. Le roi donne pourtant la coupe à Zadig, qui a osé dire du bien d’un ministre disgracié devant un souverain en colère. Zadig lui répond que l’action la plus inouïe est celle du roi, qui ne s’est pas fâché d’être contredit, et se croit enfin heureux."
+    },
+    {
+      "id": "ch06",
+      "label": "Chapitre VI",
+      "file": "sources/zadig/06.txt",
+      "words": 1172,
+      "summary": "Zadig devient premier ministre ; quand il remercie le perroquet du roi en disant que ce bonheur sera peut-être bientôt évanoui, l’oiseau répond « Oui ». Il gouverne selon les lois, qu’il adoucit quand elles sont trop dures. Pour savoir lequel de deux frères aimait le plus leur père, mort aux Indes, il leur annonce que celui-ci revient guéri et observe leur réaction ; entre deux mages qui veulent épouser la même femme, il choisit celui qui promet d’élever l’enfant dans la justice. Il corrige enfin un grand seigneur de Médie, vaniteux et paresseux, en lui envoyant de la part du roi des musiciens et des chambellans chargés de le louer du matin au soir, jusqu’à ce qu’il supplie qu’on le délivre de ces éloges."
+    },
+    {
+      "id": "ch07",
+      "label": "Chapitre VII",
+      "file": "sources/zadig/07.txt",
+      "words": 1087,
+      "summary": "Ministre admiré, Zadig règle une querelle qui divise l’empire depuis quinze cents ans : faut-il entrer dans le temple du pied gauche ou du pied droit ? Il y entre à pieds joints. Il laisse chacun prier tourné du côté qu’il veut et fait revivre la tragédie et la comédie. La femme de l’Envieux vient lui parler et laisse tomber sa jarretière, qu’il ramasse sans la lui rattacher ; une femme de chambre de la reine, avec qui Zadig a eu une aventure et devant qui il a prononcé par distraction le nom d’Astarté, remarque que cette jarretière ressemble à celles de la reine. Zadig rêve d’un lit de roses d’où sort un serpent."
+    },
+    {
+      "id": "ch08",
+      "label": "Chapitre VIII",
+      "file": "sources/zadig/08.txt",
+      "words": 1550,
+      "summary": "La reine Astarté et Zadig s’éprennent l’un de l’autre sans se l’avouer ; Zadig résiste et se confie à Cador. Le roi Moabdar, jaloux, remarque que la reine et Zadig portent des babouches de la même couleur, et que les rubans de la reine ont la couleur du bonnet de Zadig ; l’Envieux lui fait parvenir la jarretière de sa femme, pareille à celle de la reine. Le roi décide d’empoisonner la reine et de faire étrangler Zadig au lever du jour. Un petit nain muet, qui a tout entendu, dessine la scène pour avertir la reine, et celle-ci écrit à Zadig de fuir. Cador le fait partir de nuit vers l’Égypte, et Zadig se demande à quoi lui a servi la vertu."
+    },
+    {
+      "id": "ch09",
+      "label": "Chapitre IX",
+      "file": "sources/zadig/09.txt",
+      "words": 1031,
+      "summary": "Guidé par les étoiles, Zadig médite sur la petitesse de la terre et des hommes, puis revient à la pensée d’Astarté. Aux frontières de l’Égypte, il voit un homme frapper une femme qui ressemble un peu à la reine et qui l’appelle au secours. Il s’interpose ; l’Égyptien le blesse d’un coup de poignard au moment où Zadig lui laisse la vie, et Zadig le tue. La femme, loin de le remercier, l’injurie pour avoir tué son amant. Quatre courriers de Babylone arrivent et l’emmènent ; cette fois, Zadig refuse de la défendre."
+    },
+    {
+      "id": "ch10",
+      "label": "Chapitre X",
+      "file": "sources/zadig/10.txt",
+      "words": 1113,
+      "summary": "Dans la bourgade égyptienne, la foule accuse Zadig d’avoir enlevé la belle Missouf et assassiné l’homme qui la battait. On reconnaît qu’il s’est défendu, mais la loi condamne à l’esclavage celui qui a versé le sang : il est vendu avec son valet, payé plus cher que lui, au marchand arabe Sétoc. En route vers la tribu, Zadig gagne l’estime de son maître en lui expliquant les lois de l’équilibre et le poids des marchandises. Il l’aide ensuite à récupérer cinq cents onces d’argent prêtées à un Hébreu dont les témoins sont morts : il obtient du débiteur qu’il dise lui-même où se trouve la pierre sur laquelle l’argent fut compté."
+    },
+    {
+      "id": "ch11",
+      "label": "Chapitre XI",
+      "file": "sources/zadig/11.txt",
+      "words": 894,
+      "summary": "Sétoc fait de son esclave son ami. Zadig le détourne d’adorer les astres : un soir, il s’agenouille devant les lumières allumées dans la tente, et Sétoc comprend qu’il néglige lui aussi leur créateur. Zadig s’attaque ensuite au bûcher du veuvage, coutume qui pousse les veuves dévotes à se brûler sur le corps de leur mari. La jeune veuve Almona lui avoue qu’elle détestait son mari et ne veut se brûler que pour sa réputation. Sur son conseil, les chefs des tribus décident qu’une veuve ne pourra se brûler qu’après une heure de tête-à-tête avec un jeune homme, et plus aucune ne se brûle en Arabie."
+    },
+    {
+      "id": "ch12",
+      "label": "Chapitre XII",
+      "file": "sources/zadig/12.txt",
+      "words": 1268,
+      "summary": "Sétoc emmène Zadig à une grande foire où se retrouvent des négociants de tous les pays. À table, un Égyptien, un Indien, un Chaldéen, un homme du Cathay, un Grec et un Celte se disputent sur une momie, une poule bouillie, un bœuf adoré, un poisson divin et l’ancienneté de leurs peuples. Le Celte, qui a beaucoup bu, menace quiconque manquerait de respect à son dieu. Zadig montre à chacun qu’il adore au fond le même Être suprême, créateur de ce qu’il révère, et tous s’embrassent. De retour dans la tribu, il apprend qu’il a été condamné en son absence à être brûlé à petit feu."
+    },
+    {
+      "id": "ch13",
+      "label": "Chapitre XIII",
+      "file": "sources/zadig/13.txt",
+      "words": 892,
+      "summary": "Les prêtres des étoiles, qui perdent les bijoux des veuves qu’on ne brûle plus, font condamner Zadig pour avoir dit que les étoiles ne se couchent pas dans la mer. La veuve Almona se pare, va trouver leur chef et obtient sa signature pour la grâce de Zadig contre la promesse d’un rendez-vous au lever d’une étoile. Elle fait de même avec trois autres prêtres, à des heures différentes. Puis elle convoque les juges, qui surprennent chez elle les quatre pontifes venus au rendez-vous. Zadig est sauvé, et Sétoc épouse Almona."
+    },
+    {
+      "id": "ch14",
+      "label": "Chapitre XIV",
+      "file": "sources/zadig/14.txt",
+      "words": 1161,
+      "summary": "Sétoc envoie Zadig régler ses affaires dans l’île de Serendib, dont le roi Nabussan, bon prince toujours volé par ses financiers, fait de lui son ami. Pour lui trouver un trésorier honnête, Zadig propose de faire danser les candidats. Chacun doit d’abord traverser seul une galerie obscure où le roi a étalé ses trésors : soixante-trois danseurs sur soixante-quatre se meuvent lourdement, les poches pleines, et un seul danse avec légèreté. Il devient trésorier, et les autres sont taxés au profit du trésor. Le roi demande ensuite à Zadig de l’aider à trouver une femme qui l’aime vraiment."
+    },
+    {
+      "id": "ch15",
+      "label": "Chapitre XV",
+      "file": "sources/zadig/15.txt",
+      "words": 1154,
+      "summary": "Le roi de Serendib a cent femmes et doute d’en être aimé. Zadig envoie dans leurs cellules trente-trois bossus chargés d’or, trente-trois beaux pages et trente-trois bonzes éloquents : quatre-vingt-dix-neuf cèdent, une seule reste fidèle au roi, qui l’aime à son tour. Mais elle a les yeux bleus, et une loi très ancienne, établie par un bonze, interdit aux rois d’aimer une telle femme. Quand des peuples du nord envahissent l’île, les bonzes refusent de payer jusqu’à ce que Zadig conseille au roi de ne défendre que ses propres terres. Devenu l’ennemi des bonzes et des financiers, Zadig quitte l’île pour chercher des nouvelles d’Astarté."
+    },
+    {
+      "id": "ch16",
+      "label": "Chapitre XVI",
+      "file": "sources/zadig/16.txt",
+      "words": 1189,
+      "summary": "À la frontière de l’Arabie Pétrée et de la Syrie, Zadig et son valet sont attaqués par les hommes du brigand Arbogad, qui admire leur courage et invite Zadig à souper. Arbogad raconte comment, simple valet, il a voulu devenir comme un grain de sable changé en diamant : il a volé, acheté le satrape de Syrie et pris à son service l’envoyé chargé de le faire étrangler. Il apprend à Zadig que Moabdar est devenu fou et a été tué, et que Babylone est en pleine guerre ; de la reine, il ne sait rien, et il l’a peut-être vendue. Zadig repart au matin, plus désespéré que jamais."
+    },
+    {
+      "id": "ch17",
+      "label": "Chapitre XVII",
+      "file": "sources/zadig/17.txt",
+      "words": 1211,
+      "summary": "Au bord d’une rivière, Zadig empêche un pêcheur désespéré de se jeter à l’eau. L’homme raconte qu’il faisait les meilleurs fromages à la crème de l’empire, que la reine et Zadig lui devaient six cents fromages quand ils ont disparu, et qu’Orcan lui a pris sa femme. Les gens de justice ont absorbé ses dernières onces d’or, et un prince d’Hyrcanie a brûlé sa maison. Zadig, sans se nommer, lui donne la moitié de son argent et l’envoie attendre chez Cador, à Babylone. Le pêcheur s’étonne que celui qui donne soit plus malheureux que celui qui reçoit."
+    },
+    {
+      "id": "ch18",
+      "label": "Chapitre XVIII",
+      "file": "sources/zadig/18.txt",
+      "words": 2591,
+      "summary": "Dans une prairie, des esclaves cherchent un basilic que leur maître, le gros seigneur Ogul, doit manger cuit dans l’eau rose sur l’ordre de son médecin. Une femme voilée trace sur le sable le nom de Zadig : c’est Astarté. Elle raconte que Cador l’a cachée dans une statue d’un temple, que Moabdar a épousé Missouf, ramenée à sa place, puis est devenu fou et a été tué, et qu’après avoir fui le prince d’Hyrcanie elle a été enlevée par Arbogad et vendue à Ogul. Se présentant comme médecin, Zadig obtient sa liberté et guérit Ogul en lui faisant pousser un ballon et manger sobrement. Les médecins d’Ogul veulent l’empoisonner, mais un courrier de la reine le rappelle à temps."
+    },
+    {
+      "id": "ch19",
+      "label": "Chapitre XIX",
+      "file": "sources/zadig/19.txt",
+      "words": 1577,
+      "summary": "Le prince d’Hyrcanie est mort, et Babylone décide qu’Astarté épousera le plus vaillant et le plus sage : un tournoi, puis des énigmes. Zadig, inscrit sans nom ni visage, reçoit de la reine une armure blanche et un cheval de Perse. Le vaniteux Itobad, en armure verte, est désarçonné par chacun de ses adversaires ; Zadig bat quatre chevaliers, puis le seul prince qui en avait fait autant. Pendant la nuit, Itobad lui prend son armure et se fait proclamer vainqueur. Hué sous l’armure verte, Zadig la vend et accuse la Providence."
+    },
+    {
+      "id": "ch20",
+      "label": "Chapitre XX",
+      "file": "sources/zadig/20.txt",
+      "words": 2104,
+      "summary": "Zadig fait route avec un vieil ermite qui lit le livre des destinées et lui fait jurer de le suivre quelques jours. L’ermite vole un bassin d’or chez un seigneur fastueux et le donne à un avare qui les a mal reçus, puis met le feu à la maison d’un philosophe hospitalier et jette dans une rivière le jeune neveu d’une veuve charitable. Il se révèle alors être l’ange Jesrad : sous les ruines, le philosophe trouvera un trésor, et l’enfant aurait assassiné sa tante et Zadig. Selon l’ange, il n’y a point de hasard, et il n’est pas de mal dont ne naisse un bien. Zadig commence une objection, mais l’ange s’envole en lui ordonnant d’aller à Babylone."
+    },
+    {
+      "id": "ch21",
+      "label": "Chapitre XXI",
+      "file": "sources/zadig/21.txt",
+      "words": 1150,
+      "summary": "À Babylone, le peuple acclame Zadig, qui est admis à répondre aux énigmes du grand mage avec les chevaliers. Il les explique toutes et répond le mieux sur la justice et l’art de régner, tandis qu’Itobad assure que c’était facile. En robe et armé de sa seule épée, il défie Itobad, brise son arme, le désarme et revêt l’armure blanche, que Cador prouve être la sienne. Zadig devient roi et l’époux d’Astarté. Il récompense ceux qui l’ont aidé, oblige Orcan à dédommager le pêcheur, et l’Envieux meurt de rage et de honte."
+    }
+  ],
+  "intro": [
+    "Zadig ou la Destinée, sous-titré « histoire orientale », est un conte de Voltaire. Une première version en quinze chapitres paraît en 1747 sous le titre de Memnon, histoire orientale, avec l’adresse de Londres, pour une impression faite à Paris, selon l’éditeur Beuchot ; en 1748, le livre prend le titre de Zadig et gagne trois chapitres. Voltaire le présente comme la traduction d’un vieux manuscrit chaldéen, offerte par le poète Sadi à une sultane que les notes de l’édition identifient à Mme de Pompadour. Un jeune Babylonien sage et instruit y passe de la faveur du roi à la fuite, puis à l’esclavage en Arabie et à l’errance, avant de revenir disputer le trône. Le texte suivi est celui de l’édition Moland (Garnier, 1877) : vingt et un chapitres, environ 26 400 mots, dont le chapitre VII, publié seulement en 1775, et les chapitres XIV et XV, posthumes, parus dans l’édition de Kehl.",
+    "En 3e, Zadig se lit comme une satire : sous le décor de Babylone, Voltaire vise les juges qui gardent l’amende pour leurs frais, les prêtres qui condamnent un homme pour une opinion sur les étoiles et les courtisans qui calomnient le favori. Repérez le mouvement qui revient d’un chapitre à l’autre : chaque fois que Zadig se dit enfin heureux, un incident minuscule le fait tomber, et chaque bonne action lui attire une punition. Relevez ses plaintes contre la destinée, puis confrontez-les à ce que lui affirme l’ange au chapitre XX. Le conte ne conclut pas à sa place : l’objection de Zadig reste coupée, et la fin heureuse tient à un duel livré en robe de chambre."
+  ],
+  "characters": [
+    {
+      "name": "Zadig",
+      "role": "jeune Babylonien riche, savant et modéré, que chacune de ses bonnes actions expose à un nouveau malheur."
+    },
+    {
+      "name": "Astarté",
+      "role": "reine de Babylone, épouse de Moabdar, que Zadig aime en silence et retrouve après une longue séparation."
+    },
+    {
+      "name": "Moabdar",
+      "role": "roi de Babylone, d’abord protecteur de Zadig, puis jaloux au point de vouloir le faire étrangler."
+    },
+    {
+      "name": "Cador",
+      "role": "ami fidèle de Zadig, qui l’aide à éprouver Azora, organise sa fuite et met la reine à l’abri."
+    },
+    {
+      "name": "L’Envieux (Arimaze)",
+      "role": "voisin de Zadig, rongé de jalousie, qui cherche à le perdre avec l’aide de sa femme."
+    },
+    {
+      "name": "Sétoc",
+      "role": "marchand arabe qui achète Zadig comme esclave et fait de lui son ami et son conseiller."
+    },
+    {
+      "name": "Missouf",
+      "role": "Égyptienne capricieuse que Zadig défend malgré elle, et que Moabdar épouse à la place de la reine."
+    },
+    {
+      "name": "L’ermite",
+      "role": "vieillard qui lit le livre des destinées, commet des actes incompréhensibles et se révèle être l’ange Jesrad."
+    }
+  ],
+  "passages": [
+    {
+      "unit": "ch01",
+      "ref": "Chapitre I",
+      "title": "La science d’Hermès",
+      "quote": "Deux jours après l’abcès perça de lui-même ; Zadig fut guéri parfaitement. Hermès écrivit un livre où il lui prouva qu’il n’avait pas dû guérir.",
+      "note": "Premier coup porté aux savants : le grand médecin préfère sa théorie au fait qui la dément. Voltaire ne commente pas, il juxtapose deux phrases brèves et laisse le lecteur mesurer l’absurdité. Rapprochez la scène du chapitre XVIII, où Zadig se fait passer pour médecin et ridiculise ceux d’Ogul."
+    },
+    {
+      "unit": "ch06",
+      "ref": "Chapitre VI",
+      "title": "Une maxime de justice",
+      "quote": "C’est de lui que les nations tiennent ce grand principe : Qu’il vaut mieux hasarder de sauver un coupable que de condamner un innocent.",
+      "note": "Le conte attribue à son héros une règle que les philosophes du XVIIIe siècle opposent à une justice expéditive. Mettez-la en regard des chapitres III et IV, où Zadig est condamné deux fois sans être entendu : devenu ministre, il corrige ce qu’il a subi. Le ton est sérieux, ce qui est rare dans le conte."
+    },
+    {
+      "unit": "ch11",
+      "ref": "Chapitre XI",
+      "title": "Le respect des abus",
+      "quote": "Il y a plus de mille ans que les femmes sont en possession de se brûler. Qui de nous osera changer une loi que le temps a consacrée ? Y a-t-il rien de plus respectable qu’un ancien abus ? — La raison est plus ancienne, reprit Zadig.",
+      "note": "Sétoc défend le bûcher des veuves par son ancienneté, et sa dernière question se condamne elle-même puisqu’elle nomme « abus » ce qu’elle veut respecter. Zadig retourne l’argument en une phrase. Pour une lecture linéaire, observez la suite : il obtient l’abolition par une loi habile qui rend la coutume impraticable, sans heurter les chefs de front."
+    },
+    {
+      "unit": "ch12",
+      "ref": "Chapitre XII",
+      "title": "Tous du même avis",
+      "quote": "Mes amis, vous alliez vous quereller pour rien, car vous êtes tous du même avis.",
+      "note": "Chaque convive défend son culte ou l’âge de son peuple avec des arguments de plus en plus absurdes, et les chiffres d’ancienneté montent de réplique en réplique. Zadig ramène toutes les croyances à l’adoration d’un même Être suprême : c’est la position déiste de Voltaire, présentée comme une évidence que chacun finit par accepter. Le chapitre se prête à un travail sur la tolérance."
+    },
+    {
+      "unit": "ch19",
+      "ref": "Chapitre XIX",
+      "title": "Les chevaliers verts",
+      "quote": "il fut tenté de croire que tout était gouverné par une destinée cruelle qui opprimait les bons et qui faisait prospérer les chevaliers verts.",
+      "note": "Zadig fait de son malheur une loi du monde, et la fin de la phrase change la plainte philosophique en trait comique : les « chevaliers verts », ce sont les Itobad. Ce murmure contre la Providence prépare la rencontre du chapitre suivant, où l’ermite va lui répondre."
+    },
+    {
+      "unit": "ch20",
+      "ref": "Chapitre XX",
+      "title": "Le « mais » de Zadig",
+      "quote": "— Mais, dit Zadig…. » Comme il disait mais, l’ange prenait déjà son vol vers la dixième sphère.",
+      "note": "L’ange Jesrad vient d’affirmer qu’il n’y a point de hasard et que tout mal produit un bien. Zadig se soumet, pourtant son objection reste suspendue et le conte ne dit pas ce qu’il allait répondre. C’est sur ce mot qu’on peut ouvrir un débat en classe : la leçon de l’ange suffit-elle à justifier la mort de l’enfant ?"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "unit": "ch02",
+      "ref": "Chapitre II, avant la scène du tombeau",
+      "question": "Sur quel pont, selon Azora, son mari passera-t-il du monde d’hier dans le monde du lendemain ?",
+      "answer": "Tchinavar",
+      "evidence": "quand mon mari passera du monde d’hier dans le monde du lendemain sur le pont Tchinavar"
+    },
+    {
+      "id": "q2",
+      "unit": "ch06",
+      "ref": "Chapitre VI, fin du chapitre",
+      "question": "Quel est le nom de l’itimadoulet de Médie, vaniteux et voluptueux, que Zadig entreprend de corriger ?",
+      "answer": "Irax",
+      "evidence": "Il venait tous les jours des plaintes à la cour contre l’itimadoulet de Médie, nommé Irax."
+    },
+    {
+      "id": "q3",
+      "unit": "ch10",
+      "ref": "Chapitre X, début du chapitre",
+      "question": "Quel nom les habitants de la bourgade égyptienne donnent-ils à l’homme que Zadig a tué ?",
+      "answer": "Clétofis",
+      "evidence": "Voilà celui qui a enlevé la belle Missouf, et qui vient d’assassiner Clétofis !"
+    },
+    {
+      "id": "q4",
+      "unit": "ch14",
+      "ref": "Chapitre XIV, l’annonce de l’épreuve",
+      "question": "Au premier jour de quelle lune les candidats à l’emploi de trésorier doivent-ils se rendre dans l’antichambre du roi ?",
+      "answer": "Crocodile",
+      "evidence": "Le jour même il fit publier, au nom du roi, que tous ceux qui prétendaient à l’emploi de haut receveur des deniers de Sa gracieuse Majesté Nabussan, fils de Nussanab, eussent à se rendre, en habits de soie légère, le premier de la lune du Crocodile, dans l’antichambre du roi."
+    },
+    {
+      "id": "q5",
+      "unit": "ch17",
+      "ref": "Chapitre XVII, le récit du pêcheur",
+      "question": "De quel village, près de Babylone, le pêcheur était-il l’habitant le plus considéré ?",
+      "answer": "Derlback",
+      "evidence": "J’ai été le plus considéré du village de Derlback auprès de Babylone, et je faisais, avec l’aide de ma femme, les meilleurs fromages à la crème de l’empire."
+    }
+  ],
+  "readingTips": [
+    "Comptez environ trois heures pour les vingt et un chapitres (26 400 mots). Les plus longs sont le XVIII, où Astarté raconte tout ce qui lui est arrivé depuis sa fuite, et le XX, le voyage avec l’ermite.",
+    "Tenez la liste des malheurs de Zadig et de leur cause : il la récite lui-même au chapitre X, puis devant le pêcheur au chapitre XVII. Comparez-la avec la fin du chapitre XXI, où chaque personnage reçoit ce qu’il mérite, ou à peu près.",
+    "Quelques mots utiles : les mages sont les prêtres de la religion de Zoroastre, Orosmade est leur dieu du bien, un satrape gouverne une province, le grand desterham est un haut magistrat de Babylone. L’orthographe est celle de 1877 (très-humblement, poëte).",
+    "Avant d’en débattre, relisez le chapitre XX en notant les quatre maisons où l’ermite s’arrête et ce qu’il y fait, puis la réponse de l’ange et la phrase de Zadig qu’il interrompt."
+  ],
+  "updated": "2026-10-21",
+  "datePublished": "2026-10-21"
+}

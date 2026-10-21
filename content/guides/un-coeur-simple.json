@@ -1,0 +1,192 @@
+{
+  "slug": "un-coeur-simple",
+  "title": "Un cœur simple",
+  "author": "Gustave Flaubert",
+  "authorDates": "1821-1880",
+  "published": "1877",
+  "genre": "conte (récit réaliste)",
+  "programme": "lycee",
+  "level": "Seconde",
+  "programmeNote": "Le programme de français de seconde (BO spécial n° 1 du 22 janvier 2019, version modifiée en 2020) construit l’objet d’étude « Le roman et le récit du XVIIIe siècle au XXIe siècle » autour d’œuvres intégrales : deux œuvres de forme et de siècle différents, un roman et, à côté, un recueil de nouvelles ou une autre forme de récit, ainsi que la lecture cursive d’au moins un roman ou récit d’une autre période. Un cœur simple peut s’y étudier avec les deux autres contes du recueil, ou se lire seul en lecture cursive. Le programme ne cite aucun titre.",
+  "programmeSources": [
+    {
+      "label": "Programme de français de seconde (BO spécial n° 1 du 22 janvier 2019, version modifiée en 2020, sur éduscol)",
+      "url": "https://eduscol.education.gouv.fr/sites/default/files/document/04-annexe1francais2ebomodifiepdf-69834.pdf"
+    }
+  ],
+  "source": {
+    "label": "Wikisource, d’après Trois Contes, Œuvres complètes de Gustave Flaubert, Louis Conard, 1910",
+    "url": "https://fr.wikisource.org/wiki/Trois_Contes_(Flaubert)/Un_C%C5%93ur_simple",
+    "licence": "Transcription Wikisource, CC BY-SA 4.0"
+  },
+  "words": 11459,
+  "units": [
+    {
+      "id": "ch01",
+      "label": "Chapitre I",
+      "file": "sources/un-coeur-simple/01.txt",
+      "words": 576,
+      "summary": "Le premier chapitre présente Félicité, servante de Mme Aubain à Pont-l’Évêque pendant un demi-siècle, pour cent francs par an. Veuve depuis 1809 d’un mari qui lui a laissé deux enfants et des dettes, Mme Aubain a tout vendu sauf deux fermes, à Toucques et à Geffosses, et s’est installée dans une maison de famille derrière les halles. Le narrateur parcourt cette maison pièce par pièce, de la salle où Madame passe ses journées jusqu’à la chambre de Félicité, éclairée par une lucarne. Il décrit ensuite la journée de la servante, sa tenue et son économie, puis la peint en femme sans âge, qui à vingt-cinq ans en paraissait quarante et semblait « une femme en bois »."
+    },
+    {
+      "id": "ch02",
+      "label": "Chapitre II",
+      "file": "sources/un-coeur-simple/02.txt",
+      "words": 2970,
+      "summary": "Fille d’un maçon, orpheline très jeune, Félicité a gardé les vaches chez un fermier, battue pour un rien, puis chassée pour un vol qu’elle n’avait pas commis. À dix-huit ans, elle repousse à une fête de village un garçon, Théodore, qu’elle retrouve plus tard sur une route ; il lui promet le mariage, puis épouse une vieille femme riche pour ne pas partir soldat. Désespérée, elle quitte la ferme et entre au service de Mme Aubain, dont elle adore les enfants, Paul et Virginie, alors âgés de sept et quatre ans. Le chapitre fait défiler les fermiers, un oncle marquis qui boit trop et M. Bourais, puis raconte comment Félicité arrête un taureau qui chargeait la famille en lui jetant des mottes de terre dans les yeux. Virginie, restée nerveuse, part prendre les bains de mer à Trouville, où Félicité retrouve une sœur ; au retour, Paul entre au collège de Caen, et Félicité mène chaque jour la petite au catéchisme."
+    },
+    {
+      "id": "ch03",
+      "label": "Chapitre III",
+      "file": "sources/un-coeur-simple/03.txt",
+      "words": 4391,
+      "summary": "Félicité apprend le catéchisme en même temps que Virginie et vit sa première communion comme si elle était à sa place ; puis la petite part en pension chez les Ursulines de Honfleur. Pour se distraire, la servante reçoit le dimanche son neveu Victor, qui s’engage au long cours ; elle marche de nuit jusqu’à Honfleur pour lui dire adieu et arrive au moment où son bateau quitte le quai. Une lettre annonce bientôt sa mort, et Félicité apprendra plus tard qu’on l’a trop saigné à l’hôpital, pour la fièvre jaune. Virginie, de santé fragile, meurt au couvent d’une fluxion de poitrine ; Félicité la veille deux nuits, garde une mèche de ses cheveux et entretient sa tombe. Les années passent ; un jour, en triant les affaires de la morte, Mme Aubain et sa servante s’embrassent pour la première fois. Félicité soigne des malades et un vieillard misérable, et la femme du sous-préfet, en quittant la ville, fait don à Mme Aubain d’un perroquet venu d’Amérique."
+    },
+    {
+      "id": "ch04",
+      "label": "Chapitre IV",
+      "file": "sources/un-coeur-simple/04.txt",
+      "words": 2933,
+      "summary": "Le perroquet, Loulou, devient le compagnon de Félicité : elle lui apprend trois phrases, le soigne, le perd un jour et le retrouve sur son épaule après l’avoir cherché dans toute la ville. Devenue sourde, elle n’entend plus que sa voix. Un matin d’hiver, elle le trouve mort dans sa cage et, sur le conseil de sa maîtresse, le fait empailler au Havre ; en portant l’oiseau à Honfleur, elle est jetée à terre par le fouet d’un postillon. Installé dans sa chambre au milieu d’objets pieux et de souvenirs, le perroquet empaillé se confond dans son esprit avec le Saint-Esprit d’une image du baptême du Christ. Paul se marie, Bourais meurt loin de la ville en laissant des comptes truqués, et Mme Aubain s’éteint en 1853 ; ses héritiers vident la maison, qui est mise en vente. Seule et malade, Félicité obtient du curé que Loulou figure sur le reposoir de la Fête-Dieu, et l’embrasse une dernière fois avant qu’on l’emporte."
+    },
+    {
+      "id": "ch05",
+      "label": "Chapitre V",
+      "file": "sources/un-coeur-simple/05.txt",
+      "words": 589,
+      "summary": "Le dernier chapitre se passe le jour de la Fête-Dieu, dans la chambre de Félicité mourante, que veille la mère Simon. De son lit, la servante suit en pensée la procession qui avance dans la rue et demande si le perroquet est bien. Le cortège arrive dans la cour, où le reposoir est couvert de fleurs et d’objets précieux ; Loulou y disparaît sous des roses. Pendant que le prêtre pose l’ostensoir et que la fumée de l’encens monte jusqu’à sa chambre, Félicité meurt en croyant voir un perroquet immense planer au-dessus d’elle, dans le ciel ouvert."
+    }
+  ],
+  "intro": [
+    "Un cœur simple est le premier des Trois Contes de Gustave Flaubert. Le conte paraît d’abord en feuilleton dans Le Moniteur universel, du 12 au 19 avril 1877, puis en volume chez Georges Charpentier le 24 avril 1877, suivi de La Légende de saint Julien l’Hospitalier et d’Hérodias. Le texte compte environ 11 500 mots, en cinq chapitres de longueur très inégale. Il raconte la vie d’une servante normande sur un demi-siècle, de sa jeunesse à la ferme jusqu’à sa mort, bien des années après celle de sa maîtresse en 1853, à Pont-l’Évêque et sur la côte, entre Trouville et Honfleur. Le texte reproduit ici suit l’édition des Œuvres complètes publiée par Louis Conard en 1910, transcrite et validée sur Wikisource.",
+    "En seconde, le conte sert à étudier un récit réaliste du XIXe siècle. Observez le travail du temps : un chapitre peut résumer dix ans en une phrase, puis s’arrêter longuement sur une nuit de veille ou une course sur la route. Repérez aussi la place du narrateur, qui reste presque toujours extérieur, mais glisse parfois dans les pensées de Félicité sans guillemets, au discours indirect libre. Le conte ne se moque pas de sa servante : il montre ses limites (elle ne sait pas lire, ne comprend rien aux cartes) et la gravité de ses deuils. La fin pose une question d’interprétation : quand un perroquet empaillé et le Saint-Esprit se confondent, faut-il y lire la foi d’une âme simple ou l’ironie du narrateur ? Le texte ne tranche pas."
+  ],
+  "characters": [
+    {
+      "name": "Félicité",
+      "role": "servante de Mme Aubain pendant cinquante ans, sans instruction, qui donne toute son affection à ceux qu’elle sert, puis à un perroquet."
+    },
+    {
+      "name": "Mme Aubain",
+      "role": "veuve de Pont-l’Évêque, maîtresse de Félicité, réservée et hautaine, qui ne la serre dans ses bras qu’une fois, après la mort de Virginie."
+    },
+    {
+      "name": "Paul et Virginie",
+      "role": "les deux enfants de Mme Aubain ; Virginie, fragile, meurt au couvent, et Paul cherche longtemps sa voie avant de se marier."
+    },
+    {
+      "name": "Théodore",
+      "role": "fils de fermier qui promet le mariage à Félicité, puis l’abandonne pour une femme riche."
+    },
+    {
+      "name": "Victor",
+      "role": "neveu de Félicité, qu’elle gâte le dimanche ; parti au long cours, il meurt à l’hôpital, soigné pour la fièvre jaune."
+    },
+    {
+      "name": "M. Bourais",
+      "role": "ancien avoué qui gère les biens de Mme Aubain, pédant et moqueur, dont on découvre les fraudes après sa mort."
+    },
+    {
+      "name": "Loulou",
+      "role": "le perroquet d’Amérique que Félicité reçoit, soigne, fait empailler et finit par associer au Saint-Esprit."
+    },
+    {
+      "name": "La mère Simon",
+      "role": "ancienne épicière ruinée, qui aide Félicité dans ses dernières années et veille sa mort."
+    }
+  ],
+  "passages": [
+    {
+      "unit": "ch01",
+      "ref": "Chapitre I",
+      "title": "Une femme en bois",
+      "quote": "Dès la cinquantaine, elle ne marqua plus aucun âge ; — et, toujours silencieuse, la taille droite et les gestes mesurés, semblait une femme en bois, fonctionnant d’une manière automatique.",
+      "note": "Le portrait qui clôt le premier chapitre réduit Félicité à une mécanique : pas d’âge, pas de parole, des gestes réglés. Le chapitre suivant raconte pourtant son histoire d’amour et ses chagrins : comparez cette image extérieure, celle que voient les bourgeoises de la ville, avec la vie intérieure que le récit va révéler."
+    },
+    {
+      "unit": "ch02",
+      "ref": "Chapitre II",
+      "title": "Un héroïsme qui s’ignore",
+      "quote": "Cet événement, pendant bien des années, fut un sujet de conversation à Pont-l’Évêque. Félicité n’en tira aucun orgueil, ne se doutant même pas qu’elle eût rien fait d’héroïque.",
+      "note": "Ces deux phrases suivent la scène du taureau, où Félicité affronte seule la bête pour protéger la famille. La ville parle de l’exploit, l’héroïne ne le voit même pas : le récit place la grandeur de Félicité là où elle-même ne la cherche pas. Utile pour une lecture linéaire de la scène et de sa chute."
+    },
+    {
+      "unit": "ch03",
+      "ref": "Chapitre III",
+      "title": "La première communion",
+      "quote": "il lui sembla qu’elle était elle-même cette enfant ; sa figure devenait la sienne, sa robe l’habillait, son cœur lui battait dans la poitrine ; au moment d’ouvrir la bouche, en fermant les paupières, elle manqua s’évanouir.",
+      "note": "Félicité vit la communion de Virginie à la place de l’enfant, jusqu’à perdre ses propres limites. Les possessifs se brouillent (« sa figure devenait la sienne ») : c’est la marque de son amour, qui passe par l’identification. Le lendemain, quand elle communie elle-même, elle n’y trouve pas « les mêmes délices »."
+    },
+    {
+      "unit": "ch03",
+      "ref": "Chapitre III",
+      "title": "Un baiser qui les égalisait",
+      "quote": "Leurs yeux se fixèrent l’une sur l’autre, s’emplirent de larmes ; enfin la maîtresse ouvrit ses bras, la servante s’y jeta ; et elles s’étreignirent, satisfaisant leur douleur dans un baiser qui les égalisait.",
+      "note": "Devant les affaires de Virginie, la distance entre la maîtresse et la servante disparaît pour un instant. Les deux femmes ne sont plus nommées que par leur rôle, et le dernier verbe, « égalisait », dit ce que ce geste a d’exceptionnel. La phrase suivante précise que c’est « la première fois de leur vie »."
+    },
+    {
+      "unit": "ch04",
+      "ref": "Chapitre IV",
+      "title": "Le Saint-Esprit et le perroquet",
+      "quote": "Sa ressemblance lui parut encore plus manifeste sur une image d’Épinal, représentant le baptême de Notre-Seigneur. Avec ses ailes de pourpre et son corps d’émeraude, c’était vraiment le portrait de Loulou.",
+      "note": "Félicité rapproche l’oiseau de la colombe du baptême, et le narrateur reprend sa logique sans la commenter : le Père n’a pas pu choisir une colombe, « puisque ces bêtes-là n’ont pas de voix ». Le passage permet de travailler le point de vue : qui parle ici, Félicité ou le narrateur, et le lecteur doit-il en sourire ?"
+    },
+    {
+      "unit": "ch05",
+      "ref": "Chapitre V",
+      "title": "La dernière vision",
+      "quote": "Les mouvements de son cœur se ralentirent un à un, plus vagues chaque fois, plus doux, comme une fontaine s’épuise, comme un écho disparaît ; et, quand elle exhala son dernier souffle, elle crut voir, dans les cieux entr’ouverts, un perroquet gigantesque",
+      "note": "La dernière phrase du conte ralentit avec le cœur de Félicité : deux comparaisons brèves, puis une longue proposition qui s’achève sur l’image du perroquet. Le verbe « crut » maintient l’ambiguïté : le texte rapporte la vision sans dire si elle est vraie. Rapprochez-la du catéchisme du chapitre III, où Félicité se représentait déjà le Saint-Esprit en oiseau."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "unit": "ch01",
+      "ref": "Chapitre I",
+      "question": "De quel graveur le cabinet d’étude de la maison conserve-t-il des gravures, souvenirs d’un temps meilleur ?",
+      "answer": "Audran",
+      "evidence": "Les deux panneaux en retour disparaissaient sous des dessins à la plume, des paysages à la gouache et des gravures d’Audran, souvenirs d’un temps meilleur et d’un luxe évanoui."
+    },
+    {
+      "id": "q2",
+      "unit": "ch02",
+      "ref": "Chapitre II",
+      "question": "Quel est le nom de la vieille femme très riche que Théodore épouse pour ne pas partir soldat ?",
+      "answer": "Lehoussais",
+      "evidence": "Pour se garantir de la conscription, Théodore avait épousé une vieille femme très riche, Mme Lehoussais, de Toucques."
+    },
+    {
+      "id": "q3",
+      "unit": "ch03",
+      "ref": "Chapitre III",
+      "question": "Comment s’appelle le vieillard malade, qui passe pour avoir commis des horreurs en 93, que Félicité soigne jusqu’à sa mort ?",
+      "answer": "Colmiche",
+      "evidence": "Après les Polonais, ce fut le père Colmiche, un vieillard passant pour avoir fait des horreurs en 93."
+    },
+    {
+      "id": "q4",
+      "unit": "ch04",
+      "ref": "Chapitre IV",
+      "question": "De quelle ville arrivent les héritiers, dix jours après la mort de Mme Aubain ?",
+      "answer": "Besançon",
+      "evidence": "Dix jours après (le temps d’accourir de Besançon), les héritiers survinrent."
+    },
+    {
+      "id": "q5",
+      "unit": "ch05",
+      "ref": "Chapitre V",
+      "question": "De quelle couleur est le velours du dais sous lequel le curé porte le Saint-Sacrement ?",
+      "answer": "ponceau",
+      "evidence": "Tous les enfants des écoles, les chantres et les pompiers marchaient sur les trottoirs tandis qu’au milieu de la rue, s’avançaient premièrement : le suisse armé de sa hallebarde, le bedeau avec une grande croix, l’instituteur surveillant les gamins, la religieuse inquiète de ses petites filles ; trois des plus mignonnes, frisées comme des anges, jetaient dans l’air des pétales de roses ; le diacre, les bras écartés, modérait la musique ; et deux encenseurs se retournaient à chaque pas vers le Saint-Sacrement, que portait, sous un dais de velours ponceau tenu par quatre fabriciens, M. le curé, dans sa belle chasuble."
+    }
+  ],
+  "readingTips": [
+    "Comptez une heure et demie environ pour les 11 500 mots. Les chapitres sont très inégaux : le premier et le dernier font moins de 600 mots chacun, le troisième plus de 4 000.",
+    "Notez les dates au fil de la lecture (1809, le 14 juillet 1819, la révolution de Juillet, 1837, 1853) : elles montrent comment le récit couvre un demi-siècle en sautant des années entières.",
+    "Suivez les objets qui passent d’un chapitre à l’autre, comme la géographie en estampes de Bourais ou le petit chapeau de peluche de Virginie : on les retrouve presque tous dans la chambre de Félicité, au chapitre IV.",
+    "Après le chapitre V, relisez le début du chapitre III, quand Félicité découvre le Saint-Esprit au catéchisme : l’oiseau y est déjà présent."
+  ],
+  "updated": "2026-10-21",
+  "datePublished": "2026-10-21"
+}

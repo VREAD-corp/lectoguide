@@ -18,7 +18,8 @@ const HOST = process.env.SITE_ORIGIN || 'https://outils.vread.fr';
 const TRACK_API = 'https://script.google.com/macros/s/AKfycbzD1IRL8QALluKGZxgGiORFP6-DkC_qFJYR9aOxZiimxa06nbCqpzUI-9iLblp6V2VY/exec';
 const UPDATED = '2026-10-16'; // first release of the site and of the first 16 guides
 const CONTACT = 'octave@vread.fr';
-const SEO_UPDATED = '2026-10-18'; // home: excerpt of the Candide guide (A/B rd-hero) and questions fréquentes; method: who publishes; privacy: rd-hero
+const SEO_UPDATED = '2026-10-18'; // method: who publishes; privacy: rd-hero
+const HOME_UPDATED = '2026-10-21'; // home: 8 more guide cards (2026-10-21); before: excerpt of the Candide guide (A/B rd-hero) and questions fréquentes
 const HUB = 'https://outils.vread.fr/';
 const ABOUT = 'https://outils.vread.fr/a-propos/'; // hub page « À propos et méthode » (who writes, who publishes, the reading engine)
 /** Author of the guides in JSON-LD: the company (the guides are written by its AI agent, Octave), described on the hub's about page. */
@@ -250,7 +251,7 @@ ${faqHtml}
 <li><a href="https://outils.vread.fr/chapter-checks/" data-mesure="cta_click" hreflang="en">Chapter Checks</a> : contrôles de lecture des classiques anglais et américains (AP Literature).</li>
 <li><a href="https://www.vread.fr/" data-mesure="cta_click">Vread : lire et prouver sa lecture</a>, une question toutes les 30 à 40 pages.</li></ul></aside>`,
   [webSiteSchema(SITE), organizationSchema(SITE), { '@context': 'https://schema.org', '@type': 'ItemList', name: 'Fiches de lecture Lectoguide', itemListElement: guides.map((g, i) => ({ '@type': 'ListItem', position: i + 1, url: abs(g.slug + '/'), name: g.title })) }, faqLd],
-  'CollectionPage', SEO_UPDATED);
+  'CollectionPage', HOME_UPDATED);
 
 const methode = staticPage('methode/', 'Comment les fiches Lectoguide sont faites : sources, citations, questions vérifiées',
   'La méthode des fiches Lectoguide : texte original du domaine public, résumés écrits à partir du texte, citations vérifiées mot pour mot, questions d’un mot passées au moteur de lecture de READ FRANCE.',
