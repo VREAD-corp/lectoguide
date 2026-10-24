@@ -65,13 +65,15 @@ const nf = (n: number) => n.toLocaleString('fr-FR').replace(/ /g, ' ');
 const hours = (w: number) => { const m = Math.round(w / 230); return m < 60 ? `${Math.max(5, Math.round(m / 5) * 5)} minutes` : `${Math.round(m / 30) / 2} h`.replace('.', ','); };
 const typo = (html: string) => html.split(/(<script[\s\S]*?<\/script>|<style[\s\S]*?<\/style>|<[^>]+>)/).map((part, i) => (i % 2 ? part
   : part.replace(/ ([:;?!»])/g, ' $1').replace(/« /g, '« '))).join('');
+const POEMS = new Set(['cahier-de-douai', 'les-fleurs-du-mal']);
 const byUnit = (g: Guide) => {
-  const l = g.units[0]?.label ?? '';
-  if (/^chapitre/i.test(l)) return 'chapitre par chapitre';
+  if (POEMS.has(g.slug)) return 'poème par poème';
+  // a preface or dedication placed first does not name the unit (Phèdre, Pierre et Jean, Fontenelle, Fables)
+  const l = (g.units.find((x) => !/^(préface|dédicace)/i.test(x.label)) ?? g.units[0])?.label ?? '';
+  if (/^chapitre|partie, chapitre/i.test(l)) return 'chapitre par chapitre';
   if (/^acte/i.test(l)) return 'acte par acte';
-  if (/soir/i.test(l) || /préface/i.test(l)) return 'soir par soir';
+  if (/soir/i.test(l)) return 'soir par soir';
   if (/^lettres?/i.test(l)) return 'lettre par lettre';
-  if (g.slug === 'cahier-de-douai') return 'poème par poème';
   return 'partie par partie';
 };
 const progLabel = (g: Guide) => (g.programme === 'bac' ? 'Bac de français, épreuve anticipée de juin 2027' : g.programme === 'lycee' ? 'Lycée' : 'Collège');
@@ -158,7 +160,7 @@ ${g.intro.map((p) => `<p>${esc(p)}</p>`).join('\n')}
 ${ressources(g, 'haut')}
 <h2 id="avant">Avant de lire</h2>
 <ul>${g.readingTips.map((t) => `<li>${esc(t)}</li>`).join('')}</ul>
-<h2 id="personnages">${g.slug === 'servitude-volontaire' || g.slug === 'cahier-de-douai' ? 'Les noms à connaître' : 'Les personnages'}</h2>
+<h2 id="personnages">${g.slug === 'servitude-volontaire' || POEMS.has(g.slug) ? 'Les noms à connaître' : 'Les personnages'}</h2>
 <dl class="perso">${g.characters.map((c) => `<div><dt>${esc(c.name)}</dt><dd>${esc(c.role)}</dd></div>`).join('')}</dl>
 <h2 id="resume">Le texte ${unitWord}</h2>
 <p class="small">Ces résumés servent à se repérer pendant la lecture ou à retrouver un passage. Ils ne remplacent pas le texte : les questions plus bas portent sur des détails qu’ils ne donnent pas.</p>

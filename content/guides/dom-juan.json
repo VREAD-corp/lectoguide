@@ -1,0 +1,200 @@
+{
+  "slug": "dom-juan",
+  "title": "Dom Juan ou le Festin de pierre",
+  "author": "Molière",
+  "authorDates": "1622-1673",
+  "published": "1665",
+  "genre": "comédie en cinq actes et en prose",
+  "programme": "lycee",
+  "level": "Seconde",
+  "programmeNote": "Dom Juan peut être choisi en seconde pour l’objet d’étude « Le théâtre du XVIIe siècle au XXIe siècle » du programme de français (BO spécial n° 1 du 22 janvier 2019, texte modifié au JORF du 8 octobre 2020, version publiée sur éduscol). Le programme demande deux pièces de genre et de siècle différents en œuvres intégrales, plus la lecture cursive d’au moins une pièce d’une autre période, et invite à replacer les œuvres « dans le contexte de leur création et de leur réception » : les coupures de 1665 et les éditions de 1682 et 1683 en offrent un cas concret. Aucune œuvre n’est imposée ; le choix appartient au professeur.",
+  "programmeSources": [
+    {
+      "label": "Programme de français de seconde (BO spécial n° 1 du 22 janvier 2019, modifié au JORF du 8 octobre 2020, version d’éduscol)",
+      "url": "https://eduscol.education.gouv.fr/sites/default/files/document/04-annexe1francais2ebomodifiepdf-69834.pdf"
+    }
+  ],
+  "source": {
+    "label": "Wikisource, d’après les Œuvres complètes de Molière, édition Charles Louandre, Charpentier, 1910, tome II",
+    "url": "https://fr.wikisource.org/wiki/Don_Juan_ou_le_Festin_de_pierre/%C3%89dition_Louandre,_1910",
+    "licence": "Transcription Wikisource, CC BY-SA 4.0"
+  },
+  "words": 18640,
+  "units": [
+    {
+      "id": "acte1",
+      "label": "Acte I",
+      "file": "sources/dom-juan/01.txt",
+      "words": 3804,
+      "summary": "Dans un palais de Sicile, Sganarelle vante le tabac, puis laisse entendre à Gusman, l’écuyer de done Elvire, que son maître a sans doute abandonné cette femme qu’il a tirée d’un couvent pour l’épouser : don Juan, dit-il, est « un épouseur à toutes mains » qui ne croit « ni ciel, ni saint, ni Dieu, ni loup-garou ». Seul avec son valet, don Juan fait l’éloge de l’inconstance et le fait taire dès qu’il hasarde une remontrance. Quand Sganarelle lui rappelle le commandeur qu’il a tué six mois plus tôt, il répond qu’il en a eu sa grâce, puis lui confie son nouveau projet : enlever en mer une jeune fiancée dont le bonheur l’a rendu jaloux. Elvire paraît ; don Juan prétend l’avoir quittée par scrupule de conscience, pour la rendre à ses vœux de religieuse. Elle le menace de la vengeance du ciel et de la sienne, puis sort, et don Juan retourne à son entreprise amoureuse."
+    },
+    {
+      "id": "acte2",
+      "label": "Acte II",
+      "file": "sources/dom-juan/02.txt",
+      "words": 4649,
+      "summary": "Au bord de la mer, le paysan Pierrot raconte à Charlotte, dans son patois, comment il a tiré de l’eau deux hommes dont la barque s’était renversée, puis lui reproche de ne pas l’aimer assez. L’un des rescapés est don Juan : son enlèvement a échoué, et il fait déjà la cour à une autre paysanne, Mathurine. Il aperçoit Charlotte, la couvre de compliments et lui promet le mariage ; elle accepte, pourvu que sa tante le veuille. Pierrot proteste et reçoit plusieurs soufflets ; Sganarelle, qui s’interpose, en reçoit un à sa place. Mathurine survient. Prises entre les deux promesses, les jeunes femmes se disputent devant don Juan, qui parle bas à chacune pour la persuader qu’elle est la préférée. Sganarelle tente de les avertir et se reprend dès que son maître revient. La Ramée annonce enfin que douze hommes à cheval cherchent don Juan, qui décide de fuir et veut que Sganarelle prenne ses habits."
+    },
+    {
+      "id": "acte3",
+      "label": "Acte III",
+      "file": "sources/dom-juan/03.txt",
+      "words": 4180,
+      "summary": "Dans une forêt, Sganarelle, déguisé en médecin, se vante d’avoir déjà rédigé des ordonnances ; don Juan déclare que toute la médecine n’est que grimace, puis répond aux questions de son valet sur le ciel, l’enfer, le diable et l’autre vie par des esquives ou des éclats de rire. Sganarelle se lance dans une démonstration de l’existence de Dieu et finit par tomber en tournant. Ils demandent leur chemin à un pauvre qui prie pour ceux qui lui font l’aumône : don Juan lui offre un louis d’or s’il accepte de jurer ; le pauvre refuse, et don Juan le lui donne quand même. Don Juan court ensuite secourir un homme attaqué par trois voleurs. C’est don Carlos, un frère d’Elvire, qui le cherche sans l’avoir jamais vu ; don Juan se présente comme un ami du coupable. L’arrivée de l’autre frère, don Alonse, le démasque, mais Carlos impose un délai d’un jour par reconnaissance. Plus loin, devant le tombeau du commandeur, don Juan invite la statue à souper : elle baisse la tête."
+    },
+    {
+      "id": "acte4",
+      "label": "Acte IV",
+      "file": "sources/dom-juan/04.txt",
+      "words": 3431,
+      "summary": "Chez lui, don Juan interdit à Sganarelle de reparler du signe de tête de la statue. Il reçoit M. Dimanche, un marchand à qui il doit de l’argent, l’accable de politesses et de questions sur sa famille, et le fait reconduire sans lui avoir laissé dire un mot de sa dette ; Sganarelle, qui lui doit aussi de l’argent, le pousse dehors à son tour. Don Louis vient reprocher à son fils de déshonorer sa naissance et le menace de le punir lui-même ; à peine est-il sorti que don Juan lui souhaite la mort. Elvire revient, voilée, décidée à quitter le monde : elle le supplie de se repentir avant que le ciel le frappe, puis repart. Don Juan avoue que ses larmes ont réveillé son désir et passe à table, où Sganarelle se fait prendre la bouche pleine. La statue du commandeur entre, s’assied au souper et invite don Juan à venir souper avec elle le lendemain ; il accepte."
+    },
+    {
+      "id": "acte5",
+      "label": "Acte V",
+      "file": "sources/dom-juan/05.txt",
+      "words": 2576,
+      "summary": "Dans la campagne, don Juan annonce à son père qu’il s’est converti, et don Louis, en larmes, part porter la nouvelle à la mère de don Juan. Resté avec Sganarelle, don Juan avoue qu’il joue la comédie : il a choisi l’hypocrisie, « un vice à la mode », pour se mettre à l’abri sans rien changer à sa vie. Sganarelle, indigné, lui répond par une longue suite de maximes enchaînées qui finit par lui promettre la damnation. Don Carlos vient lui demander de reconnaître publiquement Elvire pour sa femme ; don Juan invoque à chaque réplique la volonté du ciel, et Carlos promet de le retrouver. Un spectre en femme voilée l’avertit qu’il n’a plus qu’un moment pour se repentir, puis prend la figure du Temps, une faux à la main ; don Juan veut le frapper de son épée et refuse de se repentir. La statue reparaît et lui prend la main : le tonnerre tombe sur lui et la terre l’engloutit. Resté seul, Sganarelle réclame ses gages."
+    }
+  ],
+  "intro": [
+    "Dom Juan ou le Festin de pierre est une comédie en cinq actes et en prose de Molière, créée le 15 février 1665 ; selon la liste des personnages de l’édition Louandre, La Grange jouait don Juan et Molière lui-même Sganarelle. La notice de cette édition rapporte que des passages furent retranchés dès la deuxième représentation, dont la scène « du pauvre », et que la pièce quitta bientôt l’affiche sans avoir été imprimée. Le texte ne paraît qu’en 1682, neuf ans après la mort de l’auteur, dans les Œuvres publiées par La Grange et Vinot, et des feuillets réimprimés, les « cartons », y remplacent les passages supprimés par la censure. Charles Magnin rappelle en 1847, dans la Revue des Deux Mondes, que ce sont deux éditions étrangères non autorisées, Amsterdam 1683 et Bruxelles 1694, qui ont permis aux éditeurs du XIXe siècle de rétablir le texte. L’édition suivie ici (Louandre, Charpentier, 1910, qui écrit « Don Juan ») donne ce texte rétabli : environ 18 600 mots.",
+    "Pour l’élève, la différence se voit à l’acte III. À la scène 2, le pauvre refuse de jurer et don Juan lui donne malgré tout le louis d’or « pour l’amour de l’humanité » ; à la scène 1, quelques répliques sont entre crochets, et une note de l’éditeur précise que tout ce qui est placé entre ces crochets fut supprimé par la censure. Selon Charles Magnin, les exemplaires cartonnés de 1682 n’ont plus du tout la scène du pauvre. En classe, suivez d’abord le couple du maître et du valet : Sganarelle blâme don Juan, mais il lui obéit par peur, et chacun de ses raisonnements tourne court. Comparez ensuite les visages de don Juan selon l’interlocuteur, séducteur avec les paysannes, aimable avec son créancier, insolent avec son père, dévot de façade au dernier acte. Le prince de Conti, cité dans la notice, accusait déjà Molière de croire justifier sa pièce « à la faveur d’une fusée » au dénouement : la foudre finale suffit-elle à condamner un personnage qui a fait rire pendant cinq actes ?"
+  ],
+  "characters": [
+    {
+      "name": "Don Juan",
+      "role": "Fils de don Louis Tenorio, gentilhomme qui épouse puis abandonne les femmes qu’il séduit, se moque du ciel et refuse de se repentir jusqu’à la dernière scène."
+    },
+    {
+      "name": "Sganarelle",
+      "role": "Valet de don Juan, rôle que tenait Molière : il désapprouve son maître mais le sert par crainte, se contredit dès qu’il est surpris et réclame ses gages à la toute fin."
+    },
+    {
+      "name": "Done Elvire",
+      "role": "Femme que don Juan a tirée d’un couvent pour l’épouser ; furieuse à l’acte I, elle revient à l’acte IV, décidée à se retirer du monde, pour le supplier de se sauver."
+    },
+    {
+      "name": "Don Louis",
+      "role": "Père de don Juan, qui lui reproche de déshonorer sa naissance et croit un moment à sa conversion."
+    },
+    {
+      "name": "Don Carlos et don Alonse",
+      "role": "Frères d’Elvire, chargés de venger l’honneur de leur sœur. Carlos, sauvé par don Juan dans la forêt, lui accorde, malgré son frère, un délai d’un jour."
+    },
+    {
+      "name": "Charlotte et Mathurine",
+      "role": "Deux paysannes à qui don Juan promet le mariage le même jour, et qui se disputent devant lui sans comprendre son jeu."
+    },
+    {
+      "name": "Pierrot",
+      "role": "Paysan fiancé à Charlotte, qui a sauvé don Juan de la noyade et reçoit des soufflets pour toute récompense ; il parle un patois de village."
+    },
+    {
+      "name": "M. Dimanche",
+      "role": "Marchand à qui don Juan doit de l’argent, renvoyé à force de compliments sans avoir pu parler de sa dette."
+    },
+    {
+      "name": "Le Pauvre",
+      "role": "Homme retiré dans la forêt depuis dix ans (la liste des personnages le nomme Francisque), qui refuse de jurer même pour un louis d’or."
+    },
+    {
+      "name": "La statue du Commandeur",
+      "role": "Statue du commandeur que don Juan a tué six mois avant le début de la pièce ; elle accepte son invitation à souper, puis l’entraîne dans la mort."
+    }
+  ],
+  "passages": [
+    {
+      "unit": "acte1",
+      "ref": "Acte I, scène 1",
+      "title": "Le grand seigneur méchant homme",
+      "quote": "Mais un grand seigneur méchant homme est une terrible chose ; il faut que je lui sois fidèle, en dépit que j’en aie ; la crainte en moi fait l’office du zèle, bride mes sentiments, et me réduit d’applaudir bien souvent à ce que mon âme déteste.",
+      "note": "Dès la première scène, Sganarelle définit sa place : il juge son maître, mais la peur le fait obéir. La pièce joue sans cesse sur cet écart entre ce que le valet pense et ce qu’il dit, jusqu’à la volte-face de l’acte II, scène 7, où don Juan le surprend en train de le dénoncer aux paysannes. Pour une lecture linéaire, relevez les antithèses (la crainte et le zèle, applaudir et détester) et la place de la formule « grand seigneur méchant homme »."
+    },
+    {
+      "unit": "acte1",
+      "ref": "Acte I, scène 2",
+      "title": "L’éloge de l’inconstance",
+      "quote": "Il n’est rien qui puisse arrêter l’impétuosité de mes désirs : je me sens un cœur à aimer toute la terre ; et, comme Alexandre, je souhaiterais qu’il y eût d’autres mondes pour y pouvoir étendre mes conquêtes amoureuses.",
+      "note": "La tirade s’achève sur une image guerrière : la séduction devient une campagne militaire, et don Juan se compare à Alexandre. Le discours est si bien construit que Sganarelle s’écrie qu’il parle « tout comme un livre ». À la scène suivante, le valet ressert à Elvire, sans y rien comprendre, « les conquérants, Alexandre et les autres mondes » : le comique naît de cette reprise maladroite."
+    },
+    {
+      "unit": "acte3",
+      "ref": "Acte III, scène 1",
+      "title": "Deux et deux sont quatre",
+      "quote": "Je crois que deux et deux sont quatre, Sganarelle, et que quatre et quatre sont huit.",
+      "note": "C’est la seule profession de foi que don Juan consent à faire, après avoir esquivé les questions sur le ciel, l’enfer et le diable. Sganarelle en conclut que la religion de son maître « est donc l’arithmétique », puis veut prouver le contraire par un long raisonnement qui finit par une chute, au sens propre. Juste avant, les répliques sur le moine bourru sont entre crochets dans cette édition : c’est le passage que la censure avait fait disparaître."
+    },
+    {
+      "unit": "acte3",
+      "ref": "Acte III, scène 2",
+      "title": "La scène du pauvre",
+      "quote": "Va, va, je te le donne pour l’amour de l’humanité.",
+      "note": "Don Juan veut acheter un juron pour un louis d’or ; le pauvre répond qu’il aime mieux mourir de faim, et don Juan lui donne la pièce malgré tout. Une note de l’édition remarque que le mot humanité « n’était point d’un usage populaire » quand la pièce fut jouée. Sur l’édition de 1682, deux sources ne disent pas tout à fait la même chose. Pour Charles Magnin, les exemplaires non cartonnés donnent la scène entière, « moins les derniers mots », et il en déduit qu’elle n’a disparu tout à fait qu’avec les cartons. Pour Aimé Martin, dont l’édition reprend la note, les scènes 1 et 2 de l’acte sont « bien incomplètes » dans l’exemplaire non cartonné de M. de Loménie. Demandez-vous qui sort vainqueur de l’échange, le maître qui paie ou le mendiant qui refuse."
+    },
+    {
+      "unit": "acte4",
+      "ref": "Acte IV, scène 6",
+      "title": "La noblesse selon don Louis",
+      "quote": "Apprenez enfin qu’un gentilhomme qui vit mal est un monstre dans la nature ; que la vertu est le premier titre de noblesse ;",
+      "note": "Don Louis oppose la naissance et la vertu : le nom ne vaut rien sans les actes, et il préférerait « le fils d’un crocheteur » honnête au fils d’un monarque qui vivrait comme don Juan. Son fils ne lui répond qu’en l’invitant à s’asseoir : « si vous étiez assis, vous en seriez mieux pour parler ». Le contraste entre la longue tirade du père et la réplique sèche du fils fait toute la force de la scène."
+    },
+    {
+      "unit": "acte5",
+      "ref": "Acte V, scène 2",
+      "title": "L’hypocrisie, vice à la mode",
+      "quote": "l’hypocrisie est un vice à la mode, et tous les vices à la mode passent pour vertus. Le personnage d’homme de bien est le meilleur de tous les personnages qu’on puisse jouer. Aujourd’hui, la profession d’hypocrite a de merveilleux avantages.",
+      "note": "Don Juan ajoute un dernier vice à tous les autres et en fait la théorie. Le vocabulaire du théâtre (personnage, jouer, masque, grimaces) fait de l’hypocrite un comédien. Selon la notice, les trois premiers actes du Tartuffe, joués aux fêtes de Versailles, avaient déjà « donné l’éveil » aux dévots, faux ou sincères. Une note de l’édition signale que le mot « aujourd’hui » manque dans l’exemplaire non cartonné de 1682 ayant appartenu à M. de Loménie."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "unit": "acte1",
+      "ref": "Acte I, scène 2",
+      "question": "Dans le sermon qu’il adresse à un maître imaginaire, quel ornement blond et bien frisé Sganarelle reproche-t-il au gentilhomme impie de porter ?",
+      "answer": "perruque",
+      "evidence": "Pensez-vous que pour être de qualité, pour avoir une perruque blonde et bien frisée, des plumes à votre chapeau, un habit bien doré, et des rubans couleur de feu"
+    },
+    {
+      "id": "q2",
+      "unit": "acte2",
+      "ref": "Acte II, scène 1",
+      "question": "Avec quel camarade Pierrot s’amusait-il à batifoler au bord de la mer quand il a aperçu les naufragés ?",
+      "answer": "Lucas",
+      "evidence": "Enfin donc j’etions sur le bord de la mar, moi et le gros Lucas, et je nous amusions à batifoler avec des mottes de tarre que je nous jesquions à la teste ;"
+    },
+    {
+      "id": "q3",
+      "unit": "acte3",
+      "ref": "Acte III, scène 1",
+      "question": "À quoi Sganarelle dit-il que le monde n’est pas semblable, puisqu’il n’est pas venu tout seul en une nuit ?",
+      "answer": "champignon",
+      "evidence": "je comprends fort bien que ce monde que nous voyons n’est pas un champignon qui soit venu tout seul en une nuit."
+    },
+    {
+      "id": "q4",
+      "unit": "acte4",
+      "ref": "Acte IV, scène 3",
+      "question": "Comment s’appelle la petite fille de M. Dimanche, dont don Juan demande des nouvelles ?",
+      "answer": "Claudine",
+      "evidence": "Et votre petite fille Claudine, comment se porte-t-elle ?"
+    },
+    {
+      "id": "q5",
+      "unit": "acte5",
+      "ref": "Acte V, scène 2",
+      "question": "Dans la suite de maximes enchaînées de Sganarelle, de qui les vaisseaux ont-ils besoin ?",
+      "answer": "pilote",
+      "evidence": "les vaisseaux ont besoin d’un bon pilote ;"
+    }
+  ],
+  "readingTips": [
+    "La pièce est en prose et se lit en une heure et demie environ. L’acte II, le plus long, s’ouvre sur une scène entière en patois ; l’acte V, le plus court, enchaîne sept scènes rapides jusqu’au dénouement.",
+    "Le patois de Pierrot, de Charlotte et de Mathurine se comprend mieux à voix haute : Piarrot pour Pierrot, bian pour bien, gliau pour l’eau, nayé pour noyé, quement pour comment. Les jurons de Pierrot (jarni, morguienne, palsanquienne) sont des jurons de village déformés.",
+    "Les scènes sont numérotées comme dans l’édition Louandre : 4 à l’acte I, 10 à l’acte II, 6 à l’acte III, 12 à l’acte IV et 7 à l’acte V. Si votre édition découpe autrement, retrouvez les passages par la réplique citée. Les crochets de l’acte III, scène 1, ne sont pas une faute de copie : ils signalent le passage censuré.",
+    "Quelques mots ont changé de sens : un libertin est un esprit fort qui ne croit pas à la religion, les gages sont le salaire d’un domestique, un spadassin est un bretteur, et le moine bourru, d’après une note de l’édition, un fantôme qui courait la nuit dans les rues et battait les passants attardés. L’édition écrit « done Elvire » et « don Juan », avec un d minuscule."
+  ],
+  "updated": "2026-10-24",
+  "datePublished": "2026-10-24"
+}

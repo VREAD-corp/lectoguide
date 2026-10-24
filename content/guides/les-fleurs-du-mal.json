@@ -1,0 +1,287 @@
+{
+  "slug": "les-fleurs-du-mal",
+  "title": "Les Fleurs du mal",
+  "author": "Charles Baudelaire",
+  "authorDates": "1821-1867",
+  "published": "1861",
+  "genre": "poésie : sélection de 18 poèmes sur les 127 pièces de l’édition de 1861 (« Au lecteur » et 126 poèmes numérotés)",
+  "programme": "lycee",
+  "level": "Première, en lecture cursive ou en extraits (hors programme national d’œuvres)",
+  "programmeNote": "Les Fleurs du mal ne sont pas au programme national d’œuvres de première pour l’année 2026-2027 et les épreuves anticipées de la session 2028, en juin 2027 (note de service du 4 juillet 2025, BO n° 30 du 24 juillet 2025). Pour l’objet d’étude « La poésie du XIXe siècle au XXIe siècle », les trois œuvres retenues sont le Cahier de Douai de Rimbaud, La rage de l’expression de Ponge et Mes forêts d’Hélène Dorion. Le programme de première (BO spécial n° 1 du 22 janvier 2019) laisse au professeur le choix des textes du parcours associé et demande la lecture cursive d’au moins un recueil d’un autre siècle que celui de l’œuvre au programme, ou d’une anthologie : avec Ponge ou Hélène Dorion, un recueil du XIXe siècle comme celui-ci peut tenir ce rôle, pas avec Rimbaud. En seconde, l’objet d’étude poésie va du Moyen Âge au XVIIIe siècle : le recueil n’en relève pas, mais il peut compter parmi les trois lectures cursives au moins que le programme demande à l’élève.",
+  "programmeSources": [
+    {
+      "label": "Note de service du 4 juillet 2025, programme national d’œuvres de première pour 2026-2027 (BO n° 30 du 24 juillet 2025)",
+      "url": "https://www.education.gouv.fr/bo/2025/Hebdo30/MENE2518792N"
+    },
+    {
+      "label": "Programme de français de seconde et de première, arrêté du 17 janvier 2019 (BO spécial n° 1 du 22 janvier 2019, annexe 2 pour la première)",
+      "url": "https://www.education.gouv.fr/bo/19/Special1/MENE1901575A.htm"
+    },
+    {
+      "label": "Programme de français de seconde (BO spécial n° 1 du 22 janvier 2019, version modifiée en 2020, sur éduscol)",
+      "url": "https://eduscol.education.gouv.fr/sites/default/files/document/04-annexe1francais2ebomodifiepdf-69834.pdf"
+    }
+  ],
+  "source": {
+    "label": "Wikisource, d’après la seconde édition, Paris, Poulet-Malassis et de Broise, 1861",
+    "url": "https://fr.wikisource.org/wiki/Les_Fleurs_du_mal_(1861)",
+    "licence": "Transcription Wikisource, CC BY-SA 4.0"
+  },
+  "words": 4615,
+  "units": [
+    {
+      "id": "p01",
+      "label": "Au lecteur",
+      "file": "sources/les-fleurs-du-mal/01.txt",
+      "words": 314,
+      "summary": "Pièce liminaire, placée avant la première section et non numérotée : dix quatrains d’alexandrins à rimes embrassées. Le poète parle au nom d’un « nous » qui l’associe au lecteur et dresse l’inventaire des vices humains : la sottise, le péché, des remords entretenus avec complaisance, un repentir qui ne dure pas. Satan, présenté comme un savant chimiste, vaporise le métal de la volonté, et le Diable tire les fils qui font bouger les hommes. Le poème déroule ensuite une ménagerie de bêtes qui figurent les vices, pour en désigner une plus laide que toutes, l’Ennui, capable d’avaler le monde dans un bâillement. Les deux derniers vers prennent le lecteur à partie : il connaît ce monstre aussi bien que le poète, qui l’appelle son semblable et son frère."
+    },
+    {
+      "id": "p02",
+      "label": "L’Albatros (II)",
+      "file": "sources/les-fleurs-du-mal/02.txt",
+      "words": 125,
+      "summary": "Quatre quatrains d’alexandrins à rimes croisées. Les trois premiers racontent une scène de bord : pour s’amuser, des marins capturent des albatros qui suivaient le navire, et l’oiseau, si beau dans le ciel, devient sur le pont gauche, piteux et ridicule ; l’équipage le moque et imite sa démarche. La dernière strophe donne le sens de la scène par une comparaison explicite : le Poète ressemble à ce « prince des nuées », à l’aise dans la tempête, mais exilé sur le sol au milieu des huées, où ses ailes de géant l’empêchent de marcher. Le poème n’est pas dans l’édition de 1857."
+    },
+    {
+      "id": "p03",
+      "label": "Élévation (III)",
+      "file": "sources/les-fleurs-du-mal/03.txt",
+      "words": 153,
+      "summary": "Cinq quatrains d’alexandrins à rimes embrassées. Le poète s’adresse à son propre esprit et le suit dans un envol vertical : au-dessus des étangs et des montagnes, puis au-delà du soleil et des sphères étoilées, où il se meut comme un nageur heureux dans l’onde. Il l’invite ensuite à fuir l’air malsain d’en bas pour se purifier dans l’air supérieur. Les deux dernières strophes passent à la troisième personne, sur le ton d’une béatitude : heureux celui qui peut s’élancer loin des ennuis et qui, planant sur la vie, comprend sans effort le langage des fleurs et des choses muettes. Cette fin prépare « Correspondances », qui suit."
+    },
+    {
+      "id": "p04",
+      "label": "Correspondances (IV)",
+      "file": "sources/les-fleurs-du-mal/04.txt",
+      "words": 111,
+      "summary": "Sonnet en alexandrins. Le premier quatrain fait de la Nature un temple où l’homme traverse des « forêts de symboles » : le monde sensible parle, de façon confuse, d’autre chose que lui-même. Le second affirme que les parfums, les couleurs et les sons se répondent, comme de longs échos qui se fondent dans une même unité, vaste comme la nuit et comme la clarté. Les tercets illustrent cette idée par les parfums, décrits avec des mots qui relèvent du toucher, de l’ouïe et de la vue : les uns frais et doux, les autres corrompus et triomphants, qui chantent les transports de l’esprit et des sens. Le poème lie deux sortes de correspondances, entre le monde et un au-delà, et entre les sens eux-mêmes."
+    },
+    {
+      "id": "p05",
+      "label": "L’Ennemi (X)",
+      "file": "sources/les-fleurs-du-mal/05.txt",
+      "words": 126,
+      "summary": "Sonnet en alexandrins construit sur une métaphore filée : la vie du poète est un jardin. Sa jeunesse a été un orage traversé de quelques soleils, qui n’a laissé que peu de fruits ; arrivé à « l’automne des idées », il doit reprendre à la pelle et au râteau une terre inondée, creusée de trous grands comme des tombeaux. Le premier tercet pose une question inquiète sur les fleurs nouvelles qu’il rêve de faire pousser. Le dernier répond par un cri de douleur : le Temps mange la vie, et l’Ennemi qui nous ronge le cœur grandit du sang que nous perdons. La majuscule fait du Temps une figure vivante, presque un monstre."
+    },
+    {
+      "id": "p06",
+      "label": "La Vie antérieure (XII)",
+      "file": "sources/les-fleurs-du-mal/06.txt",
+      "words": 108,
+      "summary": "Sonnet en alexandrins, écrit au passé. Le poète dit avoir longtemps vécu sous de vastes portiques baignés par la lumière de la mer, dans un décor de colonnes, de houles et de couchants où les sons et les couleurs se mêlent, comme dans « Correspondances ». Les tercets évoquent une vie de voluptés calmes, au milieu de l’azur, servie par des esclaves nus et parfumés qui lui rafraîchissent le front avec des palmes. La chute renverse ce bonheur : leur seul soin était d’approfondir le secret douloureux qui le faisait languir. Même dans ce paradis rêvé, la souffrance du poète demeure."
+    },
+    {
+      "id": "p07",
+      "label": "Hymne à la Beauté (XXI)",
+      "file": "sources/les-fleurs-du-mal/07.txt",
+      "words": 247,
+      "summary": "Sept quatrains d’alexandrins à rimes croisées, adressés à la Beauté. Le poème revient sans cesse sur une question : la Beauté vient-elle du ciel ou de l’abîme, de Dieu ou de Satan ? Ses effets sont doubles. Elle verse le bienfait et le crime, rend le héros lâche et l’enfant courageux, porte l’Horreur et le Meurtre parmi ses bijoux et marche sur des morts. Deux images montrent ses victimes : l’insecte qui vole vers la chandelle et s’y brûle, l’amoureux penché sur sa belle comme un mourant sur son tombeau. Les deux dernières strophes tranchent : peu importe son origine, si elle ouvre au poète la porte d’un Infini qu’il n’a jamais connu et rend l’univers moins hideux. Le poème n’est pas dans l’édition de 1857."
+    },
+    {
+      "id": "p08",
+      "label": "Parfum exotique (XXII)",
+      "file": "sources/les-fleurs-du-mal/08.txt",
+      "words": 116,
+      "summary": "Sonnet en alexandrins. Les yeux fermés, un soir chaud d’automne, le poète respire l’odeur du sein de la femme aimée, et ce parfum fait naître une vision : des rivages heureux sous un soleil monotone, une île paresseuse aux fruits savoureux, des hommes vigoureux et des femmes au regard franc. Les tercets prolongent le voyage, toujours guidé par cette odeur, jusqu’à un port plein de voiles et de mâts, où le parfum des arbres tropicaux se mêle dans son âme au chant des marins. Le poème part d’une sensation présente pour ouvrir un ailleurs lumineux, comme « La Chevelure », qui le suit dans le recueil."
+    },
+    {
+      "id": "p09",
+      "label": "La Chevelure (XXIII)",
+      "file": "sources/les-fleurs-du-mal/09.txt",
+      "words": 289,
+      "summary": "Sept strophes de cinq alexandrins, rimées ABAAB. Le poème s’ouvre sur une suite d’exclamations devant la chevelure de la femme aimée, que le poète veut agiter dans l’alcôve pour en faire sortir les souvenirs qui y dorment. La chevelure devient une forêt aromatique où vivent l’Asie et l’Afrique, puis une mer d’ébène qui l’emporte vers un port retentissant de couleurs et de sons, sous un ciel pur. Il veut y plonger la tête, se laisser bercer par son roulis et s’enivrer de ses senteurs mêlées. La dernière strophe promet de la parer de rubis, de perles et de saphirs, et la nomme oasis et gourde, où il boit à longs traits le vin du souvenir. Le poème n’est pas dans l’édition de 1857."
+    },
+    {
+      "id": "p10",
+      "label": "Une Charogne (XXIX)",
+      "file": "sources/les-fleurs-du-mal/10.txt",
+      "words": 314,
+      "summary": "Douze quatrains où alternent alexandrins et octosyllabes, à rimes croisées. Le poète rappelle à la femme aimée, qu’il vouvoie et appelle « mon âme », une promenade d’un matin d’été où ils ont découvert au bord d’un sentier le cadavre d’une bête en décomposition. La description est précise et crue : le ventre ouvert, la puanteur, les mouches et les larves qui grouillent. Peu à peu l’image se transforme : le ciel regarde la carcasse s’épanouir comme une fleur, le grouillement devient une musique, les formes s’effacent comme une ébauche que l’artiste achève de mémoire. Les trois dernières strophes retournent la scène vers la femme : elle aussi pourrira sous l’herbe, mais le poète aura gardé « la forme et l’essence divine » de ses amours."
+    },
+    {
+      "id": "p11",
+      "label": "Harmonie du soir (XLVII)",
+      "file": "sources/les-fleurs-du-mal/11.txt",
+      "words": 145,
+      "summary": "Quatre quatrains d’alexandrins bâtis sur deux rimes seulement, en -ige et en -oir. Le poème suit une contrainte venue du pantoum : les vers 2 et 4 de chaque strophe deviennent les vers 1 et 3 de la suivante, si bien que les images reviennent en tournant, comme la valse qu’il évoque. Fleurs qui s’évaporent, violon qui frémit comme un cœur qu’on afflige, ciel triste et beau, soleil qui se noie dans son sang : le soir se charge peu à peu d’angoisse. Le vocabulaire de la liturgie (encensoir, reposoir, ostensoir) donne à la scène l’allure d’une cérémonie. Le dernier vers fait surgir le souvenir d’un être aimé, qui luit dans le poète comme un objet sacré."
+    },
+    {
+      "id": "p12",
+      "label": "L’Invitation au voyage (LIII)",
+      "file": "sources/les-fleurs-du-mal/12.txt",
+      "words": 173,
+      "summary": "Trois strophes de douze vers courts, de cinq et de sept syllabes, suivies chacune d’un refrain de deux vers. Le poète invite la femme aimée, appelée « mon enfant, ma sœur », à partir vivre et mourir dans un pays qui lui ressemble, où les ciels brouillés ont le charme de ses yeux. La deuxième strophe imagine l’intérieur de leur chambre, ses meubles polis par les ans, ses fleurs rares, ses miroirs, une splendeur orientale. La troisième montre des canaux où dorment des navires venus du bout du monde, puis une ville baignée d’or au couchant. Le refrain résume l’idéal de ce pays rêvé : ordre, beauté, luxe, calme et volupté. Les conditionnels (« décoreraient », « parlerait ») rappellent que ce voyage reste un projet."
+    },
+    {
+      "id": "p13",
+      "label": "Chant d’automne (LVI)",
+      "file": "sources/les-fleurs-du-mal/13.txt",
+      "words": 239,
+      "summary": "Poème en deux parties, en quatrains d’alexandrins à rimes croisées. La première part d’un bruit réel : celui des bûches qui tombent sur le pavé des cours. Le poète y entend l’hiver qui va entrer en lui, puis, d’association en association, un échafaud qu’on dresse, une tour battue par le bélier, un cercueil qu’on cloue en hâte. L’automne devient l’annonce d’un départ, celui de la mort. La seconde partie s’adresse à une femme aux yeux verts : rien ne vaut pour lui le soleil sur la mer, mais il lui demande d’être, amante ou sœur, une douceur passagère, et de le laisser, la tête sur ses genoux, goûter le dernier rayon de l’arrière-saison. Le poème n’est pas dans l’édition de 1857."
+    },
+    {
+      "id": "p14",
+      "label": "Spleen, « Quand le ciel bas et lourd… » (LXXVIII)",
+      "file": "sources/les-fleurs-du-mal/14.txt",
+      "words": 161,
+      "summary": "Le dernier des quatre poèmes intitulés « Spleen » dans « Spleen et Idéal ». Cinq quatrains d’alexandrins à rimes croisées ; les quatre premiers forment une seule phrase. Trois subordonnées ouvertes par « Quand » montrent un ciel bas qui écrase l’esprit, une terre changée en cachot humide, une pluie qui dessine les barreaux d’une prison : l’espace se referme strophe après strophe, du ciel jusqu’au cerveau. La principale éclate à la quatrième strophe avec des cloches qui hurlent comme des esprits errants. La dernière, ouverte par un tiret, fait défiler un cortège funèbre dans l’âme du poète : l’Espoir pleure, vaincu, et l’Angoisse plante son drapeau noir sur son crâne. Les majuscules font des sentiments les personnages d’une allégorie."
+    },
+    {
+      "id": "p15",
+      "label": "L’Horloge (LXXXV)",
+      "file": "sources/les-fleurs-du-mal/15.txt",
+      "words": 213,
+      "summary": "Six quatrains d’alexandrins à rimes embrassées, qui ferment la section « Spleen et Idéal ». Après une apostrophe à l’Horloge, « dieu sinistre », tout le reste du poème est son discours, entre guillemets. Elle rappelle à l’homme que les Douleurs l’attendent, que le Plaisir s’enfuit, que chaque instant dévore une part du bonheur accordé à chacun. L’injonction « Souviens-toi » revient comme un refrain, et l’Horloge la répète en plusieurs langues, puisque son gosier de métal les parle toutes. Le Temps y devient un joueur qui gagne sans tricher. La dernière strophe annonce l’heure où le Hasard, la Vertu et le Repentir même diront à l’homme qu’il est trop tard. Le poème n’est pas dans l’édition de 1857."
+    },
+    {
+      "id": "p16",
+      "label": "Le Cygne (LXXXIX)",
+      "file": "sources/les-fleurs-du-mal/16.txt",
+      "words": 440,
+      "summary": "Poème en deux parties, en quatrains d’alexandrins à rimes croisées, dédié à Victor Hugo. Le poète traverse un quartier de Paris transformé par les travaux et pense à Andromaque, veuve d’Hector, qui pleurait au bord d’un faux Simoïs. Le souvenir du vieux Paris disparu fait revenir une scène ancienne : un cygne échappé d’une ménagerie, traînant son plumage sur le pavé sec, réclamant la pluie et tendant la tête vers un ciel cruellement bleu. La seconde partie, devant le Louvre, rassemble les exilés de toute espèce : le cygne, Andromaque captive de Pyrrhus, une femme d’Afrique amaigrie qui cherche son pays derrière le brouillard, les orphelins, les matelots oubliés, les captifs et les vaincus. Le poème appartient aux « Tableaux parisiens », section qui n’existait pas en 1857."
+    },
+    {
+      "id": "p17",
+      "label": "À une passante (XCIII)",
+      "file": "sources/les-fleurs-du-mal/17.txt",
+      "words": 120,
+      "summary": "Sonnet en alexandrins, dans les « Tableaux parisiens ». Dans le vacarme d’une rue, une femme en grand deuil passe, majestueuse et agile. Le poète, crispé, boit dans son regard une douceur qui fascine et un plaisir qui tue. Le premier tercet s’ouvre sur une phrase sans verbe, « Un éclair… puis la nuit ! » : la rencontre n’a duré qu’un instant. Le poète s’adresse alors à la « fugitive beauté » dont le regard l’a fait renaître et se demande s’il ne la reverra que dans l’éternité. Le dernier tercet, ouvert par des exclamations brèves, dit que la rencontre est impossible et se termine sur un amour qui n’aura pas lieu, et que la femme a deviné. Le poème n’est pas dans l’édition de 1857."
+    },
+    {
+      "id": "p18",
+      "label": "Le Voyage (CXXVI)",
+      "file": "sources/les-fleurs-du-mal/18.txt",
+      "words": 1221,
+      "summary": "Le dernier poème du recueil, dans la section « La Mort », dédié à Maxime Du Camp : huit parties en quatrains d’alexandrins à rimes croisées. La première oppose l’enfant qui rêve devant les cartes au voyageur déçu, et distingue ceux qui fuient quelque chose des « vrais voyageurs », qui partent pour partir. La deuxième fait de l’homme un marin trompé par chaque île qu’il croit voir. Ceux qui sont restés interrogent ensuite les voyageurs revenus : « Dites, qu’avez-vous vu ? » Leur récit (parties IV et VI, coupées par la relance « Et puis, et puis encore ? ») mêle merveilles et ennui, et se termine sur le spectacle partout identique du péché. La septième partie tire la leçon amère du voyage : le monde, petit et monotone, ne renvoie que notre image. La dernière appelle la Mort « vieux capitaine » et lui demande de lever l’ancre pour plonger dans l’Inconnu et y trouver du nouveau. Le poème n’est pas dans l’édition de 1857."
+    }
+  ],
+  "intro": [
+    "Charles Baudelaire (1821-1867) publie Les Fleurs du mal en 1857 chez Poulet-Malassis et de Broise. Six pièces de cette première édition sont condamnées la même année par le tribunal correctionnel et ne peuvent plus être reproduites dans le recueil ; aucune ne figure dans la seconde édition de 1861, chez le même éditeur, que suit cette fiche. Sa page de titre l’annonce « augmentée de trente-cinq poëmes nouveaux » et ornée d’un portrait de l’auteur gravé par Bracquemond ; le livre est dédié à Théophile Gautier. On y trouve « Au lecteur », hors numérotation, puis 126 poèmes répartis en six sections : « Spleen et Idéal » (I à LXXXV), « Tableaux parisiens » (LXXXVI à CIII), section créée en 1861, « Le Vin », « Fleurs du mal », « Révolte » et « La Mort » (CXXI à CXXVI). La fiche retient 18 pièces souvent expliquées au lycée, dans l’ordre du recueil. C’est un choix de READ FRANCE : aucune liste officielle ne le fixe. Huit d’entre elles, dont « L’Albatros », « Le Cygne » et « Le Voyage », ne figuraient pas dans l’édition de 1857.",
+    "Lisez chaque poème en entier, puis à voix haute, avant d’ouvrir le résumé. Le recueil compte beaucoup de sonnets (« Correspondances », « L’Ennemi », « À une passante »), mais aussi des formes plus rares : les strophes de cinq vers de « La Chevelure », les vers de cinq et de sept syllabes de « L’Invitation au voyage », les reprises d’« Harmonie du soir ». Gardez en tête la section de chaque poème. Dans « Spleen et Idéal », le poète oscille entre l’élan vers l’idéal (« Élévation ») et l’accablement (« Spleen », « L’Horloge ») ; les « Tableaux parisiens » placent la rêverie dans la ville moderne ; « La Mort » ferme le livre sur un dernier départ. Suivez enfin les figures qui passent d’un poème à l’autre : le Temps, l’Ennui, le parfum qui fait voyager, le port et le navire. Pour une lecture linéaire, le résumé donne le mouvement du poème et les passages clés proposent des vers à commenter."
+  ],
+  "characters": [
+    {
+      "name": "Le poète",
+      "role": "le je de presque tous les poèmes, parfois un nous qui inclut le lecteur ; il se compare à l’albatros et au cygne."
+    },
+    {
+      "name": "Le lecteur",
+      "role": "pris à partie dans « Au lecteur », « mon semblable, mon frère »."
+    },
+    {
+      "name": "La femme aimée",
+      "role": "destinataire de « Parfum exotique », « La Chevelure », « Une Charogne », « L’Invitation au voyage » et « Chant d’automne » ; ces poèmes ne la nomment pas."
+    },
+    {
+      "name": "La Beauté",
+      "role": "figure allégorique de l’« Hymne à la Beauté », dont on ne sait si elle vient du ciel ou de l’enfer."
+    },
+    {
+      "name": "Le Temps et l’Ennui",
+      "role": "les deux ennemis du recueil : l’Ennemi qui ronge le cœur, l’Horloge qui parle, le monstre délicat d’« Au lecteur »."
+    },
+    {
+      "name": "Andromaque",
+      "role": "veuve d’Hector, captive de Pyrrhus puis femme d’Hélénus, figure de l’exil dans « Le Cygne »."
+    },
+    {
+      "name": "Théophile Gautier, Victor Hugo, Maxime Du Camp",
+      "role": "dédicataires du recueil, du « Cygne » et du « Voyage »."
+    }
+  ],
+  "passages": [
+    {
+      "unit": "p01",
+      "ref": "Au lecteur, v. 39-40",
+      "title": "Hypocrite lecteur",
+      "quote": "Tu le connais, lecteur, ce monstre délicat,\n— Hypocrite lecteur, — mon semblable, — mon frère !",
+      "note": "Les deux derniers vers passent du nous au tu et désignent le lecteur comme complice. Les tirets découpent la fin de l’alexandrin en trois apostrophes de plus en plus proches. Le recueil s’ouvre ainsi sur un pacte : celui qui lit ne peut pas juger de haut."
+    },
+    {
+      "unit": "p02",
+      "ref": "Spleen et Idéal, II, L’Albatros, v. 13-16",
+      "title": "Le Poète et l’albatros",
+      "quote": "Le Poëte est semblable au prince des nuées\nQui hante la tempête et se rit de l’archer ;\nExilé sur le sol au milieu des huées,\nSes ailes de géant l’empêchent de marcher.",
+      "note": "La dernière strophe explicite la comparaison préparée par le récit. Le paradoxe final (les ailes qui empêchent de marcher) dit la condition du poète dans la société : sa grandeur fait son infirmité. La rime nuées et huées oppose le ciel et la foule."
+    },
+    {
+      "unit": "p04",
+      "ref": "Spleen et Idéal, IV, Correspondances, v. 1-4",
+      "title": "La Nature est un temple",
+      "quote": "La Nature est un temple où de vivants piliers\nLaissent parfois sortir de confuses paroles ;\nL’homme y passe à travers des forêts de symboles\nQui l’observent avec des regards familiers.",
+      "note": "Le premier quatrain installe une métaphore religieuse : arbres devenus piliers, nature qui parle. Les adverbes et adjectifs (parfois, confuses) disent que ce langage reste difficile à entendre. L’homme y est regardé autant qu’il regarde."
+    },
+    {
+      "unit": "p14",
+      "ref": "Spleen et Idéal, LXXVIII, Spleen, v. 17-20",
+      "title": "Le drapeau noir",
+      "quote": "— Et de longs corbillards, sans tambours ni musique,\nDéfilent lentement dans mon âme ; l’Espoir,\nVaincu, pleure, et l’Angoisse atroce, despotique,\nSur mon crâne incliné plante son drapeau noir.",
+      "note": "Après le fracas des cloches, la dernière strophe ralentit : cortège muet, rejet de Vaincu en tête de vers. L’allégorie militaire (défilé, drapeau planté) fait de l’âme un territoire conquis par l’Angoisse."
+    },
+    {
+      "unit": "p17",
+      "ref": "Tableaux parisiens, XCIII, À une passante, v. 9-11",
+      "title": "Un éclair, puis la nuit",
+      "quote": "Un éclair… puis la nuit ! — Fugitive beauté\nDont le regard m’a fait soudainement renaître,\nNe te verrai-je plus que dans l’éternité ?",
+      "note": "La phrase nominale et les points de suspension miment la brièveté de la rencontre. Le poète passe du récit à l’apostrophe : la femme inconnue devient une allégorie de la beauté qui passe, et la question ouvre le temps de l’éternité."
+    },
+    {
+      "unit": "p18",
+      "ref": "La Mort, CXXVI, Le Voyage, partie VIII, v. 7-8",
+      "title": "Trouver du nouveau",
+      "quote": "Plonger au fond du gouffre, Enfer ou Ciel, qu’importe ?\nAu fond de l’Inconnu pour trouver du nouveau !",
+      "note": "Les deux derniers vers du recueil font de la mort un ultime voyage. Le rythme répété (au fond du gouffre, au fond de l’Inconnu) et la question écartée (Enfer ou Ciel, qu’importe ?) rappellent l’« Hymne à la Beauté » ; le mot nouveau, en italique dans l’édition, clôt le livre sur un désir."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "unit": "p01",
+      "ref": "Au lecteur, v. 38",
+      "question": "Que fume l’Ennui pendant qu’il rêve d’échafauds ?",
+      "answer": "houka",
+      "evidence": "Il rêve d’échafauds en fumant son houka."
+    },
+    {
+      "id": "q2",
+      "unit": "p04",
+      "ref": "Spleen et Idéal, IV, Correspondances, v. 10",
+      "question": "À quels instruments de musique le poète compare-t-il la douceur de certains parfums frais ?",
+      "answer": "hautbois",
+      "evidence": "Doux comme les hautbois, verts comme les prairies,"
+    },
+    {
+      "id": "q3",
+      "unit": "p09",
+      "ref": "Spleen et Idéal, XXIII, La Chevelure, v. 30",
+      "question": "De quelle huile le poète respire-t-il la senteur dans les mèches de la chevelure ?",
+      "answer": "coco",
+      "evidence": "De l’huile de coco, du musc et du goudron."
+    },
+    {
+      "id": "q4",
+      "unit": "p16",
+      "ref": "Tableaux parisiens, LXXXIX, Le Cygne, I, v. 6",
+      "question": "Quel lieu de Paris le poète traversait-il quand le « Simoïs menteur » d’Andromaque a fécondé sa mémoire ?",
+      "answer": "Carrousel",
+      "evidence": "Comme je traversais le nouveau Carrousel."
+    },
+    {
+      "id": "q5",
+      "unit": "p18",
+      "ref": "La Mort, CXXVI, Le Voyage, partie II, v. 9",
+      "question": "Quelle terre cherche le trois-mâts auquel le poète compare notre âme ?",
+      "answer": "Icarie",
+      "evidence": "Notre âme est un trois-mâts cherchant son Icarie ;"
+    }
+  ],
+  "readingTips": [
+    "Les 18 poèmes font 4 615 mots, une vingtaine de minutes de lecture silencieuse. « Le Voyage », en huit parties, en représente à lui seul plus du quart : gardez-le pour une séance à part.",
+    "L’édition de 1861 garde des graphies de son temps : « Poëte », « rhythme », « encor », « phthisique », « petillant ». Recopiez-les telles quelles dans une citation, ou signalez que vous modernisez.",
+    "Notez le numéro romain de chaque poème : il donne sa place dans l’édition de 1861, et l’ordre n’est pas le même dans celle de 1857. Le « Spleen » qui commence par « Quand le ciel bas et lourd » porte le numéro LXXVIII ; « Recueillement », que l’on trouve dans d’autres éditions, n’est pas dans celle-ci.",
+    "Pour un sonnet, cherchez le tournant entre les quatrains et les tercets (« La Vie antérieure », « À une passante ») ; pour les poèmes en plusieurs parties (« Chant d’automne », « Le Cygne », « Le Voyage »), résumez chaque partie en une phrase avant de commenter."
+  ],
+  "updated": "2026-10-24",
+  "datePublished": "2026-10-24"
+}

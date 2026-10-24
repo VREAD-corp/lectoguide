@@ -1,0 +1,199 @@
+{
+  "slug": "andromaque",
+  "title": "Andromaque",
+  "author": "Jean Racine",
+  "authorDates": "1639-1699",
+  "published": "1667",
+  "genre": "tragédie en cinq actes et en vers",
+  "programme": "lycee",
+  "level": "Seconde",
+  "programmeNote": "En seconde, le programme de français (BOEN spécial n° 1 du 22 janvier 2019, version modifiée d’après le JORF du 8 octobre 2020) bâtit l’objet d’étude « Le théâtre du XVIIe siècle au XXIe siècle » sur des œuvres intégrales : deux pièces de genre et de siècle différents, plus la lecture cursive d’au moins une pièce d’une autre période. Il demande aussi de prendre en compte la représentation et la mise en scène. Andromaque peut y tenir la place de la tragédie du XVIIe siècle ; le programme ne nomme aucune pièce.",
+  "programmeSources": [
+    {
+      "label": "Programme de français de seconde (BOEN spécial n° 1 du 22 janvier 2019, version modifiée en 2020, sur éduscol)",
+      "url": "https://eduscol.education.gouv.fr/sites/default/files/document/04-annexe1francais2ebomodifiepdf-69834.pdf"
+    }
+  ],
+  "source": {
+    "label": "Wikisource, d’après Œuvres de Jean Racine, précédées des Mémoires sur sa vie par Louis Racine, Paris, Firmin-Didot frères, 1854",
+    "url": "https://fr.wikisource.org/wiki/Andromaque_(Racine,_%C3%A9ditions_Didot,_1854)",
+    "licence": "Transcription Wikisource, CC BY-SA 4.0"
+  },
+  "words": 16641,
+  "units": [
+    {
+      "id": "acte1",
+      "label": "Acte I",
+      "file": "sources/andromaque/01.txt",
+      "words": 3427,
+      "summary": "À Buthrote, en Épire, Oreste retrouve son ami Pylade. Envoyé par les Grecs, il vient demander à Pyrrhus, roi d’Épire et fils d’Achille, de leur livrer Astyanax, le fils d’Hector, mais il vient surtout revoir Hermione, qu’il aime toujours. Pylade lui apprend que Pyrrhus, promis à Hermione, aime sa captive Andromaque, qui le repousse, et qu’Hermione pleure en secret. Devant Oreste, Pyrrhus refuse de livrer l’enfant et l’autorise à voir Hermione. Il offre ensuite à Andromaque de défendre son fils et de le couronner dans une Troie relevée si elle l’accepte ; elle refuse et le renvoie à Hermione. Pyrrhus menace alors de livrer l’enfant aux Grecs, puis la laisse aller voir son fils en lui demandant de songer à le sauver."
+    },
+    {
+      "id": "acte2",
+      "label": "Acte II",
+      "file": "sources/andromaque/02.txt",
+      "words": 2922,
+      "summary": "Hermione avoue à Cléone qu’elle ne sait plus si elle hait Pyrrhus ou si elle l’aime encore ; son père lui ordonne de partir avec les Grecs si Pyrrhus refuse la mort de l’enfant. Devant Oreste, qui lui redit sa passion, elle laisse voir qu’elle tient toujours à Pyrrhus, puis promet de suivre Oreste si Pyrrhus la renvoie. Oreste croit tenir sa victoire, mais Pyrrhus change d’avis : il livrera l’enfant aux Grecs et épousera Hermione, et il charge Oreste de le lui annoncer. Resté avec Phœnix, Pyrrhus se vante d’avoir vaincu son amour, tout en ne parlant que d’Andromaque, qui l’a reçu en serrant son fils et en répétant le nom d’Hector. Il veut retourner la braver, puis se range au conseil de Phœnix et va voir Hermione."
+    },
+    {
+      "id": "acte3",
+      "label": "Acte III",
+      "file": "sources/andromaque/03.txt",
+      "words": 3136,
+      "summary": "Oreste, hors de lui, décide d’enlever Hermione ; Pylade, qui connaît les passages secrets du palais, accepte de l’aider et lui demande de dissimuler. Devant Hermione, Oreste se contient ; restée avec Cléone, elle laisse éclater sa joie. Andromaque vient la supplier d’intervenir pour sauver son fils ; Hermione la renvoie sèchement à Pyrrhus. Andromaque se jette alors aux pieds du roi et lui rappelle la chute de Troie. Pyrrhus, ébranlé, lui pose un choix : l’épouser au temple, où il la couronnera, ou voir mourir l’enfant sous ses yeux. Seule avec Céphise, Andromaque revoit la nuit où Pyrrhus est entré dans Troie en flammes, puis les adieux d’Hector, qui lui a confié leur fils. Elle décide d’aller consulter son époux sur son tombeau."
+    },
+    {
+      "id": "acte4",
+      "label": "Acte IV",
+      "file": "sources/andromaque/04.txt",
+      "words": 3104,
+      "summary": "Andromaque a promis d’épouser Pyrrhus. Elle confie à Céphise son projet : recevoir sa foi au temple, pour qu’il soit lié à son fils, puis se donner la mort aussitôt, sans trahir Hector ; elle lui laisse l’enfant et lui dit comment l’élever. Hermione, d’un calme qui inquiète Cléone, fait venir Oreste et exige qu’il tue Pyrrhus au temple dans l’heure. Oreste parle d’assassinat et propose d’attendre la nuit ; elle menace d’aller frapper elle-même, et il cède. Hermione veut ensuite que Pyrrhus sache en mourant qu’il meurt pour elle. Pyrrhus vient lui avouer qu’il épouse une Troyenne. Elle lui reproche ses massacres à Troie, lui avoue qu’elle l’aimait même infidèle et qu’elle doute encore de ne plus l’aimer, puis le menace. Phœnix met le roi en garde ; Pyrrhus ne pense qu’à Andromaque et lui confie la garde de l’enfant."
+    },
+    {
+      "id": "acte5",
+      "label": "Acte V",
+      "file": "sources/andromaque/05.txt",
+      "words": 2333,
+      "summary": "Seule, Hermione hésite entre son amour et sa vengeance. Cléone lui décrit Pyrrhus menant Andromaque au temple et les remords d’Oreste, entré avec ses Grecs. Oreste revient : Pyrrhus a posé son diadème sur le front d’Andromaque et reconnu son fils pour roi des Troyens ; les Grecs l’ont alors tué à l’autel. Hermione désavoue le meurtre, traite Oreste de traître et de monstre, et le quitte. Resté seul, Oreste se voit assassin pour une femme qui le rejette. Pylade le presse de fuir : le peuple obéit maintenant à Andromaque, qui ordonne de venger Pyrrhus. Il lui apprend qu’Hermione s’est frappée d’un poignard sur le corps du roi. Oreste perd la raison, croit voir Pyrrhus vivant, puis les filles d’enfer et leurs serpents ; Pylade, qui le voit perdre connaissance, veut l’emmener avant que sa rage ne revienne."
+    },
+    {
+      "id": "preface",
+      "label": "Dédicace et préfaces",
+      "file": "sources/andromaque/00.txt",
+      "words": 1719,
+      "summary": "Dans l’épître « À Madame », Racine dit que la princesse a pris soin de la conduite de sa tragédie et qu’elle l’a honorée de larmes dès la première lecture. Dans la première préface, il affirme avoir peint ses personnages tels que les poètes anciens les ont donnés, en adoucissant seulement la férocité de Pyrrhus, et répond à ceux qui le trouvent trop violent en citant Horace et Aristote : le héros tragique ne doit être ni tout à fait bon ni tout à fait méchant. La seconde préface cite en latin un passage de l’Énéide de Virgile qui contient tout le sujet. Racine y explique qu’il a gardé Astyanax, le fils d’Hector, au lieu de Molossus, fils de Pyrrhus chez Euripide, et qu’il l’a fait vivre un peu plus longtemps que dans la légende."
+    }
+  ],
+  "intro": [
+    "Andromaque est une tragédie en cinq actes et en alexandrins de Jean Racine. La notice de Paul Mesnard (édition des Grands Écrivains, 1865) relève la première représentation attestée le 17 novembre 1667, à la cour, dans l’appartement de la Reine, par la troupe royale ; la date du 10 novembre, souvent citée, n’est selon lui qu’une conjecture. L’édition originale paraît chez Théodore Girard en 1668, avec une épître à Madame, Henriette d’Angleterre. Racine part de quelques vers de l’Énéide, qu’il cite dans sa seconde préface : après la chute de Troie, Pyrrhus, fils d’Achille, garde captive Andromaque, la veuve d’Hector. En mai 1668, une comédie de Subligny, La Folle querelle, se moque de la pièce sur le théâtre de Molière. Le texte suivi ici est celui de l’édition Firmin-Didot de 1854.",
+    "Toute l’action tient dans une salle du palais de Pyrrhus, à Buthrote, et en une journée. Elle repose sur une chaîne d’amours sans retour : Oreste aime Hermione, qui aime Pyrrhus, qui aime Andromaque, restée fidèle à Hector. Chaque décision de l’un renverse la situation des trois autres, et Pyrrhus change deux fois d’avis entre l’acte I et l’acte III. Pour l’objet d’étude sur le théâtre, repérez ce que la scène montre et ce qu’elle raconte : l’enfant qui fait l’enjeu de la pièce ne paraît jamais, Andromaque est absente de l’acte V, et la mort de Pyrrhus, comme celle d’Hermione, n’est connue que par un récit. En classe, l’acte V se prête bien à une lecture à plusieurs voix, du monologue d’Hermione à la folie d’Oreste."
+  ],
+  "characters": [
+    {
+      "name": "Andromaque",
+      "role": "Veuve d’Hector, captive de Pyrrhus depuis la prise de Troie, qui n’a plus que son fils Astyanax."
+    },
+    {
+      "name": "Pyrrhus",
+      "role": "Fils d’Achille et roi d’Épire, promis à Hermione mais amoureux d’Andromaque."
+    },
+    {
+      "name": "Oreste",
+      "role": "Fils d’Agamemnon, ambassadeur des Grecs, qui aime Hermione depuis longtemps sans retour."
+    },
+    {
+      "name": "Hermione",
+      "role": "Fille d’Hélène et de Ménélas, venue en Épire pour épouser Pyrrhus, qui la délaisse."
+    },
+    {
+      "name": "Pylade",
+      "role": "Ami fidèle d’Oreste, qui le suit jusqu’au bout."
+    },
+    {
+      "name": "Cléone",
+      "role": "Confidente d’Hermione."
+    },
+    {
+      "name": "Céphise",
+      "role": "Confidente d’Andromaque, à qui celle-ci confie son fils."
+    },
+    {
+      "name": "Phœnix",
+      "role": "Ancien gouverneur d’Achille, puis de Pyrrhus, qui pousse le roi à oublier Andromaque."
+    }
+  ],
+  "passages": [
+    {
+      "unit": "acte1",
+      "ref": "Acte I, scène 1",
+      "title": "Le portrait de Pyrrhus par Pylade",
+      "quote": "Il peut, seigneur, il peut, dans ce désordre extrême,\nÉpouser ce qu’il hait, et perdre ce qu’il aime.",
+      "note": "Dès la scène d’exposition, Pylade résume l’instabilité de Pyrrhus par un chiasme et deux antithèses (épouser, perdre ; hait, aime). Le vers annonce la mécanique de la pièce : aucun personnage n’obtient ce qu’il désire, et chacun peut basculer d’un moment à l’autre. Relevez ensuite combien de fois Pyrrhus change de décision."
+    },
+    {
+      "unit": "acte3",
+      "ref": "Acte III, scène 8",
+      "title": "La nuit de Troie",
+      "quote": "Songe, songe, Céphise, à cette nuit cruelle\nQui fut pour tout un peuple une nuit éternelle ;\nFigure-toi Pyrrhus, les yeux étincelants,\nEntrant à la lueur de nos palais brûlants,",
+      "note": "Andromaque refuse d’épouser l’homme qui a massacré sa famille. Les impératifs (songe, figure-toi, peins-toi) font voir la scène comme si elle se déroulait sous nos yeux : c’est une hypotypose. La répétition de nuit, d’abord réelle puis image de la mort, donne au souvenir sa force."
+    },
+    {
+      "unit": "acte4",
+      "ref": "Acte IV, scène 1",
+      "title": "Le stratagème d’Andromaque",
+      "quote": "Voilà de mon amour l’innocent stratagème :\nVoilà ce qu’un époux m’a commandé lui-même.\nJ’irai seule rejoindre Hector et mes aïeux.",
+      "note": "Andromaque sort du dilemme par une ruse qu’elle croit innocente : épouser Pyrrhus pour l’engager envers son fils, puis mourir. L’anaphore de voilà marque une décision prise. Ce projet ne sera jamais accompli, puisque Pyrrhus meurt avant elle : demandez-vous ce que la pièce gagne à ce que l’héroïne qui lui donne son titre survive."
+    },
+    {
+      "unit": "acte4",
+      "ref": "Acte IV, scène 5",
+      "title": "Hermione passe au tutoiement",
+      "quote": "Je t’aimais inconstant, qu’aurais-je fait fidèle ?\nEt même en ce moment où ta bouche cruelle\nVient si tranquillement m’annoncer le trépas,\nIngrat, je doute encor si je ne t’aime pas.",
+      "note": "Hermione abandonne le vous de la cour pour le tu de la passion. La question du premier vers oppose inconstant et fidèle, et l’aveu final contredit la haine qu’elle affichait depuis l’acte II. Deux scènes plus tôt, elle demandait à Oreste de tuer ce même homme : notez comment Racine fait coexister les deux mouvements dans la même scène."
+    },
+    {
+      "unit": "acte5",
+      "ref": "Acte V, scène 3",
+      "title": "« Qui te l’a dit ? »",
+      "quote": "Pourquoi l’assassiner ? Qu’a-t-il fait ? À quel titre ?\nQui te l’a dit ?",
+      "note": "Oreste vient annoncer que Pyrrhus est mort, et Hermione le renie. Les questions brèves, dont Hermione connaît pourtant la réponse, retournent la responsabilité du crime contre celui qui l’a exécuté. Le passage est un bon sujet de discussion : qui est coupable de la mort de Pyrrhus, Hermione, Oreste ou les Grecs qui ont frappé ?"
+    },
+    {
+      "unit": "acte5",
+      "ref": "Acte V, scène 5",
+      "title": "La folie d’Oreste",
+      "quote": "Eh bien ! filles d’enfer, vos mains sont-elles prêtes ?\nPour qui sont ces serpents qui sifflent sur vos têtes ?",
+      "note": "Oreste croit voir les filles d’enfer, les Furies, venir le chercher. L’allitération en s du second vers fait entendre le sifflement des serpents. La pièce s’achève sur le délire d’un personnage qui a tout perdu, et non sur Andromaque devenue reine : la tragédie se clôt sur la punition de celui qui a obéi à la passion des autres."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "unit": "acte1",
+      "ref": "Acte I, scène 2",
+      "question": "Selon Pyrrhus, dans quelle ville Cassandre a-t-elle suivi le père d’Oreste après la prise de Troie ?",
+      "answer": "Argos",
+      "evidence": "Cassandre dans Argos a suivi votre père."
+    },
+    {
+      "id": "q2",
+      "unit": "acte2",
+      "ref": "Acte II, scène 2",
+      "question": "Quel peuple, selon Oreste, l’aurait tué s’il avait été aussi cruel qu’Hermione ?",
+      "answer": "Scythes",
+      "evidence": "Que les Scythes auraient dérobée à vos coups"
+    },
+    {
+      "id": "q3",
+      "unit": "acte3",
+      "ref": "Acte III, scène 7",
+      "question": "Quel mot Pyrrhus emploie-t-il pour l’ornement préparé pour la tête d’Hermione, dont il veut ceindre Andromaque ?",
+      "answer": "bandeau",
+      "evidence": "Je vous ceins du bandeau préparé pour sa tête."
+    },
+    {
+      "id": "q4",
+      "unit": "acte4",
+      "ref": "Acte IV, scène 5",
+      "question": "Quelle victime Hermione reproche-t-elle à Pyrrhus d’avoir égorgée de sa propre main, sous les yeux des Grecs ?",
+      "answer": "Polyxène",
+      "evidence": "De votre propre main Polyxène égorgée"
+    },
+    {
+      "id": "q5",
+      "unit": "acte5",
+      "ref": "Acte V, scène 2",
+      "question": "Combien de rois, selon Hermione, ont péri en dix ans de combats pour la querelle de sa mère ?",
+      "answer": "vingt",
+      "evidence": "Virent périr vingt rois qu’ils ne connaissaient pas ;"
+    }
+  ],
+  "readingTips": [
+    "La pièce compte 1 648 alexandrins (notre comptage, vers partagés réunis) : prévoyez une heure et demie à deux heures. Lisez la dédicace et les préfaces après l’acte V. Dans l’édition de 1854, la première préface commence à « Mes personnages sont si fameux » : une note de l’édition Mesnard explique que les éditeurs en ont retiré le début, repris par Racine en tête de la seconde.",
+    "Avant de commencer, fixez les liens familiaux, car les personnages les rappellent sans cesse : Pyrrhus est le fils d’Achille, qui a tué Hector ; Hermione est la fille d’Hélène, cause de la guerre de Troie ; Oreste est le fils d’Agamemnon, frère de Ménélas, et donc le cousin d’Hermione. Andromaque, veuve d’Hector, est ainsi la captive du fils de celui qui a tué son mari.",
+    "Plusieurs mots ont au XVIIe siècle un sens plus fort qu’aujourd’hui : feux et flamme (l’amour), fureur (la folie), ennui (le désespoir), gloire (l’honneur, la réputation), amant (celui qui aime et se déclare). L’édition garde aussi quelques formes anciennes : je voi, je doi, j’entrevoi, pour la rime, et l’accent aigu de piége ou sacrilége.",
+    "Suivez sur une feuille la position de Pyrrhus acte par acte : refus de livrer l’enfant (acte I), mariage annoncé avec Hermione (acte II), ultimatum à Andromaque (acte III), mariage avec Andromaque préparé (acte IV). Chaque retournement modifie aussitôt les projets d’Oreste et d’Hermione."
+  ],
+  "updated": "2026-10-24",
+  "datePublished": "2026-10-24"
+}

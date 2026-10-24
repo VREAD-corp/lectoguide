@@ -1,0 +1,192 @@
+{
+  "slug": "le-misanthrope",
+  "title": "Le Misanthrope",
+  "author": "Molière",
+  "authorDates": "1622-1673",
+  "published": "1666",
+  "genre": "comédie en cinq actes et en vers",
+  "programme": "lycee",
+  "level": "Seconde",
+  "programmeNote": "En seconde, le programme de français (BO spécial n° 1 du 22 janvier 2019, version modifiée en 2020 publiée sur éduscol) consacre au théâtre l’objet d’étude « Le théâtre du XVIIe siècle au XXIe siècle ». Le corpus réunit deux pièces de genre et de siècle différents, avec la lecture cursive d’au moins une pièce d’une autre période ; le texte demande d’inscrire les œuvres dans le contexte de leur création et de leur réception, et de tenir compte de la représentation et de la mise en scène. Parmi les exercices recommandés figure la lecture expressive, attentive « au rythme et à l’enchaînement des répliques » : les échanges serrés du Misanthrope s’y prêtent bien. Le programme ne fixe aucune liste d’œuvres, le choix revient au professeur.",
+  "programmeSources": [
+    {
+      "label": "Programme de français de seconde (BO spécial n° 1 du 22 janvier 2019, version modifiée en 2020, sur éduscol)",
+      "url": "https://eduscol.education.gouv.fr/sites/default/files/document/04-annexe1francais2ebomodifiepdf-69834.pdf"
+    }
+  ],
+  "source": {
+    "label": "Wikisource, d’après les Œuvres complètes de Molière, édition Charles Louandre, Charpentier, 1910, tome II",
+    "url": "https://fr.wikisource.org/wiki/Le_Misanthrope/%C3%89dition_Louandre,_1910",
+    "licence": "Transcription Wikisource, CC BY-SA 4.0"
+  },
+  "words": 17077,
+  "units": [
+    {
+      "id": "acte1",
+      "label": "Acte I",
+      "file": "sources/le-misanthrope/01.txt",
+      "words": 4080,
+      "summary": "Chez Célimène, à Paris, Alceste reproche à son ami Philinte d’avoir comblé de caresses un homme dont il sait à peine le nom. Il exige qu’on parle selon son cœur et déclare haïr tous les hommes, les méchants comme ceux qui les supportent ; Philinte lui oppose une vertu « traitable », qui prend les hommes comme ils sont. Alceste refuse aussi de solliciter les juges du procès qui l’oppose à un fourbe, et Philinte s’étonne de le voir aimer Célimène, une jeune veuve coquette et médisante, plutôt que la sincère Éliante ou la prude Arsinoé. Oronte arrive, offre son amitié à Alceste et lui lit un sonnet. Philinte s’extasie. Alceste, après trois détours (« Je ne dis pas cela »), finit par déclarer le poème « bon à mettre au cabinet » et lui préfère une vieille chanson. Oronte et Alceste se quittent fâchés, et Alceste ne veut plus rien entendre de Philinte."
+    },
+    {
+      "id": "acte2",
+      "label": "Acte II",
+      "file": "sources/le-misanthrope/02.txt",
+      "words": 3135,
+      "summary": "Seul avec Célimène, Alceste lui reproche d’accueillir trop d’amants, en particulier Clitandre, dont il raille l’ongle long, la perruque blonde et les rubans. Elle répond qu’elle le ménage pour son propre procès et l’assure qu’il est aimé, puis, comme il en doute, s’en dédit. Basque annonce Acaste, puis Clitandre ; Alceste veut partir, Célimène lui ordonne de rester puis le laisse libre, et il reste pour la forcer à choisir. Devant Éliante, Philinte et les deux marquis, elle trace des portraits mordants des absents : un homme qui fait mystère de tout, un conteur qui ne cite que des ducs et des princes, une visiteuse sans conversation, un hôte dont on n’apprécie que le cuisinier. Alceste accuse les marquis d’encourager cette médisance par leurs rires ; Célimène fait alors de lui le portrait d’un homme qui contredit tout le monde, et Éliante décrit les amants qui prennent les défauts de leur belle pour des perfections. Un garde de la maréchaussée vient chercher Alceste : les maréchaux veulent régler sa querelle avec Oronte. Il s’y rend en répétant que les vers sont mauvais."
+    },
+    {
+      "id": "acte3",
+      "label": "Acte III",
+      "file": "sources/le-misanthrope/03.txt",
+      "words": 3254,
+      "summary": "Les deux marquis comparent leurs chances auprès de Célimène. Acaste fait son propre éloge, de sa naissance à son élégance, et se croit aimé ; Clitandre lui propose un pacte : celui qui prouvera qu’il est préféré, l’autre lui laissera la place. Basque annonce Arsinoé, que Célimène peint aussitôt en fausse prude, jalouse et éprise d’Alceste. Les marquis sortent en riant. Arsinoé rapporte, au nom de l’amitié, les mauvais bruits qui courent sur la conduite de Célimène ; celle-ci lui rend la pareille en rapportant ce qu’on dit de sa pruderie, puis la pique sur son âge. Alceste entre, et Célimène les laisse ensemble pour aller écrire une lettre. Arsinoé flatte Alceste et lui propose son appui pour obtenir une charge à la cour, ce qu’il refuse, puis lui affirme que Célimène le trahit et propose de l’emmener chez elle pour lui en montrer la preuve."
+    },
+    {
+      "id": "acte4",
+      "label": "Acte IV",
+      "file": "sources/le-misanthrope/04.txt",
+      "words": 3173,
+      "summary": "Philinte raconte à Éliante comment Alceste, devant les maréchaux, a seulement consenti à regretter de ne pas avoir trouvé le sonnet d’Oronte meilleur. Éliante admire la sincérité d’Alceste et dit qu’elle accepterait son cœur si Célimène lui en préférait un autre ; Philinte lui avoue à son tour qu’il prétendrait au sien si Alceste épousait sa cousine. Alceste revient bouleversé : il tient une lettre de la main de Célimène, écrite selon lui pour Oronte, et offre son cœur à Éliante pour se venger, ce qu’elle accueille avec prudence. Face à Célimène, il éclate. Elle suggère que le billet pourrait s’adresser à une femme, puis refuse de se justifier et soutient, par défi, qu’il est pour Oronte. Alceste cède, la supplie de paraître au moins fidèle et lui avoue qu’il voudrait la voir pauvre pour qu’elle lui doive tout. Son valet Dubois arrive affolé : un ami a prévenu que son maître risque d’être arrêté, mais le valet a oublié le billet de cet ami. Alceste sort en promettant de revenir avant la fin du jour."
+    },
+    {
+      "id": "acte5",
+      "label": "Acte V",
+      "file": "sources/le-misanthrope/05.txt",
+      "words": 3435,
+      "summary": "Alceste a perdu son procès ; son adversaire l’accuse en plus d’être l’auteur d’un livre abominable, et Oronte appuie la calomnie. Il refuse de faire appel, veut garder l’arrêt comme preuve de la méchanceté des hommes et quitter le monde, mais il attend d’abord Célimène dans un coin sombre. Oronte somme Célimène de choisir entre ses deux amants ; Alceste sort de sa cachette pour exiger la même chose, et elle refuse de prononcer un tel aveu en public. Éliante, prise pour juge, se range du côté de ceux qui disent leur pensée. Acaste et Clitandre arrivent avec Arsinoé et lisent à voix haute deux lettres où Célimène se moque de tous ses soupirants ; les marquis puis Oronte la quittent, et Alceste repousse Arsinoé. Célimène reconnaît ses torts. Alceste lui pardonne si elle le suit dans son désert ; elle refuse la solitude à vingt ans et ne lui offre que sa main. Il rompt avec elle et se dit indigne d’Éliante, qui accorde sa main à Philinte ; Alceste part chercher un endroit écarté. Philinte et Éliante le suivent pour le faire changer d’avis."
+    }
+  ],
+  "intro": [
+    "Le Misanthrope est une comédie de Molière en cinq actes et en alexandrins, représentée pour la première fois sur le théâtre du Palais-Royal le 4 juin 1666, selon la Vie de Molière de Voltaire, publiée en 1739. La notice de Charles Louandre conteste la légende d’un échec : d’après le registre de la Comédie, cité par Taschereau, la pièce fut jouée vingt et une fois de suite, seule, sans petite pièce pour l’accompagner, et malgré les chaleurs de l’été. La liste des personnages de l’édition donne aussi la distribution de la troupe : Molière jouait Alceste, et sa femme, Armande Béjart, jouait Célimène. Le texte suivi ici est celui de l’édition Louandre (Charpentier, 1910, tome II), transcrit et validé sur Wikisource : 1 808 vers dans la numérotation du site, environ 17 100 mots.",
+    "Voltaire remarquait qu’il n’y a d’intrigue dans la pièce « que ce qu’il en faut pour faire sortir les caractères ». En classe, lisez donc la première scène comme un débat : Alceste veut que chacun parle selon son cœur, Philinte défend une vertu qui s’accommode des hommes, et les cinq actes mettent ces deux positions à l’épreuve. Repérez ensuite les moments où la parole devient elle-même un spectacle : le sonnet lu à l’acte I, les portraits de l’acte II, l’échange d’« avis » entre Célimène et Arsinoé à l’acte III, les lettres lues à voix haute à l’acte V. Discutez enfin le dénouement, qui s’achève sur un départ et non sur le mariage du héros. Rousseau, dans sa Lettre à d’Alembert, accusait Molière de « faire rire aux dépens de la vertu » ; la notice de Louandre rapporte cette critique et les réponses qu’on lui a faites."
+  ],
+  "characters": [
+    {
+      "name": "Alceste",
+      "role": "Ami de Philinte, ennemi des politesses mondaines, qui exige partout la franchise et aime pourtant la coquette Célimène. Il plaide un procès qu’il refuse de solliciter et part à la fin pour fuir le monde."
+    },
+    {
+      "name": "Philinte",
+      "role": "Ami d’Alceste, homme accommodant qui prend les hommes comme ils sont ; il tente jusqu’au bout de calmer son ami et obtient à la fin la main d’Éliante."
+    },
+    {
+      "name": "Célimène",
+      "role": "Jeune veuve chez qui se passe toute la pièce. Entourée de soupirants qu’elle ménage tous, elle brille dans la médisance, et ses lettres la perdent au dernier acte."
+    },
+    {
+      "name": "Éliante",
+      "role": "Cousine de Célimène, sincère et mesurée, qui estime Alceste et accepte au dénouement d’épouser Philinte."
+    },
+    {
+      "name": "Oronte",
+      "role": "Homme de cour fier de son crédit auprès du roi et de ses vers, rival d’Alceste auprès de Célimène ; la critique de son sonnet le brouille avec lui."
+    },
+    {
+      "name": "Arsinoé",
+      "role": "Amie de Célimène, prude qui sermonne les autres et s’intéresse à Alceste ; c’est elle qui lui promet une preuve de la trahison de Célimène."
+    },
+    {
+      "name": "Acaste et Clitandre",
+      "role": "Les deux marquis, courtisans très contents d’eux-mêmes et rivaux auprès de Célimène, qui finissent par lire ses lettres devant tout le monde."
+    },
+    {
+      "name": "Basque, Dubois et le garde",
+      "role": "Basque, valet de Célimène, annonce les visites ; Dubois, valet d’Alceste, apporte à l’acte IV des nouvelles confuses du procès ; un garde de la maréchaussée convoque Alceste à l’acte II."
+    }
+  ],
+  "passages": [
+    {
+      "unit": "acte1",
+      "ref": "Acte I, scène première",
+      "title": "Une haine générale",
+      "quote": "Non, elle est générale, et je hais tous les hommes :\nLes uns, parce qu’ils sont méchants et malfaisants,\nEt les autres, pour être aux méchants complaisants,\nEt n’avoir pas pour eux ces haines vigoureuses\nQue doit donner le vice aux âmes vertueuses.",
+      "note": "Alceste pousse sa thèse jusqu’au bout : il hait les méchants, mais aussi ceux qui les supportent. La construction en deux temps (« Les uns… Et les autres… ») et la rime malfaisants / complaisants donnent à cette haine l’allure d’un raisonnement. Philinte lui répond un peu plus loin par l’éloge d’une vertu « traitable » et d’une raison qui « fuit toute extrémité ». Pour un commentaire, confrontez les deux tirades : Philinte appelle « philosophe » aussi bien le chagrin d’Alceste que son propre flegme."
+    },
+    {
+      "unit": "acte1",
+      "ref": "Acte I, scène 2",
+      "title": "Le procès du sonnet",
+      "quote": "Ce style figuré, dont on fait vanité,\nSort du bon caractère et de la vérité ;\nCe n’est que jeu de mots, qu’affectation pure,\nEt ce n’est point ainsi que parle la nature.",
+      "note": "Après trois « Je ne dis pas cela », Alceste juge enfin le sonnet d’Oronte en face. Il oppose le style figuré et ses jeux de mots au langage de la nature, puis cite une vieille chanson sur le roi Henri dont « la rime n’est pas riche », mais où « la passion parle là toute pure ». Le spectateur a entendu le sonnet et peut juger lui-même : la scène pose une vraie question de goût, en même temps qu’elle montre un caractère."
+    },
+    {
+      "unit": "acte2",
+      "ref": "Acte II, scène 4",
+      "title": "Un portrait de salon",
+      "quote": "C’est de la tête aux pieds un homme tout mystère,\nQui vous jette, en passant, un coup d’œil égaré,\nEt, sans aucune affaire, est toujours affairé.",
+      "note": "Clitandre lance un nom, Timante, et Célimène répond par un portrait de quelques vers. Le jeu sur affaire et affairé, puis le « secret » qui « n’est rien » quelques vers plus bas, font tout le comique. La scène fonctionne comme un jeu de société : chaque nom proposé relance la médisance, et Alceste finit par s’en prendre à ceux qui applaudissent."
+    },
+    {
+      "unit": "acte3",
+      "ref": "Acte III, scène 5",
+      "title": "L’avis rendu à Arsinoé",
+      "quote": "Elle est à bien prier exacte au dernier point ;\nMais elle bat ses gens, et ne les paye point.\nDans tous les lieux dévots elle étale un grand zèle,\nMais elle met du blanc, et veut paraître belle.",
+      "note": "Célimène rend à Arsinoé ses « avis » en rapportant ce qu’on dirait d’elle ailleurs. Chaque paire de vers oppose la dévotion affichée et un défaut caché, avec un « Mais » en tête du second vers. Elle termine sa tirade par les quatre vers mêmes qui finissaient celle d’Arsinoé, en changeant un seul mot. Relevez ce jeu de miroir : la politesse des deux femmes couvre une vraie querelle."
+    },
+    {
+      "unit": "acte4",
+      "ref": "Acte IV, scène 3",
+      "title": "Un amour qui veut tout donner",
+      "quote": "Oui, je voudrais qu’aucun ne vous trouvât aimable,\nQue vous fussiez réduite en un sort misérable ;\nQue le ciel en naissant ne vous eût donné rien ;\nQue vous n’eussiez ni rang, ni naissance, ni bien ;",
+      "note": "Après avoir accusé Célimène, Alceste capitule et lui prouve son amour par un vœu bien étrange : la voir pauvre et sans appui pour qu’elle lui doive tout. L’anaphore de « Que » et les subjonctifs (trouvât, fussiez, eussiez) donnent à la déclaration l’allure d’une malédiction. Célimène lui répond d’un vers : « C’est me vouloir du bien d’une étrange manière ! » Le passage montre un amour qui veut posséder, au moment même où Alceste parle de sacrifice."
+    },
+    {
+      "unit": "acte5",
+      "ref": "Acte V, scène dernière",
+      "title": "Un endroit écarté",
+      "quote": "Trahi de toutes parts, accablé d’injustices,\nJe vais sortir d’un gouffre où triomphent les vices ;\nEt chercher sur la terre un endroit écarté\nOù d’être homme d’honneur on ait la liberté.",
+      "note": "Ce sont les derniers vers d’Alceste. Il quitte la scène au moment où se forme le seul couple de la pièce, et Philinte entraîne aussitôt Éliante à sa suite pour « rompre le dessein » de son ami. Le dénouement laisse la question ouverte : on peut jouer cette sortie comme ridicule ou comme une défaite douloureuse. Le programme propose de comparer deux mises en scène d’une même scène ; celle-ci s’y prête."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "unit": "acte1",
+      "ref": "Acte I, scène première",
+      "question": "À quelle vieille femme Alceste irait-il dire, selon Philinte, qu’à son âge il sied mal de faire la jolie ?",
+      "answer": "Émilie",
+      "evidence": "Quoi ! vous iriez dire à la vieille Émilie"
+    },
+    {
+      "id": "q2",
+      "unit": "acte2",
+      "ref": "Acte II, scène 4",
+      "question": "Quel « raisonneur » a retenu Acaste une heure au grand soleil, hors de sa chaise ?",
+      "answer": "Damon",
+      "evidence": "Damon le raisonneur, qui m’a, ne vous déplaise,\nUne heure, au grand soleil, tenu hors de ma chaise."
+    },
+    {
+      "id": "q3",
+      "unit": "acte3",
+      "ref": "Acte III, scène 1",
+      "question": "Dans l’éloge qu’il fait de sa propre personne, qu’est-ce qu’Acaste trouve beau « surtout » ?",
+      "answer": "dents",
+      "evidence": "Les dents belles surtout, et la taille fort fine."
+    },
+    {
+      "id": "q4",
+      "unit": "acte4",
+      "ref": "Acte IV, scène 4",
+      "question": "Selon Dubois, jusque dans quelle pièce de la maison l’homme noir est-il venu laisser son papier griffonné ?",
+      "answer": "cuisine",
+      "evidence": "Monsieur, un homme noir et d’habit et de mine\nEst venu nous laisser, jusque dans la cuisine,"
+    },
+    {
+      "id": "q5",
+      "unit": "acte5",
+      "ref": "Acte V, scène 4",
+      "question": "D’après la lettre de Célimène lue par Acaste, dans quoi le « grand flandrin de vicomte » crachait-il pour faire des ronds ?",
+      "answer": "puits",
+      "evidence": "Notre grand flandrin de vicomte, par qui vous commencez vos plaintes, est un homme qui ne saurait me revenir ; et, depuis que je l’ai vu, trois quarts d’heure durant, cracher dans un puits pour faire des ronds, je n’ai jamais pu prendre bonne opinion de lui."
+    }
+  ],
+  "readingTips": [
+    "Comptez un peu plus d’une heure de lecture suivie pour les cinq actes, davantage à voix haute. L’acte I est le plus long (il contient la scène du sonnet), l’acte II le plus court ; à l’acte V, les lettres de Célimène sont en prose, entrecoupées des vers des marquis.",
+    "Toute la pièce se passe chez Célimène, et beaucoup d’entrées sont annoncées par un valet. À chaque scène, notez qui est présent et qui écoute : à l’acte V, Alceste attend dans un coin sombre et entend Oronte avant de se montrer.",
+    "Quelques mots ont changé de sens ou de forme : un fat (un sot prétentieux), rompre en visière (attaquer quelqu’un de front), les canons et la rhingrave (des pièces du costume masculin à la mode), le levé et le petit couché (les cérémonies du lever et du coucher du roi, où se pressent les courtisans). L’orthographe est modernisée, avec quelques formes anciennes gardées comme monnoie, paroître ou treuve.",
+    "Lisez à deux voix les échanges très courts : les « Monsieur… » d’Alceste face aux compliments d’Oronte à l’acte I, et les répliques parallèles d’Oronte et d’Alceste qui pressent Célimène de choisir à l’acte V. Le rythme y dit autant que les mots."
+  ],
+  "updated": "2026-10-24",
+  "datePublished": "2026-10-24"
+}

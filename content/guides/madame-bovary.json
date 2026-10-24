@@ -1,0 +1,458 @@
+{
+  "slug": "madame-bovary",
+  "title": "Madame Bovary",
+  "author": "Gustave Flaubert",
+  "authorDates": "1821-1880",
+  "published": "1857",
+  "genre": "roman",
+  "programme": "lycee",
+  "level": "Seconde",
+  "programmeNote": "Le programme de français de seconde (BOEN spécial n° 1 du 22 janvier 2019, version modifiée publiée au JORF du 8 octobre 2020) fait étudier, pour l’objet d’étude « Le roman et le récit du XVIIIe siècle au XXIe siècle », deux œuvres intégrales de forme et de siècle différents, dont un roman, avec la lecture cursive d’au moins un roman ou un récit d’une autre période. Il ne fixe aucun titre : Madame Bovary peut y être retenu comme roman du XIXe siècle. Parmi les exercices recommandés, le texte cite l’explication de texte, le commentaire et l’écrit d’appropriation, par exemple le résumé d’une partie du récit.",
+  "programmeSources": [
+    {
+      "label": "Programme de français de seconde (BOEN spécial n° 1 du 22 janvier 2019, version modifiée de 2020, sur éduscol)",
+      "url": "https://eduscol.education.gouv.fr/sites/default/files/document/04-annexe1francais2ebomodifiepdf-69834.pdf"
+    }
+  ],
+  "source": {
+    "label": "Wikisource, d’après les Œuvres complètes de Gustave Flaubert, Paris, Louis Conard, 1910",
+    "url": "https://fr.wikisource.org/wiki/Madame_Bovary",
+    "licence": "Transcription Wikisource, CC BY-SA 4.0"
+  },
+  "words": 116468,
+  "units": [
+    {
+      "id": "p1c1",
+      "label": "Première partie, chapitre I",
+      "file": "sources/madame-bovary/01.txt",
+      "words": 3383,
+      "summary": "Le roman s’ouvre sur une salle d’étude d’un collège, racontée par un « nous » d’élèves. Un nouveau, gars de la campagne d’une quinzaine d’années, entre en cinquième avec une casquette compliquée et laide ; quand elle tombe, toute la classe rit ; sommé de dire son nom, il crie « Charbovari ». Le récit revient alors en arrière : son père, ancien aide-chirurgien-major qui a épousé une dot de soixante mille francs, a fini par s’enfermer dans un village, aigri ; sa mère reporte sur l’enfant ses ambitions. Retiré du collège de Rouen à la fin de sa troisième, Charles étudie la médecine sans y rien comprendre, prend goût au cabaret et aux dominos, échoue à l’examen d’officier de santé, puis le réussit en apprenant les questions par cœur. Sa mère l’installe à Tostes et le marie à la veuve d’un huissier de Dieppe, Mme Dubuc, quarante-cinq ans et douze cents livres de rente, qui le surveille en tout."
+    },
+    {
+      "id": "p1c2",
+      "label": "Première partie, chapitre II",
+      "file": "sources/madame-bovary/02.txt",
+      "words": 2962,
+      "summary": "Une nuit, une lettre appelle Charles à la ferme des Bertaux, à six lieues de Tostes : le père Rouault, riche cultivateur veuf, s’est cassé la jambe. La fracture est simple. Charles remarque la fille du malade, Emma, élevée chez les Ursulines : ses ongles blancs taillés en amande, ses yeux bruns qui paraissent noirs, ses lèvres qu’elle mordille. Il revient bien plus souvent que ne l’exige la guérison, qui prend quarante-six jours. Sa femme, Héloïse, apprend qu’il y a là-bas une jeune fille instruite et lui fait jurer sur son livre de messe de ne plus y retourner. Au printemps, le notaire d’Ingouville qui gardait ses fonds s’enfuit avec la caisse ; on découvre que sa fortune était surtout faite d’hypothèques et de mensonges. Les parents de Charles font des scènes. Huit jours plus tard, Héloïse crache le sang et meurt."
+    },
+    {
+      "id": "p1c3",
+      "label": "Première partie, chapitre III",
+      "file": "sources/madame-bovary/03.txt",
+      "words": 2096,
+      "summary": "Le père Rouault vient payer la jambe remise (soixante-quinze francs et une dinde) et console Charles en lui racontant son propre deuil. Charles retourne aux Bertaux ; le veuvage lui convient, sa clientèle s’accroît. Un jour de chaleur, il trouve Emma seule dans la cuisine : elle lui fait boire un petit verre avec elle, lui parle du couvent, de sa mère morte, de son envie d’habiter la ville. Le père, qui perd de l’argent sur sa ferme et doit vendre vingt-deux acres, ne demande qu’à marier sa fille. À la Saint-Michel, Charles n’ose pas parler ; Rouault devine tout et convient d’un signal : si Emma accepte, il poussera l’auvent de la fenêtre contre le mur. Le bruit vient. On attend la fin du deuil. Emma rêvait d’un mariage à minuit, aux flambeaux ; il y aura une noce de quarante-trois personnes et seize heures de table."
+    },
+    {
+      "id": "p1c4",
+      "label": "Première partie, chapitre IV",
+      "file": "sources/madame-bovary/04.txt",
+      "words": 2068,
+      "summary": "Les invités arrivent en carrioles et en chars à bancs, certains de Goderville, de Normanville ou de Cany. Le cortège va à pied à la mairie et à l’église derrière un ménétrier ; la robe d’Emma traîne dans les chardons. Le banquet est dressé sous le hangar de la charretterie : aloyaux, gigots, cochon de lait, et une pièce montée apportée par un pâtissier d’Yvetot, temple de carton, donjon en gâteau de Savoie, petit Amour sur une escarpolette de chocolat. Le père Rouault empêche un cousin de faire à la porte des mariés la plaisanterie d’usage. M. Bovary père fume et boit des grogs au kirsch toute la nuit ; sa femme reste muette toute la journée. Le lendemain, c’est Charles qui paraît transformé, tandis qu’Emma ne laisse rien deviner. Deux jours après, le père les reconduit jusqu’à Vassonville et se souvient, le cœur gros, de ses propres noces dans la neige. Les époux arrivent à Tostes vers six heures."
+    },
+    {
+      "id": "p1c5",
+      "label": "Première partie, chapitre V",
+      "file": "sources/madame-bovary/05.txt",
+      "words": 1266,
+      "summary": "Visite de la maison de Tostes : une façade de briques sur la route, une salle au papier jaune serin, le cabinet de Charles où les tomes du Dictionnaire des sciences médicales ne sont pas coupés, une pièce délabrée qui sert de bûcher, un jardin avec un cadran solaire et, au fond, un curé de plâtre qui lit son bréviaire. Dans la chambre, Emma trouve le bouquet de mariée de la première femme ; Charles le monte au grenier, et elle se demande ce qu’on ferait du sien si elle mourait. Elle fait repeindre, coller des papiers neufs ; Charles achète un boc d’occasion. Lui est heureux de tout, du tête-à-tête, du chapeau de paille accroché à la fenêtre, des yeux d’Emma vus de près. Elle croyait aimer et cherche ce que veulent dire au juste les mots de félicité, de passion et d’ivresse, si beaux dans les livres."
+    },
+    {
+      "id": "p1c6",
+      "label": "Première partie, chapitre VI",
+      "file": "sources/madame-bovary/06.txt",
+      "words": 1802,
+      "summary": "Retour sur la jeunesse d’Emma. Elle a lu Paul et Virginie. À treize ans, son père la met au couvent, à la ville. Elle s’y plaît d’abord, goûte la langueur des chapelles, invente des péchés pour rester au confessionnal. Une vieille lingère qui vient travailler huit jours par mois prête aux grandes des romans pleins de dames persécutées et de cavaliers ; Emma se passionne ensuite pour Walter Scott, Marie Stuart et les femmes célèbres, feuillette en cachette des keepsakes aux gravures exotiques. À la mort de sa mère, elle se complaît dans une tristesse lamartinienne, puis s’en lasse. Son esprit positif se révolte contre la discipline et les mystères de la foi ; les religieuses la voient partir sans regret. À la ferme, elle s’ennuie. Quand Charles est venu, elle a cru tenir enfin la passion rêvée ; le calme où elle vit ne lui semble pas être ce bonheur."
+    },
+    {
+      "id": "p1c7",
+      "label": "Première partie, chapitre VII",
+      "file": "sources/madame-bovary/07.txt",
+      "words": 2254,
+      "summary": "Emma pense à la lune de miel qu’elle aurait voulue, en chaise de poste vers des pays à noms sonores. Charles ne sait rien, ni nager, ni tirer, ni expliquer un terme d’équitation ; sa conversation est « plate comme un trottoir de rue ». Elle dessine, joue du piano, tient bien la maison, ce qui flatte son mari. La mère de Charles, jalouse, lui donne des leçons d’économie. Emma essaie de se donner de l’amour en récitant des vers au clair de lune, sans rien sentir. Un garde-chasse lui offre une petite levrette d’Italie ; elle va avec elle jusqu’à la hétraie de Banneville et se répète : « Pourquoi, mon Dieu ! me suis-je mariée ? » Vers la fin de septembre arrive une invitation au château de la Vaubyessard, chez le marquis d’Andervilliers, que Charles a soulagé d’un abcès et à qui il a donné des boutures de cerisier."
+    },
+    {
+      "id": "p1c8",
+      "label": "Première partie, chapitre VIII",
+      "file": "sources/madame-bovary/08.txt",
+      "words": 3499,
+      "summary": "Le château de la Vaubyessard reçoit le jeune ménage. Emma voit les portraits des ancêtres, puis dîne à la table des dames, où un vieillard qui bave dans son assiette, le duc de Laverdière, passe pour avoir été l’amant de Marie-Antoinette ; elle boit du champagne glacé et découvre l’ananas. Elle interdit à Charles de danser. Au bal, elle observe des hommes au teint de la richesse, entend parler d’Italie et de courses ; quand on casse des vitres, elle aperçoit des visages de paysans et se souvient des Bertaux. Une dame glisse un billet dans un chapeau. À trois heures du matin, un vicomte la fait valser jusqu’au vertige. Charles a regardé jouer au whist pendant cinq heures. Sur la route du retour, il ramasse un porte-cigares de soie verte, blasonné. À la maison, Emma chasse la bonne, Nastasie. Chaque mercredi, elle compte les semaines écoulées depuis le bal."
+    },
+    {
+      "id": "p1c9",
+      "label": "Première partie, chapitre IX",
+      "file": "sources/madame-bovary/09.txt",
+      "words": 4098,
+      "summary": "Emma garde le porte-cigares, l’imagine brodé par une maîtresse du vicomte, rêve de Paris sur un plan de la ville, s’abonne à des journaux de modes, lit Eugène Sue, Balzac et George Sand. Elle remplace Nastasie par Félicité, une orpheline de quatorze ans. Charles, estimé de ses malades, s’endort chaque soir sur la Ruche médicale ; elle aurait voulu un nom célèbre et le méprise. Elle attend un événement et espère un second bal en octobre, mais septembre s’écoule sans lettre. Elle abandonne la musique et le dessin, regarde passer le joueur d’orgue, le perruquier, laisse aller la maison, devient capricieuse, se met à boire du vinaigre pour maigrir. Charles la croit malade de Tostes : on lui conseille de changer d’air. Il choisit Yonville-l’Abbaye, dont le médecin, un réfugié polonais, vient de partir. En rangeant ses affaires, Emma jette au feu son bouquet de mariage. On quitte Tostes en mars ; elle est enceinte."
+    },
+    {
+      "id": "p2c1",
+      "label": "Deuxième partie, chapitre I",
+      "file": "sources/madame-bovary/10.txt",
+      "words": 3581,
+      "summary": "Description d’Yonville-l’Abbaye, bourg à huit lieues de Rouen, dans une vallée arrosée par la Rieule, sur les confins de la Normandie, de la Picardie et de l’Île-de-France : la maison du notaire, l’église rebâtie sous Charles X, les halles, la mairie en forme de temple grec et, face à l’auberge du Lion d’or, la pharmacie de M. Homais. Au cimetière, le fossoyeur Lestiboudois cultive des pommes de terre. Le soir où l’on attend les Bovary, la veuve Lefrançois s’affaire dans sa cuisine pendant que Homais discute billard. Le percepteur Binet entre à six heures précises. Après le passage du curé, Homais se moque de lui et expose sa religion, celle de Socrate, de Franklin, de Voltaire et de Béranger. La diligence, l’Hirondelle, arrive en retard : la levrette d’Emma s’est enfuie dans les champs, et le marchand Lheureux tente de la consoler avec des histoires de chiens perdus."
+    },
+    {
+      "id": "p2c2",
+      "label": "Deuxième partie, chapitre II",
+      "file": "sources/madame-bovary/11.txt",
+      "words": 2239,
+      "summary": "À l’auberge, Emma chauffe son pied à la flamme ; un jeune homme blond la regarde : Léon Dupuis, clerc chez Me Guillaumin, qui s’ennuie à Yonville. Homais, Charles, Emma et Léon dînent ensemble. Le pharmacien fait sur le climat du pays un long exposé chargé de chiffres et de termes de chimie. Pendant ce temps, Emma et Léon découvrent qu’ils aiment les mêmes choses : les couchers de soleil, la mer, les lacs de Suisse, la musique allemande et les livres où l’on se perd dans les personnages. Homais propose à Madame sa bibliothèque et ses journaux, parmi lesquels le Fanal de Rouen, dont il est le correspondant. Dans la nouvelle maison, le plâtre neuf est froid et les meubles traînent partout. C’est la quatrième fois qu’Emma dort dans un lieu inconnu ; elle espère que la suite de sa vie sera meilleure."
+    },
+    {
+      "id": "p2c3",
+      "label": "Deuxième partie, chapitre III",
+      "file": "sources/madame-bovary/12.txt",
+      "words": 3849,
+      "summary": "Léon, timide, a des talents d’amateur ; Justin, l’élève et arrière-cousin pauvre de Homais, garde les enfants du pharmacien. Homais se montre le meilleur des voisins, car il donne illégalement des consultations et a déjà été convoqué par le procureur du roi : il veut s’assurer le silence du médecin. Charles a peu de malades, et la dot est déjà dépensée. Emma souhaitait un fils ; elle accouche un dimanche d’une fille et s’évanouit. Après une longue recherche de prénoms, elle choisit Berthe, entendu à la Vaubyessard ; Homais est parrain. Au repas du baptême, M. Bovary père verse du champagne sur la tête de l’enfant, ce qui scandalise l’abbé Bournisien. Emma va voir sa fille chez la nourrice, la mère Rollet, au bras de Léon ; le village jase. La nourrice réclame du savon, du café, de l’eau-de-vie. Léon, seul sur la Pâture, répète : « Comme je m’ennuie ! »"
+    },
+    {
+      "id": "p2c4",
+      "label": "Deuxième partie, chapitre IV",
+      "file": "sources/madame-bovary/13.txt",
+      "words": 1342,
+      "summary": "L’hiver, Emma s’installe dans la salle, d’où elle voit passer Léon deux fois par jour. Homais vient chaque soir pendant le dîner, puis les Bovary vont aux soirées de la pharmacie : on joue aux cartes, Léon conseille Emma par-dessus son épaule ; pendant que Charles et Homais s’endorment après les dominos, il lui lit des vers. Ils échangent livres et romances. Léon offre à Charles une tête phrénologique, rapporte de Rouen des plantes grasses pour Emma ; elle lui fait cadeau d’un tapis, et tout Yonville la croit sa maîtresse. Binet tourne des ronds de serviette dans son grenier. Léon écrit des lettres qu’il déchire et n’ose jamais se déclarer. Emma ne se demande pas si elle l’aime : elle croit que l’amour arrive comme un ouragan, jusqu’au jour où elle découvre une lézarde dans le mur."
+    },
+    {
+      "id": "p2c5",
+      "label": "Deuxième partie, chapitre V",
+      "file": "sources/madame-bovary/14.txt",
+      "words": 3057,
+      "summary": "Un dimanche de février, sous la neige, on va voir une filature de lin en construction. Emma compare Charles, la casquette sur les sourcils, à Léon, qui lui paraît plus beau que jamais. Le soir, elle comprend qu’il l’aime. Le lendemain, Lheureux, marchand de nouveautés venu de Gascogne, déballe chez elle des écharpes algériennes et des cols brodés, lui assure que l’argent ne presse pas, qu’il en prêterait même. Elle refuse, fière de sa sagesse. Elle joue désormais l’épouse parfaite : elle reprend Berthe chez elle, soigne la maison, va à l’église, abandonne la musique. Léon la croit inaccessible et la place sur un piédestal. Emma, elle, brûle de désirs, de rage et de haine contre Charles, qui ne voit rien. Félicité lui parle d’une fille de Dieppe guérie de sa tristesse par le mariage ; Emma répond que son mal lui est venu après le sien."
+    },
+    {
+      "id": "p2c6",
+      "label": "Deuxième partie, chapitre VI",
+      "file": "sources/madame-bovary/15.txt",
+      "words": 4326,
+      "summary": "Un soir d’avril, l’Angelus sonne ; Emma va à l’église chercher du secours. L’abbé Bournisien, occupé de ses gamins du catéchisme, ne comprend rien : il lui parle des pauvres qui manquent de pain et de feu, d’une vache malade, et lui conseille un peu de thé. Rentrée, elle repousse Berthe, qui tombe contre une patère et se coupe la joue ; Charles soigne la plaie, et Emma trouve sa fille laide. Charles prend Léon à part pour lui confier une commission à Rouen, une surprise pour sa femme ; le clerc a craint d’être découvert. Las d’aimer sans espoir, Léon obtient de sa mère de partir finir son droit à Paris. Il fait ses adieux à Emma : une poignée de main « à l’anglaise », puis il part dans la voiture de Me Guillaumin. Le soir, Homais annonce que les comices agricoles de la Seine-Inférieure se tiendront sans doute à Yonville."
+    },
+    {
+      "id": "p2c7",
+      "label": "Deuxième partie, chapitre VII",
+      "file": "sources/madame-bovary/16.txt",
+      "words": 2960,
+      "summary": "Le départ de Léon plonge Emma dans un chagrin noir ; elle se reproche de ne pas l’avoir aimé, puis le souvenir s’éteint. Elle se console par des achats et des lubies : un prie-Dieu gothique, des citrons pour ses ongles, une écharpe de Lheureux, l’italien, des lectures sérieuses abandonnées. Elle boit un jour de l’eau-de-vie par défi ; plus tard, elle crache le sang, et Charles pleure dans son cabinet et fait venir sa mère, qui décide de couper l’abonnement chez le loueur de livres. Un mercredi de marché, M. Rodolphe Boulanger, nouveau propriétaire du château de la Huchette, amène son charretier pour une saignée ; Justin s’évanouit, Emma le soigne. En repartant, Rodolphe, trente-quatre ans, habitué des femmes, juge la femme du médecin jolie et lasse de son mari, la compare à sa maîtresse, une comédienne de Rouen, et décide de la séduire aux comices."
+    },
+    {
+      "id": "p2c8",
+      "label": "Deuxième partie, chapitre VIII",
+      "file": "sources/madame-bovary/17.txt",
+      "words": 7793,
+      "summary": "Le jour des comices, Yonville est pavoisé ; Binet commande les pompiers face à la garde nationale de Buchy. La mère Lefrançois peste contre la tente du banquet et apprend à Homais que Lheureux fait saisir le cafetier Tellier, accablé de billets. Rodolphe se débarrasse de Lheureux, promène Emma parmi les bêtes du concours, se dit triste et incompris. Le préfet se fait représenter par un conseiller, M. Lieuvain. Rodolphe installe Emma à une fenêtre de la salle des délibérations, au premier étage de la mairie : ses phrases d’amour se mêlent aux discours officiels. La première fois qu’il pose sa main sur la sienne, elle la retire ; la seconde fois, elle la laisse. Puis vient la proclamation des prix, fumiers, bélier mérinos, race porcine. Catherine Leroux, petite vieille craintive, reçoit une médaille d’argent de vingt-cinq francs pour cinquante-quatre ans de service et veut la donner au curé pour des messes. Le banquet est long, le feu d’artifice rate, et Homais en fait un article enthousiaste dans le Fanal."
+    },
+    {
+      "id": "p2c9",
+      "label": "Deuxième partie, chapitre IX",
+      "file": "sources/madame-bovary/18.txt",
+      "words": 3412,
+      "summary": "Rodolphe laisse passer six semaines, par calcul, puis revient et voit Emma pâlir. Il se déclare ; Charles entre, et Rodolphe propose pour la santé de Madame des promenades à cheval. Charles insiste, fait faire une amazone et écrit lui-même à M. Boulanger. Un jour d’octobre, ils partent à cheval dans la forêt ; après une première résistance, près d’un petit étang, Emma s’abandonne. Le soir, Charles lui annonce qu’il a acheté une pouliche pour elle. Seule devant sa glace, elle se répète : « J’ai un amant ! un amant ! » et se compare aux héroïnes de ses livres. Ils s’écrivent chaque jour, cachant leurs lettres dans une fente de la terrasse au bout du jardin. Un matin, Emma court à la Huchette à travers champs avant l’aube et surprend Rodolphe endormi ; elle y revient souvent, jusqu’à ce qu’il lui dise qu’elle se compromet."
+    },
+    {
+      "id": "p2c10",
+      "label": "Deuxième partie, chapitre X",
+      "file": "sources/madame-bovary/19.txt",
+      "words": 2964,
+      "summary": "Les craintes de Rodolphe gagnent Emma. Un matin, au retour de la Huchette, elle tombe sur le capitaine Binet, à l’affût des canards en contravention ; elle prétend venir de chez la nourrice, alors que Berthe est rentrée depuis un an. Le soir, à la pharmacie, Binet s’attarde à acheter des acides et des cires, et elle étouffe. Tout l’hiver, Rodolphe la rejoint la nuit au fond du jardin, sous la tonnelle, ou dans le cabinet de consultation ; elle lui demande un soir s’il a ses pistolets. Elle devient sentimentale, exige des miniatures, des cheveux, une bague ; lui se lasse et ne se gêne plus. Au printemps arrive la dinde annuelle du père Rouault, avec une lettre pleine de fautes et de tendresse ; Emma se souvient de sa jeunesse, embrasse Berthe avec excès. Rodolphe manque trois rendez-vous. Elle regrette sa faute et cherche à aimer Charles."
+    },
+    {
+      "id": "p2c11",
+      "label": "Deuxième partie, chapitre XI",
+      "file": "sources/madame-bovary/20.txt",
+      "words": 4340,
+      "summary": "Homais a lu l’éloge d’une nouvelle méthode pour guérir les pieds bots et pousse Charles à opérer Hippolyte, le garçon d’écurie du Lion d’or. Emma y voit pour son mari une occasion de gloire. Tout le village persuade Hippolyte. Charles étudie le traité du docteur Duval, fait construire une boîte de fer et de bois, coupe le tendon d’Achille ; Homais publie dans le Fanal un article triomphal. Cinq jours plus tard, la jambe enfermée dans la machine gonfle et noircit ; la gangrène monte. L’abbé Bournisien exhorte le malade, la mère Lefrançois accroche un bénitier. On appelle M. Canivet, médecin de Neufchâtel, qui se moque des inventions de Paris et ampute la cuisse. Pendant que les cris traversent le village, Charles se demande si ce n’était pas un valgus, et Emma le méprise plus que jamais. Elle claque la porte si fort que le baromètre tombe, et le soir elle retrouve Rodolphe."
+    },
+    {
+      "id": "p2c12",
+      "label": "Deuxième partie, chapitre XII",
+      "file": "sources/madame-bovary/21.txt",
+      "words": 4612,
+      "summary": "L’amour reprend. Emma s’embellit pour Rodolphe, se couvre de bijoux, envoie Justin porter ses billets ; le garçon, qui tourne autour de Félicité, nettoie avec dévotion les bottines de Madame. Charles paie une jambe de bois de trois cents francs pour Hippolyte. Lheureux procure à Emma une belle cravache pour son amant, puis réclame deux cent soixante-dix francs ; elle paie avec l’argent qu’un client vient de verser à Charles. Elle offre aussi à Rodolphe un cachet gravé « Amor nel cor ». Rodolphe trouve monotones des aveux qu’il a déjà entendus. Après une dispute avec sa belle-mère au sujet de Félicité, Emma supplie Rodolphe : « Emmène-moi ! » Il cède, sans y croire. Elle commande à Lheureux un manteau et une malle ; la fuite par Marseille et Gênes est fixée au lundi 4 septembre. L’avant-veille, au clair de lune, Emma lui lance « À demain ! » ; seul dans la prairie, Rodolphe décide qu’il ne partira pas."
+    },
+    {
+      "id": "p2c13",
+      "label": "Deuxième partie, chapitre XIII",
+      "file": "sources/madame-bovary/22.txt",
+      "words": 3423,
+      "summary": "Rentré chez lui, Rodolphe fouille la boîte où il garde ses lettres de femmes, mêle les souvenirs et les cheveux, puis écrit à Emma une lettre de rupture, très soignée, où il invoque la fatalité et son exil ; il y laisse tomber une goutte d’eau pour figurer une larme. Le lendemain, son valet Girard porte la lettre cachée au fond d’une corbeille de fruits. Emma la lit au grenier, devant la fenêtre ouverte, attirée par le vide, au bruit du tour de Binet ; la voix de Charles qui l’appelle la retient. Au dîner, le tilbury bleu de Rodolphe passe sur la place : Emma tombe évanouie. Une fièvre cérébrale la tient quarante-trois jours ; Charles abandonne ses malades, fait venir Canivet et le docteur Larivière. Une rechute la prend sous la tonnelle. Charles commence à s’inquiéter de l’argent."
+    },
+    {
+      "id": "p2c14",
+      "label": "Deuxième partie, chapitre XIV",
+      "file": "sources/madame-bovary/23.txt",
+      "words": 3653,
+      "summary": "Lheureux apporte le manteau et les malles commandés, et Charles finit par signer un billet, puis emprunte mille francs au marchand. Pendant sa convalescence, Emma, qui s’est crue mourante et a reçu la communion, vit une crise de dévotion : chapelets, livres pieux envoyés par un libraire de l’évêché, charités excessives, indulgence pour tous. Justin, qui la voit dénouer ses cheveux, l’aime en silence. Au printemps, elle reprend des volontés, renvoie la nourrice et fréquente moins l’église. Sous la tonnelle, le curé et Homais se disputent sur le théâtre ; Binet raconte une pièce qu’il a vue. Le pharmacien conseille à Charles d’emmener sa femme à Rouen entendre le ténor Lagardy, qui ne donnera qu’une représentation. Ils descendent à l’hôtel de la Croix-Rouge ; Charles court la ville sans comprendre la différence entre les places du théâtre."
+    },
+    {
+      "id": "p2c15",
+      "label": "Deuxième partie, chapitre XV",
+      "file": "sources/madame-bovary/24.txt",
+      "words": 2971,
+      "summary": "Au théâtre de Rouen, on joue Lucie de Lammermoor. Emma, dans sa loge, retrouve ses lectures de Walter Scott et se reconnaît dans les plaintes de l’héroïne ; elle s’éprend en imagination du ténor Lagardy et rêve de voyager avec lui de capitale en capitale. Charles ne comprend rien à l’intrigue. Pendant l’entracte, il va chercher un verre d’orgeat, en renverse les trois quarts sur une spectatrice, et revient avec une nouvelle : M. Léon est là. L’ancien clerc entre dans la loge ; Emma n’écoute plus l’opéra. On sort prendre l’air sur le port : Léon explique qu’il vient passer deux ans dans une étude de Rouen. Charles propose à sa femme de rester seule pour une seconde représentation ; Léon saisit l’occasion et vante le dernier acte ; Charles insiste : elle rentrera dimanche. On se sépare à onze heures et demie."
+    },
+    {
+      "id": "p3c1",
+      "label": "Troisième partie, chapitre I",
+      "file": "sources/madame-bovary/25.txt",
+      "words": 4813,
+      "summary": "À Paris, Léon a été un étudiant raisonnable ; il revient en province moins timide et décidé à posséder Emma. Il la trouve à l’hôtel de la Croix-Rouge, où chacun raconte ses rêves déçus ; il lui avoue qu’il l’a toujours aimée. Elle refuse de recommencer, mais lui donne rendez-vous le lendemain à onze heures, à la cathédrale. Le soir, elle lui écrit pour se dégager. À la cathédrale, elle se met à prier dans la chapelle de la Vierge et accepte la visite que propose le suisse, tombeaux des Brézé et de Diane de Poitiers compris ; Léon s’impatiente, l’entraîne dehors et envoie un gamin chercher un fiacre. « Où vous voudrez ! » dit-il au cocher. Toute la journée, la voiture aux stores baissés parcourt Rouen et ses faubourgs sans s’arrêter ; une main jette des morceaux de papier déchiré. Vers six heures, une femme voilée en descend."
+    },
+    {
+      "id": "p3c2",
+      "label": "Troisième partie, chapitre II",
+      "file": "sources/madame-bovary/26.txt",
+      "words": 3216,
+      "summary": "Emma a manqué l’Hirondelle et la rattrape en cabriolet. À l’arrivée, Félicité l’envoie chez Homais. On y fait les confitures, et le pharmacien accable Justin : pour une bassine, il est allé prendre la clef du capharnaüm, le cabinet sous les toits où se trouve, sur la troisième tablette, un bocal de verre bleu plein d’arsenic. Un livre sur l’amour conjugal tombe de la poche du garçon. Homais annonce enfin la nouvelle : le père de Charles est mort d’apoplexie à Doudeville. Emma reste froide devant le chagrin de son mari et ne pense qu’à Léon ; Hippolyte apporte ses bagages en clopinant sur sa jambe de bois. Lheureux vient féliciter Emma de l’héritage et lui conseille de se faire donner une procuration. Elle montre à Charles un modèle de procuration générale, qu’elle dit tenir de Me Guillaumin, et obtient d’aller elle-même à Rouen consulter Léon. Elle y reste trois jours."
+    },
+    {
+      "id": "p3c3",
+      "label": "Troisième partie, chapitre III",
+      "file": "sources/madame-bovary/27.txt",
+      "words": 721,
+      "summary": "Trois jours à l’Hôtel de Boulogne, sur le port, volets fermés : une lune de miel. Le soir, les amants prennent une barque couverte pour aller dîner dans une île, dans un cabaret aux filets noirs, puis reviennent à la nuit le long des îles. Sous la lune, Emma chante une romance. Léon trouve au fond de la barque un ruban de soie ; le batelier raconte qu’il a promené l’autre jour une compagnie joyeuse, avec un grand bel homme à moustaches qu’on appelait « Adolphe…, Dodolphe… » : Emma frissonne. Au moment de se séparer, elle règle leur correspondance par la mère Rolet, avec une double enveloppe. Léon, rentrant seul, se demande pourquoi elle tient tant à cette procuration."
+    },
+    {
+      "id": "p3c4",
+      "label": "Troisième partie, chapitre IV",
+      "file": "sources/madame-bovary/28.txt",
+      "words": 990,
+      "summary": "Léon néglige son étude et finit par venir à Yonville un samedi. Il dîne au Lion d’or, voit Emma seule le soir dans la ruelle, sous un parapluie, pendant l’orage, comme elle voyait l’autre. Elle promet de trouver un moyen de le voir librement une fois par semaine. Elle achète à Lheureux des rideaux, puis un tapis, et la mère Rolet vient déjeuner chez elle tous les jours. L’hiver venu, elle joue mal du piano devant Charles, se plaint de ses doigts rouillés, puis du prix des leçons, vingt francs le cachet. Charles cite des leçons moins chères ; elle ferme l’instrument. Homais reproche à Charles de laisser se perdre un talent, et Emma parle de vendre le piano. Charles finit par lui permettre d’aller prendre une leçon par semaine à Rouen : c’est ainsi qu’elle obtient de voir son amant chaque jeudi."
+    },
+    {
+      "id": "p3c5",
+      "label": "Troisième partie, chapitre V",
+      "file": "sources/madame-bovary/29.txt",
+      "words": 5533,
+      "summary": "Chaque jeudi, Emma part au petit jour dans l’Hirondelle ; Rouen lui apparaît du haut de la côte comme une Babylone. Elle rejoint Léon à l’hôtel, dans leur chambre au lit en forme de nacelle, puis se fait coiffer avant de reprendre la voiture. Dans la côte, un aveugle aux orbites sanglantes chante en suivant les diligences, et Hivert le fouette. Elle ment à Léon sur son passé, à Charles sur ses leçons : une fausse quittance de Mlle Lempereur sert à le rassurer. Lheureux, qui l’a vue au bras de Léon, réclame de l’argent ; elle vend par procuration une masure de Barneville et signe des billets que fait escompter un banquier de Rouen, Vinçart. La mère Bovary brûle la procuration ; Charles prend pour la première fois le parti de sa femme et en fait faire une autre. Une nuit où Emma ne rentre pas, il la cherche dans Rouen. Elle domine de plus en plus Léon, qui devient « sa maîtresse plutôt qu’elle n’était la sienne »."
+    },
+    {
+      "id": "p3c6",
+      "label": "Troisième partie, chapitre VI",
+      "file": "sources/madame-bovary/30.txt",
+      "words": 5512,
+      "summary": "Homais vient à Rouen et accapare Léon toute une journée, au Café de Normandie puis chez son ami Bridoux ; Emma, qui l’a attendu à l’hôtel, repart furieuse. Leur amour s’use : elle cherche des raisons de le mépriser, lui se sent dévoré. Un envoyé du banquier Vinçart présente un billet de sept cents francs, puis vient un protêt d’huissier ; Lheureux, chez qui elle court, lui fait signer de nouveaux billets. Elle envoie en cachette des factures aux malades de Charles, vend de vieux objets, emprunte à tout le monde, relègue son mari au second étage, fait porter par Léon des cuillers en vermeil au mont-de-piété. Une lettre anonyme alerte la mère de Léon, et son patron le pousse à rompre ; Emma retrouve dans l’adultère les platitudes du mariage. À la mi-carême, elle passe la nuit au bal masqué et finit dans un souper médiocre. De retour, elle trouve un commandement de payer huit mille francs en vingt-quatre heures ; Lheureux refuse tout et la menace de montrer à Charles une quittance compromettante."
+    },
+    {
+      "id": "p3c7",
+      "label": "Troisième partie, chapitre VII",
+      "file": "sources/madame-bovary/31.txt",
+      "words": 4346,
+      "summary": "L’huissier Hareng dresse l’inventaire de la saisie jusque dans le grenier, où sont les lettres de Rodolphe. Emma court Rouen un dimanche pour emprunter, en vain, puis demande huit mille francs à Léon ; il parle d’un millier d’écus, elle lui suggère de les prendre à son étude ; effrayé, il invente un ami riche et promet de venir le lendemain. Dans la rue, elle croit voir passer le vicomte. Dans l’Hirondelle, Homais examine l’aveugle et lui promet une pommade ; Emma lui jette sa dernière pièce de cinq francs. Le lendemain, une affiche annonce la vente de ses meubles. Elle va chez le notaire Guillaumin, qui lui fait des avances : « Je suis à plaindre, mais pas à vendre ! » Elle supplie Binet, épiée par Mme Tuvache et Mme Caron, qui le voient reculer, scandalisé. Chez la mère Rolet, elle attend Léon, qui ne vient pas ; alors elle pense à Rodolphe et part pour la Huchette."
+    },
+    {
+      "id": "p3c8",
+      "label": "Troisième partie, chapitre VIII",
+      "file": "sources/madame-bovary/32.txt",
+      "words": 5783,
+      "summary": "À la Huchette, Rodolphe l’accueille avec douceur ; elle croit un instant revivre leur amour, puis demande trois mille francs. Il répond qu’il ne les a pas. Elle lui montre son luxe, jette ses boutons de manchettes contre le mur et sort. Dans la campagne, elle croit devenir folle, puis court à la pharmacie, obtient de Justin la clef du cabinet, prend le bocal bleu et mange la poudre blanche à pleine main. Elle rentre, écrit une lettre pour Charles et se couche. L’agonie commence : goût d’encre, vomissements, convulsions. Charles lit « Qu’on n’accuse personne » ; Homais parle d’analyse. Emma demande à voir Berthe, qui a peur d’elle. Canivet prescrit un émétique ; le docteur Larivière arrive, ne peut rien et va déjeuner chez Homais. Bournisien donne l’extrême-onction. Emma demande un miroir et pleure. Sous la fenêtre, l’aveugle chante ; elle rit d’un rire atroce et meurt."
+    },
+    {
+      "id": "p3c9",
+      "label": "Troisième partie, chapitre IX",
+      "file": "sources/madame-bovary/33.txt",
+      "words": 2621,
+      "summary": "Charles se jette sur le corps ; Homais et Canivet l’emmènent. Le pharmacien répand dans le village une version arrangée : Emma aurait pris l’arsenic pour du sucre en faisant une crème. Charles écrit ses volontés : sa femme sera enterrée dans sa robe de noces, avec trois cercueils de chêne, d’acajou et de plomb, et une pièce de velours vert. Il insulte le Dieu du curé. Deux nuits de suite, Homais et Bournisien veillent le corps en se disputant, sur la prière, puis sur le célibat des prêtres et la confession. Le second soir, en mettant la couronne, on soulève la tête et un flot de liquide noir sort de la bouche. Les deux veilleurs s’endorment face à face ; Charles soulève le voile et crie d’horreur ; Homais coupe une mèche de cheveux. Vers quatre heures du matin, le prêtre et le pharmacien mangent et trinquent. On cloue les cercueils. Le père Rouault arrive et s’évanouit devant le drap noir."
+    },
+    {
+      "id": "p3c10",
+      "label": "Troisième partie, chapitre X",
+      "file": "sources/madame-bovary/34.txt",
+      "words": 1983,
+      "summary": "Le père Rouault a reçu une lettre si prudente qu’il n’a rien compris ; il a galopé toute la nuit, épouvanté de présages, en faisant des vœux à la Vierge. L’enterrement a lieu : messe, quête où Charles jette une pièce de cinq francs, cortège dans la campagne qui reverdit, descente du cercueil dans la fosse ; Charles se traîne vers la tombe en criant adieu. Homais note que Binet n’est pas venu et que Tuvache est parti après la messe. Lheureux déplore la mort de la pauvre dame. Le père Rouault refuse de voir sa petite-fille, promet sa dinde annuelle et repart aux Bertaux. Le soir, Charles et sa mère font des projets. Rodolphe et Léon dorment. Sur la fosse, un enfant pleure : c’est Justin, et Lestiboudois, venu reprendre sa bêche, croit tenir enfin le voleur de ses pommes de terre."
+    },
+    {
+      "id": "p3c11",
+      "label": "Troisième partie, chapitre XI",
+      "file": "sources/madame-bovary/35.txt",
+      "words": 3000,
+      "summary": "Les dettes reviennent : Mlle Lempereur réclame six mois de leçons jamais données, le loueur de livres trois ans d’abonnement, la mère Rolet le port des lettres. Félicité porte les robes de Madame, puis s’enfuit avec Théodore. Léon épouse Mlle Léocadie Lebœuf et devient notaire à Yvetot. Charles trouve au grenier la lettre de Rodolphe et préfère croire à un amour platonique ; il adopte les goûts d’Emma, vend l’argenterie et les meubles mais garde sa chambre intacte. Homais fait enfermer l’aveugle, écrit une statistique du canton et choisit l’épitaphe du tombeau. Brouillé avec sa mère, Charles ouvre enfin le bureau d’Emma : les lettres de Léon, le portrait de Rodolphe. Il rencontre Rodolphe au marché d’Argueil et lui dit : « C’est la faute de la fatalité ! » Le lendemain, Berthe le trouve mort sous la tonnelle, une mèche de cheveux noirs à la main. Berthe, recueillie par une tante pauvre, est envoyée travailler dans une filature de coton. Homais vient de recevoir la croix d’honneur."
+    }
+  ],
+  "intro": [
+    "Madame Bovary, sous-titré Mœurs de province, est un roman de Gustave Flaubert. Il paraît dans la Revue de Paris du 1er octobre au 15 décembre 1856, avec des coupures que la direction impose et que Flaubert désavoue par une note. Le gérant de la revue, Laurent-Pichat, son imprimeur et l’auteur sont poursuivis pour outrage à la morale publique et religieuse et aux bonnes mœurs ; la sixième chambre de la police correctionnelle les acquitte le 7 février 1857, après la plaidoirie de Me Sénard. Le livre sort la même année chez Michel Lévy frères, en deux volumes. Le texte suivi ici est celui des Œuvres complètes publiées par Louis Conard en 1910, qui reproduit la lettre à Me Sénard datée du 12 avril 1857 et la dédicace à Louis Bouilhet. Les trente-cinq chapitres se répartissent en trois parties : la première (neuf chapitres) va de la jeunesse de Charles au départ de Tostes, la deuxième (quinze) se passe à Yonville, la troisième (onze) entre Yonville et Rouen.",
+    "En seconde, le roman permet de travailler le point de vue et le discours indirect libre : beaucoup de phrases donnent les pensées d’Emma, de Charles ou de Rodolphe sans guillemets ni verbe introducteur, et il faut se demander qui parle. Suivez aussi les objets qui reviennent d’un chapitre à l’autre (le bouquet de mariage, le porte-cigares du vicomte, le curé de plâtre, les billets de Lheureux) et les lieux qui se répondent, la fenêtre, le grenier, la diligence. Le chapitre des comices (deuxième partie, chapitre VIII) et les dernières pages, qui finissent sur Homais, se prêtent bien à une lecture linéaire ou à un exposé sur la composition."
+  ],
+  "characters": [
+    {
+      "name": "Emma Bovary",
+      "role": "fille du père Rouault, élevée chez les Ursulines, nourrie de romans ; elle épouse Charles, s’ennuie, aime Léon, devient la maîtresse de Rodolphe puis de Léon, s’endette chez Lheureux et s’empoisonne."
+    },
+    {
+      "name": "Charles Bovary",
+      "role": "officier de santé à Tostes puis à Yonville, veuf de Mme Dubuc ; mari confiant et médiocre, qui ne voit rien et meurt peu après sa femme."
+    },
+    {
+      "name": "Berthe",
+      "role": "fille d’Emma et de Charles, née à Yonville, mise en nourrice chez la mère Rollet."
+    },
+    {
+      "name": "Le père Rouault",
+      "role": "fermier aux Bertaux, père d’Emma ; chaque année, il envoie une dinde à son gendre en souvenir de sa jambe remise."
+    },
+    {
+      "name": "M. et Mme Bovary père et mère",
+      "role": "parents de Charles : un ancien aide-chirurgien-major hâbleur et une mère autoritaire, jalouse de l’amour de son fils pour Emma."
+    },
+    {
+      "name": "Héloïse Dubuc",
+      "role": "veuve d’un huissier de Dieppe, première femme de Charles, morte au début du roman."
+    },
+    {
+      "name": "M. Homais",
+      "role": "pharmacien d’Yonville, voltairien et bavard, correspondant du Fanal de Rouen ; il soigne sans diplôme et finit décoré."
+    },
+    {
+      "name": "Justin",
+      "role": "élève en pharmacie et arrière-cousin de Homais, recueilli par charité ; il aime Emma en silence et lui ouvre, sans comprendre, le cabinet aux poisons."
+    },
+    {
+      "name": "Léon Dupuis",
+      "role": "clerc de notaire à Yonville, puis à Rouen ; amoureux timide d’Emma, il devient son amant trois ans plus tard."
+    },
+    {
+      "name": "Rodolphe Boulanger",
+      "role": "propriétaire du domaine de la Huchette, trente-quatre ans, séducteur sûr de lui ; il rompt par lettre la veille de leur fuite."
+    },
+    {
+      "name": "M. Lheureux",
+      "role": "marchand de nouveautés, aimable et rusé ; il vend à crédit et fait signer des billets qu’il renouvelle jusqu’à la saisie."
+    },
+    {
+      "name": "Félicité",
+      "role": "servante des Bovary à partir de Tostes, confidente d’Emma."
+    },
+    {
+      "name": "Mme Lefrançois",
+      "role": "veuve qui tient l’auberge du Lion d’or."
+    },
+    {
+      "name": "Hippolyte",
+      "role": "garçon d’écurie du Lion d’or, au pied bot, opéré par Charles."
+    },
+    {
+      "name": "Binet",
+      "role": "percepteur et capitaine des pompiers, passionné par son tour à bois."
+    },
+    {
+      "name": "L’abbé Bournisien",
+      "role": "curé d’Yonville, homme robuste et simple qui ne comprend pas les tourments d’Emma."
+    },
+    {
+      "name": "Me Guillaumin",
+      "role": "notaire d’Yonville, patron de Léon, lié en affaires à Lheureux."
+    },
+    {
+      "name": "Lestiboudois",
+      "role": "bedeau, fossoyeur et jardinier à la journée."
+    },
+    {
+      "name": "Hivert",
+      "role": "conducteur de l’Hirondelle, la diligence entre Yonville et Rouen."
+    },
+    {
+      "name": "Le vicomte",
+      "role": "valseur du bal de la Vaubyessard ; Emma croit que le porte-cigares trouvé sur la route lui appartient."
+    },
+    {
+      "name": "L’aveugle",
+      "role": "mendiant défiguré de la côte de Rouen, qui chante derrière les voitures."
+    },
+    {
+      "name": "M. Canivet et le docteur Larivière",
+      "role": "le médecin de Neufchâtel qui ampute Hippolyte, et l’ancien maître de Charles, grand chirurgien de Rouen."
+    }
+  ],
+  "passages": [
+    {
+      "unit": "p1c1",
+      "ref": "Première partie, chapitre I, l’entrée du « nouveau »",
+      "title": "« Charbovari »",
+      "quote": "Le nouveau, prenant alors une résolution extrême, ouvrit une bouche démesurée et lança à pleins poumons, comme pour appeler quelqu’un, ce mot : Charbovari.",
+      "note": "Le roman commence par Charles, pas par Emma, et par une humiliation. Le nom de famille, crié en un seul mot, devient un objet de risée, comme la casquette décrite juste avant. Le « nous » des camarades disparaît ensuite du récit : un bon point de départ pour une lecture linéaire sur l’incipit et le point de vue."
+    },
+    {
+      "unit": "p1c7",
+      "ref": "Première partie, chapitre VII, la promenade à Banneville",
+      "title": "L’ennui, araignée silencieuse",
+      "quote": "Mais elle, sa vie était froide comme un grenier dont la lucarne est au nord, et l’ennui, araignée silencieuse, filait sa toile dans l’ombre à tous les coins de son cœur.",
+      "note": "Emma vient d’imaginer la vie brillante de ses anciennes camarades de couvent. La phrase passe du rêve à la maison réelle : le grenier, la lucarne, la toile d’araignée. Les deux comparaisons rendent concret un sentiment sans objet, l’ennui, qui revient comme un motif dans tout le roman."
+    },
+    {
+      "unit": "p2c8",
+      "ref": "Deuxième partie, chapitre VIII, la remise des prix",
+      "title": "Deux discours mêlés aux comices",
+      "quote": "« Soixante et dix francs ! » — Cent fois même j’ai voulu partir, et je vous ai suivie, je suis resté. « Fumiers. » — Comme je resterais ce soir, demain, les autres jours, toute ma vie !",
+      "note": "Flaubert monte en alternance la liste officielle des récompenses et les phrases de Rodolphe. Le montage fait le commentaire à la place du narrateur : le serment d’amour tombe entre une somme d’argent et le mot « Fumiers ». Pour un commentaire, relevez qui parle à chaque ligne et ce que le voisinage fait à chaque réplique."
+    },
+    {
+      "unit": "p2c12",
+      "ref": "Deuxième partie, chapitre XII, Rodolphe face aux aveux d’Emma",
+      "title": "Le chaudron fêlé",
+      "quote": "la parole humaine est comme un chaudron fêlé où nous battons des mélodies à faire danser les ours, quand on voudrait attendrir les étoiles.",
+      "note": "Rodolphe n’entend plus dans les mots d’Emma que des formules usées. Le narrateur le contredit : sous les métaphores vides, il peut y avoir un sentiment plein. La phrase vaut pour tout le livre, où les personnages répètent des mots appris, et elle dit aussi la difficulté d’écrire juste."
+    },
+    {
+      "unit": "p3c8",
+      "ref": "Troisième partie, chapitre VIII, la mort d’Emma",
+      "title": "Le rire devant l’aveugle",
+      "quote": "Et Emma se mit à rire, d’un rire atroce, frénétique, désespéré, croyant voir la face hideuse du misérable, qui se dressait dans les ténèbres éternelles comme un épouvantement.",
+      "note": "L’aveugle de la côte, croisé à chaque retour de Rouen, chante sous la fenêtre une chanson grivoise pendant l’agonie. Emma meurt sur ce rire, sans la paix promise par l’extrême-onction quelques lignes plus haut. Le passage se prête à une lecture linéaire sur la mort de l’héroïne et le refus du pathétique."
+    },
+    {
+      "unit": "p3c11",
+      "ref": "Troisième partie, chapitre XI, dernières lignes",
+      "title": "Le triomphe de Homais",
+      "quote": "Depuis la mort de Bovary, trois médecins se sont succédé à Yonville sans pouvoir y réussir, tant M. Homais les a tout de suite battus en brèche. Il fait une clientèle d’enfer ; l’autorité le ménage et l’opinion publique le protège. Il vient de recevoir la croix d’honneur.",
+      "note": "Le roman ne finit ni sur Emma ni sur Charles, mais sur le pharmacien. Le passage au présent rapproche Homais du lecteur. La décoration, qu’il réclamait depuis des pages, récompense celui qui a exercé la médecine sans diplôme et poussé à l’opération manquée d’Hippolyte. À rapprocher de l’incipit pour une question sur la composition du roman."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "unit": "p1c3",
+      "ref": "Première partie, chapitre III",
+      "question": "Quelle liqueur Emma va-t-elle chercher dans l’armoire de la cuisine des Bertaux pour trinquer avec Charles ?",
+      "answer": "curaçao",
+      "evidence": "Elle alla donc chercher dans l’armoire une bouteille de curaçao, atteignit deux petits verres, emplit l’un jusqu’au bord, versa à peine dans l’autre, et, après avoir trinqué, le porta à sa bouche."
+    },
+    {
+      "id": "q2",
+      "unit": "p2c6",
+      "ref": "Deuxième partie, chapitre VI",
+      "question": "Quel objet Charles demande-t-il à Léon de faire chiffrer à Rouen, pour en faire une surprise à sa femme ?",
+      "answer": "daguerréotype",
+      "evidence": "le pria de voir lui-même à Rouen quels pouvaient être les prix d’un beau daguerréotype"
+    },
+    {
+      "id": "q3",
+      "unit": "p2c8",
+      "ref": "Deuxième partie, chapitre VIII",
+      "question": "Quelle figure devait représenter la pièce principale du feu d’artifice, le soir des comices ?",
+      "answer": "dragon",
+      "evidence": "le morceau principal, qui devait figurer un dragon se mordant la queue, rata complètement."
+    },
+    {
+      "id": "q4",
+      "unit": "p3c3",
+      "ref": "Troisième partie, chapitre III",
+      "question": "Quel poisson Emma et Léon mangent-ils en friture dans le cabaret de l’île ?",
+      "answer": "éperlans",
+      "evidence": "Ils mangeaient de la friture d’éperlans, de la crème et des cerises."
+    },
+    {
+      "id": "q5",
+      "unit": "p3c7",
+      "ref": "Troisième partie, chapitre VII",
+      "question": "Quels petits pains Homais rapporte-t-il de Rouen pour sa femme, dans un foulard, le jour où il retrouve Emma à la Croix-Rouge ?",
+      "answer": "cheminots",
+      "evidence": "il tenait à sa main, dans un foulard, six cheminots pour son épouse."
+    }
+  ],
+  "readingTips": [
+    "Le roman compte environ 116 500 mots : prévoyez huit à neuf heures de lecture. La deuxième partie est la plus longue, et le chapitre des comices (deuxième partie, chapitre VIII, près de 7 800 mots) mérite une séance à lui seul.",
+    "Tenez une page de comptes : chaque fois que Lheureux vend, prête ou fait signer, notez la somme et le chapitre. Vous verrez la dette passer d’une écharpe refusée à un commandement de huit mille francs.",
+    "Soulignez les phrases où l’on ne sait plus si c’est le narrateur ou Emma qui pense, par exemple ses rêveries sur Paris (première partie, chapitre IX) ou après la promenade à cheval (deuxième partie, chapitre IX).",
+    "Notez chaque apparition de l’aveugle de la côte, de la troisième partie, chapitre V, à sa dernière mention dans le dernier chapitre : sa chanson suit les retours de Rouen jusqu’à la mort d’Emma."
+  ],
+  "updated": "2026-10-24",
+  "datePublished": "2026-10-24"
+}
